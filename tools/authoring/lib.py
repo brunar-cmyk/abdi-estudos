@@ -8,9 +8,9 @@ RAIZ = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "..")
 ALVOS = [2, 0, 4, 1, 3]
 
 
-def Q(enunciado, certa, erradas, explicacao, fonte):
+def Q(enunciado, certa, erradas, explicacao, fonte, topico=None):
     assert len(erradas) == 4, f"precisa de 4 erradas: {enunciado[:50]}"
-    return dict(enunciado=enunciado, certa=certa, erradas=erradas, explicacao=explicacao, fonte=fonte)
+    return dict(enunciado=enunciado, certa=certa, erradas=erradas, explicacao=explicacao, fonte=fonte, topico=topico)
 
 
 def L(id, titulo, minutos, resumo, cards, questoes):
@@ -29,8 +29,11 @@ def escrever(id, titulo, bloco, categoria, topicos, licoes, numeros=None, sement
             outras = list(q["erradas"])
             rng.shuffle(outras)
             alts = outras[:alvo] + [q["certa"]] + outras[alvo:]
-            qs.append(dict(id=f"{lic['id']}-q{i}", enunciado=q["enunciado"], alternativas=alts, correta=alvo,
-                           explicacao=q["explicacao"], fonte=q["fonte"]))
+            item = dict(id=f"{lic['id']}-q{i}", enunciado=q["enunciado"], alternativas=alts, correta=alvo,
+                        explicacao=q["explicacao"], fonte=q["fonte"])
+            if q.get("topico"):
+                item["topico"] = q["topico"]
+            qs.append(item)
         out_licoes.append(dict(id=lic["id"], titulo=lic["titulo"], minutos=lic["minutos"], resumo=lic["resumo"],
                                flashcards=[dict(frente=f, verso=v) for f, v in lic["cards"]], questoes=qs))
     d = dict(id=id, titulo=titulo, bloco=bloco, categoria=categoria, topicos=topicos)

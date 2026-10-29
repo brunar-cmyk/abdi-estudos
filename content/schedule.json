@@ -125,7 +125,9 @@
       "fim": "2026-12-19",
       "modo": "revisao",
       "titulo": "Revisão e simulados",
-      "unidades": [],
+      "unidades": [
+        "u-esp-treino-fgv"
+      ],
       "gerais": []
     }
   ]
