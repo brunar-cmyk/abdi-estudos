@@ -259,6 +259,90 @@
           "fonte": "Referência conceitual: J. Marques de Melo e S. Assis, Gêneros e Formatos Jornalísticos"
         }
       ]
+    },
+    {
+      "id": "aim-l4",
+      "titulo": "Valores-notícia de seleção e de construção (Wolf e Traquina)",
+      "minutos": 9,
+      "resumo": [
+        "Mauro Wolf mostrou que os valores-notícia atuam em dois momentos: na seleção dos acontecimentos e na construção da notícia. Traquina (2005) organiza os dois grupos.",
+        "Valores-notícia de seleção, substantivos: morte, notoriedade, proximidade, relevância, novidade, tempo, notabilidade, inesperado, conflito ou controvérsia e infração.",
+        "Valores-notícia de seleção, contextuais: disponibilidade, equilíbrio, visualidade, concorrência e dia noticioso.",
+        "Valores-notícia de construção: simplificação, amplificação, relevância, personalização, dramatização e consonância.",
+        "Em construção, simplificação reduz ambiguidade e complexidade. Amplificação realça a relevância. Personalização destaca pessoas. Dramatização reforça o lado emocional e o conflito. Consonância encaixa o fato em narrativas e enquadramentos já conhecidos."
+      ],
+      "flashcards": [
+        {
+          "frente": "Valores-notícia de seleção contextuais",
+          "verso": "Disponibilidade, equilíbrio, visualidade, concorrência e dia noticioso."
+        },
+        {
+          "frente": "Valores-notícia de construção",
+          "verso": "Simplificação, amplificação, relevância, personalização, dramatização e consonância."
+        },
+        {
+          "frente": "Dramatização",
+          "verso": "Reforço dos aspectos emocionais e conflituosos do acontecimento na construção da notícia."
+        }
+      ],
+      "questoes": [
+        {
+          "id": "aim-l4-q1",
+          "enunciado": "Na perspectiva de Wolf e Traquina, são valores-notícia de construção da notícia",
+          "alternativas": [
+            "morte, notoriedade, proximidade e novidade.",
+            "disponibilidade, equilíbrio, visualidade e concorrência.",
+            "dia noticioso, infração, conflito e inesperado.",
+            "notabilidade, tempo, disponibilidade e equilíbrio.",
+            "simplificação, amplificação, personalização, dramatização e consonância."
+          ],
+          "correta": 4,
+          "explicacao": "Os valores de construção são simplificação, amplificação, relevância, personalização, dramatização e consonância. As outras listas reúnem valores de seleção, substantivos ou contextuais.",
+          "fonte": "Referência conceitual: N. Traquina, Teorias do Jornalismo (2005), e M. Wolf, Teorias da Comunicação (valores-notícia de seleção e de construção)"
+        },
+        {
+          "id": "aim-l4-q2",
+          "enunciado": "Entre os valores-notícia de seleção chamados contextuais estão",
+          "alternativas": [
+            "relevância, novidade e infração.",
+            "disponibilidade, equilíbrio, visualidade, concorrência e dia noticioso.",
+            "simplificação, amplificação e consonância.",
+            "personalização e dramatização.",
+            "morte, notoriedade e proximidade."
+          ],
+          "correta": 1,
+          "explicacao": "Os critérios contextuais dizem respeito ao contexto de produção da notícia. Morte, notoriedade, proximidade e semelhantes são substantivos.",
+          "fonte": "Referência conceitual: N. Traquina, Teorias do Jornalismo (2005), e M. Wolf, Teorias da Comunicação (valores-notícia de seleção e de construção)"
+        },
+        {
+          "id": "aim-l4-q3",
+          "enunciado": "Uma matéria destaca a história pessoal de uma servidora e reforça o lado emocional e conflituoso do episódio para prender o leitor. Esse tratamento mobiliza, principalmente, os valores-notícia de construção da",
+          "alternativas": [
+            "notoriedade e da proximidade.",
+            "disponibilidade e da concorrência.",
+            "visualidade e do dia noticioso.",
+            "personalização e da dramatização.",
+            "simplificação e da consonância apenas."
+          ],
+          "correta": 3,
+          "explicacao": "Destacar pessoas é personalização, e reforçar emoção e conflito é dramatização. Os demais itens são valores de seleção ou outros valores de construção.",
+          "fonte": "Referência conceitual: N. Traquina, Teorias do Jornalismo (2005), e M. Wolf, Teorias da Comunicação (valores-notícia de seleção e de construção)"
+        },
+        {
+          "id": "aim-l4-q4",
+          "enunciado": "Na distinção de Wolf entre valores-notícia de seleção e de construção, os de seleção orientam principalmente",
+          "alternativas": [
+            "o preço de venda do veículo.",
+            "a escolha do formato de arquivo para publicação.",
+            "a escolha dos acontecimentos que merecem virar notícia.",
+            "a forma de apresentação gráfica do jornal.",
+            "a revisão ortográfica do texto final."
+          ],
+          "correta": 2,
+          "explicacao": "Valores de seleção respondem a que fatos entram no noticiário. Os de construção orientam como o fato é narrado.",
+          "fonte": "Referência conceitual: N. Traquina, Teorias do Jornalismo (2005), e M. Wolf, Teorias da Comunicação (valores-notícia de seleção e de construção)"
+        }
+      ]
     }
   ]
 }

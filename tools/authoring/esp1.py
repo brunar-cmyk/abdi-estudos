@@ -95,6 +95,34 @@ escrever("u-esp-assessoria-imprensa", "Assessoria de comunicação e de imprensa
           ["opinativo.", "diversional.", "publicitário.", "ficcional."],
           "O gênero utilitário orienta o público com informações de serviço.", MEL),
     ]),
+    L("aim-l4", "Valores-notícia de seleção e de construção (Wolf e Traquina)", 9, [
+        "Mauro Wolf mostrou que os valores-notícia atuam em dois momentos: na seleção dos acontecimentos e na construção da notícia. Traquina (2005) organiza os dois grupos.",
+        "Valores-notícia de seleção, substantivos: morte, notoriedade, proximidade, relevância, novidade, tempo, notabilidade, inesperado, conflito ou controvérsia e infração.",
+        "Valores-notícia de seleção, contextuais: disponibilidade, equilíbrio, visualidade, concorrência e dia noticioso.",
+        "Valores-notícia de construção: simplificação, amplificação, relevância, personalização, dramatização e consonância.",
+        "Em construção, simplificação reduz ambiguidade e complexidade. Amplificação realça a relevância. Personalização destaca pessoas. Dramatização reforça o lado emocional e o conflito. Consonância encaixa o fato em narrativas e enquadramentos já conhecidos."
+    ], [
+        ("Valores-notícia de seleção contextuais", "Disponibilidade, equilíbrio, visualidade, concorrência e dia noticioso."),
+        ("Valores-notícia de construção", "Simplificação, amplificação, relevância, personalização, dramatização e consonância."),
+        ("Dramatização", "Reforço dos aspectos emocionais e conflituosos do acontecimento na construção da notícia.")
+    ], [
+        Q("Na perspectiva de Wolf e Traquina, são valores-notícia de construção da notícia",
+          "simplificação, amplificação, personalização, dramatização e consonância.",
+          ["disponibilidade, equilíbrio, visualidade e concorrência.", "morte, notoriedade, proximidade e novidade.", "dia noticioso, infração, conflito e inesperado.", "notabilidade, tempo, disponibilidade e equilíbrio."],
+          "Os valores de construção são simplificação, amplificação, relevância, personalização, dramatização e consonância. As outras listas reúnem valores de seleção, substantivos ou contextuais.", "Referência conceitual: N. Traquina, Teorias do Jornalismo (2005), e M. Wolf, Teorias da Comunicação (valores-notícia de seleção e de construção)"),
+        Q("Entre os valores-notícia de seleção chamados contextuais estão",
+          "disponibilidade, equilíbrio, visualidade, concorrência e dia noticioso.",
+          ["simplificação, amplificação e consonância.", "morte, notoriedade e proximidade.", "personalização e dramatização.", "relevância, novidade e infração."],
+          "Os critérios contextuais dizem respeito ao contexto de produção da notícia. Morte, notoriedade, proximidade e semelhantes são substantivos.", "Referência conceitual: N. Traquina, Teorias do Jornalismo (2005), e M. Wolf, Teorias da Comunicação (valores-notícia de seleção e de construção)"),
+        Q("Uma matéria destaca a história pessoal de uma servidora e reforça o lado emocional e conflituoso do episódio para prender o leitor. Esse tratamento mobiliza, principalmente, os valores-notícia de construção da",
+          "personalização e da dramatização.",
+          ["disponibilidade e da concorrência.", "simplificação e da consonância apenas.", "notoriedade e da proximidade.", "visualidade e do dia noticioso."],
+          "Destacar pessoas é personalização, e reforçar emoção e conflito é dramatização. Os demais itens são valores de seleção ou outros valores de construção.", "Referência conceitual: N. Traquina, Teorias do Jornalismo (2005), e M. Wolf, Teorias da Comunicação (valores-notícia de seleção e de construção)"),
+        Q("Na distinção de Wolf entre valores-notícia de seleção e de construção, os de seleção orientam principalmente",
+          "a escolha dos acontecimentos que merecem virar notícia.",
+          ["a forma de apresentação gráfica do jornal.", "o preço de venda do veículo.", "a escolha do formato de arquivo para publicação.", "a revisão ortográfica do texto final."],
+          "Valores de seleção respondem a que fatos entram no noticiário. Os de construção orientam como o fato é narrado.", "Referência conceitual: N. Traquina, Teorias do Jornalismo (2005), e M. Wolf, Teorias da Comunicação (valores-notícia de seleção e de construção)"),
+    ]),
 ], semente=0)
 
 # ------------------------------------------------------------------ redação, edição, ciência

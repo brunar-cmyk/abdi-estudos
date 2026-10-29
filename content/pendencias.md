@@ -1,76 +1,49 @@
 # Pendências (nada daqui entra no app até ser confirmado)
 
-Atualizado em 28/10/2026.
+Atualizado em 28/10/2026, depois da segunda rodada de correções.
 
-## Conferir antes de usar
+## Resolvidas nesta rodada
 
-1. **Limites de dispensa e convite (Regulamento de Licitações, art. 7º).** O PDF é escaneado e o texto tem erros de leitura. Leitura provisória: R$ 150.000 (dispensa) e R$ 2.200.000 (convite) num bloco; R$ 80.000 e R$ 760.000 em outro. Conferir olhando a página e procurar resolução posterior que tenha atualizado os valores.
-2. **Composição do Conselho Deliberativo.** A Lei 11.080, art. 3º, diz 15 membros (8 do Poder Executivo e 7 de entidades privadas). O Decreto 5.352, art. 5º, ainda lista 9 entradas do Executivo, com a letra "b" repetida por causa do Decreto 8.146/2013. Para questões, usar a Lei e confirmar no Estatuto.
-3. **Planejamento Estratégico.** O edital (item 4.6) cita a Resolução CD 008/2023. O arquivo do site da ABDI é da Resolução CD 009/2024, segundo a indicação da candidata. Confirmar no próprio PDF e registrar a diferença.
-4. **Cronograma previsto da FGV.** A página lista um PDF de cronograma que não consegui abrir. Datas de gabarito preliminar, recursos e resultado não constam do edital.
-5. **Estatuto, Convênios, Ética e Planejamento.** Texto extraído, mas ainda não lido artigo por artigo.
+- **Cronograma previsto da FGV:** PDF lido. As datas de gabarito preliminar (21/12/2026), recursos, gabarito definitivo (29/01/2027), resultado final (06/05/2027) e entrevistas (08 a 14/04/2027) entraram em `dates.json` e aparecem na trilha.
+- **Lei 15.263/2025, art. 2º, II:** lido (encontrar, entender e usar as informações publicadas).
+- **LGPD, mudanças recentes:** a Lei 15.352, de 25/02/2026 (conversão da MP 1.317/2025), alterou o art. 55-A: a ANPD é hoje a Agência Nacional de Proteção de Dados, autarquia de natureza especial vinculada ao Ministério da Justiça e Segurança Pública. A lição e uma questão foram atualizadas.
+- **Marco Civil e o STF (art. 19):** a tese passou a constar das lições, com base na cobertura do julgamento (Conjur, 26/06/2025): responsabilização nos termos do art. 21 em casos de crime ou ato ilícito, dever de remoção imediata em crimes graves, autorregulação com relatórios anuais de transparência, sede e representante no Brasil, decisão prospectiva. Placar: oito ministros viram o art. 19 como parcial ou totalmente inconstitucional e três votaram pela validade.
+- **Prova da AgSUS 2025 (estilo da banca):** lida só para calibrar. Observações abaixo. Foi adicionada a lição de valores-notícia de seleção e de construção (Wolf e Traquina), que a prova cobrou.
+- **Regulamento de Convênios, versões:** comparados os números-chave das versões 2021, 2024 e 2026. Contrapartida mínima de 10%, teto de 15% para despesas operacionais, prazo de 20 dias, juros de 1% ao mês, multa de 10%, impedimento de 2 anos e guarda de 5 anos aparecem nas três. O teto de patrocínio de 5% da receita corrente líquida **não consta da versão de 2021**; entrou em 2024 e permanece em 2026.
+- **Regulamento de Licitações, alterações posteriores:** busca feita; não encontrei nenhuma resolução que altere os valores do art. 7º. O portal da ABDI lista só a versão de 2021.
 
-## Assuntos atualizados (ainda não verificados)
+## Ainda por conferir
 
-- Julgamento do STF de 2025 sobre o art. 19 do Marco Civil da Internet: texto da decisão, tese e data.
-- Alterações recentes na LAI, na LGPD e no Marco Civil.
-- Atuação atual da ABDI (Nova Indústria Brasil, programas de transformação digital).
-- Estilo da banca: ler a prova da AgSUS 2025 e o gabarito, só para calibrar (sem copiar).
+1. **Texto oficial da tese do STF (Temas 987 e 533):** a tese foi lida em reportagem, não no acórdão. Em particular, não consegui confirmar como a tese trata os crimes contra a honra (se segue exigindo ordem judicial). Por isso nenhuma questão trata desse ponto. Fonte oficial: portal.stf.jus.br, página do Tema 987.
+2. **Planejamento Estratégico, versão do edital:** o edital cita a Resolução CD 008/2023. Existe o Caderno de Planejamento de julho de 2023 (no portal de homologação da ABDI) e a versão ajustada, de novembro de 2024, aprovada pela Resolução CD 009/2024. O objetivo estratégico de comunicação institucional consta nas duas. Não consegui comparar missão, visão e valores, porque o texto da versão de 2023 não pôde ser extraído do PDF. As lições seguem a versão de 2024.
+3. **Regulamento de Licitações:** conferir no Diário Oficial da União se há extrato de alteração posterior a 2021 (o art. 64 permite alterar os valores).
+4. **LGPD e LAI:** li os artigos usados nas lições, mais as mudanças do art. 55-A. Não li os capítulos de tratamento pelo poder público (arts. 23 a 32) nem as regras de recursos da LAI.
+5. **Lei 12.737:** não li os arts. 3º e 4º nem o art. 154-B do Código Penal.
+6. **Edital citado:** o edital fala em Estatuto sem data. A lição usa o de 2024 (vigente).
 
-## Observação de método
+## Como a banca (FGV) escreve, segundo a prova da AgSUS 2025
 
-O WebFetch resume e não serve para citar artigo. Os textos do Planalto foram lidos pelo Chrome (texto integral). O `curl` é derrubado pelo servidor do Planalto.
+Observações para você calibrar o estudo. As questões do app são mais diretas do que as da banca.
+- Muitas questões abrem com um **trecho acadêmico citado** (por exemplo Traquina, Wolf, Hohlfeldt, Rüdiger) e perguntam o conceito exato, com alternativas longas e parecidas.
+- Cobram **autores e teorias com precisão**: valores-notícia de seleção x de construção, o que o modelo de Shannon e Weaver não pressupõe (feedback), agenda-setting x espiral do silêncio, autores da indústria cultural.
+- Há perguntas sobre **atualidades do mercado de comunicação**: aniversário de jornais e revistas históricas e uso de IA em redações (por exemplo, um projeto de IA de um grande jornal). Vale acompanhar notícias do setor.
+- Questões de Informática e de Português também seguem esse padrão de alternativas longas.
 
-## Registrado durante a escrita das lições (28/10/2026)
+Sugestão: ao estudar cada teoria, treine reconhecer o autor e a distinção conceitual, não só a definição.
 
-- **Fontes conceituais de Comunicação.** As lições de Específicos citam autor, obra e ano (Kunsch, Duarte, Zémor, Lasswell, Shannon e Weaver, Berlo, Schramm, Jakobson e outros), sem número de página, e nenhuma obra foi aberta. Os conceitos são clássicos, mas se quiser garantia, confira numa fonte antes de aprofundar. A FGV costuma cobrar esses autores.
-- **Prazo do parecer sobre o relatório de gestão.** A Lei 11.080, art. 8º, parágrafo único, diz 31 de março. O Decreto 5.352, art. 13, parágrafo único, diz 15 de março. As lições ensinam os dois e as questões dizem qual norma é citada. A banca pode cobrar sem indicar a norma; nesse caso, vale checar o enunciado.
-- **Lista do Conselho Deliberativo no Decreto 5.352, art. 5º.** O Decreto lista entidades (com a letra "b" repetida por causa do Decreto 8.146/2013), mas as questões usam a composição da Lei (8 do Executivo e 7 privadas, art. 3º). Ainda não conferi o Estatuto.
-- **Comunicação social como termo amplo.** A definição usada na lição tc-l1 (jornalismo, publicidade e relações públicas) vem da tradição dos cursos, sem citação normativa.
+## Divergências entre normas (ensinadas nas lições)
 
-## Versões mais novas encontradas no portal de transparência (28/10/2026)
+- **Experiência da Diretoria:** Decreto 5.352, art. 9º: 2 anos. Estatuto, art. 13, II: 4 anos.
+- **Parecer sobre o relatório de gestão:** Lei 11.080, art. 8º: 31 de março. Decreto, art. 13, e Estatuto, art. 23, § 2º: 15 de março.
+- **Voto do Presidente do Conselho:** Decreto: voto de qualidade. Estatuto, art. 9º, § 5º: voto de desempate além do ordinário.
+- **Composição do Conselho Deliberativo:** a Lei fixa 8 do Executivo e 7 privados. O Decreto ainda lista entidades por inciso, com a letra "b" repetida.
 
-- **Estatuto:** o link do pedido era o de 2021. A versão vigente é a de 27/11/2024 (registrada em 20/01/2025). As lições usam a de 2024.
-- **Regulamento de Convênios:** o link do pedido era o de 2021, que valeu **até 11/08/2024**. Existem a versão de 12/08/2024 e a de **15/07/2026**. As lições de convênios (semana 6) devem usar a de 2026 e conferir se o edital 01/2026 (publicado 20/10/2026) a cobra.
-- **Regulamento de Licitações e Contratos** e **Ética e Conduta:** o portal lista só uma versão de cada (licitações 2021).
+## Trechos que não usei nas questões
 
-## Divergências entre normas (ensinadas nas lições, não resolvidas)
+- **Estatuto, art. 6º, § 4º, IV, alíneas e e f:** falam em "ausência justificada" como causa de destituição, o que parece contradizer a alínea g. Pode ser erro do texto original.
+- **Estatuto, art. 10, § 1º:** cita o "Ministro de Estado da Economia", denominação que pode estar desatualizada.
 
-- **Experiência da Diretoria:** Decreto 5.352, art. 9º, parágrafo único: 2 anos. Estatuto, art. 13, II: 4 anos. As questões dizem sempre qual norma é citada.
-- **Parecer sobre o relatório de gestão:** Lei 11.080, art. 8º, parágrafo único: 31 de março. Decreto, art. 13, e Estatuto, art. 23, § 2º: 15 de março.
-- **Voto do Presidente do Conselho:** Decreto fala em voto de qualidade; Estatuto, art. 9º, § 5º, em voto de desempate além do ordinário.
+## Nível de confiança do conteúdo
 
-## Trechos do Estatuto que não usei nas questões
-
-- **Art. 6º, § 4º, IV, alíneas e e f:** falam em "ausência justificada" como motivo de destituição, o que parece contraditório com a alínea g ("ausência injustificada"). Pode ser erro do texto original. O Decreto usa 3 reuniões consecutivas ou 6 alternadas no Conselho Fiscal. Não usei o Estatuto para esse tema.
-- **Art. 10, § 1º:** cita o "Ministro de Estado da Economia" como quem nomeia o Conselho Fiscal, denominação de ministério que pode estar desatualizada. Evitei questões sobre isso.
-
-## Lição "Delitos informáticos" (Lei 12.737/2012): texto consolidado vs texto original
-
-- A página da Lei 12.737 no Planalto mostra o texto **original** de 2012. O Código Penal consolidado traz o art. 154-A com a redação da **Lei 14.155/2021**: o tipo não exige mais "violação indevida de mecanismo de segurança", a pena do caput é reclusão de 1 a 4 anos e o § 2º aumenta a pena de 1/3 a 2/3. A lição usa a redação atual, conferida no Código Penal do Planalto em 28/10/2026.
-- Não li os arts. 3º e 4º da Lei 12.737 (interrupção de serviço telemático e cartões) nem o art. 154-B (ação penal).
-
-## Tema "STF e art. 19 do Marco Civil" e LGPD
-
-- **STF:** só tenho como confirmado, por resumos de escritórios (machadomeyer.com.br, bmalaw.com.br), que o julgamento ocorreu em 26/06/2025, nos RE 1.037.396 (Tema 987) e RE 1.057.258 (Tema 533), com declaração de inconstitucionalidade **parcial** do art. 19 (placar de 8 a 3 em uma das notícias). **Não obtive o texto oficial da tese.** A lição não afirma hipóteses de responsabilização. Antes de estudar a fundo, ler a tese no site do STF.
-- **LGPD:** o Planalto mostra alterações de 2025 e 2026 (MP 1.317/2025 e Lei 15.352/2026), como a troca de "Autoridade" por "Agência Nacional de Proteção de Dados (ANPD)" no art. 5º, VIII. Li os arts. 2, 5 (parte), 6 (parte), 7 (parte), 18, 41, 52 e 55-A a 55-C. **Não li** os capítulos sobre tratamento pelo poder público (arts. 23 a 32) nem as demais alterações recentes. Em art. 5º, VII (operador), e art. 6º, VI a VIII, usei o texto de que me lembro, sem ter aberto essas linhas.
-- **LAI:** lidos os arts. 1, 2, 3, 4 (parte), 8, 10, 11, 24 e 31. Não li as regras de recursos (arts. 15 a 20) nem de classificação além dos prazos.
-
-## Resumo da revisão final (28/10/2026)
-
-**O que está coberto:** os 52 tópicos do syllabus têm lição (`npm run validate:strict` passa). São 29 unidades, 90 lições e 430 questões.
-
-**Confiança por tipo de conteúdo**
-- **Normas lidas no texto oficial (alta):** Lei 11.080, Decreto 5.352, Estatuto 2024, Regulamento de Licitações (2021, com valores conferidos por algarismo e extenso), Regulamento de Convênios 2026, Ética e Conduta, Planejamento Estratégico, trechos da LAI, Marco Civil, LGPD, Código Penal (art. 154-A), Constituição (arts. 5º, 37 e 220), LBI e Lei 15.263/2025. Os números das questões de licitações e convênios foram conferidos de novo contra o texto extraído.
-- **Raciocínio Lógico (alta):** respostas verificadas por cálculo (tabelas-verdade, negações, contagens, matrizes).
-- **Português, Informática geral e Específicos conceituais (média):** escritos por mim a partir de conteúdo clássico, sem abrir livros. Citam autor, obra e ano quando há atribuição. Vale uma leitura crítica sua, especialmente nas questões de gramática, onde há mais de uma doutrina.
-
-**Ainda por fazer ou conferir**
-1. **Regulamento de Licitações:** o portal só lista a versão de 2021. O art. 64 permite que o Conselho Deliberativo altere os valores. Se houve resolução posterior, não a encontrei.
-2. **Regulamento de Convênios:** li só a versão de 2026. Não comparei com as de 2021 e 2024. Se o edital cobrar uma versão específica, confira.
-3. **Tese do STF sobre o art. 19 do Marco Civil:** só tenho a notícia do julgamento (ver acima).
-4. **LGPD, LAI e Marco Civil:** li só os artigos usados. Há alterações recentes na LGPD (MP 1.317/2025 e Lei 15.352/2026) que não mapeei por completo.
-5. **Lei 15.263/2025, art. 2º, inciso II:** o trecho veio truncado da leitura e não foi usado.
-6. **Prova da AgSUS 2025 (calibração de estilo):** não li. As questões seguem o formato FGV (enunciado, cinco alternativas, uma correta), mas não foram calibradas por essa prova.
-7. **Planejamento Estratégico:** o edital cita a Resolução CD 008/2023. O arquivo do site é o ajustado, aprovado pela Resolução CD 009/2024. Não obtive a versão de 2023 para comparar.
-8. **PDF do cronograma previsto da FGV:** não abri.
+- **Alta:** normas lidas no texto oficial (Lei 11.080, Decreto 5.352, Estatuto 2024, Regulamentos de Licitações 2021, Convênios 2026 e Ética, Planejamento 2024, trechos de LAI, Marco Civil, LGPD, Código Penal, Constituição, LBI e Lei 15.263) e Raciocínio Lógico (verificado por cálculo).
+- **Média:** Português, Informática geral e Específicos conceituais, escritos a partir de conteúdo clássico, sem abrir os livros citados. Os autores são citados por obra e ano, sem página.

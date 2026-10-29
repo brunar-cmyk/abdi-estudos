@@ -100,7 +100,8 @@
         "Mesma pena para quem produz, oferece, distribui, vende ou difunde programa para permitir a invasão (§ 1º). A pena aumenta de 1/3 a 2/3 se há prejuízo econômico (§ 2º). É qualificado, com reclusão de 2 a 5 anos e multa, se a invasão obtém conteúdo de comunicações privadas, segredos comerciais ou industriais, informações sigilosas ou permite controle remoto não autorizado (§ 3º). Aumenta-se a pena se há divulgação a terceiros (§ 4º).",
         "Marco Civil (Lei 12.965/2014), art. 3º: princípios como liberdade de expressão, proteção da privacidade, proteção dos dados pessoais, neutralidade de rede e responsabilização dos agentes.",
         "Registros: o provedor de conexão guarda os registros de conexão por 1 ano, em sigilo (art. 13). É vedado ao provedor de conexão guardar registros de acesso a aplicações (art. 14). O provedor de aplicações que seja pessoa jurídica com fins econômicos guarda os registros de acesso por 6 meses (art. 15).",
-        "Responsabilidade: o provedor de conexão não responde por conteúdo de terceiros (art. 18). O art. 19 condicionava a responsabilidade do provedor de aplicações ao descumprimento de ordem judicial específica. Em 26/06/2025, o STF decidiu que o art. 19 é parcialmente inconstitucional (RE 1.037.396, Tema 987, e RE 1.057.258, Tema 533). Cenas de nudez ou de atos sexuais privados divulgadas sem autorização geram responsabilidade subsidiária após notificação do participante (art. 21)."
+        "Responsabilidade: o provedor de conexão não responde por conteúdo de terceiros (art. 18). O art. 19 condicionava a responsabilidade do provedor de aplicações ao descumprimento de ordem judicial específica. Em 26/06/2025, o STF decidiu que o art. 19 é parcialmente inconstitucional (RE 1.037.396, Tema 987, e RE 1.057.258, Tema 533). Cenas de nudez ou de atos sexuais privados divulgadas sem autorização geram responsabilidade subsidiária após notificação do participante (art. 21).",
+        "Tese do STF, conforme a cobertura do julgamento: até que haja nova lei, o provedor responde civilmente, nos termos do art. 21 (notificação), por danos de conteúdo de terceiros em casos de crime ou atos ilícitos, sem prejuízo do dever de remoção, e a mesma regra vale para contas denunciadas como inautênticas. Para crimes graves (como atos antidemocráticos, terrorismo, induzimento ao suicídio, incitação à discriminação, crimes graves contra crianças e adolescentes e tráfico de pessoas), responde se não promover a indisponibilização imediata. Os provedores devem ter autorregulação (sistema de notificações, devido processo e relatórios anuais de transparência), canais de atendimento e sede e representante no Brasil. A decisão é prospectiva. Oito ministros viram o art. 19 como parcial ou totalmente inconstitucional, e três votaram pela sua validade."
       ],
       "flashcards": [
         {
@@ -113,7 +114,7 @@
         },
         {
           "frente": "Art. 19 do Marco Civil e o STF",
-          "verso": "Julgado em 26/06/2025: parcialmente inconstitucional (RE 1.037.396 e RE 1.057.258). A tese completa deve ser conferida na decisão oficial."
+          "verso": "Julgado em 26/06/2025: parcialmente inconstitucional. Até nova lei, responsabilização nos termos do art. 21 (notificação) em casos de crime ou ato ilícito, e dever de remoção imediata em crimes graves."
         }
       ],
       "questoes": [
@@ -186,6 +187,34 @@
           "correta": 4,
           "explicacao": "O STF, em 26/06/2025, nos RE 1.037.396 (Tema 987) e RE 1.057.258 (Tema 533), declarou a inconstitucionalidade parcial do art. 19. O texto oficial da tese não foi conferido; o conteúdo exato das hipóteses de responsabilização deve ser estudado na decisão.",
           "fonte": "STF, RE 1.037.396 (Tema 987) e RE 1.057.258 (Tema 533), julgamento de 26/06/2025, conforme resumos de machadomeyer.com.br e bmalaw.com.br; texto oficial da tese não conferido"
+        },
+        {
+          "id": "ileg-l2-q6",
+          "enunciado": "Segundo a tese fixada pelo STF em 26/06/2025 sobre o art. 19 do Marco Civil da Internet, conforme noticiada, até que haja nova legislação o provedor de aplicações responde civilmente, nos termos do art. 21, por danos decorrentes de conteúdo de terceiros em casos de",
+          "alternativas": [
+            "qualquer opinião crítica a autoridades, sem exceção.",
+            "crime ou atos ilícitos, sem prejuízo do dever de remoção do conteúdo.",
+            "nenhuma hipótese, pois o art. 19 permaneceu integralmente em vigor.",
+            "conteúdo de natureza exclusivamente política, apenas.",
+            "descumprimento de ordem judicial específica, em todas as hipóteses, como antes."
+          ],
+          "correta": 1,
+          "explicacao": "A tese deslocou o regime geral para a responsabilização nos termos do art. 21 (notificação), em casos de crime ou ato ilícito. A exigência de ordem judicial, que era a regra do art. 19, deixou de ser a única via.",
+          "fonte": "STF, RE 1.037.396 (Tema 987) e RE 1.057.258 (Tema 533), tese lida em 26/06/2025, conforme Conjur (conjur.com.br, 26/06/2025); o texto oficial do acórdão não foi conferido"
+        },
+        {
+          "id": "ileg-l2-q7",
+          "enunciado": "A tese do STF sobre o art. 19 do Marco Civil determinou que os provedores de aplicações editem autorregulação que abranja, necessariamente,",
+          "alternativas": [
+            "exclusão automática de qualquer conteúdo crítico.",
+            "dispensa de sede e de representante no Brasil.",
+            "nomeação de um ministro como fiscal de cada plataforma.",
+            "sistema de notificações, devido processo e relatórios anuais de transparência sobre notificações extrajudiciais, anúncios e impulsionamentos.",
+            "cobrança de taxa dos usuários e relatórios mensais de lucro."
+          ],
+          "correta": 3,
+          "explicacao": "Segundo a cobertura do julgamento, a tese exige autorregulação com essas três partes, canais de atendimento acessíveis e sede e representante no país.",
+          "fonte": "STF, RE 1.037.396 (Tema 987) e RE 1.057.258 (Tema 533), tese lida em 26/06/2025, conforme Conjur (conjur.com.br, 26/06/2025); o texto oficial do acórdão não foi conferido"
         }
       ]
     },
@@ -199,7 +228,7 @@
         "Art. 6º: boa-fé e princípios de finalidade, adequação, necessidade, livre acesso, qualidade dos dados, transparência, segurança, prevenção, não discriminação e responsabilização e prestação de contas.",
         "Art. 7º: o tratamento só pode ocorrer nas hipóteses legais, como consentimento do titular, cumprimento de obrigação legal, execução de políticas públicas pela administração, estudos por órgão de pesquisa, execução de contrato e exercício regular de direitos em processos.",
         "Art. 18: direitos do titular, como confirmação do tratamento, acesso, correção, anonimização, bloqueio ou eliminação de dados desnecessários, portabilidade e eliminação dos dados tratados com consentimento. Art. 41: o controlador indica um encarregado e divulga publicamente sua identidade e contato. Art. 52: sanções incluem advertência, multa simples de até 2% do faturamento, limitada a R$ 50 milhões por infração, e multa diária.",
-        "Atenção a mudanças recentes: o texto do art. 5º, VIII, no Planalto, passou a falar em Agência Nacional de Proteção de Dados (ANPD), na redação da Lei 15.352/2026. A redação original usava Autoridade Nacional de Proteção de Dados."
+        "Atenção a mudanças recentes: a Lei 15.352, de 25/02/2026 (conversão da MP 1.317/2025), alterou o art. 55-A. A ANPD passou a ser a Agência Nacional de Proteção de Dados, autarquia de natureza especial vinculada ao Ministério da Justiça e Segurança Pública, com autonomia funcional, técnica, decisória, administrativa e financeira. A redação original a descrevia como órgão da Presidência da República e usava o nome Autoridade Nacional."
       ],
       "flashcards": [
         {
@@ -225,12 +254,12 @@
           "enunciado": "Segundo a LGPD, o dado pessoal sobre origem racial ou étnica, convicção religiosa, opinião política ou saúde, quando vinculado a uma pessoa natural, é classificado como",
           "alternativas": [
             "dado anonimizado.",
+            "dado público.",
             "dado pessoal sensível.",
             "banco de dados.",
-            "dado estatístico.",
-            "dado público."
+            "dado estatístico."
           ],
-          "correta": 1,
+          "correta": 2,
           "explicacao": "O art. 5º, II, define dado pessoal sensível e lista essas categorias, entre outras.",
           "fonte": "Lei 13.709/2018 (planalto.gov.br)"
         },
@@ -238,13 +267,13 @@
           "id": "ileg-l3-q2",
           "enunciado": "Na LGPD, a pessoa natural ou jurídica, de direito público ou privado, a quem competem as decisões referentes ao tratamento de dados pessoais é o",
           "alternativas": [
+            "controlador.",
             "encarregado.",
             "usuário final.",
             "titular.",
-            "controlador.",
             "operador."
           ],
-          "correta": 3,
+          "correta": 0,
           "explicacao": "O art. 5º, VI, define o controlador. O operador trata dados em nome do controlador, e o titular é a pessoa a quem os dados se referem.",
           "fonte": "Lei 13.709/2018 (planalto.gov.br)"
         },
@@ -252,13 +281,13 @@
           "id": "ileg-l3-q3",
           "enunciado": "O princípio da LGPD que exige que o tratamento seja limitado ao mínimo necessário para a realização de suas finalidades é o da",
           "alternativas": [
-            "finalidade.",
-            "livre acesso.",
-            "necessidade.",
+            "transparência.",
             "qualidade dos dados.",
-            "transparência."
+            "livre acesso.",
+            "finalidade.",
+            "necessidade."
           ],
-          "correta": 2,
+          "correta": 4,
           "explicacao": "O art. 6º, III, define a necessidade como a limitação do tratamento ao mínimo necessário, com dados pertinentes, proporcionais e não excessivos.",
           "fonte": "Lei 13.709/2018 (planalto.gov.br)"
         },
@@ -266,15 +295,29 @@
           "id": "ileg-l3-q4",
           "enunciado": "De acordo com o art. 52 da LGPD, a multa simples aplicável aos agentes de tratamento é de até",
           "alternativas": [
-            "2% do faturamento da pessoa jurídica no Brasil no último exercício, limitada a R$ 50 milhões por infração.",
-            "5% do patrimônio líquido, limitada a R$ 1 milhão.",
             "1% do faturamento, limitada a R$ 100 milhões.",
-            "R$ 5 milhões por titular afetado.",
-            "10% do faturamento global, sem limite."
+            "2% do faturamento da pessoa jurídica no Brasil no último exercício, limitada a R$ 50 milhões por infração.",
+            "10% do faturamento global, sem limite.",
+            "5% do patrimônio líquido, limitada a R$ 1 milhão.",
+            "R$ 5 milhões por titular afetado."
           ],
-          "correta": 0,
+          "correta": 1,
           "explicacao": "O art. 52, II, prevê multa simples de até 2% do faturamento, excluídos os tributos, limitada a R$ 50.000.000,00 por infração.",
           "fonte": "Lei 13.709/2018 (planalto.gov.br)"
+        },
+        {
+          "id": "ileg-l3-q5",
+          "enunciado": "Na redação do art. 55-A da LGPD dada pela Lei 15.352/2026, a ANPD é",
+          "alternativas": [
+            "órgão integrante da Presidência da República, sem autonomia.",
+            "conselho consultivo vinculado ao Congresso Nacional.",
+            "empresa pública federal com fins lucrativos.",
+            "a Agência Nacional de Proteção de Dados, autarquia de natureza especial vinculada ao Ministério da Justiça e Segurança Pública, com autonomia funcional, técnica, decisória, administrativa e financeira.",
+            "fundação privada mantida por associações empresariais."
+          ],
+          "correta": 3,
+          "explicacao": "A Lei 15.352/2026, que converteu a MP 1.317/2025, transformou a ANPD em autarquia de natureza especial. A descrição como órgão da Presidência da República era a da redação anterior.",
+          "fonte": "Lei 15.352/2026, que altera o art. 55-A da Lei 13.709/2018 (planalto.gov.br)"
         }
       ]
     }

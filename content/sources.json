@@ -13,7 +13,7 @@
       "titulo": "Página oficial do processo seletivo",
       "url": "https://conhecimento.fgv.br/concursos/psabdi",
       "versao": "consultada em 28/10/2026: lista só o Edital 01/2026, sem retificação ou comunicado",
-      "status": "lido; PDF do cronograma previsto não aberto"
+      "status": "lido; cronograma previsto (PDF) lido em 28/10/2026 e incorporado a dates.json"
     },
     {
       "id": "lei-11080",
@@ -68,44 +68,44 @@
       "id": "planejamento",
       "titulo": "Planejamento Estratégico ABDI 2024-2029",
       "url": "https://www.abdi.com.br/wp-content/uploads/2026/04/Planejamento-Estrategico-ABDI-2024-2029.pdf",
-      "versao": "PDF de 32 páginas; edital cita Res. CD 008/2023, usuária indica versão ajustada da Res. CD 009/2024",
-      "status": "baixado e extraído; falta ler e conferir"
+      "versao": "Versão ajustada de nov/2024 (Resolução CD 009/2024, de 27/11/2024). Existe também o Caderno de jul/2023 (portal de homologação da ABDI); o edital cita a Resolução CD 008/2023",
+      "status": "lido (versão ajustada); versão de 2023 só parcialmente comparada"
     },
     {
       "id": "lai",
       "titulo": "Lei 12.527/2011 (LAI)",
       "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm",
-      "status": "a consultar"
+      "status": "lidos os artigos usados nas lições (28/10/2026)"
     },
     {
       "id": "lei-12737",
       "titulo": "Lei 12.737/2012",
       "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12737.htm",
-      "status": "a consultar"
+      "status": "lidos os artigos usados nas lições (28/10/2026)"
     },
     {
       "id": "marco-civil",
       "titulo": "Lei 12.965/2014 (Marco Civil da Internet)",
       "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm",
-      "status": "a consultar"
+      "status": "lidos os artigos usados nas lições (28/10/2026)"
     },
     {
       "id": "lgpd",
       "titulo": "Lei 13.709/2018 (LGPD)",
       "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm",
-      "status": "a consultar"
+      "status": "lidos os artigos usados nas lições (28/10/2026)"
     },
     {
       "id": "lbi",
       "titulo": "Lei 13.146/2015 (Lei Brasileira de Inclusão)",
       "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm",
-      "status": "a consultar"
+      "status": "lidos os artigos usados nas lições (28/10/2026)"
     },
     {
       "id": "linguagem-simples",
       "titulo": "Lei 15.263/2025 (Política Nacional de Linguagem Simples)",
       "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/lei/L15263.htm",
-      "status": "a consultar"
+      "status": "lidos os artigos usados nas lições (28/10/2026)"
     },
     {
       "id": "bibliografia-conceitual",
@@ -113,6 +113,27 @@
       "url": "",
       "versao": "citadas por autor, obra e ano; sem número de página",
       "status": "conceitos clássicos conhecidos; nenhuma obra foi aberta nesta sessão"
+    },
+    {
+      "id": "stf-art19",
+      "titulo": "STF, RE 1.037.396 (Tema 987) e RE 1.057.258 (Tema 533): tese sobre o art. 19 do Marco Civil",
+      "url": "https://conjur.com.br/2025-jun-26/supremo-fixa-tese-sobre-responsabilizacao-de-plataformas-por-conteudo-de-usuarios/",
+      "versao": "reportagem sobre a tese lida em plenário em 26/06/2025",
+      "status": "fonte secundária; texto oficial do acórdão não conferido"
+    },
+    {
+      "id": "agsus-2025",
+      "titulo": "Prova de Analista de Gestão Comunicação Social, AgSUS 2025 (FGV)",
+      "url": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-de-gestao-comunicacao-socialcns004-tipo-1.pdf",
+      "versao": "caderno tipo 1",
+      "status": "lida só para calibrar o estilo; nenhuma questão foi copiada"
+    },
+    {
+      "id": "lei-15352",
+      "titulo": "Lei 15.352/2026 (altera a LGPD quanto à ANPD)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15352.htm",
+      "versao": "25/02/2026, conversão da MP 1.317/2025",
+      "status": "lido o art. 55-A e a ementa"
     }
   ]
 }
