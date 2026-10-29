@@ -1,0 +1,468 @@
+{
+  "id": "u-inst-lei-decreto",
+  "titulo": "Lei 11.080/2004 e Decreto 5.352/2005",
+  "bloco": "Institucionais",
+  "categoria": "lei",
+  "topicos": ["inst-02"],
+  "pacoteNumeros": [
+    {"rotulo": "Diretoria Executiva", "valor": "1 Presidente e 2 Diretores; mandato de 4 anos", "fonte": "Lei 11.080/2004, arts. 2º, I, e 6º"},
+    {"rotulo": "Conselho Deliberativo", "valor": "15 membros (8 do Poder Executivo e 7 de entidades privadas); mandato de 2 anos, 1 recondução", "fonte": "Lei 11.080/2004, arts. 2º, II, e 3º"},
+    {"rotulo": "Conselho Fiscal", "valor": "3 membros (2 do Poder Executivo e 1 da sociedade civil); mandato de 2 anos, 1 recondução", "fonte": "Lei 11.080/2004, arts. 2º, III, e 4º"},
+    {"rotulo": "Quórum do Conselho Deliberativo", "valor": "mínimo de 2/3 dos membros; decisão por maioria absoluta; voto de qualidade do Presidente", "fonte": "Decreto 5.352/2005, art. 4º, parágrafo único"},
+    {"rotulo": "Destituição de conselheiro deliberativo", "valor": "decisão de 2/3 dos membros do Conselho", "fonte": "Decreto 5.352/2005, art. 5º, § 3º"},
+    {"rotulo": "Presidente do Conselho Fiscal", "valor": "eleito entre os membros por 2 anos; vedada a recondução", "fonte": "Decreto 5.352/2005, art. 7º, § 1º"},
+    {"rotulo": "Destituição por faltas no Conselho Fiscal", "valor": "3 reuniões ordinárias consecutivas ou 6 alternadas, sem justificativa", "fonte": "Decreto 5.352/2005, art. 7º, § 4º"},
+    {"rotulo": "Requisito de experiência da Diretoria", "valor": "mínimo de 2 anos em gestão, mais curso superior completo", "fonte": "Decreto 5.352/2005, art. 9º, parágrafo único"},
+    {"rotulo": "Duração mínima do contrato de gestão", "valor": "2 anos", "fonte": "Decreto 5.352/2005, art. 11, § 1º"},
+    {"rotulo": "Publicação do contrato de gestão no DOU", "valor": "em até 15 dias da assinatura", "fonte": "Decreto 5.352/2005, art. 10, § 3º"},
+    {"rotulo": "Parecer sobre o relatório de gestão", "valor": "31 de março (Lei) e 15 de março (Decreto)", "fonte": "Lei 11.080/2004, art. 8º, parágrafo único; Decreto 5.352/2005, art. 13, parágrafo único"},
+    {"rotulo": "Adicional de contribuição (Lei 8.029/1990, art. 8º, § 4º)", "valor": "85,75% Cebrae, 12,25% Apex-Brasil, 2% ABDI", "fonte": "Lei 11.080/2004, art. 15"},
+    {"rotulo": "Aprovação do estatuto", "valor": "pelo Conselho Deliberativo, em até 60 dias após sua instalação", "fonte": "Lei 11.080/2004, art. 22"}
+  ],
+  "licoes": [
+    {
+      "id": "ld-l1",
+      "titulo": "Lei 11.080: órgãos de direção",
+      "minutos": 7,
+      "resumo": [
+        "Órgãos de direção (art. 2º): Diretoria Executiva (1 Presidente e 2 Diretores), Conselho Deliberativo (15 membros) e Conselho Fiscal (3 membros).",
+        "Conselho Deliberativo (art. 3º): 8 representantes do Poder Executivo e 7 de entidades privadas, titulares e suplentes, mandato de 2 anos, com uma única recondução por igual período.",
+        "Conselho Fiscal (art. 4º): 2 representantes do Poder Executivo e 1 da sociedade civil, mandato de 2 anos, com uma única recondução.",
+        "Diretoria Executiva (art. 6º): Presidente e Diretores escolhidos e nomeados pelo Presidente da República, mandato de 4 anos, exoneráveis a qualquer tempo, de ofício ou por proposta do Conselho Deliberativo aprovada por maioria absoluta.",
+        "A remuneração da Diretoria é fixada pelo Conselho Deliberativo (art. 13). As hipóteses de destituição dos conselheiros (art. 5º) e as competências dos órgãos (art. 7º) ficam para o regulamento."
+      ],
+      "flashcards": [
+        {"frente": "Composição do Conselho Deliberativo da ABDI na Lei 11.080", "verso": "15 membros: 8 do Poder Executivo e 7 de entidades privadas (arts. 2º, II, e 3º). Mandato de 2 anos, uma recondução."},
+        {"frente": "Composição do Conselho Fiscal da ABDI na Lei 11.080", "verso": "3 membros: 2 do Poder Executivo e 1 da sociedade civil (arts. 2º, III, e 4º). Mandato de 2 anos, uma recondução."},
+        {"frente": "Quem nomeia a Diretoria Executiva e por quanto tempo?", "verso": "O Presidente da República, para mandato de 4 anos (art. 6º)."}
+      ],
+      "questoes": [
+        {
+          "id": "ld-l1-q1",
+          "enunciado": "Nos termos da Lei 11.080/2004, o Conselho Deliberativo da ABDI é composto por",
+          "alternativas": [
+            "10 representantes do Poder Executivo e 5 de entidades privadas.",
+            "8 representantes do Poder Executivo e 7 de entidades privadas, titulares e suplentes.",
+            "7 representantes do Poder Executivo e 8 de entidades privadas.",
+            "9 representantes do Poder Executivo e 7 de entidades privadas.",
+            "15 representantes do Poder Executivo, indicados pelo ministério supervisor."
+          ],
+          "correta": 1,
+          "explicacao": "O art. 3º fixa 8 representantes do Poder Executivo e 7 de entidades privadas, o que dá 15 membros (art. 2º, II). Cuidado com a inversão 7 e 8.",
+          "fonte": "Lei 11.080/2004, arts. 2º, II, e 3º (planalto.gov.br)"
+        },
+        {
+          "id": "ld-l1-q2",
+          "enunciado": "Sobre o Conselho Fiscal da ABDI, a Lei 11.080/2004 estabelece que ele é composto por",
+          "alternativas": [
+            "3 representantes do Poder Executivo, com mandato de 4 anos e sem recondução.",
+            "1 representante do Poder Executivo e 2 da sociedade civil, com mandato de 2 anos.",
+            "5 membros eleitos pelo Conselho Deliberativo, com mandato de 3 anos.",
+            "2 representantes do Poder Executivo e 1 da sociedade civil, com mandato de 2 anos, podendo ser reconduzidos uma única vez.",
+            "2 representantes do Poder Executivo e 1 da sociedade civil, com mandato de 4 anos, sem limite de reconduções."
+          ],
+          "correta": 3,
+          "explicacao": "O art. 4º prevê 2 representantes do Poder Executivo e 1 da sociedade civil, titulares e suplentes, com mandato de dois anos e uma única recondução por igual período.",
+          "fonte": "Lei 11.080/2004, art. 4º (planalto.gov.br)"
+        },
+        {
+          "id": "ld-l1-q3",
+          "enunciado": "De acordo com a Lei 11.080/2004, o Presidente e os Diretores da Diretoria Executiva da ABDI são",
+          "alternativas": [
+            "escolhidos e nomeados pelo Presidente da República, para mandato de 4 anos, e podem ser exonerados a qualquer tempo.",
+            "eleitos pelo Conselho Deliberativo, para mandato de 2 anos, e só podem ser destituídos por decisão judicial.",
+            "indicados pelo ministério supervisor, para mandato de 3 anos, sem possibilidade de exoneração antes do fim do prazo.",
+            "escolhidos pelo Conselho Fiscal, para mandato de 4 anos, com uma única recondução.",
+            "aprovados em concurso público, com estabilidade após o estágio probatório."
+          ],
+          "correta": 0,
+          "explicacao": "O art. 6º diz que são escolhidos e nomeados pelo Presidente da República, com mandato de 4 anos, e podem ser exonerados a qualquer tempo, de ofício ou por proposta do Conselho Deliberativo aprovada por maioria absoluta.",
+          "fonte": "Lei 11.080/2004, art. 6º (planalto.gov.br)"
+        },
+        {
+          "id": "ld-l1-q4",
+          "enunciado": "A exoneração de membro da Diretoria Executiva da ABDI antes do fim do mandato, segundo a Lei 11.080/2004, pode ocorrer",
+          "alternativas": [
+            "apenas por decisão judicial transitada em julgado.",
+            "somente por proposta do Conselho Fiscal aprovada por dois terços de seus membros.",
+            "apenas ao término do mandato, vedada a exoneração antecipada.",
+            "por decisão do Tribunal de Contas da União, em qualquer hipótese.",
+            "a qualquer tempo, de ofício pelo Presidente da República ou por proposta do Conselho Deliberativo aprovada por maioria absoluta de seus membros."
+          ],
+          "correta": 4,
+          "explicacao": "O art. 6º permite a exoneração a qualquer tempo, de ofício ou por proposta do Conselho Deliberativo, aprovada por maioria absoluta de seus membros.",
+          "fonte": "Lei 11.080/2004, art. 6º (planalto.gov.br)"
+        },
+        {
+          "id": "ld-l1-q5",
+          "enunciado": "Quem fixa a remuneração dos membros da Diretoria Executiva da ABDI, em valores compatíveis com os níveis prevalecentes no mercado de trabalho, segundo a Lei 11.080/2004?",
+          "alternativas": [
+            "O Presidente da República, por decreto.",
+            "O ministério supervisor, no contrato de gestão.",
+            "O Conselho Deliberativo.",
+            "O Conselho Fiscal.",
+            "O Tribunal de Contas da União."
+          ],
+          "correta": 2,
+          "explicacao": "O art. 13 atribui ao Conselho Deliberativo a fixação da remuneração da Diretoria Executiva, observado o § 3º do art. 11.",
+          "fonte": "Lei 11.080/2004, art. 13 (planalto.gov.br)"
+        },
+        {
+          "id": "ld-l1-q6",
+          "enunciado": "A Lei 11.080/2004 remete expressamente ao regulamento a definição de",
+          "alternativas": [
+            "o número de membros de cada órgão de direção.",
+            "as hipóteses de destituição de membros dos Conselhos Deliberativo e Fiscal e as competências e atribuições dos órgãos de direção.",
+            "o prazo de mandato da Diretoria Executiva.",
+            "os percentuais do adicional de contribuição destinado à ABDI.",
+            "o regime de pessoal da ABDI."
+          ],
+          "correta": 1,
+          "explicacao": "O art. 5º deixa ao regulamento as hipóteses de destituição de conselheiros, e o art. 7º as competências e atribuições dos Conselhos e da Diretoria. Número de membros, mandatos e regime de pessoal já constam da própria Lei.",
+          "fonte": "Lei 11.080/2004, arts. 5º e 7º (planalto.gov.br)"
+        }
+      ]
+    },
+    {
+      "id": "ld-l2",
+      "titulo": "Lei 11.080: receitas, licitações e patrimônio",
+      "minutos": 6,
+      "resumo": [
+        "Adicional de contribuição (art. 15, que altera a Lei 8.029/1990): repasse na proporção de 85,75% ao Cebrae, 12,25% à Apex-Brasil e 2% à ABDI.",
+        "Receitas adicionais (art. 17): dotações do Orçamento-Geral da União; convênios, acordos e contratos; doações, legados e subvenções; decisões judiciais; venda ou aluguel de bens; rendimentos de aplicações autorizadas pelo Conselho Deliberativo; e, desde a Lei 14.440/2022, recursos da prestação de serviços relacionados às finalidades institucionais.",
+        "Contratação de serviços (art. 12): a ABDI pode contratar quaisquer pessoas físicas ou jurídicas quando essa for a solução mais econômica para as metas do contrato de gestão.",
+        "Licitações (art. 20, redação da Lei 14.440/2022): a ABDI elabora regulamento próprio e simplificado, observando impessoalidade, moralidade, publicidade, economicidade e eficiência. O extrato do regulamento e de suas alterações é publicado no DOU.",
+        "O estatuto é aprovado pelo Conselho Deliberativo em até 60 dias após sua instalação (art. 22). Em caso de extinção, o patrimônio é transferido à União (art. 23)."
+      ],
+      "flashcards": [
+        {"frente": "Como se divide o adicional de contribuição entre Cebrae, Apex-Brasil e ABDI?", "verso": "85,75% ao Cebrae, 12,25% à Apex-Brasil e 2% à ABDI (Lei 11.080, art. 15)."},
+        {"frente": "O que a Lei 14.440/2022 mudou no art. 20 da Lei 11.080?", "verso": "Em vez do manual de licitações publicado no DOU, a ABDI elabora regulamento próprio e simplificado, e publica no DOU o extrato dele e de suas alterações."},
+        {"frente": "Destino do patrimônio da ABDI em caso de extinção", "verso": "É imediatamente transferido à União (art. 23)."}
+      ],
+      "questoes": [
+        {
+          "id": "ld-l2-q1",
+          "enunciado": "O adicional de contribuição de que trata o art. 8º, § 3º, da Lei 8.029/1990, com a redação dada pela Lei 11.080/2004, é repassado ao Cebrae, à Apex-Brasil e à ABDI, respectivamente, nas proporções de",
+          "alternativas": [
+            "80%, 15% e 5%.",
+            "85,75%, 12,25% e 2%.",
+            "85,75%, 2% e 12,25%.",
+            "90%, 8% e 2%.",
+            "70%, 20% e 10%."
+          ],
+          "correta": 1,
+          "explicacao": "O § 4º do art. 8º da Lei 8.029, na redação do art. 15 da Lei 11.080, fixa 85,75% ao Cebrae, 12,25% à Apex-Brasil e 2% à ABDI.",
+          "fonte": "Lei 11.080/2004, art. 15 (planalto.gov.br)"
+        },
+        {
+          "id": "ld-l2-q2",
+          "enunciado": "Constituem receitas adicionais da ABDI, segundo a Lei 11.080/2004, todas as seguintes, EXCETO",
+          "alternativas": [
+            "parcela do produto de impostos federais, repassada automaticamente pelo ministério supervisor, sem previsão em lei orçamentária.",
+            "recursos transferidos por dotações do Orçamento-Geral da União, créditos adicionais, transferências ou repasses.",
+            "recursos provenientes de convênios, acordos e contratos celebrados com entidades, organismos e empresas.",
+            "valores apurados com a venda ou o aluguel de bens móveis e imóveis de sua propriedade.",
+            "recursos provenientes da prestação de serviços relacionados às suas finalidades institucionais."
+          ],
+          "correta": 0,
+          "explicacao": "O art. 17 não prevê repasse automático de impostos federais. Os demais itens constam do rol, e a prestação de serviços (inciso VII) foi incluída pela Lei 14.440/2022.",
+          "fonte": "Lei 11.080/2004, art. 17, I a VII (planalto.gov.br)"
+        },
+        {
+          "id": "ld-l2-q3",
+          "enunciado": "Após as alterações da Lei 14.440/2022, o art. 20 da Lei 11.080/2004 dispõe que a ABDI",
+          "alternativas": [
+            "aplica integralmente a lei geral de licitações da Administração Pública, sem regulamento próprio.",
+            "publica no Diário Oficial da União, no prazo de 60 dias de sua criação, um manual de licitações e contratos.",
+            "fica dispensada de licitar em qualquer hipótese.",
+            "submete cada licitação à aprovação prévia do ministério supervisor.",
+            "elabora regulamento próprio e simplificado de licitações e contratos, observados, entre outros, os princípios da economicidade e da eficiência, e publica no DOU o extrato do regulamento e de suas alterações."
+          ],
+          "correta": 4,
+          "explicacao": "A redação atual do art. 20 prevê regulamento próprio e simplificado, com os princípios da impessoalidade, moralidade, publicidade, economicidade e eficiência. O manual publicado em 60 dias era a redação original.",
+          "fonte": "Lei 11.080/2004, art. 20 e parágrafo único, com redação da Lei 14.440/2022 (planalto.gov.br)"
+        },
+        {
+          "id": "ld-l2-q4",
+          "enunciado": "Segundo a Lei 11.080/2004, o estatuto da ABDI será aprovado",
+          "alternativas": [
+            "pelo Presidente da República, por decreto, em até 30 dias.",
+            "pelo Conselho Deliberativo, no prazo de 60 dias após sua instalação.",
+            "pelo Conselho Fiscal, no prazo de 90 dias após a publicação da Lei.",
+            "pelo Congresso Nacional, por decreto legislativo.",
+            "pela Diretoria Executiva, no prazo de 120 dias."
+          ],
+          "correta": 1,
+          "explicacao": "O art. 22 diz que o estatuto será aprovado pelo Conselho Deliberativo, no prazo de sessenta dias após sua instalação, observado o disposto na Lei.",
+          "fonte": "Lei 11.080/2004, art. 22 (planalto.gov.br)"
+        },
+        {
+          "id": "ld-l2-q5",
+          "enunciado": "Na hipótese de extinção da ABDI, o seu patrimônio, bem como os legados, doações e heranças que lhe forem destinados, será",
+          "alternativas": [
+            "distribuído entre os membros do Conselho Deliberativo.",
+            "doado ao Sebrae.",
+            "leiloado e o produto revertido ao Cebrae.",
+            "imediatamente transferido à União.",
+            "mantido em fundo privado até decisão judicial."
+          ],
+          "correta": 3,
+          "explicacao": "O art. 23 determina a transferência imediata à União do patrimônio, dos legados, doações e heranças destinados à ABDI.",
+          "fonte": "Lei 11.080/2004, art. 23 (planalto.gov.br)"
+        },
+        {
+          "id": "ld-l2-q6",
+          "enunciado": "A Lei 11.080/2004 autoriza a ABDI a celebrar contratos de prestação de serviços com quaisquer pessoas físicas ou jurídicas sempre que",
+          "alternativas": [
+            "o ministério supervisor indicar o prestador.",
+            "houver sobra de recursos ao final do exercício.",
+            "considere ser essa a solução mais econômica para atingir os objetivos previstos no contrato de gestão.",
+            "o Tribunal de Contas da União der autorização prévia.",
+            "o prestador for entidade integrante da Administração Pública."
+          ],
+          "correta": 2,
+          "explicacao": "O art. 12 permite a contratação quando a ABDI considere essa a solução mais econômica para os objetivos do contrato de gestão, observados os princípios da impessoalidade, moralidade e publicidade.",
+          "fonte": "Lei 11.080/2004, art. 12 (planalto.gov.br)"
+        }
+      ]
+    },
+    {
+      "id": "ld-l3",
+      "titulo": "Decreto 5.352: Conselho Deliberativo e Conselho Fiscal",
+      "minutos": 9,
+      "resumo": [
+        "Órgãos de direção (art. 3º): Conselho Deliberativo, Conselho Fiscal e Diretoria-Executiva. O Conselho Deliberativo é o órgão superior de direção (art. 4º).",
+        "O Conselho Deliberativo decide por resoluções, por maioria absoluta, com quórum mínimo de dois terços de seus membros e voto de qualidade do Presidente (art. 4º, parágrafo único).",
+        "Entre suas competências: aprovar o estatuto, aprovar a política de atuação, deliberar sobre o planejamento estratégico, o orçamento-programa, as demonstrações contábeis, o plano de pessoal e o manual de licitações, e fixar a remuneração da Diretoria (art. 4º).",
+        "Os conselheiros são designados por 2 anos, sem remuneração, com uma recondução (art. 5º). O Presidente do Conselho é eleito entre os membros, por maioria absoluta. A perda da condição ocorre por renúncia ou por destituição decidida por dois terços (art. 5º, § 3º). O número de membros (15) vem da Lei.",
+        "Conselho Fiscal (arts. 6º e 7º): fiscaliza e exerce o controle interno. Composto por um representante do MDIC, um do Ministério da Fazenda e um da sociedade civil, este designado pelo Ministro do MDIC. Mandato de 2 anos, com uma recondução.",
+        "O Presidente do Conselho Fiscal é eleito entre os membros por 2 anos, vedada a recondução. É destituído quem faltar sem justificativa a 3 reuniões ordinárias consecutivas ou a 6 alternadas (art. 7º, §§ 1º e 4º)."
+      ],
+      "flashcards": [
+        {"frente": "Como o Conselho Deliberativo delibera (Decreto 5.352, art. 4º, parágrafo único)?", "verso": "Por resoluções, por maioria absoluta, com quórum mínimo de dois terços dos membros e voto de qualidade do Presidente."},
+        {"frente": "Quando o conselheiro deliberativo perde a condição de membro?", "verso": "Por renúncia ou por destituição decidida por dois terços dos membros do Conselho, nas hipóteses do art. 5º, § 3º."},
+        {"frente": "Presidente do Conselho Fiscal: mandato e recondução", "verso": "Eleito entre os membros para 2 anos, vedada a recondução (Decreto, art. 7º, § 1º)."},
+        {"frente": "Quando se destitui conselheiro fiscal por faltas?", "verso": "3 reuniões ordinárias consecutivas ou 6 alternadas, sem justificativa (Decreto, art. 7º, § 4º)."}
+      ],
+      "questoes": [
+        {
+          "id": "ld-l3-q1",
+          "enunciado": "O Decreto 5.352/2005 estabelece que o Conselho Deliberativo da ABDI delibera",
+          "alternativas": [
+            "por atas, por maioria simples, sem quórum mínimo.",
+            "por portarias, por unanimidade, com voto de desempate do Diretor-Presidente.",
+            "por instruções normativas, por maioria simples dos presentes.",
+            "por deliberações ad referendum do ministério supervisor.",
+            "mediante resoluções, por maioria absoluta, observado o quórum mínimo de dois terços de seus membros, cabendo ao Presidente o voto de qualidade."
+          ],
+          "correta": 4,
+          "explicacao": "É o texto do parágrafo único do art. 4º do Decreto: resoluções, maioria absoluta, quórum mínimo de dois terços e voto de qualidade do Presidente do Conselho.",
+          "fonte": "Decreto 5.352/2005, art. 4º, parágrafo único (planalto.gov.br)"
+        },
+        {
+          "id": "ld-l3-q2",
+          "enunciado": "Segundo o Decreto 5.352/2005, o Presidente do Conselho Deliberativo da ABDI é",
+          "alternativas": [
+            "o Ministro de Estado do Desenvolvimento, Indústria e Comércio Exterior, por força do cargo.",
+            "indicado pelo Presidente da República, para mandato de 4 anos.",
+            "eleito dentre os membros do Conselho, por maioria absoluta.",
+            "o Diretor-Presidente da ABDI.",
+            "o representante mais antigo do setor privado."
+          ],
+          "correta": 2,
+          "explicacao": "O art. 5º, § 1º, estabelece que o Presidente do Conselho Deliberativo será eleito dentre os seus membros, por maioria absoluta.",
+          "fonte": "Decreto 5.352/2005, art. 5º, § 1º (planalto.gov.br)"
+        },
+        {
+          "id": "ld-l3-q3",
+          "enunciado": "De acordo com o Decreto 5.352/2005, o membro do Conselho Deliberativo perde essa condição em virtude de renúncia ou",
+          "alternativas": [
+            "de destituição por decisão de dois terços dos membros do Conselho, nas hipóteses previstas no decreto.",
+            "de destituição por ato isolado do Presidente do Conselho.",
+            "de simples ausência a uma reunião ordinária.",
+            "de decisão do ministro supervisor, sem necessidade de motivação.",
+            "do término do primeiro ano de mandato."
+          ],
+          "correta": 0,
+          "explicacao": "O art. 5º, § 3º, prevê renúncia ou destituição por decisão de dois terços dos membros, se o procedimento for declarado incompatível com a moralidade administrativa, se houver omissão nos deveres estatutários ou condenação com sentença judicial transitada em julgado.",
+          "fonte": "Decreto 5.352/2005, art. 5º, § 3º (planalto.gov.br)"
+        },
+        {
+          "id": "ld-l3-q4",
+          "enunciado": "Entre as matérias de responsabilidade do Conselho Deliberativo da ABDI, segundo o Decreto 5.352/2005, está",
+          "alternativas": [
+            "elaborar as demonstrações contábeis.",
+            "elaborar e executar os planos de trabalho anuais.",
+            "elaborar a proposta de orçamento-programa e executá-lo.",
+            "fixar o valor da remuneração dos membros da Diretoria-Executiva.",
+            "cumprir e fazer cumprir o contrato de gestão celebrado com o Poder Executivo."
+          ],
+          "correta": 3,
+          "explicacao": "Fixar a remuneração da Diretoria é competência do Conselho Deliberativo (art. 4º, IX). Elaborar demonstrações, planos e orçamento, e cumprir o contrato de gestão, são competências da Diretoria-Executiva (art. 8º).",
+          "fonte": "Decreto 5.352/2005, arts. 4º, IX, e 8º (planalto.gov.br)"
+        },
+        {
+          "id": "ld-l3-q5",
+          "enunciado": "O representante da sociedade civil no Conselho Fiscal da ABDI é designado, nos termos do Decreto 5.352/2005, pelo",
+          "alternativas": [
+            "Presidente da República.",
+            "Ministro de Estado do Desenvolvimento, Indústria e Comércio Exterior.",
+            "Presidente do Conselho Deliberativo.",
+            "Diretor-Presidente da ABDI.",
+            "Tribunal de Contas da União."
+          ],
+          "correta": 1,
+          "explicacao": "O art. 7º, § 2º, atribui ao Ministro de Estado do Desenvolvimento, Indústria e Comércio Exterior a designação do representante da sociedade civil no Conselho Fiscal.",
+          "fonte": "Decreto 5.352/2005, art. 7º, § 2º (planalto.gov.br)"
+        },
+        {
+          "id": "ld-l3-q6",
+          "enunciado": "Quanto ao Presidente do Conselho Fiscal da ABDI, o Decreto 5.352/2005 prevê que será eleito dentre os membros",
+          "alternativas": [
+            "para um período de quatro anos, permitida uma recondução.",
+            "para um período de dois anos, permitidas duas reconduções.",
+            "para um período de um ano, renovável indefinidamente.",
+            "por indicação do Presidente da República, sem prazo determinado.",
+            "para um período de dois anos, vedada a recondução."
+          ],
+          "correta": 4,
+          "explicacao": "O art. 7º, § 1º, diz que o Presidente do Conselho Fiscal será eleito dentre os membros, para um período de dois anos, vedada a recondução. Os demais membros podem ser reconduzidos uma vez.",
+          "fonte": "Decreto 5.352/2005, art. 7º, caput e § 1º (planalto.gov.br)"
+        },
+        {
+          "id": "ld-l3-q7",
+          "enunciado": "Será destituído do Conselho Fiscal da ABDI o membro que deixar de comparecer, sem justificativa, a",
+          "alternativas": [
+            "duas reuniões ordinárias consecutivas ou quatro alternadas.",
+            "uma reunião ordinária e uma extraordinária.",
+            "três reuniões ordinárias consecutivas ou seis alternadas.",
+            "quatro reuniões ordinárias consecutivas ou oito alternadas.",
+            "cinco reuniões ordinárias no mesmo ano."
+          ],
+          "correta": 2,
+          "explicacao": "O art. 7º, § 4º, fixa a destituição por falta injustificada a três reuniões ordinárias consecutivas ou seis alternadas.",
+          "fonte": "Decreto 5.352/2005, art. 7º, § 4º (planalto.gov.br)"
+        }
+      ]
+    },
+    {
+      "id": "ld-l4",
+      "titulo": "Decreto 5.352: Diretoria-Executiva, contrato de gestão e prazos",
+      "minutos": 9,
+      "resumo": [
+        "A Diretoria-Executiva é o órgão responsável pela gestão da ABDI, conforme a política aprovada pelo Conselho Deliberativo (art. 8º). Cumpre o estatuto e o contrato de gestão, elabora e executa o planejamento estratégico e os planos de trabalho, propõe o orçamento-programa e elabora as demonstrações contábeis.",
+        "Composição (art. 9º): um Presidente e dois Diretores, nomeados pelo Presidente da República por 4 anos. Requisitos: curso superior completo e experiência comprovada de pelo menos 2 anos em gestão de órgãos públicos ou de entidades públicas ou privadas.",
+        "Contrato de gestão (art. 10): firmado com o MDIC. O Ministério do Planejamento e a Casa Civil o analisam previamente, e o pronunciamento favorável é pré-requisito para a assinatura. O MDIC o publica no DOU em até 15 dias da assinatura.",
+        "Duração mínima de 2 anos (art. 11, § 1º). Ao final, o MDIC faz avaliação conclusiva dos resultados (§ 3º).",
+        "Receitas (art. 12): começam por 2% do adicional de contribuição da Lei 8.029/1990.",
+        "Prazos (arts. 13 e 14): relatório ao MDIC até 31 de janeiro; parecer do MDIC até 15 de março; prestação de contas ao TCU até 31 de março do ano seguinte ao fim do exercício, aprovada pelo Conselho Deliberativo e com manifestação do Conselho Fiscal."
+      ],
+      "flashcards": [
+        {"frente": "Requisitos para ocupar cargo na Diretoria-Executiva (Decreto, art. 9º)", "verso": "Curso superior completo e experiência comprovada de, no mínimo, 2 anos em gestão de órgãos públicos ou de entidades públicas ou privadas."},
+        {"frente": "O que é pré-requisito para assinar o contrato de gestão?", "verso": "Análise prévia do Ministério do Planejamento, Orçamento e Gestão e da Casa Civil, com pronunciamento favorável (Decreto, art. 10, § 2º)."},
+        {"frente": "Duração mínima do contrato de gestão", "verso": "2 anos (Decreto, art. 11, § 1º)."},
+        {"frente": "Prazos do Decreto: relatório, parecer e TCU", "verso": "Relatório ao MDIC até 31/01; parecer do MDIC até 15/03; contas ao TCU até 31/03 do ano seguinte ao fim do exercício (arts. 13 e 14)."}
+      ],
+      "questoes": [
+        {
+          "id": "ld-l4-q1",
+          "enunciado": "O Decreto 5.352/2005 estabelece, como requisitos para ocupar os cargos da Diretoria-Executiva da ABDI,",
+          "alternativas": [
+            "ensino médio completo e cinco anos de experiência em administração pública.",
+            "mestrado e dez anos de experiência no setor industrial.",
+            "aprovação prévia pelo Senado Federal e três anos de experiência.",
+            "curso superior completo e experiência comprovada de, no mínimo, dois anos em gestão de órgãos públicos ou de entidades públicas ou privadas.",
+            "curso superior completo e experiência comprovada de, no mínimo, cinco anos em cargos de direção de bancos de desenvolvimento."
+          ],
+          "correta": 3,
+          "explicacao": "O parágrafo único do art. 9º exige curso superior completo e experiência comprovada de, no mínimo, dois anos em gestão de órgãos públicos ou de entidades públicas ou privadas.",
+          "fonte": "Decreto 5.352/2005, art. 9º, parágrafo único (planalto.gov.br)"
+        },
+        {
+          "id": "ld-l4-q2",
+          "enunciado": "Pelo Decreto 5.352/2005, é pré-requisito para a assinatura do contrato de gestão da ABDI",
+          "alternativas": [
+            "o pronunciamento favorável do Ministério do Planejamento, Orçamento e Gestão e da Casa Civil da Presidência da República, que o analisam previamente.",
+            "a aprovação do Congresso Nacional por decreto legislativo.",
+            "o parecer do Conselho Fiscal da ABDI, em sessão extraordinária.",
+            "a autorização do Tribunal de Contas da União.",
+            "a publicação prévia do contrato no Diário Oficial da União."
+          ],
+          "correta": 0,
+          "explicacao": "O art. 10, § 2º, determina a análise prévia do Ministério do Planejamento e da Casa Civil, e o pronunciamento favorável é pré-requisito para a assinatura. A publicação no DOU vem depois, em até quinze dias da assinatura (§ 3º).",
+          "fonte": "Decreto 5.352/2005, art. 10, §§ 2º e 3º (planalto.gov.br)"
+        },
+        {
+          "id": "ld-l4-q3",
+          "enunciado": "O contrato de gestão da ABDI será publicado no Diário Oficial da União, pelo ministério supervisor, por ocasião de sua celebração, revisão ou renovação, em até",
+          "alternativas": [
+            "cinco dias úteis da aprovação pelo Conselho Deliberativo.",
+            "trinta dias da assinatura.",
+            "quinze dias, contados da data de sua assinatura.",
+            "sessenta dias do início da vigência.",
+            "dez dias da data do relatório anual."
+          ],
+          "correta": 2,
+          "explicacao": "O art. 10, § 3º, fixa o prazo de quinze dias, contados da data da assinatura, para a publicação no DOU pelo ministério supervisor.",
+          "fonte": "Decreto 5.352/2005, art. 10, § 3º (planalto.gov.br)"
+        },
+        {
+          "id": "ld-l4-q4",
+          "enunciado": "O Decreto 5.352/2005 determina que o contrato de gestão da ABDI terá duração mínima de",
+          "alternativas": [
+            "seis meses.",
+            "um ano.",
+            "três anos.",
+            "cinco anos.",
+            "dois anos."
+          ],
+          "correta": 4,
+          "explicacao": "O art. 11, § 1º, estabelece a duração mínima de dois anos, e o contrato pode ser modificado ou renovado.",
+          "fonte": "Decreto 5.352/2005, art. 11, § 1º (planalto.gov.br)"
+        },
+        {
+          "id": "ld-l4-q5",
+          "enunciado": "Compete à Diretoria-Executiva da ABDI, nos termos do Decreto 5.352/2005,",
+          "alternativas": [
+            "aprovar o estatuto social da entidade.",
+            "elaborar a proposta de orçamento-programa, para apreciação e deliberação do Conselho Deliberativo, e executá-lo.",
+            "deliberar sobre o seu próprio planejamento estratégico, sem submissão a outro órgão.",
+            "fixar a própria remuneração.",
+            "deliberar sobre as demonstrações contábeis e a prestação de contas da própria Diretoria."
+          ],
+          "correta": 1,
+          "explicacao": "O art. 8º, V, atribui à Diretoria elaborar a proposta de orçamento-programa para deliberação do Conselho Deliberativo e executá-lo. Aprovar o estatuto, fixar a remuneração da Diretoria e deliberar sobre contas são competências do Conselho Deliberativo (art. 4º).",
+          "fonte": "Decreto 5.352/2005, arts. 4º e 8º, V (planalto.gov.br)"
+        },
+        {
+          "id": "ld-l4-q6",
+          "enunciado": "O Decreto 5.352/2005 prevê que o ministério supervisor, até uma certa data de cada exercício, analisará o relatório anual de execução do contrato de gestão e emitirá parecer sobre o seu cumprimento. Essa data é",
+          "alternativas": [
+            "31 de janeiro.",
+            "31 de março.",
+            "30 de abril.",
+            "15 de março.",
+            "15 de fevereiro."
+          ],
+          "correta": 3,
+          "explicacao": "O parágrafo único do art. 13 do Decreto fixa 15 de março. A Lei 11.080, em seu art. 8º, parágrafo único, fala em 31 de março para o parecer do Poder Executivo. Quando a questão citar o Decreto, vale 15 de março.",
+          "fonte": "Decreto 5.352/2005, art. 13, parágrafo único; Lei 11.080/2004, art. 8º, parágrafo único (planalto.gov.br)"
+        },
+        {
+          "id": "ld-l4-q7",
+          "enunciado": "A prestação de contas anual da ABDI ao Tribunal de Contas da União é remetida pela Diretoria-Executiva, até 31 de março do ano seguinte ao término do exercício financeiro, e deve ser",
+          "alternativas": [
+            "aprovada pelo Conselho Deliberativo e acompanhada de manifestação do Conselho Fiscal.",
+            "aprovada pelo ministério supervisor e acompanhada de parecer da Casa Civil.",
+            "aprovada pelo Conselho Fiscal e acompanhada de manifestação do Conselho Deliberativo.",
+            "aprovada apenas pela própria Diretoria-Executiva.",
+            "aprovada pelo Congresso Nacional e acompanhada de manifestação do Ministério da Fazenda."
+          ],
+          "correta": 0,
+          "explicacao": "O art. 14 do Decreto exige que a prestação de contas da gestão anual seja aprovada pelo Conselho Deliberativo e acompanhada de manifestação do Conselho Fiscal.",
+          "fonte": "Decreto 5.352/2005, art. 14 (planalto.gov.br)"
+        }
+      ]
+    }
+  ]
+}

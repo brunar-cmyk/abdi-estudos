@@ -1,0 +1,479 @@
+{
+  "id": "u-inst-licitacoes-contratos",
+  "titulo": "Licitações: habilitação, pregão, registro de preços, contratos e sanções",
+  "bloco": "Institucionais",
+  "categoria": "lic",
+  "topicos": [
+    "inst-03"
+  ],
+  "pacoteNumeros": [
+    {
+      "rotulo": "Prazo máximo dos contratos",
+      "valor": "60 meses, incluindo prorrogações",
+      "fonte": "Regulamento de Licitações, art. 52, parágrafo único"
+    },
+    {
+      "rotulo": "Garantia contratual",
+      "valor": "até 10% do valor do contrato (caução em dinheiro, fiança bancária ou seguro-garantia)",
+      "fonte": "Regulamento de Licitações, art. 53"
+    },
+    {
+      "rotulo": "Alterações contratuais",
+      "valor": "até 25% do valor inicial; até 50% para reforma de edifício ou de equipamento",
+      "fonte": "Regulamento de Licitações, art. 56"
+    },
+    {
+      "rotulo": "Sanção por recusa em assinar",
+      "valor": "perda do direito à contratação e suspensão de 2 anos",
+      "fonte": "Regulamento de Licitações, art. 57"
+    },
+    {
+      "rotulo": "Registro de preço",
+      "valor": "vigência de 12 meses, prorrogável até 36 meses no total",
+      "fonte": "Regulamento de Licitações, art. 28"
+    },
+    {
+      "rotulo": "Adesão a ata de registro de preço",
+      "valor": "aderente até 50% dos quantitativos; total das adesões até o dobro",
+      "fonte": "Regulamento de Licitações, art. 35, §§ 2º e 4º"
+    },
+    {
+      "rotulo": "Recursos",
+      "valor": "5 dias (2 no convite e no pregão); julgados em até 10 dias; efeito suspensivo",
+      "fonte": "Regulamento de Licitações, arts. 19 e 20"
+    },
+    {
+      "rotulo": "Impugnação do ato convocatório",
+      "valor": "até 2 dias antes da data de recebimento das propostas",
+      "fonte": "Regulamento de Licitações, art. 14, § 3º"
+    },
+    {
+      "rotulo": "Diálogo competitivo",
+      "valor": "25 dias para manifestação de interesse; propostas em prazo não inferior a 60 dias",
+      "fonte": "Regulamento de Licitações, art. 40"
+    },
+    {
+      "rotulo": "Soluções inovadoras",
+      "valor": "propostas em prazo não inferior a 20 dias; até 10% da receita corrente líquida em FIPs",
+      "fonte": "Regulamento de Licitações, arts. 44 e 45"
+    },
+    {
+      "rotulo": "Participação vedada",
+      "valor": "empresas com mais de 5% do capital votante de pessoas ligadas à ABDI que atuem na licitação ou contrato",
+      "fonte": "Regulamento de Licitações, art. 60, parágrafo único"
+    }
+  ],
+  "licoes": [
+    {
+      "id": "lc-l1",
+      "titulo": "Habilitação, procedimento e recursos",
+      "minutos": 9,
+      "resumo": [
+        "Habilitação (art. 13): habilitação jurídica, qualificação técnica, qualificação econômico-financeira (balanço patrimonial e demonstrações do último exercício, certidão negativa de falência, garantia de proposta, capital mínimo) e regularidade fiscal (CPF ou CNPJ, Fazendas, Seguridade Social e FGTS, declaração sobre menores de idade).",
+        "O procedimento começa com a solicitação formal da contratação, com objeto, estimativa de valor e recursos (art. 14). Não se admitem especificações exclusivas ou marcas, salvo justificativa ratificada pela autoridade (§ 1º).",
+        "O ato convocatório pode ser impugnado até dois dias antes da data fixada para o recebimento das propostas. Sem impugnação, fica precluso o direito de questioná-lo (art. 14, § 3º).",
+        "O procedimento é conduzido por um agente de contratação, que pode ser substituído por comissão de pelo menos três membros (art. 15). É facultado inverter as fases, se previsto no instrumento convocatório (art. 17).",
+        "Recursos (art. 19): têm efeito suspensivo e são admitidos apenas da decisão que declarar o licitante vencedor. Prazo de interposição: cinco dias, e dois dias no convite e no pregão. Julgamento em até 10 dias (art. 20). Os prazos contam-se em dias úteis (art. 62)."
+      ],
+      "flashcards": [
+        {
+          "frente": "Recursos nas licitações da ABDI",
+          "verso": "Têm efeito suspensivo e só cabem da decisão que declara o vencedor."
+        },
+        {
+          "frente": "Prazos dos recursos",
+          "verso": "Interposição: 5 dias (2 dias no convite e no pregão). Julgamento: até 10 dias."
+        },
+        {
+          "frente": "Impugnação do edital",
+          "verso": "Até dois dias antes da data fixada para o recebimento das propostas."
+        }
+      ],
+      "questoes": [
+        {
+          "id": "lc-l1-q1",
+          "enunciado": "Nas licitações da ABDI, segundo o Regulamento, os recursos",
+          "alternativas": [
+            "não têm efeito suspensivo e cabem de qualquer decisão.",
+            "são admitidos apenas depois da assinatura do contrato.",
+            "têm efeito suspensivo e são admitidos apenas da decisão que declarar o licitante vencedor.",
+            "têm efeito suspensivo e cabem de qualquer decisão do agente de contratação.",
+            "são decididos pelo licitante vencedor."
+          ],
+          "correta": 2,
+          "explicacao": "O art. 19 estabelece efeito suspensivo e restringe os recursos à decisão que declara o vencedor.",
+          "fonte": "Regulamento de Licitações e Contratos da ABDI (Resolução CD 005/2021), art. 19 (abdi.com.br)"
+        },
+        {
+          "id": "lc-l1-q2",
+          "enunciado": "O prazo para interposição de recurso nas licitações da ABDI é de cinco dias e, nas modalidades convite e pregão, de",
+          "alternativas": [
+            "dois dias.",
+            "um dia.",
+            "três dias.",
+            "quinze dias.",
+            "dez dias."
+          ],
+          "correta": 0,
+          "explicacao": "O art. 19, § 1º, fixa cinco dias e, no convite e no pregão, dois dias.",
+          "fonte": "Regulamento de Licitações e Contratos da ABDI (Resolução CD 005/2021), art. 19, § 1º (abdi.com.br)"
+        },
+        {
+          "id": "lc-l1-q3",
+          "enunciado": "O ato convocatório da licitação pode ser impugnado, no todo ou em parte, até",
+          "alternativas": [
+            "o dia da assinatura do contrato.",
+            "dez dias depois da homologação.",
+            "um mês antes da publicação do edital.",
+            "cinco dias depois da abertura das propostas.",
+            "dois dias antes da data fixada para o recebimento das propostas."
+          ],
+          "correta": 4,
+          "explicacao": "O art. 14, § 3º, define o prazo e prevê preclusão se não houver impugnação.",
+          "fonte": "Regulamento de Licitações e Contratos da ABDI (Resolução CD 005/2021), art. 14, § 3º (abdi.com.br)"
+        },
+        {
+          "id": "lc-l1-q4",
+          "enunciado": "Os recursos contra a decisão que declarar o vencedor serão julgados pela autoridade competente no prazo de até",
+          "alternativas": [
+            "5 dias.",
+            "10 dias, contados da data final para sua interposição.",
+            "30 dias.",
+            "60 dias.",
+            "2 dias."
+          ],
+          "correta": 1,
+          "explicacao": "O art. 20 fixa até 10 dias contados da data final para interposição ou da prevista para a manifestação de outros licitantes.",
+          "fonte": "Regulamento de Licitações e Contratos da ABDI (Resolução CD 005/2021), art. 20 (abdi.com.br)"
+        },
+        {
+          "id": "lc-l1-q5",
+          "enunciado": "Entre os documentos de qualificação econômico-financeira que podem ser exigidos na habilitação está",
+          "alternativas": [
+            "a prova de regularidade para com as Fazendas federal, estadual e municipal.",
+            "a declaração de que não emprega menores.",
+            "o registro na entidade profissional competente.",
+            "o balanço patrimonial e as demonstrações contábeis do último exercício social.",
+            "a cédula de identidade do sócio-administrador."
+          ],
+          "correta": 3,
+          "explicacao": "O art. 13, III, a, traz o balanço e as demonstrações. A cédula de identidade é de habilitação jurídica, e as demais opções são de qualificação técnica e de regularidade fiscal.",
+          "fonte": "Regulamento de Licitações e Contratos da ABDI (Resolução CD 005/2021), art. 13 (abdi.com.br)"
+        }
+      ]
+    },
+    {
+      "id": "lc-l2",
+      "titulo": "Pregão e registro de preços",
+      "minutos": 9,
+      "resumo": [
+        "O pregão é realizado preferencialmente na forma eletrônica, e a forma presencial exige justificativa (art. 21). O modo de disputa é aberto, ou aberto e fechado (art. 22). O julgamento adota o tipo menor preço ou maior desconto (art. 23).",
+        "No pregão eletrônico, os licitantes oferecem lances sem restrição de quantidade, mas sempre inferiores ao seu último lance. Havendo lances iguais, prevalece o registrado primeiro (art. 26).",
+        "Registro de preço (art. 27): sempre precedido de concorrência ou pregão, nas hipóteses de entrega parcelada, aquisições frequentes ou quantitativo que não se possa fixar antes. Vigência limitada a 12 meses, prorrogável desde que o total não ultrapasse 36 meses (art. 28).",
+        "O registro de preço não gera direito subjetivo de exigir a aquisição, e a ABDI pode contratar terceiros quando houver preço mais vantajoso (art. 30).",
+        "Adesão: a ABDI pode aderir a atas da administração pública e de outros serviços sociais autônomos, com vantagem econômica comprovada (art. 33). As aquisições por aderente não podem ultrapassar 50% dos quantitativos previstos, e o total das adesões não pode exceder o dobro do quantitativo de cada item registrado (art. 35, §§ 2º e 4º)."
+      ],
+      "flashcards": [
+        {
+          "frente": "Vigência do registro de preço",
+          "verso": "Até 12 meses, prorrogável, desde que o total não passe de 36 meses (art. 28)."
+        },
+        {
+          "frente": "Limite individual para o aderente",
+          "verso": "Até 50% dos quantitativos previstos no instrumento convocatório (art. 35, § 2º)."
+        },
+        {
+          "frente": "Tipos de julgamento no pregão",
+          "verso": "Menor preço ou maior desconto (art. 23)."
+        }
+      ],
+      "questoes": [
+        {
+          "id": "lc-l2-q1",
+          "enunciado": "O pregão da ABDI, segundo o Regulamento, será realizado preferencialmente na modalidade",
+          "alternativas": [
+            "por sorteio entre os interessados.",
+            "presencial, sem exceção.",
+            "eletrônica, podendo, justificadamente, ser adotada a presencial.",
+            "por carta, enviada aos licitantes.",
+            "por convite aos fornecedores cadastrados."
+          ],
+          "correta": 2,
+          "explicacao": "O art. 21 estabelece a preferência pelo pregão eletrônico.",
+          "fonte": "Regulamento de Licitações e Contratos da ABDI (Resolução CD 005/2021), art. 21 (abdi.com.br)"
+        },
+        {
+          "id": "lc-l2-q2",
+          "enunciado": "De acordo com o Regulamento, a vigência do registro de preço é limitada a 12 meses, e poderá ser prorrogada desde que o período total não ultrapasse",
+          "alternativas": [
+            "36 meses.",
+            "48 meses.",
+            "24 meses.",
+            "60 meses.",
+            "18 meses."
+          ],
+          "correta": 0,
+          "explicacao": "O art. 28 e seu parágrafo único fixam 12 meses, com prorrogação até o total de 36 meses.",
+          "fonte": "Regulamento de Licitações e Contratos da ABDI (Resolução CD 005/2021), art. 28 (abdi.com.br)"
+        },
+        {
+          "id": "lc-l2-q3",
+          "enunciado": "O registro de preço, segundo o Regulamento de Licitações e Contratos da ABDI,",
+          "alternativas": [
+            "só pode ser usado para obras de engenharia.",
+            "dispensa a licitação anterior.",
+            "obriga a ABDI a adquirir todo o quantitativo registrado.",
+            "garante exclusividade permanente ao fornecedor.",
+            "não gera direito subjetivo de quem ofertou o preço registrado de exigir a aquisição."
+          ],
+          "correta": 4,
+          "explicacao": "O art. 30 estabelece que não há direito subjetivo e que a ABDI pode contratar terceiros com preços mais vantajosos.",
+          "fonte": "Regulamento de Licitações e Contratos da ABDI (Resolução CD 005/2021), art. 30 (abdi.com.br)"
+        },
+        {
+          "id": "lc-l2-q4",
+          "enunciado": "As aquisições por serviço social autônomo aderente a registro de preço realizado pela ABDI não poderão ultrapassar",
+          "alternativas": [
+            "100% dos quantitativos.",
+            "50% dos quantitativos previstos no instrumento convocatório.",
+            "200% dos quantitativos.",
+            "10% dos quantitativos.",
+            "25% dos quantitativos."
+          ],
+          "correta": 1,
+          "explicacao": "O art. 35, § 2º, fixa 50%. O § 4º limita o total das adesões ao dobro do quantitativo de cada item registrado.",
+          "fonte": "Regulamento de Licitações e Contratos da ABDI (Resolução CD 005/2021), art. 35, §§ 2º e 4º (abdi.com.br)"
+        },
+        {
+          "id": "lc-l2-q5",
+          "enunciado": "No julgamento do pregão da ABDI será adotado o tipo",
+          "alternativas": [
+            "melhor técnica.",
+            "técnica e preço.",
+            "maior lance.",
+            "menor preço ou maior desconto.",
+            "maior retorno econômico."
+          ],
+          "correta": 3,
+          "explicacao": "O art. 23 restringe o pregão aos tipos menor preço e maior desconto.",
+          "fonte": "Regulamento de Licitações e Contratos da ABDI (Resolução CD 005/2021), art. 23 (abdi.com.br)"
+        }
+      ]
+    },
+    {
+      "id": "lc-l3",
+      "titulo": "Concurso, diálogo competitivo, encomendas tecnológicas e soluções inovadoras",
+      "minutos": 9,
+      "resumo": [
+        "Concurso (art. 38): regido pelo edital, que indica a qualificação exigida, as diretrizes do trabalho, as condições, o prêmio ou remuneração e a propriedade intelectual. Se o edital transferir a propriedade à ABDI, ela pode ceder, usar e alterar o trabalho livremente.",
+        "Diálogo competitivo (arts. 39 e 40): para objeto com inovação tecnológica ou técnica, sem solução disponível no mercado sem adaptação e sem especificação precisa. A comissão tem três empregados designados pela Diretoria Executiva. O edital fixa prazo mínimo de 25 dias para manifestação de interesse, os diálogos são registrados em ata e gravados, e a fase competitiva exige prazo não inferior a 60 dias para as propostas.",
+        "Encomendas tecnológicas (arts. 41 a 43): contratação direta de ICTs, entidades sem fins lucrativos ou empresas de reconhecida capacitação para pesquisa, desenvolvimento ou inovação com risco tecnológico. A escolha busca a maior probabilidade de alcançar o resultado, não necessariamente o menor preço. A garantia pode ser dispensada.",
+        "Soluções inovadoras (arts. 44 a 50): contratação direta de startups para testar soluções, com ou sem risco tecnológico. O prazo para propostas não é inferior a 20 dias, e a comissão tem ao menos três pessoas, com pelo menos um empregado da ABDI. A ABDI pode aplicar até 10% de sua receita corrente líquida em Fundos de Investimento em Participações Capital Semente ou Empresas Emergentes (art. 44, § 1º).",
+        "Startup: organização nascente ou em operação recente, com até 10 anos de inscrição no CNPJ (art. 5º, § 1º)."
+      ],
+      "flashcards": [
+        {
+          "frente": "Prazos do diálogo competitivo",
+          "verso": "Mínimo de 25 dias para manifestação de interesse e não inferior a 60 dias para as propostas na fase competitiva."
+        },
+        {
+          "frente": "Limite de aplicação em fundos (art. 44, § 1º)",
+          "verso": "Até 10% da receita corrente líquida da ABDI, em FIPs Capital Semente ou Empresas Emergentes."
+        },
+        {
+          "frente": "Startup, segundo o Regulamento",
+          "verso": "Organização nascente ou em operação recente, com até 10 anos de inscrição no CNPJ."
+        }
+      ],
+      "questoes": [
+        {
+          "id": "lc-l3-q1",
+          "enunciado": "No diálogo competitivo da ABDI, o edital estabelecerá prazo mínimo para manifestação de interesse na participação da licitação de",
+          "alternativas": [
+            "90 dias.",
+            "10 dias.",
+            "25 dias.",
+            "5 dias.",
+            "60 dias."
+          ],
+          "correta": 2,
+          "explicacao": "O art. 40 fixa o prazo mínimo de 25 dias. O prazo de 60 dias refere-se às propostas na fase competitiva (§ 9º, III).",
+          "fonte": "Regulamento de Licitações e Contratos da ABDI (Resolução CD 005/2021), art. 40 (abdi.com.br)"
+        },
+        {
+          "id": "lc-l3-q2",
+          "enunciado": "Concluído o diálogo competitivo, a ABDI abrirá prazo, não inferior a 60 dias, para",
+          "alternativas": [
+            "todos os licitantes pré-selecionados apresentarem suas propostas.",
+            "a impugnação do edital por terceiros.",
+            "a assinatura do contrato.",
+            "o início das obras.",
+            "a devolução das garantias."
+          ],
+          "correta": 0,
+          "explicacao": "O art. 40, § 9º, III, trata do prazo mínimo de 60 dias para propostas na fase competitiva.",
+          "fonte": "Regulamento de Licitações e Contratos da ABDI (Resolução CD 005/2021), art. 40, § 9º, III (abdi.com.br)"
+        },
+        {
+          "id": "lc-l3-q3",
+          "enunciado": "A ABDI poderá aplicar até 10% de sua receita corrente líquida em Fundos de Investimento em Participações classificados como",
+          "alternativas": [
+            "de Direitos Creditórios.",
+            "de Renda Fixa de longo prazo, apenas.",
+            "Multimercado de alto risco.",
+            "Imobiliários.",
+            "Capital Semente ou Empresas Emergentes."
+          ],
+          "correta": 4,
+          "explicacao": "O art. 44, § 1º, prevê essa possibilidade, nos termos da regulamentação da CVM citada no dispositivo.",
+          "fonte": "Regulamento de Licitações e Contratos da ABDI (Resolução CD 005/2021), art. 44, § 1º (abdi.com.br)"
+        },
+        {
+          "id": "lc-l3-q4",
+          "enunciado": "Para os fins do Regulamento de Licitações e Contratos da ABDI, considera-se nascente ou em operação recente a startup com até",
+          "alternativas": [
+            "1 ano de inscrição no CNPJ.",
+            "10 anos de inscrição no CNPJ.",
+            "20 anos de inscrição no CNPJ.",
+            "5 anos de inscrição no CNPJ.",
+            "3 anos de inscrição no CNPJ."
+          ],
+          "correta": 1,
+          "explicacao": "O art. 5º, § 1º, fixa até 10 anos de inscrição no CNPJ.",
+          "fonte": "Regulamento de Licitações e Contratos da ABDI (Resolução CD 005/2021), art. 5º, § 1º (abdi.com.br)"
+        },
+        {
+          "id": "lc-l3-q5",
+          "enunciado": "Na contratação de encomenda tecnológica, a escolha do contratado, segundo o Regulamento, será orientada",
+          "alternativas": [
+            "para quem ofereça o maior número de lances.",
+            "para a empresa mais antiga do mercado.",
+            "para o licitante com sede no Distrito Federal.",
+            "para a maior probabilidade de alcance do resultado pretendido, e não necessariamente para o menor preço ou custo.",
+            "exclusivamente para o menor preço."
+          ],
+          "correta": 3,
+          "explicacao": "O art. 41, § 5º, II, afasta o critério exclusivo do menor preço nesse tipo de contratação.",
+          "fonte": "Regulamento de Licitações e Contratos da ABDI (Resolução CD 005/2021), art. 41, § 5º, II (abdi.com.br)"
+        }
+      ]
+    },
+    {
+      "id": "lc-l4",
+      "titulo": "Contratos, garantias, sanções e disposições gerais",
+      "minutos": 10,
+      "resumo": [
+        "Contratos são escritos e indicam objeto, preço, prazo, garantias, penalidades e manutenção das condições de habilitação (art. 52). Têm prazo determinado, não superior a 60 meses, incluindo prorrogações (parágrafo único).",
+        "Garantia (art. 53): limitada a 10% do valor do contrato, à escolha do contratado entre caução em dinheiro, fiança bancária e seguro-garantia.",
+        "Alterações (art. 56): acréscimos ou supressões até 25% do valor inicial atualizado, e até 50% para reforma de edifício ou de equipamento. Alterações e prorrogações constam de termos aditivos (art. 55).",
+        "Sanções: a recusa injustificada em assinar o contrato implica perda do direito à contratação e suspensão do direito de licitar ou contratar com a ABDI por dois anos (art. 57). O inadimplemento total ou parcial dá direito à rescisão unilateral, sem prejuízo da suspensão por até dois anos (art. 58).",
+        "Não podem participar das licitações nem executar contratos com a ABDI membros do Conselho Deliberativo, do Conselho Fiscal e da Diretoria Executiva, e seus empregados. A vedação alcança empresas cujos dirigentes, controladores, acionistas ou detentores de mais de 5% do capital com voto sejam essas pessoas ou seus parentes até o terceiro grau, quando elas atuarem na licitação, fiscalização ou gestão do contrato (art. 60).",
+        "Consórcio exige autorização expressa no edital (art. 59). A subcontratação é vedada com licitante que participou do procedimento (art. 54). A ABDI pode revogar a licitação antes do contrato, justificadamente, e deve anular a que tenha irregularidade insanável (art. 61). Prazos contam-se em dias úteis (art. 62)."
+      ],
+      "flashcards": [
+        {
+          "frente": "Prazo máximo dos contratos",
+          "verso": "60 meses, incluindo prorrogações (art. 52, parágrafo único)."
+        },
+        {
+          "frente": "Garantia",
+          "verso": "Até 10% do valor do contrato, por caução em dinheiro, fiança bancária ou seguro-garantia (art. 53)."
+        },
+        {
+          "frente": "Limites de alteração contratual",
+          "verso": "Até 25% do valor inicial. Até 50% para reforma de edifício ou de equipamento (art. 56)."
+        },
+        {
+          "frente": "Suspensão por recusa em assinar ou inadimplemento",
+          "verso": "Suspensão do direito de licitar ou contratar com a ABDI por dois anos (recusa) ou até dois anos (inadimplemento)."
+        }
+      ],
+      "questoes": [
+        {
+          "id": "lc-l4-q1",
+          "enunciado": "Os contratos da ABDI terão prazo determinado, não podendo ultrapassar, inclusive com suas eventuais prorrogações, o limite máximo de",
+          "alternativas": [
+            "120 meses.",
+            "12 meses.",
+            "60 meses.",
+            "36 meses.",
+            "24 meses."
+          ],
+          "correta": 2,
+          "explicacao": "O parágrafo único do art. 52 fixa 60 meses. Os 36 meses são o limite do registro de preço.",
+          "fonte": "Regulamento de Licitações e Contratos da ABDI (Resolução CD 005/2021), art. 52, parágrafo único (abdi.com.br)"
+        },
+        {
+          "id": "lc-l4-q2",
+          "enunciado": "A prestação de garantia nos contratos da ABDI é limitada a",
+          "alternativas": [
+            "10% do valor do contrato, à escolha do contratado entre caução em dinheiro, fiança bancária e seguro-garantia.",
+            "50% do valor, a critério da ABDI.",
+            "100% do valor, por seguro-garantia.",
+            "25% do valor, por fiança bancária obrigatória.",
+            "5% do valor, apenas em dinheiro."
+          ],
+          "correta": 0,
+          "explicacao": "O art. 53 limita a garantia a 10% do valor e lista as três modalidades.",
+          "fonte": "Regulamento de Licitações e Contratos da ABDI (Resolução CD 005/2021), art. 53 (abdi.com.br)"
+        },
+        {
+          "id": "lc-l4-q3",
+          "enunciado": "Os contratos da ABDI poderão ser aditados, nas hipóteses de supressão, complementação ou acréscimos, até",
+          "alternativas": [
+            "10% do valor inicial, em qualquer caso.",
+            "25% para reforma e 50% nos demais casos.",
+            "50% do valor inicial, em qualquer caso.",
+            "100% do valor, sem limite para reforma.",
+            "25% do valor inicial atualizado, e até 50% para reforma de edifício ou de equipamento."
+          ],
+          "correta": 4,
+          "explicacao": "O art. 56 fixa 25% como regra e 50% para reforma de edifício ou de equipamento, ambos atualizados.",
+          "fonte": "Regulamento de Licitações e Contratos da ABDI (Resolução CD 005/2021), art. 56 (abdi.com.br)"
+        },
+        {
+          "id": "lc-l4-q4",
+          "enunciado": "A recusa injustificada do licitante em assinar o contrato ou retirar o instrumento equivalente dentro do prazo fixado acarretará, entre outras, a penalidade de",
+          "alternativas": [
+            "suspensão por dez anos.",
+            "suspensão do direito de licitar ou contratar com a ABDI por dois anos.",
+            "advertência verbal, apenas.",
+            "declaração de inidoneidade perante todo o Sistema S.",
+            "multa fixa de R$ 100,00."
+          ],
+          "correta": 1,
+          "explicacao": "O art. 57, II, prevê a suspensão por dois anos, além da perda do direito à contratação.",
+          "fonte": "Regulamento de Licitações e Contratos da ABDI (Resolução CD 005/2021), art. 57 (abdi.com.br)"
+        },
+        {
+          "id": "lc-l4-q5",
+          "enunciado": "Pelo Regulamento de Licitações e Contratos, não poderão participar das licitações ou da execução de contratos com a ABDI, direta ou indiretamente,",
+          "alternativas": [
+            "somente microempresas.",
+            "qualquer empresa com sede fora de Brasília.",
+            "apenas empresas estrangeiras.",
+            "os membros do Conselho Deliberativo, do Conselho Fiscal e da Diretoria Executiva, e seus empregados.",
+            "apenas ex-empregados da ABDI."
+          ],
+          "correta": 3,
+          "explicacao": "O art. 60 veda a participação desses agentes e, quando atuarem na licitação, fiscalização ou gestão, estende a vedação a pessoas jurídicas ligadas a eles, incluindo as em que detenham mais de 5% do capital com voto.",
+          "fonte": "Regulamento de Licitações e Contratos da ABDI (Resolução CD 005/2021), art. 60 (abdi.com.br)"
+        },
+        {
+          "id": "lc-l4-q6",
+          "enunciado": "Na contagem dos prazos estabelecidos no Regulamento de Licitações e Contratos da ABDI",
+          "alternativas": [
+            "computam-se todos os dias corridos.",
+            "computam-se apenas os dias de semana, incluindo o dia do início.",
+            "computam-se somente os dias úteis, excluindo-se o dia do início e incluindo-se o do vencimento.",
+            "exclui-se o dia do vencimento.",
+            "computam-se apenas os sábados e domingos."
+          ],
+          "correta": 2,
+          "explicacao": "É a regra do art. 62.",
+          "fonte": "Regulamento de Licitações e Contratos da ABDI (Resolução CD 005/2021), art. 62 (abdi.com.br)"
+        }
+      ]
+    }
+  ]
+}

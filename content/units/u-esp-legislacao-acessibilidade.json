@@ -1,0 +1,378 @@
+{
+  "id": "u-esp-legislacao-acessibilidade",
+  "titulo": "Ética e legislação, direito à informação, proteção de dados, acessibilidade e linguagem simples",
+  "bloco": "Específicos",
+  "categoria": "esp",
+  "topicos": [
+    "esp-23",
+    "esp-24",
+    "esp-25",
+    "esp-26"
+  ],
+  "licoes": [
+    {
+      "id": "leg-l1",
+      "titulo": "Ética e legislação aplicadas à comunicação",
+      "minutos": 9,
+      "resumo": [
+        "Constituição Federal, art. 5º: é livre a manifestação do pensamento, vedado o anonimato (IV); é assegurado o direito de resposta, proporcional ao agravo, além de indenização por dano material, moral ou à imagem (V); é livre a expressão da atividade intelectual, artística, científica e de comunicação, independentemente de censura ou licença (IX).",
+        "São invioláveis a intimidade, a vida privada, a honra e a imagem das pessoas, com direito a indenização pela violação (art. 5º, X). É assegurado a todos o acesso à informação e resguardado o sigilo da fonte, quando necessário ao exercício profissional (art. 5º, XIV).",
+        "Art. 220: a manifestação do pensamento, a criação, a expressão e a informação, sob qualquer forma, processo ou veículo, não sofrem restrição, observada a Constituição. Nenhuma lei conterá dispositivo que embarace a plena liberdade de informação jornalística (§ 1º), e é vedada toda censura política, ideológica e artística (§ 2º).",
+        "Art. 37, § 1º: a publicidade dos órgãos públicos deve ter caráter educativo, informativo ou de orientação social, sem nomes, símbolos ou imagens que caracterizem promoção pessoal de autoridades ou servidores.",
+        "Na prática profissional, valem o compromisso com a verdade, o respeito à privacidade e à imagem, a correção de erros e a distinção clara entre informação, opinião e publicidade."
+      ],
+      "flashcards": [
+        {
+          "frente": "Direito de resposta (CF, art. 5º, V)",
+          "verso": "Assegurado de forma proporcional ao agravo, além de indenização por dano material, moral ou à imagem."
+        },
+        {
+          "frente": "Censura (CF, art. 220, § 2º)",
+          "verso": "É vedada toda e qualquer censura de natureza política, ideológica e artística."
+        },
+        {
+          "frente": "Publicidade de órgãos públicos (CF, art. 37, § 1º)",
+          "verso": "Caráter educativo, informativo ou de orientação social, sem promoção pessoal de autoridades ou servidores."
+        }
+      ],
+      "questoes": [
+        {
+          "id": "leg-l1-q1",
+          "enunciado": "De acordo com a Constituição Federal, é livre a manifestação do pensamento, sendo vedado o",
+          "alternativas": [
+            "direito de resposta.",
+            "pseudônimo literário.",
+            "debate público.",
+            "anonimato.",
+            "jornalismo investigativo."
+          ],
+          "correta": 3,
+          "explicacao": "É o texto do art. 5º, IV.",
+          "fonte": "Constituição Federal de 1988 (planalto.gov.br), art. 5º, IV"
+        },
+        {
+          "id": "leg-l1-q2",
+          "enunciado": "Segundo a Constituição Federal, o direito de resposta é assegurado",
+          "alternativas": [
+            "apenas a pessoas jurídicas.",
+            "apenas em jornais impressos.",
+            "de forma proporcional ao agravo, além da indenização por dano material, moral ou à imagem.",
+            "somente após condenação criminal.",
+            "sem relação com o tamanho do agravo."
+          ],
+          "correta": 2,
+          "explicacao": "O art. 5º, V, estabelece o direito de resposta proporcional ao agravo e a indenização.",
+          "fonte": "Constituição Federal de 1988 (planalto.gov.br), art. 5º, V"
+        },
+        {
+          "id": "leg-l1-q3",
+          "enunciado": "De acordo com o art. 220, § 2º, da Constituição Federal, é vedada",
+          "alternativas": [
+            "toda e qualquer censura de natureza política, ideológica e artística.",
+            "a divulgação de pesquisas de opinião.",
+            "a veiculação de publicidade.",
+            "a atividade jornalística em órgãos públicos.",
+            "a crítica a autoridades."
+          ],
+          "correta": 0,
+          "explicacao": "O dispositivo veda a censura prévia de natureza política, ideológica e artística.",
+          "fonte": "Constituição Federal de 1988 (planalto.gov.br), art. 220, § 2º"
+        },
+        {
+          "id": "leg-l1-q4",
+          "enunciado": "Segundo a Constituição Federal, são invioláveis a intimidade, a vida privada, a honra e a imagem das pessoas, assegurado",
+          "alternativas": [
+            "a censura prévia dos veículos.",
+            "a perda da liberdade de expressão do autor.",
+            "apenas o direito de resposta, sem indenização.",
+            "somente a retratação voluntária.",
+            "o direito a indenização pelo dano material ou moral decorrente de sua violação."
+          ],
+          "correta": 4,
+          "explicacao": "O art. 5º, X, protege esses direitos e assegura indenização.",
+          "fonte": "Constituição Federal de 1988 (planalto.gov.br), art. 5º, X"
+        },
+        {
+          "id": "leg-l1-q5",
+          "enunciado": "A publicidade dos atos, programas, obras, serviços e campanhas dos órgãos públicos deverá ter, segundo a Constituição Federal, caráter",
+          "alternativas": [
+            "comercial e de promoção do gestor.",
+            "educativo, informativo ou de orientação social, sem nomes, símbolos ou imagens que caracterizem promoção pessoal de autoridades ou servidores.",
+            "político-partidário.",
+            "sigiloso.",
+            "exclusivamente publicitário, com o nome da autoridade em destaque."
+          ],
+          "correta": 1,
+          "explicacao": "É o art. 37, § 1º, da Constituição Federal.",
+          "fonte": "Constituição Federal de 1988 (planalto.gov.br), art. 37, § 1º"
+        }
+      ]
+    },
+    {
+      "id": "leg-l2",
+      "titulo": "Direito à informação, transparência e acesso à informação",
+      "minutos": 9,
+      "resumo": [
+        "CF, art. 5º, XXXIII: todos têm direito a receber dos órgãos públicos informações de seu interesse particular, ou de interesse coletivo ou geral, no prazo da lei, sob pena de responsabilidade, ressalvadas aquelas cujo sigilo seja imprescindível à segurança da sociedade e do Estado.",
+        "Lei de Acesso à Informação (Lei 12.527/2011): regra é a publicidade e exceção é o sigilo (art. 3º, I). Os órgãos divulgam informações de interesse público independentemente de solicitações, ou seja, fazem transparência ativa (art. 3º, II, e art. 8º).",
+        "Divulgação mínima (art. 8º, § 1º): competências e estrutura, endereços e telefones, repasses de recursos, despesas, licitações e contratos, dados para acompanhamento de programas e respostas a perguntas frequentes.",
+        "Pedidos de acesso (arts. 10 e 11): qualquer interessado pode pedir, por qualquer meio legítimo, e não se pode exigir o motivo. O acesso é imediato se disponível. Do contrário, o prazo é de até 20 dias, prorrogável por 10, com justificativa.",
+        "A LAI vale, no que couber, para entidades privadas sem fins lucrativos que recebam recursos públicos por contrato de gestão, convênios e instrumentos congêneres, quanto à parcela dos recursos recebida e à sua destinação (art. 2º). Informações pessoais têm acesso restrito por até 100 anos (art. 31)."
+      ],
+      "flashcards": [
+        {
+          "frente": "Regra geral da LAI",
+          "verso": "Publicidade como preceito geral e sigilo como exceção (art. 3º, I)."
+        },
+        {
+          "frente": "Transparência ativa",
+          "verso": "Divulgação de informações de interesse público independentemente de solicitações (arts. 3º, II, e 8º)."
+        },
+        {
+          "frente": "A LAI se aplica à ABDI?",
+          "verso": "Sim, no que couber, por ser entidade privada sem fins lucrativos que recebe recursos públicos por contrato de gestão (art. 2º)."
+        }
+      ],
+      "questoes": [
+        {
+          "id": "leg-l2-q1",
+          "enunciado": "De acordo com a Lei de Acesso à Informação, a divulgação de informações de interesse público pelos órgãos e entidades, independentemente de solicitações, é chamada de",
+          "alternativas": [
+            "publicidade mercadológica.",
+            "clipping institucional.",
+            "transparência passiva.",
+            "transparência ativa.",
+            "sigilo ativo."
+          ],
+          "correta": 3,
+          "explicacao": "A LAI manda divulgar informações de interesse público sem depender de pedidos (art. 3º, II, e art. 8º).",
+          "fonte": "Lei 12.527/2011 (planalto.gov.br), arts. 3º, II, e 8º"
+        },
+        {
+          "id": "leg-l2-q2",
+          "enunciado": "A Lei 12.527/2011 estabelece, como diretriz, a observância da publicidade como preceito geral e do",
+          "alternativas": [
+            "anonimato como regra geral.",
+            "restrição de acesso como regra, com exceção para a imprensa.",
+            "sigilo como exceção.",
+            "sigilo como regra e da publicidade como exceção.",
+            "pagamento de taxa como regra."
+          ],
+          "correta": 2,
+          "explicacao": "É o art. 3º, I.",
+          "fonte": "Lei 12.527/2011 (planalto.gov.br), art. 3º, I"
+        },
+        {
+          "id": "leg-l2-q3",
+          "enunciado": "Entre as informações que devem constar, no mínimo, da divulgação a que se refere o art. 8º da LAI, estão",
+          "alternativas": [
+            "registros de repasses, despesas, procedimentos licitatórios e contratos, e respostas a perguntas mais frequentes da sociedade.",
+            "somente as informações sigilosas classificadas.",
+            "apenas fotos institucionais.",
+            "somente as atas reservadas dos conselhos.",
+            "apenas a lista de empregados com seus endereços residenciais."
+          ],
+          "correta": 0,
+          "explicacao": "O art. 8º, § 1º, traz esse conteúdo mínimo, incluindo licitações, contratos, despesas e perguntas frequentes.",
+          "fonte": "Lei 12.527/2011 (planalto.gov.br), art. 8º, § 1º"
+        },
+        {
+          "id": "leg-l2-q4",
+          "enunciado": "Quando não é possível conceder acesso imediato à informação solicitada, o órgão deve responder em prazo não superior a",
+          "alternativas": [
+            "60 dias, sem prorrogação.",
+            "5 dias, improrrogáveis.",
+            "2 dias úteis, sem prorrogação.",
+            "90 dias, sem justificativa.",
+            "20 dias, prorrogável por mais 10 dias, mediante justificativa expressa."
+          ],
+          "correta": 4,
+          "explicacao": "O art. 11, §§ 1º e 2º, fixa 20 dias e permite prorrogação por mais 10, com justificativa.",
+          "fonte": "Lei 12.527/2011 (planalto.gov.br), art. 11, §§ 1º e 2º"
+        }
+      ]
+    },
+    {
+      "id": "leg-l3",
+      "titulo": "Proteção de dados pessoais aplicada às atividades de comunicação",
+      "minutos": 9,
+      "resumo": [
+        "A comunicação trata dados pessoais o tempo todo: mailing de imprensa, listas de e-mail, cadastros de eventos, imagens e vozes de pessoas, formulários e pesquisas. A LGPD (Lei 13.709/2018) se aplica a esse tratamento.",
+        "Tratamento exige base legal (art. 7º), como consentimento do titular, cumprimento de obrigação legal, execução de política pública pela administração ou execução de contrato. Princípios do art. 6º: finalidade, adequação, necessidade, livre acesso, transparência, segurança, entre outros.",
+        "Direitos do titular (art. 18): confirmação do tratamento, acesso, correção, anonimização, bloqueio ou eliminação de dados desnecessários ou excessivos, portabilidade e eliminação dos dados tratados com consentimento.",
+        "O controlador indica um encarregado e divulga publicamente sua identidade e contato, preferencialmente no sítio eletrônico (art. 41). No Estatuto da ABDI, a DIREX aprova o relatório de impacto à proteção de dados pessoais e o plano de governança de dados e privacidade (art. 14, VI, c e d).",
+        "Boas práticas em comunicação: coletar só o necessário, informar a finalidade, obter consentimento claro (opt-in), oferecer descadastro, proteger as informações e, em fotos de eventos, informar o uso das imagens."
+      ],
+      "flashcards": [
+        {
+          "frente": "Consentimento",
+          "verso": "Uma das bases legais da LGPD para o tratamento de dados pessoais (art. 7º, I)."
+        },
+        {
+          "frente": "Encarregado",
+          "verso": "Pessoa indicada pelo controlador como canal de comunicação com titulares e com a ANPD. Seu contato é divulgado publicamente (art. 41)."
+        },
+        {
+          "frente": "Princípio da necessidade",
+          "verso": "Limita o tratamento ao mínimo necessário para atingir a finalidade."
+        }
+      ],
+      "questoes": [
+        {
+          "id": "leg-l3-q1",
+          "enunciado": "Um setor de comunicação mantém uma lista de e-mails de interessados em receber a newsletter da instituição. Nessa atividade, os e-mails e nomes constituem",
+          "alternativas": [
+            "informações classificadas como ultrassecretas.",
+            "dados pessoais, cujo tratamento deve observar a LGPD.",
+            "dados anonimizados.",
+            "informações livres, que independem de qualquer base legal.",
+            "dados públicos, sem proteção legal alguma."
+          ],
+          "correta": 1,
+          "explicacao": "Nome e e-mail identificam pessoa natural e são dados pessoais. O tratamento exige base legal e respeito aos princípios.",
+          "fonte": "Lei 13.709/2018 (planalto.gov.br), art. 5º, I"
+        },
+        {
+          "id": "leg-l3-q2",
+          "enunciado": "Entre as hipóteses legais que autorizam o tratamento de dados pessoais, previstas no art. 7º da LGPD, estão",
+          "alternativas": [
+            "a ausência de objeção do titular, sempre.",
+            "apenas a existência de um mailing já formado.",
+            "o interesse comercial de terceiros, sempre.",
+            "o consentimento do titular e o cumprimento de obrigação legal ou regulatória pelo controlador.",
+            "a conveniência do controlador, em qualquer caso."
+          ],
+          "correta": 3,
+          "explicacao": "O art. 7º, I e II, traz esses exemplos. As demais opções não são, por si, bases legais.",
+          "fonte": "Lei 13.709/2018 (planalto.gov.br), art. 7º, I e II"
+        },
+        {
+          "id": "leg-l3-q3",
+          "enunciado": "O princípio da LGPD segundo o qual o tratamento deve se limitar ao mínimo necessário para atingir sua finalidade é o da",
+          "alternativas": [
+            "responsabilização.",
+            "livre acesso.",
+            "necessidade.",
+            "transparência.",
+            "não discriminação."
+          ],
+          "correta": 2,
+          "explicacao": "O art. 6º, III, define a necessidade.",
+          "fonte": "Lei 13.709/2018 (planalto.gov.br), art. 6º, III"
+        },
+        {
+          "id": "leg-l3-q4",
+          "enunciado": "Quanto ao encarregado pelo tratamento de dados pessoais, a LGPD determina que sua identidade e informações de contato sejam divulgadas",
+          "alternativas": [
+            "publicamente, de forma clara e objetiva, preferencialmente no sítio eletrônico do controlador.",
+            "em sigilo absoluto.",
+            "apenas internamente, ao Conselho Fiscal.",
+            "somente por pedido judicial.",
+            "somente a órgãos de controle."
+          ],
+          "correta": 0,
+          "explicacao": "É o art. 41, § 1º.",
+          "fonte": "Lei 13.709/2018 (planalto.gov.br), art. 41, § 1º"
+        }
+      ]
+    },
+    {
+      "id": "leg-l4",
+      "titulo": "Acessibilidade, inclusão e linguagem simples na comunicação",
+      "minutos": 10,
+      "resumo": [
+        "Lei Brasileira de Inclusão (Lei 13.146/2015), art. 3º: acessibilidade é a possibilidade e a condição de alcance, com segurança e autonomia, de espaços, equipamentos, informação e comunicação, inclusive sistemas e tecnologias. Desenho universal é a concepção de produtos, ambientes e serviços para uso por todas as pessoas, sem necessidade de adaptação. Comunicação abrange Libras, textos, Braille, caracteres ampliados, dispositivos multimídia, linguagem simples, escrita e oral, entre outros.",
+        "Art. 63: é obrigatória a acessibilidade nos sítios da internet mantidos por empresas com sede ou representação comercial no País ou por órgãos de governo, conforme as melhores práticas e diretrizes internacionais. Os sítios devem conter o símbolo de acessibilidade em destaque.",
+        "Art. 67: os serviços de radiodifusão de sons e imagens devem permitir, entre outros recursos, a subtitulação por legenda oculta, a janela com intérprete de Libras e a audiodescrição.",
+        "Lei 15.263/2025 (Política Nacional de Linguagem Simples): define linguagem simples como técnicas para transmitir informações de forma clara e objetiva, para que o cidadão encontre, compreenda e use a informação (art. 4º).",
+        "Técnicas (art. 5º): frases em ordem direta e curtas, uma ideia por parágrafo, palavras comuns, explicar termos técnicos, nome completo antes das siglas, texto esquemático quando couber, informações mais importantes primeiro, voz ativa, evitar frases intercaladas e redundâncias, e testar a mensagem com o público-alvo. A comunicação oficial para comunidades indígenas deve ter, sempre que possível, versão na língua dos destinatários (art. 6º)."
+      ],
+      "flashcards": [
+        {
+          "frente": "Desenho universal",
+          "verso": "Concepção de produtos, ambientes, programas e serviços para uso por todas as pessoas, sem necessidade de adaptação (LBI, art. 3º, II)."
+        },
+        {
+          "frente": "Recursos de acessibilidade na radiodifusão (LBI, art. 67)",
+          "verso": "Legenda oculta, janela com intérprete de Libras e audiodescrição."
+        },
+        {
+          "frente": "Linguagem simples (Lei 15.263/2025, art. 4º)",
+          "verso": "Técnicas para transmitir informações de modo claro e objetivo, de forma que o cidadão encontre, compreenda e use a informação."
+        }
+      ],
+      "questoes": [
+        {
+          "id": "leg-l4-q1",
+          "enunciado": "Segundo a Lei Brasileira de Inclusão, a concepção de produtos, ambientes, programas e serviços a serem usados por todas as pessoas, sem necessidade de adaptação ou de projeto específico, é chamada de",
+          "alternativas": [
+            "barreira atitudinal.",
+            "adaptação razoável.",
+            "acessibilidade tarifária.",
+            "tecnologia assistiva.",
+            "desenho universal."
+          ],
+          "correta": 4,
+          "explicacao": "O art. 3º, II, define o desenho universal.",
+          "fonte": "Lei 13.146/2015 (planalto.gov.br), art. 3º, II"
+        },
+        {
+          "id": "leg-l4-q2",
+          "enunciado": "A Lei Brasileira de Inclusão estabelece que os serviços de radiodifusão de sons e imagens devem permitir, entre outros recursos,",
+          "alternativas": [
+            "somente a transmissão em alta resolução.",
+            "a subtitulação por legenda oculta, a janela com intérprete de Libras e a audiodescrição.",
+            "somente a exibição de publicidade.",
+            "apenas o uso de intérprete em programas religiosos.",
+            "apenas a transmissão em preto e branco."
+          ],
+          "correta": 1,
+          "explicacao": "É a lista do art. 67, I a III.",
+          "fonte": "Lei 13.146/2015 (planalto.gov.br), art. 67"
+        },
+        {
+          "id": "leg-l4-q3",
+          "enunciado": "De acordo com a Lei Brasileira de Inclusão, é obrigatória a acessibilidade nos sítios da internet mantidos",
+          "alternativas": [
+            "apenas por organizações estrangeiras.",
+            "por pessoas físicas, em qualquer caso.",
+            "apenas por veículos de imprensa.",
+            "por empresas com sede ou representação comercial no País ou por órgãos de governo, e eles devem conter o símbolo de acessibilidade em destaque.",
+            "somente por escolas públicas."
+          ],
+          "correta": 3,
+          "explicacao": "O art. 63 e o § 1º tratam da obrigação e do símbolo de acessibilidade.",
+          "fonte": "Lei 13.146/2015 (planalto.gov.br), art. 63, caput e § 1º"
+        },
+        {
+          "id": "leg-l4-q4",
+          "enunciado": "Entre as técnicas de linguagem simples previstas na Política Nacional de Linguagem Simples (Lei 15.263/2025) estão",
+          "alternativas": [
+            "deixar as informações mais importantes para o final.",
+            "usar frases longas com muitas intercalações.",
+            "redigir frases curtas e em ordem direta, desenvolver uma ideia por parágrafo e redigir o nome completo antes das siglas.",
+            "usar o máximo de palavras estrangeiras.",
+            "empregar jargões sem explicação."
+          ],
+          "correta": 2,
+          "explicacao": "As técnicas do art. 5º incluem frases curtas e diretas, uma ideia por parágrafo, nome completo antes das siglas e informações importantes primeiro.",
+          "fonte": "Lei 15.263/2025 (planalto.gov.br), art. 5º"
+        },
+        {
+          "id": "leg-l4-q5",
+          "enunciado": "A Política Nacional de Linguagem Simples (Lei 15.263/2025) recomenda que a administração pública",
+          "alternativas": [
+            "teste com o público-alvo se a mensagem está compreensível.",
+            "evite qualquer teste com cidadãos.",
+            "publique apenas em língua estrangeira.",
+            "dispense a explicação de termos técnicos.",
+            "use somente a linguagem técnica do órgão."
+          ],
+          "correta": 0,
+          "explicacao": "O art. 5º, XVIII, inclui testar a mensagem com o público-alvo.",
+          "fonte": "Lei 15.263/2025 (planalto.gov.br), art. 5º, XVIII"
+        }
+      ]
+    }
+  ]
+}

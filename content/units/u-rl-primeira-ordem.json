@@ -1,0 +1,176 @@
+{
+  "id": "u-rl-primeira-ordem",
+  "titulo": "Lógica de primeira ordem: quantificadores e silogismos",
+  "bloco": "Gerais",
+  "categoria": "rl",
+  "topicos": [
+    "rl-04"
+  ],
+  "licoes": [
+    {
+      "id": "rl1-l1",
+      "titulo": "Quantificadores e suas negações",
+      "minutos": 7,
+      "resumo": [
+        "Quantificador universal: todo, qualquer. Existencial: algum, existe, pelo menos um. Universal negativo: nenhum.",
+        "Negação de \"todo A é B\": \"algum A não é B\".",
+        "Negação de \"algum A é B\": \"nenhum A é B\". Negação de \"nenhum A é B\": \"algum A é B\".",
+        "Ao negar uma frase com \"e\" ou \"ou\" dentro, aplique De Morgan ao predicado."
+      ],
+      "flashcards": [
+        {
+          "frente": "Negação de \"todo A é B\"",
+          "verso": "Algum A não é B."
+        },
+        {
+          "frente": "Negação de \"algum A é B\"",
+          "verso": "Nenhum A é B."
+        },
+        {
+          "frente": "Negação de \"nenhum A é B\"",
+          "verso": "Algum A é B."
+        }
+      ],
+      "questoes": [
+        {
+          "id": "rl1-l1-q1",
+          "enunciado": "A negação de \"Todos os servidores participaram do curso\" é",
+          "alternativas": [
+            "Nenhum servidor participou do curso.",
+            "Algum servidor participou do curso.",
+            "Poucos servidores participaram do curso.",
+            "Todos os servidores não participaram do curso.",
+            "Algum servidor não participou do curso."
+          ],
+          "correta": 4,
+          "explicacao": "A negação de um universal afirmativo é um particular negativo. \"Nenhum\" é mais forte do que a negação lógica.",
+          "fonte": "Referência conceitual: lógica proposicional clássica (tabelas-verdade e regras de inferência)"
+        },
+        {
+          "id": "rl1-l1-q2",
+          "enunciado": "A negação de \"Algum candidato foi aprovado\" é",
+          "alternativas": [
+            "Todos os candidatos não foram aprovados e alguns foram.",
+            "Nenhum candidato foi aprovado.",
+            "Vários candidatos foram reprovados.",
+            "Algum candidato não foi aprovado.",
+            "Todos os candidatos foram aprovados."
+          ],
+          "correta": 1,
+          "explicacao": "Negar \"existe\" é afirmar que nenhum satisfaz a propriedade.",
+          "fonte": "Referência conceitual: lógica proposicional clássica (tabelas-verdade e regras de inferência)"
+        },
+        {
+          "id": "rl1-l1-q3",
+          "enunciado": "A negação de \"Nenhum documento está pendente\" é",
+          "alternativas": [
+            "Algum documento não está pendente.",
+            "Todos os documentos foram entregues.",
+            "Nenhum documento foi entregue.",
+            "Algum documento está pendente.",
+            "Todos os documentos estão pendentes."
+          ],
+          "correta": 3,
+          "explicacao": "A negação de \"nenhum\" é \"pelo menos um\".",
+          "fonte": "Referência conceitual: lógica proposicional clássica (tabelas-verdade e regras de inferência)"
+        },
+        {
+          "id": "rl1-l1-q4",
+          "enunciado": "A negação de \"Todo analista é pontual ou assíduo\" é",
+          "alternativas": [
+            "Algum analista é pontual e assíduo.",
+            "Algum analista não é pontual ou não é assíduo.",
+            "Algum analista não é pontual e não é assíduo.",
+            "Nenhum analista é pontual ou assíduo.",
+            "Todo analista é impontual e inassíduo."
+          ],
+          "correta": 2,
+          "explicacao": "Nega-se o quantificador (todo vira algum não) e aplica-se De Morgan ao predicado (ou vira e, com negação).",
+          "fonte": "Referência conceitual: lógica proposicional clássica (tabelas-verdade e regras de inferência)"
+        }
+      ]
+    },
+    {
+      "id": "rl1-l2",
+      "titulo": "Silogismos categóricos e diagramas",
+      "minutos": 8,
+      "resumo": [
+        "\"Todo A é B\": o círculo de A fica dentro do de B. \"Nenhum A é B\": círculos separados. \"Algum A é B\": os círculos se cruzam.",
+        "Conclusões válidas: se todo A é B e todo B é C, então todo A é C. Se todo A é B e algum C é A, então algum C é B. Se nenhum A é B e todo C é A, então nenhum C é B.",
+        "Cuidado com a falácia: de \"todo A é B\" e \"todo C é B\" não se conclui que todo A é C."
+      ],
+      "flashcards": [
+        {
+          "frente": "Silogismo clássico",
+          "verso": "Todo A é B; todo B é C; logo todo A é C."
+        },
+        {
+          "frente": "Falácia do termo médio",
+          "verso": "Todo A é B e todo C é B não permite concluir nenhuma relação entre A e C."
+        },
+        {
+          "frente": "\"Algum A é B\" no diagrama",
+          "verso": "Os círculos de A e B têm interseção não vazia."
+        }
+      ],
+      "questoes": [
+        {
+          "id": "rl1-l2-q1",
+          "enunciado": "Premissas: \"Todo analista é graduado\" e \"Todo graduado é elegível\". Conclui-se necessariamente que",
+          "alternativas": [
+            "todo analista é elegível.",
+            "todo elegível é analista.",
+            "todo graduado é analista.",
+            "nenhum analista é elegível.",
+            "algum elegível não é graduado."
+          ],
+          "correta": 0,
+          "explicacao": "Encadeando os dois universais, todo analista é elegível.",
+          "fonte": "Referência conceitual: lógica proposicional clássica (tabelas-verdade e regras de inferência)"
+        },
+        {
+          "id": "rl1-l2-q2",
+          "enunciado": "Premissas: \"Nenhum estagiário tem acesso total\" e \"Todo bolsista é estagiário\". Conclui-se necessariamente que",
+          "alternativas": [
+            "algum bolsista tem acesso total.",
+            "nenhum estagiário é bolsista.",
+            "todo estagiário é bolsista.",
+            "todo bolsista tem acesso total.",
+            "nenhum bolsista tem acesso total."
+          ],
+          "correta": 4,
+          "explicacao": "Como todo bolsista está no conjunto dos estagiários, e nenhum deles tem acesso total, nenhum bolsista tem.",
+          "fonte": "Referência conceitual: lógica proposicional clássica (tabelas-verdade e regras de inferência)"
+        },
+        {
+          "id": "rl1-l2-q3",
+          "enunciado": "Premissas: \"Todo gestor é líder\" e \"Algum analista é gestor\". Conclui-se necessariamente que",
+          "alternativas": [
+            "todo líder é gestor.",
+            "algum analista é líder.",
+            "nenhum analista é líder.",
+            "todo analista é líder.",
+            "algum líder não é gestor."
+          ],
+          "correta": 1,
+          "explicacao": "Os analistas que são gestores são líderes. Nada se pode afirmar sobre todos os analistas.",
+          "fonte": "Referência conceitual: lógica proposicional clássica (tabelas-verdade e regras de inferência)"
+        },
+        {
+          "id": "rl1-l2-q4",
+          "enunciado": "A partir das premissas \"Todo redator é comunicador\" e \"Todo jornalista é comunicador\", é correto afirmar que",
+          "alternativas": [
+            "nenhum redator é jornalista.",
+            "algum comunicador não é redator.",
+            "todo redator é jornalista.",
+            "não se pode concluir necessariamente que todo redator seja jornalista.",
+            "todo jornalista é redator."
+          ],
+          "correta": 3,
+          "explicacao": "Os dois conjuntos estão dentro de \"comunicador\", mas podem ou não se sobrepor. A conclusão não é necessária.",
+          "fonte": "Referência conceitual: lógica proposicional clássica (tabelas-verdade e regras de inferência)"
+        }
+      ]
+    }
+  ]
+}

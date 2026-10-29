@@ -1,0 +1,346 @@
+{
+  "id": "u-esp-redacao-edicao-ciencia",
+  "titulo": "Redação jornalística, edição e revisão, comunicação científica, tecnológica e ambiental",
+  "bloco": "Específicos",
+  "categoria": "esp",
+  "topicos": [
+    "esp-10",
+    "esp-11",
+    "esp-22"
+  ],
+  "licoes": [
+    {
+      "id": "red-l1",
+      "titulo": "Redação jornalística: lide e pirâmide invertida",
+      "minutos": 8,
+      "resumo": [
+        "Lide (lead) é o parágrafo de abertura da notícia. Ele responde, em geral, às perguntas: o quê, quem, quando, onde, como e por quê.",
+        "Pirâmide invertida: as informações mais importantes vêm primeiro, em ordem decrescente de importância. Assim o leitor entende o essencial logo de início, e o texto pode ser cortado pelo fim sem perder o principal.",
+        "Estrutura típica: título (informativo, com verbo, em geral no presente), linha fina ou subtítulo, lide e corpo do texto.",
+        "Linguagem: clara, concisa e objetiva, com frases curtas, preferência pela voz ativa e sem adjetivos opinativos. As informações devem ser atribuídas às fontes, em discurso direto (entre aspas) ou indireto."
+      ],
+      "flashcards": [
+        {
+          "frente": "Lide",
+          "verso": "Parágrafo de abertura da notícia que traz as informações essenciais: o quê, quem, quando, onde, como e por quê."
+        },
+        {
+          "frente": "Pirâmide invertida",
+          "verso": "Estrutura em que as informações mais importantes vêm primeiro, em ordem decrescente de importância."
+        },
+        {
+          "frente": "Discurso direto x indireto",
+          "verso": "Direto: reproduz a fala entre aspas. Indireto: relata a fala com as palavras do jornalista."
+        }
+      ],
+      "questoes": [
+        {
+          "id": "red-l1-q1",
+          "enunciado": "O lide de uma notícia tem como função principal",
+          "alternativas": [
+            "apresentar logo no início as informações essenciais do fato, respondendo às perguntas básicas (o quê, quem, quando, onde, como e por quê).",
+            "deixar as informações essenciais para o final.",
+            "reproduzir o texto integral do release da assessoria.",
+            "apresentar apenas o título e a legenda.",
+            "apresentar a opinião do jornalista sobre o fato."
+          ],
+          "correta": 0,
+          "explicacao": "O lide resume o essencial e orienta a leitura do restante da notícia.",
+          "fonte": "Referência conceitual: manuais de redação de veículos de imprensa brasileiros (lide, pirâmide invertida e padronização)"
+        },
+        {
+          "id": "red-l1-q2",
+          "enunciado": "Na técnica da pirâmide invertida, o texto jornalístico é organizado",
+          "alternativas": [
+            "do menos importante para o mais importante.",
+            "com a conclusão no primeiro parágrafo e a opinião no último.",
+            "sem hierarquia entre as informações.",
+            "em ordem cronológica, do início ao fim, sempre.",
+            "do mais importante para o menos importante."
+          ],
+          "correta": 4,
+          "explicacao": "Os dados mais relevantes aparecem primeiro, o que facilita a leitura e a edição por cortes.",
+          "fonte": "Referência conceitual: manuais de redação de veículos de imprensa brasileiros (lide, pirâmide invertida e padronização)"
+        },
+        {
+          "id": "red-l1-q3",
+          "enunciado": "Entre as características desejáveis da linguagem jornalística está",
+          "alternativas": [
+            "as frases longas e cheias de intercalações.",
+            "a clareza, a concisão e a objetividade, com frases curtas e preferência pela voz ativa.",
+            "o tom promocional da organização.",
+            "o uso de jargões técnicos sem explicação.",
+            "o uso de adjetivos opinativos para reforçar a mensagem."
+          ],
+          "correta": 1,
+          "explicacao": "A notícia busca informar de modo claro e imparcial.",
+          "fonte": "Referência conceitual: manuais de redação de veículos de imprensa brasileiros (lide, pirâmide invertida e padronização)"
+        },
+        {
+          "id": "red-l1-q4",
+          "enunciado": "Quando o jornalista escreve \"O presidente afirmou que as inscrições serão prorrogadas\", ele utiliza",
+          "alternativas": [
+            "discurso direto, entre aspas.",
+            "linguagem publicitária.",
+            "opinião, sem atribuição.",
+            "discurso indireto, atribuindo a informação à fonte.",
+            "um recurso de edição de imagem."
+          ],
+          "correta": 3,
+          "explicacao": "No discurso indireto, a fala é relatada com palavras do jornalista, sem aspas, mas com atribuição.",
+          "fonte": "Referência conceitual: manuais de redação de veículos de imprensa brasileiros (lide, pirâmide invertida e padronização)"
+        }
+      ]
+    },
+    {
+      "id": "red-l2",
+      "titulo": "Release, nota, entrevista, artigo e texto institucional",
+      "minutos": 9,
+      "resumo": [
+        "Release é o texto enviado à imprensa para sugerir pauta e divulgar informação. Para ser aproveitado, precisa ter relevância jornalística, linguagem objetiva (de notícia), título e lide claros, dados de contato e informações verificáveis. Deve evitar o tom publicitário e a adjetivação promocional.",
+        "Nota é um texto curto e direto, com uma informação objetiva. Nota oficial é o posicionamento formal da organização sobre um assunto, útil em situações sensíveis ou de crise.",
+        "Entrevista pode ser publicada em perguntas e respostas (pingue-pongue) ou em texto corrido. Exige pesquisa prévia, pauta de perguntas, gravação e checagem das informações. Perfil é o retrato de uma pessoa.",
+        "Artigo é texto opinativo, assinado, em que o autor defende um ponto de vista com argumentos. Texto institucional é a voz da organização: apresenta sua missão, serviços e resultados, em linguagem clara, com tom formal e sem excesso de promoção."
+      ],
+      "flashcards": [
+        {
+          "frente": "Release adequado",
+          "verso": "Tem relevância jornalística, linguagem objetiva, título e lide claros, dados de contato e evita tom publicitário."
+        },
+        {
+          "frente": "Nota oficial",
+          "verso": "Posicionamento formal da organização sobre um tema ou acontecimento, em texto curto."
+        },
+        {
+          "frente": "Artigo",
+          "verso": "Texto opinativo assinado, que defende uma tese com argumentos."
+        }
+      ],
+      "questoes": [
+        {
+          "id": "red-l2-q1",
+          "enunciado": "O release enviado por uma assessoria à imprensa tem maior chance de ser aproveitado quando",
+          "alternativas": [
+            "traz apenas o logotipo e o telefone.",
+            "é enviado a todos os veículos, sem segmentação.",
+            "apresenta informação de interesse público, em linguagem jornalística e objetiva, com dados de contato.",
+            "é longo, sem título e sem lide.",
+            "usa adjetivos elogiosos e slogans da organização."
+          ],
+          "correta": 2,
+          "explicacao": "O release deve se parecer com uma notícia, com relevância e informações verificáveis.",
+          "fonte": "Referência conceitual: R. Chinem, Assessoria de Imprensa: como fazer; J. Duarte (org.), Assessoria de Imprensa e Relacionamento com a Mídia"
+        },
+        {
+          "id": "red-l2-q2",
+          "enunciado": "A manifestação formal de uma organização, em texto curto, sobre um assunto sensível ou acontecimento que a envolve é chamada de",
+          "alternativas": [
+            "nota oficial.",
+            "artigo de opinião.",
+            "crônica.",
+            "editorial.",
+            "resenha."
+          ],
+          "correta": 0,
+          "explicacao": "A nota oficial registra o posicionamento da organização e é muito usada na gestão de crises.",
+          "fonte": "Referência conceitual: R. Chinem, Assessoria de Imprensa: como fazer; J. Duarte (org.), Assessoria de Imprensa e Relacionamento com a Mídia"
+        },
+        {
+          "id": "red-l2-q3",
+          "enunciado": "A entrevista publicada em formato de perguntas e respostas, reproduzindo o diálogo, é conhecida como",
+          "alternativas": [
+            "release.",
+            "lide.",
+            "mailing.",
+            "editorial.",
+            "pingue-pongue."
+          ],
+          "correta": 4,
+          "explicacao": "O pingue-pongue mostra as perguntas do entrevistador e as respostas do entrevistado.",
+          "fonte": "Referência conceitual: N. Lage, A Reportagem: teoria e técnica de entrevista e pesquisa jornalística"
+        },
+        {
+          "id": "red-l2-q4",
+          "enunciado": "O texto opinativo, assinado, em que o autor defende um ponto de vista com argumentos, é o",
+          "alternativas": [
+            "nota.",
+            "artigo.",
+            "release.",
+            "clipping.",
+            "lide."
+          ],
+          "correta": 1,
+          "explicacao": "O artigo é um gênero opinativo assinado.",
+          "fonte": "Referência conceitual: J. Marques de Melo e S. Assis, Gêneros e Formatos Jornalísticos"
+        }
+      ]
+    },
+    {
+      "id": "red-l3",
+      "titulo": "Edição e revisão de conteúdos",
+      "minutos": 8,
+      "resumo": [
+        "Edição é a seleção, a hierarquização, o corte, a titulação e a padronização do conteúdo, para que ele atenda ao público e ao estilo do veículo ou da organização.",
+        "Revisão é a conferência do texto final: ortografia, gramática, pontuação e também fatos, nomes, cargos, datas, números e siglas. Erros de informação prejudicam a credibilidade.",
+        "Manual de redação ou guia de estilo padroniza grafias, formas de tratamento, siglas e uso de números, e garante coerência entre diferentes autores.",
+        "Fluxo típico: pauta, apuração, redação, edição, revisão, aprovação e publicação. Checar fontes, dar crédito a fotos e a textos e respeitar direitos autorais fazem parte da edição responsável."
+      ],
+      "flashcards": [
+        {
+          "frente": "Edição x revisão",
+          "verso": "Edição seleciona, hierarquiza, corta e titula. Revisão confere erros de língua e de informação (nomes, cargos, datas, números)."
+        },
+        {
+          "frente": "Guia de estilo",
+          "verso": "Documento que padroniza grafias, siglas, formas de tratamento e formatação."
+        },
+        {
+          "frente": "O que conferir na revisão de fatos",
+          "verso": "Nomes, cargos, datas, números, grafia de siglas e citações."
+        }
+      ],
+      "questoes": [
+        {
+          "id": "red-l3-q1",
+          "enunciado": "A etapa em que se confere o texto final, verificando ortografia, gramática, pontuação e, também, nomes, cargos, datas e números, é a",
+          "alternativas": [
+            "pauta.",
+            "apuração.",
+            "distribuição.",
+            "revisão.",
+            "sugestão de pauta."
+          ],
+          "correta": 3,
+          "explicacao": "A revisão corrige erros de língua e de informação antes da publicação.",
+          "fonte": "Referência conceitual: manuais de redação de veículos de imprensa brasileiros (lide, pirâmide invertida e padronização)"
+        },
+        {
+          "id": "red-l3-q2",
+          "enunciado": "A edição de um conteúdo envolve, entre outras ações,",
+          "alternativas": [
+            "apenas corrigir erros de digitação.",
+            "criar o logotipo da organização.",
+            "selecionar, hierarquizar, cortar, titular e padronizar o material.",
+            "definir a remuneração dos redatores.",
+            "contratar fornecedores de impressão."
+          ],
+          "correta": 2,
+          "explicacao": "A edição organiza e qualifica o conteúdo, e a revisão faz a conferência final.",
+          "fonte": "Referência conceitual: manuais de redação de veículos de imprensa brasileiros (lide, pirâmide invertida e padronização)"
+        },
+        {
+          "id": "red-l3-q3",
+          "enunciado": "O documento que padroniza grafias, siglas, formas de tratamento e outros critérios de redação em uma organização é o",
+          "alternativas": [
+            "manual de redação (ou guia de estilo).",
+            "press kit.",
+            "mailing.",
+            "plano de cargos.",
+            "termo de referência."
+          ],
+          "correta": 0,
+          "explicacao": "O guia de estilo garante coerência entre textos de diferentes autores.",
+          "fonte": "Referência conceitual: manuais de redação de veículos de imprensa brasileiros (lide, pirâmide invertida e padronização)"
+        },
+        {
+          "id": "red-l3-q4",
+          "enunciado": "Antes de publicar um comunicado que cita o nome e o cargo de um dirigente, a conduta mais adequada de revisão é",
+          "alternativas": [
+            "omitir o cargo para evitar erro.",
+            "publicar e corrigir só se houver reclamação.",
+            "copiar o cargo de um texto antigo.",
+            "confiar na memória do redator.",
+            "conferir a grafia do nome e o cargo atual em fonte confiável."
+          ],
+          "correta": 4,
+          "explicacao": "Erros de nome e de cargo são comuns e prejudicam a credibilidade. A checagem faz parte da revisão.",
+          "fonte": "Referência conceitual: manuais de redação de veículos de imprensa brasileiros (lide, pirâmide invertida e padronização)"
+        }
+      ]
+    },
+    {
+      "id": "red-l4",
+      "titulo": "Comunicação científica, tecnológica e ambiental",
+      "minutos": 9,
+      "resumo": [
+        "Disseminação científica é a circulação do conhecimento entre especialistas, como em periódicos e congressos. Divulgação científica traduz esse conhecimento para o público leigo, em linguagem acessível (Bueno). O jornalismo científico é uma forma de divulgação.",
+        "Desafios: manter o rigor sem jargão, contextualizar resultados, indicar incertezas e limites, citar fontes e estudos e evitar o sensacionalismo e as promessas exageradas.",
+        "Na comunicação tecnológica, vale explicar o problema que a inovação resolve, para quem e com que evidência, evitando tecnicismo. Na comunicação ambiental e de sustentabilidade, deve haver coerência entre o discurso e as práticas.",
+        "Greenwashing é divulgar uma imagem ambientalmente responsável sem práticas que a sustentem, ou exagerando benefícios. Dados, metas e resultados verificáveis protegem a reputação.",
+        "No Planejamento Estratégico 2024-2029 da ABDI, há objetivos de ampliar a maturidade digital e boas práticas ambientais, sociais e de governança no setor produtivo, temas centrais para a comunicação científica e tecnológica da Agência."
+      ],
+      "flashcards": [
+        {
+          "frente": "Divulgação x disseminação científica",
+          "verso": "Divulgação: tradução para o público leigo. Disseminação: circulação entre especialistas."
+        },
+        {
+          "frente": "Greenwashing",
+          "verso": "Imagem ambientalmente responsável sem práticas que a sustentem, ou com benefícios exagerados."
+        },
+        {
+          "frente": "Cuidados na comunicação de ciência",
+          "verso": "Rigor, contexto, citação das fontes, indicação de incertezas e ausência de sensacionalismo."
+        }
+      ],
+      "questoes": [
+        {
+          "id": "red-l4-q1",
+          "enunciado": "Segundo a distinção de Wilson Bueno, a divulgação científica é a comunicação do conhecimento científico dirigida",
+          "alternativas": [
+            "exclusivamente a investidores.",
+            "ao público leigo, com linguagem acessível, enquanto a disseminação ocorre entre especialistas.",
+            "apenas a alunos de pós-graduação.",
+            "somente a órgãos de controle.",
+            "apenas a especialistas, em periódicos."
+          ],
+          "correta": 1,
+          "explicacao": "Divulgação traduz o conhecimento para o grande público. A disseminação circula entre pares.",
+          "fonte": "Referência conceitual: W. C. Bueno, Comunicação científica e divulgação científica: aproximações e rupturas conceituais"
+        },
+        {
+          "id": "red-l4-q2",
+          "enunciado": "Divulgar uma imagem de organização ambientalmente responsável, sem práticas que a sustentem, ou exagerando benefícios, caracteriza",
+          "alternativas": [
+            "merchandising.",
+            "benchmarking.",
+            "storytelling.",
+            "greenwashing.",
+            "endomarketing."
+          ],
+          "correta": 3,
+          "explicacao": "Greenwashing é o discurso verde sem lastro nas práticas, e fere a credibilidade.",
+          "fonte": "Referência conceitual: W. C. Bueno, Comunicação científica e divulgação científica: aproximações e rupturas conceituais"
+        },
+        {
+          "id": "red-l4-q3",
+          "enunciado": "Ao comunicar os resultados de uma pesquisa científica ao público em geral, a conduta mais adequada é",
+          "alternativas": [
+            "usar linguagem técnica sem explicação.",
+            "apresentar o resultado como verdade definitiva.",
+            "explicar o estudo em linguagem acessível, indicar limites e incertezas e citar as fontes.",
+            "omitir a fonte do estudo.",
+            "exagerar os benefícios para chamar atenção."
+          ],
+          "correta": 2,
+          "explicacao": "A boa divulgação científica combina clareza, rigor e transparência sobre incertezas.",
+          "fonte": "Referência conceitual: W. C. Bueno, Comunicação científica e divulgação científica: aproximações e rupturas conceituais"
+        },
+        {
+          "id": "red-l4-q4",
+          "enunciado": "Entre os cuidados ao divulgar uma inovação tecnológica de uma instituição, está",
+          "alternativas": [
+            "explicar o problema que ela resolve e apresentar evidências, evitando promessas exageradas.",
+            "omitir as limitações da tecnologia.",
+            "usar termos técnicos sem explicação, para impressionar.",
+            "prometer resultados garantidos.",
+            "evitar citar parceiros e fontes."
+          ],
+          "correta": 0,
+          "explicacao": "A comunicação tecnológica deve ser acessível, honesta e apoiada em evidências.",
+          "fonte": "Referência conceitual: W. C. Bueno, Comunicação científica e divulgação científica: aproximações e rupturas conceituais"
+        }
+      ]
+    }
+  ]
+}

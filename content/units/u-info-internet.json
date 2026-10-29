@@ -1,0 +1,262 @@
+{
+  "id": "u-info-internet",
+  "titulo": "Internet, correio eletrônico e computação em nuvem",
+  "bloco": "Gerais",
+  "categoria": "info",
+  "topicos": [
+    "info-05",
+    "info-06",
+    "info-08"
+  ],
+  "licoes": [
+    {
+      "id": "inet-l1",
+      "titulo": "Internet, intranet, navegadores e busca",
+      "minutos": 7,
+      "resumo": [
+        "Internet é a rede mundial de computadores. Intranet é uma rede privada que usa as mesmas tecnologias, restrita à organização. Extranet libera parte da intranet a parceiros.",
+        "HTTPS é o HTTP com criptografia, e o cadeado do navegador indica conexão segura (não garante que o site seja confiável). O DNS traduz nomes de sites em endereços IP.",
+        "Cookies guardam informações de navegação. A janela anônima ou privada não grava histórico, cookies e dados de formulários no aparelho ao ser fechada, mas não impede que o site ou o provedor registrem o acesso.",
+        "Operadores de busca: aspas buscam a frase exata, o sinal de menos exclui um termo, site: restringe a um domínio e filetype: restringe a um tipo de arquivo."
+      ],
+      "flashcards": [
+        {
+          "frente": "Intranet",
+          "verso": "Rede privada de uma organização, que usa as tecnologias da internet."
+        },
+        {
+          "frente": "O que faz o DNS?",
+          "verso": "Traduz nomes de domínio em endereços IP."
+        },
+        {
+          "frente": "Operador site:",
+          "verso": "Restringe a busca a um domínio, por exemplo: site:abdi.com.br relatório."
+        }
+      ],
+      "questoes": [
+        {
+          "id": "inet-l1-q1",
+          "enunciado": "Uma rede interna de uma organização, que usa as tecnologias da internet, mas é acessível apenas aos seus empregados, é chamada de",
+          "alternativas": [
+            "extranet pública.",
+            "blockchain.",
+            "rede mundial.",
+            "darknet.",
+            "intranet."
+          ],
+          "correta": 4,
+          "explicacao": "Intranet é a rede privada corporativa. A extranet abre parte dela a parceiros.",
+          "fonte": "Referência conceitual: fundamentos de informática (conteúdo estável, sem dependência de versão)"
+        },
+        {
+          "id": "inet-l1-q2",
+          "enunciado": "O serviço que traduz nomes de domínio (como www.exemplo.com.br) em endereços IP é o",
+          "alternativas": [
+            "SMTP.",
+            "DNS.",
+            "VPN.",
+            "DHCP.",
+            "FTP."
+          ],
+          "correta": 1,
+          "explicacao": "O DNS (Domain Name System) faz a resolução de nomes em endereços.",
+          "fonte": "Referência conceitual: fundamentos de informática (conteúdo estável, sem dependência de versão)"
+        },
+        {
+          "id": "inet-l1-q3",
+          "enunciado": "Sobre a navegação em janela anônima de um navegador, é correto afirmar que ela",
+          "alternativas": [
+            "torna o usuário totalmente invisível na internet.",
+            "protege o computador contra qualquer vírus.",
+            "criptografa todos os dados transmitidos.",
+            "não guarda histórico e cookies no aparelho ao ser encerrada, mas não impede o registro do acesso pelo site ou pelo provedor.",
+            "impede que o provedor de internet saiba os sites visitados."
+          ],
+          "correta": 3,
+          "explicacao": "O modo anônimo evita que o navegador salve dados locais, mas não esconde a navegação de sites, provedores ou administradores de rede.",
+          "fonte": "Referência conceitual: fundamentos de informática (conteúdo estável, sem dependência de versão)"
+        },
+        {
+          "id": "inet-l1-q4",
+          "enunciado": "Para restringir uma busca aos resultados de um domínio específico, usa-se o operador",
+          "alternativas": [
+            "cache:",
+            "filetype:",
+            "site:",
+            "related:",
+            "intitle:"
+          ],
+          "correta": 2,
+          "explicacao": "O operador site: limita os resultados ao domínio informado. O filetype: limita ao tipo de arquivo.",
+          "fonte": "Referência conceitual: fundamentos de informática (conteúdo estável, sem dependência de versão)"
+        }
+      ]
+    },
+    {
+      "id": "inet-l2",
+      "titulo": "Correio eletrônico",
+      "minutos": 7,
+      "resumo": [
+        "Campos do e-mail: Para (destinatários principais), Cc (cópia visível a todos) e Cco (cópia oculta: os demais destinatários não veem quem está em Cco).",
+        "Protocolos: SMTP envia mensagens. POP3 baixa as mensagens para o computador. IMAP mantém as mensagens no servidor e sincroniza entre dispositivos.",
+        "Responder a todos envia a resposta ao remetente e aos demais destinatários dos campos Para e Cc. Quem está em Cco não é alcançado.",
+        "Anexos aumentam o tamanho da mensagem e são via comum de golpes. Calendários e contatos fazem parte dos clientes de e-mail, como o Outlook."
+      ],
+      "flashcards": [
+        {
+          "frente": "Cc x Cco",
+          "verso": "Cc: cópia visível a todos. Cco: cópia oculta, ninguém vê os destinatários em Cco."
+        },
+        {
+          "frente": "SMTP, POP3 e IMAP",
+          "verso": "SMTP envia. POP3 e IMAP recebem; o IMAP mantém as mensagens no servidor e sincroniza."
+        },
+        {
+          "frente": "Anexos de origem desconhecida",
+          "verso": "São risco de segurança; não devem ser abertos sem verificação."
+        }
+      ],
+      "questoes": [
+        {
+          "id": "inet-l2-q1",
+          "enunciado": "Ao enviar uma mensagem com vários destinatários, o campo que permite ocultar do restante dos destinatários quem recebeu a cópia é o",
+          "alternativas": [
+            "Cco.",
+            "Responder a todos.",
+            "Cc.",
+            "Para.",
+            "Assunto."
+          ],
+          "correta": 0,
+          "explicacao": "Cco (cópia oculta) não é mostrado aos demais destinatários.",
+          "fonte": "Referência conceitual: fundamentos de informática (conteúdo estável, sem dependência de versão)"
+        },
+        {
+          "id": "inet-l2-q2",
+          "enunciado": "O protocolo utilizado principalmente para o envio de mensagens de correio eletrônico é o",
+          "alternativas": [
+            "HTTP.",
+            "DNS.",
+            "POP3.",
+            "IMAP.",
+            "SMTP."
+          ],
+          "correta": 4,
+          "explicacao": "O SMTP envia. IMAP e POP3 são usados para acessar mensagens recebidas.",
+          "fonte": "Referência conceitual: fundamentos de informática (conteúdo estável, sem dependência de versão)"
+        },
+        {
+          "id": "inet-l2-q3",
+          "enunciado": "Entre os protocolos de recebimento de e-mail, o que mantém as mensagens no servidor e as sincroniza entre diversos dispositivos é o",
+          "alternativas": [
+            "SMTP.",
+            "IMAP.",
+            "POP3, sempre.",
+            "FTP.",
+            "SNMP."
+          ],
+          "correta": 1,
+          "explicacao": "O IMAP trabalha com a caixa de correio no servidor. O POP3 tipicamente baixa as mensagens para um único dispositivo.",
+          "fonte": "Referência conceitual: fundamentos de informática (conteúdo estável, sem dependência de versão)"
+        },
+        {
+          "id": "inet-l2-q4",
+          "enunciado": "Maria recebeu uma mensagem em que o remetente colocou Ana no campo Para, Carlos em Cc e Paula em Cco. Se Maria (que estava em Para) usar \"Responder a todos\", a resposta será enviada a",
+          "alternativas": [
+            "apenas Ana e Carlos.",
+            "o remetente, Ana, Carlos e Paula.",
+            "apenas Paula.",
+            "o remetente, Ana e Carlos, mas não a Paula.",
+            "apenas o remetente."
+          ],
+          "correta": 3,
+          "explicacao": "Responder a todos atinge o remetente e os demais destinatários visíveis nos campos Para e Cc. Quem está em Cco não aparece para Maria.",
+          "fonte": "Referência conceitual: fundamentos de informática (conteúdo estável, sem dependência de versão)"
+        }
+      ]
+    },
+    {
+      "id": "inet-l3",
+      "titulo": "Computação em nuvem",
+      "minutos": 7,
+      "resumo": [
+        "Segundo o NIST, a nuvem tem cinco características: autoatendimento sob demanda, amplo acesso por rede, agrupamento de recursos, elasticidade rápida e serviço medido.",
+        "Modelos de serviço: IaaS (infraestrutura: máquinas virtuais, armazenamento, rede), PaaS (plataforma para desenvolver e executar aplicações) e SaaS (software pronto, usado pelo navegador, como e-mail e editores online).",
+        "Modelos de implantação: nuvem pública, privada, comunitária e híbrida (combinação de duas ou mais).",
+        "Sincronização mantém arquivos iguais em vários dispositivos, e a colaboração permite editar o mesmo documento ao mesmo tempo. Armazenar na nuvem não substitui uma política de backup."
+      ],
+      "flashcards": [
+        {
+          "frente": "IaaS, PaaS, SaaS",
+          "verso": "Infraestrutura, plataforma e software como serviço."
+        },
+        {
+          "frente": "Elasticidade",
+          "verso": "Capacidade de aumentar ou reduzir recursos rapidamente conforme a demanda."
+        },
+        {
+          "frente": "Nuvem híbrida",
+          "verso": "Combinação de nuvem pública e privada (ou mais de um modelo)."
+        }
+      ],
+      "questoes": [
+        {
+          "id": "inet-l3-q1",
+          "enunciado": "Um editor de texto e planilhas usado diretamente no navegador, sem instalação, ilustra o modelo de serviço de nuvem",
+          "alternativas": [
+            "nenhum, pois exige instalação local.",
+            "DaaS apenas para hardware.",
+            "SaaS.",
+            "IaaS.",
+            "PaaS."
+          ],
+          "correta": 2,
+          "explicacao": "SaaS entrega o software pronto como serviço.",
+          "fonte": "Referência conceitual: NIST SP 800-145, The NIST Definition of Cloud Computing (2011)"
+        },
+        {
+          "id": "inet-l3-q2",
+          "enunciado": "Quando uma organização contrata máquinas virtuais, armazenamento e redes de um provedor, sem comprar servidores físicos, ela utiliza o modelo",
+          "alternativas": [
+            "IaaS.",
+            "intranet.",
+            "PaaS.",
+            "SaaS.",
+            "extranet."
+          ],
+          "correta": 0,
+          "explicacao": "IaaS oferece infraestrutura de computação como serviço.",
+          "fonte": "Referência conceitual: NIST SP 800-145, The NIST Definition of Cloud Computing (2011)"
+        },
+        {
+          "id": "inet-l3-q3",
+          "enunciado": "A capacidade de a nuvem aumentar ou reduzir rapidamente os recursos contratados conforme a demanda é chamada de",
+          "alternativas": [
+            "redundância apenas.",
+            "latência.",
+            "persistência.",
+            "criptografia.",
+            "elasticidade."
+          ],
+          "correta": 4,
+          "explicacao": "A elasticidade rápida é uma das características essenciais da computação em nuvem.",
+          "fonte": "Referência conceitual: NIST SP 800-145, The NIST Definition of Cloud Computing (2011)"
+        },
+        {
+          "id": "inet-l3-q4",
+          "enunciado": "Uma nuvem que combina recursos de nuvem pública e de nuvem privada é chamada de",
+          "alternativas": [
+            "nuvem comunitária.",
+            "nuvem híbrida.",
+            "rede privada virtual.",
+            "nuvem exclusiva.",
+            "intranet."
+          ],
+          "correta": 1,
+          "explicacao": "A nuvem híbrida integra dois ou mais modelos de implantação.",
+          "fonte": "Referência conceitual: NIST SP 800-145, The NIST Definition of Cloud Computing (2011)"
+        }
+      ]
+    }
+  ]
+}

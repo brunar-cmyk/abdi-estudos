@@ -1,0 +1,261 @@
+{
+  "id": "u-rl-proposicional",
+  "titulo": "Lógica proposicional: tabelas-verdade, negações e conjuntos",
+  "bloco": "Gerais",
+  "categoria": "rl",
+  "topicos": [
+    "rl-01",
+    "rl-03"
+  ],
+  "licoes": [
+    {
+      "id": "rlp-l1",
+      "titulo": "Proposições, conectivos e tabelas-verdade",
+      "minutos": 8,
+      "resumo": [
+        "Proposição é uma sentença declarativa que pode ser verdadeira ou falsa. Perguntas, ordens, exclamações e sentenças abertas (\"x + 3 = 7\") não são proposições.",
+        "Conjunção (p e q): verdadeira só se as duas forem verdadeiras. Disjunção inclusiva (p ou q): falsa só se as duas forem falsas. Disjunção exclusiva (ou p ou q): verdadeira só se os valores forem diferentes.",
+        "Condicional (se p, então q): falsa somente quando p é verdadeira e q é falsa. Bicondicional (p se e somente se q): verdadeira quando p e q têm o mesmo valor.",
+        "Com n proposições simples, a tabela-verdade tem 2 elevado a n linhas. Tautologia é sempre verdadeira, contradição é sempre falsa."
+      ],
+      "flashcards": [
+        {
+          "frente": "Quando o condicional \"se p, então q\" é falso?",
+          "verso": "Somente quando p é verdadeira e q é falsa."
+        },
+        {
+          "frente": "Quando a disjunção exclusiva é verdadeira?",
+          "verso": "Quando as duas proposições têm valores diferentes."
+        },
+        {
+          "frente": "Linhas da tabela-verdade",
+          "verso": "2 elevado ao número de proposições simples: com 3, são 8 linhas."
+        }
+      ],
+      "questoes": [
+        {
+          "id": "rlp-l1-q1",
+          "enunciado": "Assinale a alternativa que contém uma proposição lógica.",
+          "alternativas": [
+            "Feche a porta ao sair.",
+            "Quanta alegria!",
+            "O Brasil é um país da América do Sul.",
+            "x + 3 = 7",
+            "Que horas são?"
+          ],
+          "correta": 2,
+          "explicacao": "Proposição é sentença declarativa com valor lógico definido. Pergunta, ordem e exclamação não têm valor lógico, e \"x + 3 = 7\" é sentença aberta.",
+          "fonte": "Referência conceitual: lógica proposicional clássica (tabelas-verdade e regras de inferência)"
+        },
+        {
+          "id": "rlp-l1-q2",
+          "enunciado": "Considere as proposições: \"9 é primo\" (falsa) e \"7 é primo\" (verdadeira). A proposição \"Se 9 é primo, então 7 é primo\" é",
+          "alternativas": [
+            "verdadeira, pois o antecedente é falso.",
+            "verdadeira, pois ambos são verdadeiros.",
+            "falsa, pois o consequente é verdadeiro.",
+            "indeterminada, pois depende de uma terceira proposição.",
+            "falsa, pois o antecedente é falso."
+          ],
+          "correta": 0,
+          "explicacao": "O condicional só é falso quando o antecedente é verdadeiro e o consequente é falso. Com antecedente falso, é verdadeiro.",
+          "fonte": "Referência conceitual: lógica proposicional clássica (tabelas-verdade e regras de inferência)"
+        },
+        {
+          "id": "rlp-l1-q3",
+          "enunciado": "Sabe-se que \"Ana viaja\" é verdadeira e \"Bia viaja\" é verdadeira. A proposição \"Ou Ana viaja ou Bia viaja\" (disjunção exclusiva) é",
+          "alternativas": [
+            "indeterminada.",
+            "verdadeira, pois as duas viajam.",
+            "verdadeira, pois pelo menos uma viaja.",
+            "falsa, pois Ana não viaja.",
+            "falsa, pois as duas têm o mesmo valor lógico."
+          ],
+          "correta": 4,
+          "explicacao": "A disjunção exclusiva só é verdadeira quando as proposições têm valores diferentes.",
+          "fonte": "Referência conceitual: lógica proposicional clássica (tabelas-verdade e regras de inferência)"
+        },
+        {
+          "id": "rlp-l1-q4",
+          "enunciado": "Uma tabela-verdade construída com três proposições simples distintas possui quantas linhas?",
+          "alternativas": [
+            "6",
+            "8",
+            "16",
+            "3",
+            "9"
+          ],
+          "correta": 1,
+          "explicacao": "O número de linhas é 2 elevado a 3, ou seja, 8.",
+          "fonte": "Referência conceitual: lógica proposicional clássica (tabelas-verdade e regras de inferência)"
+        }
+      ]
+    },
+    {
+      "id": "rlp-l2",
+      "titulo": "Negações e equivalências",
+      "minutos": 8,
+      "resumo": [
+        "Negação de \"p e q\": \"não p ou não q\". Negação de \"p ou q\": \"não p e não q\" (leis de De Morgan).",
+        "Negação de \"se p, então q\": \"p e não q\". É a única forma de o condicional ser falso.",
+        "Equivalências do condicional: \"se p, então q\" equivale a \"se não q, então não p\" (contrapositiva) e a \"não p ou q\".",
+        "Não são equivalentes ao condicional a recíproca (\"se q, então p\") e a inversa (\"se não p, então não q\")."
+      ],
+      "flashcards": [
+        {
+          "frente": "Negação de \"p e q\"",
+          "verso": "Não p ou não q (De Morgan)."
+        },
+        {
+          "frente": "Negação de \"se p, então q\"",
+          "verso": "p e não q."
+        },
+        {
+          "frente": "Contrapositiva",
+          "verso": "\"Se p, então q\" equivale a \"se não q, então não p\"."
+        }
+      ],
+      "questoes": [
+        {
+          "id": "rlp-l2-q1",
+          "enunciado": "A negação de \"Maria estuda e João trabalha\" é",
+          "alternativas": [
+            "Maria não estuda, e João trabalha.",
+            "Maria não estuda e João não trabalha.",
+            "Se Maria estuda, João não trabalha.",
+            "Maria não estuda ou João não trabalha.",
+            "Maria estuda ou João trabalha."
+          ],
+          "correta": 3,
+          "explicacao": "Pela lei de De Morgan, a negação de uma conjunção é a disjunção das negações.",
+          "fonte": "Referência conceitual: lógica proposicional clássica (tabelas-verdade e regras de inferência)"
+        },
+        {
+          "id": "rlp-l2-q2",
+          "enunciado": "A negação de \"Se chove, então o evento é cancelado\" é",
+          "alternativas": [
+            "Se o evento não é cancelado, então não chove.",
+            "Se não chove, então o evento não é cancelado.",
+            "Chove e o evento não é cancelado.",
+            "Não chove ou o evento é cancelado.",
+            "Não chove e o evento é cancelado."
+          ],
+          "correta": 2,
+          "explicacao": "A negação do condicional é a conjunção do antecedente com a negação do consequente.",
+          "fonte": "Referência conceitual: lógica proposicional clássica (tabelas-verdade e regras de inferência)"
+        },
+        {
+          "id": "rlp-l2-q3",
+          "enunciado": "Uma proposição equivalente a \"Se o relatório foi enviado, então a reunião ocorreu\" é",
+          "alternativas": [
+            "Se a reunião não ocorreu, então o relatório não foi enviado.",
+            "Se o relatório não foi enviado, então a reunião não ocorreu.",
+            "O relatório não foi enviado e a reunião ocorreu.",
+            "Se a reunião ocorreu, então o relatório foi enviado.",
+            "O relatório foi enviado e a reunião não ocorreu."
+          ],
+          "correta": 0,
+          "explicacao": "A contrapositiva é equivalente ao condicional. A recíproca e a inversa não são.",
+          "fonte": "Referência conceitual: lógica proposicional clássica (tabelas-verdade e regras de inferência)"
+        },
+        {
+          "id": "rlp-l2-q4",
+          "enunciado": "A negação de \"O servidor é pontual ou assíduo\" é",
+          "alternativas": [
+            "O servidor é impontual ou assíduo.",
+            "Se o servidor é pontual, então é assíduo.",
+            "O servidor não é pontual ou não é assíduo.",
+            "O servidor é pontual e assíduo.",
+            "O servidor não é pontual e não é assíduo."
+          ],
+          "correta": 4,
+          "explicacao": "Pela lei de De Morgan, a negação de uma disjunção é a conjunção das negações.",
+          "fonte": "Referência conceitual: lógica proposicional clássica (tabelas-verdade e regras de inferência)"
+        }
+      ]
+    },
+    {
+      "id": "rlp-l3",
+      "titulo": "Conjuntos e diagramas lógicos",
+      "minutos": 8,
+      "resumo": [
+        "Quantidade de elementos da união: n(A ou B) = n(A) + n(B) menos n(A e B). Subtrai-se a interseção para não contar duas vezes.",
+        "Elementos que pertencem apenas a A: n(A) menos n(A e B).",
+        "Em problemas com um total, o que está fora dos dois conjuntos é o total menos a união.",
+        "Comece sempre pela interseção quando ela é dada, depois preencha as demais regiões do diagrama."
+      ],
+      "flashcards": [
+        {
+          "frente": "n(A ou B)",
+          "verso": "n(A) + n(B) menos n(A e B)."
+        },
+        {
+          "frente": "Apenas A",
+          "verso": "n(A) menos a interseção n(A e B)."
+        },
+        {
+          "frente": "Tautologia",
+          "verso": "Proposição sempre verdadeira, como \"p ou não p\"."
+        }
+      ],
+      "questoes": [
+        {
+          "id": "rlp-l3-q1",
+          "enunciado": "Em um grupo de 40 empregados, 25 falam inglês, 18 falam espanhol e 5 não falam nenhuma das duas línguas. Quantos falam as duas?",
+          "alternativas": [
+            "7",
+            "8",
+            "13",
+            "10",
+            "5"
+          ],
+          "correta": 1,
+          "explicacao": "35 falam pelo menos uma língua (40 menos 5). Como 25 + 18 = 43 e 43 menos 35 é 8, 8 falam as duas.",
+          "fonte": "Referência conceitual: teoria dos conjuntos e diagramas de Venn"
+        },
+        {
+          "id": "rlp-l3-q2",
+          "enunciado": "Em uma pesquisa com 60 pessoas, 35 leem jornal, 28 leem revistas e 10 leem ambos. Quantas não leem nenhum dos dois?",
+          "alternativas": [
+            "5",
+            "10",
+            "15",
+            "7",
+            "12"
+          ],
+          "correta": 3,
+          "explicacao": "A união tem 35 + 28 menos 10 = 53. Fora dela ficam 60 menos 53 = 7.",
+          "fonte": "Referência conceitual: teoria dos conjuntos e diagramas de Venn"
+        },
+        {
+          "id": "rlp-l3-q3",
+          "enunciado": "Na pesquisa anterior (60 pessoas, 35 leem jornal, 28 leem revistas, 10 leem ambos), quantas leem apenas jornal?",
+          "alternativas": [
+            "45",
+            "35",
+            "25",
+            "10",
+            "18"
+          ],
+          "correta": 2,
+          "explicacao": "Apenas jornal é 35 menos a interseção de 10, ou seja, 25.",
+          "fonte": "Referência conceitual: teoria dos conjuntos e diagramas de Venn"
+        },
+        {
+          "id": "rlp-l3-q4",
+          "enunciado": "Das alternativas, a única que é uma tautologia é",
+          "alternativas": [
+            "\"Chove ou não chove.\"",
+            "\"Chove.\"",
+            "\"Não chove.\"",
+            "\"Chove e não chove.\"",
+            "\"Se chove, então não chove.\""
+          ],
+          "correta": 0,
+          "explicacao": "\"p ou não p\" é verdadeira em qualquer caso. \"p e não p\" é contradição, e as demais dependem do valor de p.",
+          "fonte": "Referência conceitual: lógica proposicional clássica (tabelas-verdade e regras de inferência)"
+        }
+      ]
+    }
+  ]
+}

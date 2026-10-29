@@ -1,0 +1,334 @@
+{
+  "id": "u-esp-tipos-comunicacao",
+  "titulo": "Comunicação social, institucional, organizacional, pública e integrada",
+  "bloco": "Específicos",
+  "categoria": "esp",
+  "topicos": ["esp-03", "esp-05"],
+  "licoes": [
+    {
+      "id": "tc-l1",
+      "titulo": "Comunicação social, organizacional e institucional",
+      "minutos": 8,
+      "resumo": [
+        "Comunicação social é o termo amplo para a comunicação dirigida à sociedade, em especial pelos meios de massa. Reúne jornalismo, publicidade e relações públicas.",
+        "Comunicação organizacional (Kunsch) é o conceito mais abrangente: todas as formas de comunicação que ocorrem no ambiente de uma organização, com públicos internos e externos.",
+        "Ela se divide em quatro modalidades: institucional, mercadológica, interna e administrativa. Juntas formam o composto (mix) da comunicação organizacional.",
+        "Comunicação institucional constrói e transmite a imagem, a identidade e a reputação da organização como instituição. O foco é a organização, não o produto. Envolve assessoria de imprensa, relações públicas, jornalismo empresarial, propaganda institucional e marketing social e cultural.",
+        "Comunicação mercadológica apoia o marketing e as vendas de produtos e serviços, com propaganda, promoção de vendas e merchandising.",
+        "Comunicação administrativa trata dos fluxos formais de informação que mantêm a organização funcionando: ofícios, circulares, memorandos, normas e relatórios. Comunicação interna é o relacionamento com os empregados (veremos na semana 3)."
+      ],
+      "flashcards": [
+        {"frente": "Quais são as quatro modalidades da comunicação organizacional (Kunsch)?", "verso": "Institucional, mercadológica, interna e administrativa."},
+        {"frente": "Foco da comunicação institucional", "verso": "Imagem, identidade e reputação da organização como instituição, e não a venda direta de produtos."},
+        {"frente": "Foco da comunicação mercadológica", "verso": "Produtos e serviços: apoio a vendas, com propaganda, promoção e merchandising."},
+        {"frente": "O que é comunicação administrativa?", "verso": "Fluxos formais de informação do funcionamento interno: ofícios, circulares, memorandos, normas e relatórios."}
+      ],
+      "questoes": [
+        {
+          "id": "tc-l1-q1",
+          "enunciado": "Na perspectiva de Margarida Kunsch, a comunicação organizacional deve ser entendida como",
+          "alternativas": [
+            "conceito abrangente, que engloba as modalidades institucional, mercadológica, interna e administrativa.",
+            "sinônimo de assessoria de imprensa, voltada apenas à relação com jornalistas.",
+            "atividade restrita à publicidade e à propaganda de produtos.",
+            "equivalente à comunicação interna, dirigida exclusivamente aos empregados.",
+            "conjunto de documentos burocráticos usados na gestão de processos."
+          ],
+          "correta": 0,
+          "explicacao": "Para Kunsch, a comunicação organizacional abarca todas as formas de comunicação da organização: institucional, mercadológica, interna e administrativa, em diálogo com públicos internos e externos.",
+          "fonte": "Referência conceitual: M. M. K. Kunsch, Planejamento de Relações Públicas na Comunicação Integrada (4ª ed., 2003)"
+        },
+        {
+          "id": "tc-l1-q2",
+          "enunciado": "A comunicação institucional tem por objetivo principal",
+          "alternativas": [
+            "estimular a compra imediata de produtos por meio de promoções.",
+            "padronizar a redação de ofícios e memorandos internos.",
+            "construir e preservar a imagem, a identidade e a reputação da organização perante seus públicos.",
+            "medir a produtividade individual de cada empregado.",
+            "organizar a distribuição física de materiais gráficos."
+          ],
+          "correta": 2,
+          "explicacao": "A comunicação institucional trata da organização como instituição: seus valores, missão e visão. Estimular compras é função da comunicação mercadológica, e a padronização de ofícios pertence à comunicação administrativa.",
+          "fonte": "Referência conceitual: M. M. K. Kunsch, Planejamento de Relações Públicas na Comunicação Integrada (4ª ed., 2003)"
+        },
+        {
+          "id": "tc-l1-q3",
+          "enunciado": "Uma campanha que divulga a missão, os valores e as realizações de uma agência de desenvolvimento, sem anunciar produto ou oferta específica, é exemplo típico de comunicação",
+          "alternativas": [
+            "mercadológica.",
+            "administrativa.",
+            "interna, apenas.",
+            "social, com função exclusiva de entretenimento.",
+            "institucional."
+          ],
+          "correta": 4,
+          "explicacao": "Quando a mensagem trabalha missão, valores e reputação da organização, e não um produto, trata-se de comunicação institucional.",
+          "fonte": "Referência conceitual: M. M. K. Kunsch, Planejamento de Relações Públicas na Comunicação Integrada (4ª ed., 2003)"
+        },
+        {
+          "id": "tc-l1-q4",
+          "enunciado": "Uma promoção com cupom de desconto para estimular a venda de um serviço específico é ação típica da comunicação",
+          "alternativas": [
+            "institucional.",
+            "mercadológica.",
+            "administrativa.",
+            "interna.",
+            "pública."
+          ],
+          "correta": 1,
+          "explicacao": "A comunicação mercadológica dá suporte ao marketing e às vendas de produtos e serviços, com propaganda, promoção e merchandising.",
+          "fonte": "Referência conceitual: M. M. K. Kunsch, Planejamento de Relações Públicas na Comunicação Integrada (4ª ed., 2003)"
+        },
+        {
+          "id": "tc-l1-q5",
+          "enunciado": "Circulares, memorandos, ofícios e normas internas, que sustentam o fluxo formal de informações no funcionamento da organização, relacionam-se principalmente à comunicação",
+          "alternativas": [
+            "mercadológica.",
+            "institucional.",
+            "de massa.",
+            "administrativa.",
+            "política."
+          ],
+          "correta": 3,
+          "explicacao": "A comunicação administrativa trata dos fluxos e redes formais que viabilizam a gestão e o funcionamento cotidiano da organização.",
+          "fonte": "Referência conceitual: M. M. K. Kunsch, Planejamento de Relações Públicas na Comunicação Integrada (4ª ed., 2003)"
+        },
+        {
+          "id": "tc-l1-q6",
+          "enunciado": "Entre as atividades normalmente associadas à comunicação institucional, segundo Kunsch, NÃO se inclui",
+          "alternativas": [
+            "promoção de vendas com cupons de desconto para um produto.",
+            "assessoria de imprensa.",
+            "jornalismo empresarial.",
+            "propaganda institucional.",
+            "gestão de imagem e identidade corporativa."
+          ],
+          "correta": 0,
+          "explicacao": "Promoção de vendas é atividade da comunicação mercadológica. Assessoria de imprensa, jornalismo empresarial, propaganda institucional e imagem e identidade corporativa são atividades institucionais.",
+          "fonte": "Referência conceitual: M. M. K. Kunsch, Planejamento de Relações Públicas na Comunicação Integrada (4ª ed., 2003)"
+        },
+        {
+          "id": "tc-l1-q7",
+          "enunciado": "Em sentido amplo, a expressão comunicação social designa",
+          "alternativas": [
+            "apenas os documentos internos de uma empresa.",
+            "somente a publicidade de produtos de consumo.",
+            "o campo da comunicação dirigida à sociedade, que inclui o jornalismo, a publicidade e as relações públicas.",
+            "exclusivamente a comunicação entre dois indivíduos.",
+            "a atividade de produção de relatórios contábeis."
+          ],
+          "correta": 2,
+          "explicacao": "Comunicação social é o termo amplo para a produção e a circulação de mensagens dirigidas à sociedade, em especial pelos meios de massa, o que abrange jornalismo, publicidade e relações públicas.",
+          "fonte": "Referência conceitual: tradição dos cursos e das habilitações de Comunicação Social; ver também requisito de formação no Anexo I do Edital 01/2026 (perfil API - Comunicação e Marketing)"
+        }
+      ]
+    },
+    {
+      "id": "tc-l2",
+      "titulo": "Comunicação pública",
+      "minutos": 8,
+      "resumo": [
+        "Comunicação pública é a comunicação orientada ao interesse público e à cidadania: garante o direito à informação, o diálogo e a participação, e não se resume a divulgar ações do governo.",
+        "Não confundir três conceitos próximos (Duarte): comunicação governamental (fluxo de informação e relacionamento entre o Executivo e a sociedade, com prestação de contas), comunicação política (disputa por opinião e voto) e comunicação pública (centrada no cidadão).",
+        "Para Zémor, a comunicação pública é a troca e a partilha de informações de utilidade pública entre instituições e cidadãos. Entre suas funções: informar, ouvir as demandas, contribuir para a relação social e acompanhar as mudanças.",
+        "A Constituição Federal (art. 37, § 1º) exige que a publicidade dos órgãos públicos tenha caráter educativo, informativo ou de orientação social, sem nomes, símbolos ou imagens que caracterizem promoção pessoal de autoridades ou servidores.",
+        "No cidadão, a comunicação pública enxerga um sujeito de direitos, e não um consumidor. Por isso valoriza a transparência, a linguagem clara, a prestação de contas e canais de escuta."
+      ],
+      "flashcards": [
+        {"frente": "Comunicação pública: foco", "verso": "O interesse público e a cidadania, com direito à informação, diálogo e participação."},
+        {"frente": "Comunicação governamental x política x pública", "verso": "Governamental: relação do Executivo com a sociedade. Política: disputa de opinião e voto. Pública: centrada no cidadão e no interesse público."},
+        {"frente": "Limite constitucional à publicidade de órgãos públicos", "verso": "Caráter educativo, informativo ou de orientação social, sem promoção pessoal de autoridades ou servidores (CF, art. 37, § 1º)."}
+      ],
+      "questoes": [
+        {
+          "id": "tc-l2-q1",
+          "enunciado": "A comunicação pública, em sua concepção mais ampla, caracteriza-se por",
+          "alternativas": [
+            "visar à promoção pessoal do gestor e à fidelização de eleitores.",
+            "ser orientada ao interesse público e à cidadania, garantindo informação, diálogo e participação.",
+            "restringir-se à propaganda comercial de produtos de órgãos públicos.",
+            "tratar o cidadão como consumidor de serviços.",
+            "ocorrer apenas em períodos eleitorais."
+          ],
+          "correta": 1,
+          "explicacao": "A comunicação pública coloca o interesse público e o cidadão no centro. Promoção pessoal e propaganda eleitoral não a definem, e a visão do cidadão como mero consumidor a contraria.",
+          "fonte": "Referência conceitual: J. Duarte (org.), Comunicação Pública: Estado, Mercado, Sociedade e Interesse Público (2007); P. Zémor, La communication publique (1995)"
+        },
+        {
+          "id": "tc-l2-q2",
+          "enunciado": "A comunicação que tem por objetivo a disputa de apoio, opinião e voto, ligada a partidos e candidatos, é geralmente classificada como comunicação",
+          "alternativas": [
+            "organizacional.",
+            "mercadológica.",
+            "administrativa.",
+            "interna.",
+            "política."
+          ],
+          "correta": 4,
+          "explicacao": "A comunicação política envolve a disputa pela opinião pública e a conquista de poder. A comunicação pública, por contraste, tem o cidadão e o interesse público como foco.",
+          "fonte": "Referência conceitual: J. Duarte (org.), Comunicação Pública (2007)"
+        },
+        {
+          "id": "tc-l2-q3",
+          "enunciado": "De acordo com a Constituição Federal, a publicidade dos atos, programas, obras, serviços e campanhas dos órgãos públicos deverá ter caráter",
+          "alternativas": [
+            "comercial, desde que aprovada pelo Poder Legislativo.",
+            "político-partidário, quando se tratar de programas de governo.",
+            "educativo, informativo ou de orientação social, dela não podendo constar nomes, símbolos ou imagens que caracterizem promoção pessoal.",
+            "sigiloso, para evitar a exposição da autoridade.",
+            "exclusivamente institucional, vedada qualquer informação ao cidadão."
+          ],
+          "correta": 2,
+          "explicacao": "O art. 37, § 1º, da Constituição Federal exige caráter educativo, informativo ou de orientação social e veda nomes, símbolos ou imagens que caracterizem promoção pessoal de autoridades ou servidores.",
+          "fonte": "Constituição Federal, art. 37, § 1º (planalto.gov.br)"
+        },
+        {
+          "id": "tc-l2-q4",
+          "enunciado": "A divulgação de um relatório de gestão, em linguagem clara e acessível, para prestar contas à sociedade sobre o uso de recursos públicos, é exemplo de ação de",
+          "alternativas": [
+            "comunicação pública.",
+            "propaganda comercial.",
+            "marketing de relacionamento com consumidores.",
+            "comunicação eleitoral.",
+            "merchandising."
+          ],
+          "correta": 0,
+          "explicacao": "Prestação de contas, transparência e linguagem acessível ao cidadão são traços centrais da comunicação pública.",
+          "fonte": "Referência conceitual: J. Duarte (org.), Comunicação Pública (2007); ver também Lei 11.080/2004, art. 9º (prestação de contas da ABDI)"
+        },
+        {
+          "id": "tc-l2-q5",
+          "enunciado": "Um traço que distingue a comunicação pública da comunicação mercadológica é o fato de a primeira ter como foco",
+          "alternativas": [
+            "a venda de produtos e serviços ao maior número possível de consumidores.",
+            "a promoção de uma marca comercial.",
+            "o aumento do faturamento da organização.",
+            "o interesse público e a cidadania, e não a obtenção de vendas.",
+            "a segmentação de clientes por perfil de compra."
+          ],
+          "correta": 3,
+          "explicacao": "Enquanto a comunicação mercadológica se volta ao consumo, a comunicação pública se volta ao interesse público e aos direitos do cidadão.",
+          "fonte": "Referência conceitual: J. Duarte (org.), Comunicação Pública (2007)"
+        },
+        {
+          "id": "tc-l2-q6",
+          "enunciado": "Na concepção de comunicação pública, o cidadão é considerado",
+          "alternativas": [
+            "mero espectador das ações da instituição.",
+            "sujeito de direitos, participante do diálogo, e não apenas consumidor ou espectador.",
+            "público-alvo exclusivo de campanhas de vendas.",
+            "elemento secundário do processo, subordinado ao emissor.",
+            "agente que deve ser informado apenas após as decisões."
+          ],
+          "correta": 1,
+          "explicacao": "A comunicação pública valoriza a escuta, a participação e a transparência: o cidadão é sujeito de direitos e interlocutor, e não apenas receptor de mensagens.",
+          "fonte": "Referência conceitual: P. Zémor, La communication publique (1995); J. Duarte (org.), Comunicação Pública (2007)"
+        }
+      ]
+    },
+    {
+      "id": "tc-l3",
+      "titulo": "Comunicação integrada",
+      "minutos": 7,
+      "resumo": [
+        "Comunicação integrada, na formulação de Kunsch, é a filosofia que orienta a convergência das diversas áreas (institucional, mercadológica, interna e administrativa), com sinergia, sob uma política global e planejamento conjunto.",
+        "O objetivo é falar com uma só voz: coerência do discurso, identidade única, menos ruído e conflito entre áreas, melhor uso de recursos e fortalecimento da imagem.",
+        "Integrar não é somar ações isoladas de cada área. Exige planejamento conjunto, visão estratégica, cultura de colaboração e gestão do relacionamento com os públicos.",
+        "Exemplo de falta de integração: assessoria de imprensa, marketing e comunicação interna divulgando mensagens contraditórias sobre o mesmo tema.",
+        "O Anexo I do Edital 01/2026 inclui entre as atribuições do perfil Comunicação e Marketing desenvolver e acompanhar estratégias de comunicação integrada, assegurando a coerência das mensagens, a identidade institucional e a articulação entre os diferentes canais e instrumentos da ABDI."
+      ],
+      "flashcards": [
+        {"frente": "Comunicação integrada (Kunsch)", "verso": "Convergência das áreas institucional, mercadológica, interna e administrativa, com sinergia, política global e planejamento conjunto."},
+        {"frente": "Principal benefício da comunicação integrada", "verso": "Coerência de discurso e identidade única, com menos ruído e mensagens conflitantes entre as áreas."},
+        {"frente": "Atribuição de comunicação integrada no Edital 01/2026 (Anexo I)", "verso": "Desenvolver e acompanhar estratégias que assegurem coerência das mensagens, identidade institucional e articulação entre canais e instrumentos da ABDI."}
+      ],
+      "questoes": [
+        {
+          "id": "tc-l3-q1",
+          "enunciado": "A comunicação integrada, segundo Kunsch, pode ser definida como",
+          "alternativas": [
+            "a soma de ações independentes, conduzidas por áreas que não precisam se coordenar.",
+            "a centralização de toda a comunicação em uma única mídia.",
+            "a substituição da comunicação interna pela comunicação mercadológica.",
+            "uma filosofia que orienta a convergência das áreas de comunicação, com sinergia, política global e planejamento conjunto.",
+            "a eliminação da assessoria de imprensa por canais digitais."
+          ],
+          "correta": 3,
+          "explicacao": "A comunicação integrada busca unir as diferentes modalidades sob uma política global, com sinergia, para dar coerência ao discurso e à identidade da organização.",
+          "fonte": "Referência conceitual: M. M. K. Kunsch, Planejamento de Relações Públicas na Comunicação Integrada (4ª ed., 2003)"
+        },
+        {
+          "id": "tc-l3-q2",
+          "enunciado": "O composto (mix) da comunicação organizacional integrada é formado pelas comunicações",
+          "alternativas": [
+            "institucional, mercadológica, interna e administrativa.",
+            "pública, política, governamental e eleitoral.",
+            "oral, escrita, visual e sonora.",
+            "formal, informal, vertical e horizontal, apenas.",
+            "de massa, dirigida, pessoal e eletrônica."
+          ],
+          "correta": 0,
+          "explicacao": "Kunsch descreve o mix da comunicação organizacional com quatro modalidades: institucional, mercadológica, interna e administrativa.",
+          "fonte": "Referência conceitual: M. M. K. Kunsch, Planejamento de Relações Públicas na Comunicação Integrada (4ª ed., 2003)"
+        },
+        {
+          "id": "tc-l3-q3",
+          "enunciado": "Em uma organização, a assessoria de imprensa, o marketing e a comunicação interna divulgam versões diferentes sobre o mesmo programa institucional. Esse cenário revela principalmente a",
+          "alternativas": [
+            "adoção correta de múltiplas vozes, o que fortalece a identidade.",
+            "ausência de públicos de interesse.",
+            "inexistência de ruído na comunicação.",
+            "prioridade excessiva à comunicação administrativa.",
+            "falta de comunicação integrada."
+          ],
+          "correta": 4,
+          "explicacao": "Mensagens contraditórias entre áreas indicam ausência de política global e de planejamento conjunto, justamente o que a comunicação integrada procura evitar.",
+          "fonte": "Referência conceitual: M. M. K. Kunsch, Planejamento de Relações Públicas na Comunicação Integrada (4ª ed., 2003)"
+        },
+        {
+          "id": "tc-l3-q4",
+          "enunciado": "O Anexo I do Edital 01/2026 inclui, entre as atribuições do perfil API - Comunicação e Marketing, desenvolver e acompanhar estratégias de comunicação integrada, assegurando",
+          "alternativas": [
+            "exclusivamente a redução de custos de produção gráfica.",
+            "a contratação direta de veículos de comunicação, sem planejamento.",
+            "a coerência das mensagens, a identidade institucional e a articulação entre os diferentes canais e instrumentos de comunicação da ABDI.",
+            "o controle da frequência dos empregados da área.",
+            "a execução de todas as ações apenas em meios impressos."
+          ],
+          "correta": 2,
+          "explicacao": "A atribuição 3 do perfil menciona coerência das mensagens, identidade institucional e articulação entre canais e instrumentos de comunicação da ABDI.",
+          "fonte": "Edital 01/2026 ABDI/FGV, Anexo I, API - Comunicação e Marketing, atribuição 3 (conhecimento.fgv.br)"
+        },
+        {
+          "id": "tc-l3-q5",
+          "enunciado": "Assinale a alternativa que expressa corretamente uma característica da comunicação integrada.",
+          "alternativas": [
+            "Cada área define suas mensagens de forma independente, para preservar sua autonomia.",
+            "Exige planejamento conjunto e política global, e não a mera soma de ações isoladas.",
+            "Dispensa o acompanhamento de resultados, pois a integração é automática.",
+            "Restringe-se à comunicação com o público externo.",
+            "Substitui a necessidade de identificar os públicos de interesse."
+          ],
+          "correta": 1,
+          "explicacao": "Integração implica planejamento conjunto e coerência. Por isso, soma de ações isoladas, ausência de monitoramento e exclusão do público interno contrariam o conceito.",
+          "fonte": "Referência conceitual: M. M. K. Kunsch, Planejamento de Relações Públicas na Comunicação Integrada (4ª ed., 2003)"
+        },
+        {
+          "id": "tc-l3-q6",
+          "enunciado": "Qual é uma condição para viabilizar a comunicação integrada em uma organização?",
+          "alternativas": [
+            "Visão estratégica, planejamento conjunto e cultura de colaboração entre as áreas.",
+            "Concentração de todas as decisões em uma única pessoa, sem consulta às áreas.",
+            "Uso exclusivo de redes sociais como canal de comunicação.",
+            "Eliminação do relacionamento com a imprensa.",
+            "Padronização de mensagens apenas para o público interno."
+          ],
+          "correta": 0,
+          "explicacao": "A integração depende de gestão estratégica da comunicação, planejamento conjunto e colaboração entre as áreas, com atenção a públicos internos e externos.",
+          "fonte": "Referência conceitual: M. M. K. Kunsch, Planejamento de Relações Públicas na Comunicação Integrada (4ª ed., 2003)"
+        }
+      ]
+    }
+  ]
+}

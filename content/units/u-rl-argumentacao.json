@@ -1,0 +1,176 @@
+{
+  "id": "u-rl-argumentacao",
+  "titulo": "Argumentação lógica, sequências e analogias",
+  "bloco": "Gerais",
+  "categoria": "rl",
+  "topicos": [
+    "rl-02"
+  ],
+  "licoes": [
+    {
+      "id": "rla-l1",
+      "titulo": "Argumentos e validade",
+      "minutos": 8,
+      "resumo": [
+        "Argumento é um conjunto de premissas e uma conclusão. É válido quando a conclusão é necessariamente verdadeira se as premissas forem verdadeiras. Validade não é o mesmo que verdade.",
+        "Formas válidas: modus ponens (se p, então q; p; logo q), modus tollens (se p, então q; não q; logo não p), silogismo hipotético (se p, então q; se q, então r; logo se p, então r) e silogismo disjuntivo (p ou q; não p; logo q).",
+        "Falácias comuns: afirmação do consequente (se p, então q; q; logo p) e negação do antecedente (se p, então q; não p; logo não q)."
+      ],
+      "flashcards": [
+        {
+          "frente": "Modus tollens",
+          "verso": "Se p, então q; não q; logo não p."
+        },
+        {
+          "frente": "Afirmação do consequente",
+          "verso": "Falácia: \"se p, então q; q; logo p\" não é válido."
+        },
+        {
+          "frente": "Silogismo hipotético",
+          "verso": "Se p, então q; se q, então r; logo se p, então r."
+        }
+      ],
+      "questoes": [
+        {
+          "id": "rla-l1-q1",
+          "enunciado": "Premissas: \"Se o sistema está atualizado, o relatório é gerado\" e \"O relatório não foi gerado\". A conclusão que decorre necessariamente é:",
+          "alternativas": [
+            "O sistema não está atualizado.",
+            "O sistema está atualizado.",
+            "Nenhuma conclusão é possível.",
+            "O sistema está com falha.",
+            "O relatório será gerado amanhã."
+          ],
+          "correta": 0,
+          "explicacao": "É um modus tollens: negando o consequente, nega-se o antecedente.",
+          "fonte": "Referência conceitual: lógica proposicional clássica (tabelas-verdade e regras de inferência)"
+        },
+        {
+          "id": "rla-l1-q2",
+          "enunciado": "O argumento \"Se chove, a rua molha. A rua está molhada. Logo, choveu\" é",
+          "alternativas": [
+            "válido, por modus tollens.",
+            "válido, por silogismo hipotético.",
+            "inválido, por negação do antecedente.",
+            "válido, por modus ponens.",
+            "inválido, por afirmação do consequente."
+          ],
+          "correta": 4,
+          "explicacao": "A rua pode estar molhada por outra causa. Afirmar o consequente não permite concluir o antecedente.",
+          "fonte": "Referência conceitual: lógica proposicional clássica (tabelas-verdade e regras de inferência)"
+        },
+        {
+          "id": "rla-l1-q3",
+          "enunciado": "Premissas: \"Se estudo, aprendo\" e \"Se aprendo, passo\". A conclusão válida é:",
+          "alternativas": [
+            "Aprendo, logo estudo.",
+            "Se estudo, passo.",
+            "Se não estudo, não passo.",
+            "Se passo, estudo.",
+            "Estudo e passo."
+          ],
+          "correta": 1,
+          "explicacao": "É um silogismo hipotético: encadeiam-se os condicionais.",
+          "fonte": "Referência conceitual: lógica proposicional clássica (tabelas-verdade e regras de inferência)"
+        },
+        {
+          "id": "rla-l1-q4",
+          "enunciado": "Premissas: \"Ou o prazo é prorrogado ou as inscrições encerram hoje\" e \"O prazo não foi prorrogado\". A conclusão válida é:",
+          "alternativas": [
+            "O prazo será prorrogado.",
+            "O prazo foi prorrogado e as inscrições encerram.",
+            "As inscrições não encerram hoje.",
+            "As inscrições encerram hoje.",
+            "Nada se pode concluir."
+          ],
+          "correta": 3,
+          "explicacao": "É um silogismo disjuntivo: negada uma das alternativas, vale a outra.",
+          "fonte": "Referência conceitual: lógica proposicional clássica (tabelas-verdade e regras de inferência)"
+        }
+      ]
+    },
+    {
+      "id": "rla-l2",
+      "titulo": "Sequências, analogias e veracidade",
+      "minutos": 9,
+      "resumo": [
+        "Progressão aritmética soma uma razão constante (5, 11, 17, 23: razão 6). Progressão geométrica multiplica por uma razão constante (2, 6, 18, 54: razão 3).",
+        "Há sequências em que cada termo é a soma dos dois anteriores (1, 1, 2, 3, 5, 8, 13).",
+        "Em problemas de veracidade (quem fala a verdade e quem mente), teste cada hipótese e descarte as que geram contradição.",
+        "Analogias mantêm a mesma relação entre dois pares de elementos."
+      ],
+      "flashcards": [
+        {
+          "frente": "Progressão aritmética x geométrica",
+          "verso": "Aritmética: soma-se sempre o mesmo valor. Geométrica: multiplica-se sempre pelo mesmo valor."
+        },
+        {
+          "frente": "Soma dos dois termos anteriores",
+          "verso": "Sequência de Fibonacci: 1, 1, 2, 3, 5, 8, 13."
+        },
+        {
+          "frente": "Como resolver problemas de veracidade",
+          "verso": "Assuma uma hipótese, verifique as consequências e descarte as que levam a contradição."
+        }
+      ],
+      "questoes": [
+        {
+          "id": "rla-l2-q1",
+          "enunciado": "O próximo termo da sequência 5, 11, 17, 23, ... é",
+          "alternativas": [
+            "30",
+            "27",
+            "29",
+            "35",
+            "28"
+          ],
+          "correta": 2,
+          "explicacao": "A razão é 6, e 23 + 6 = 29.",
+          "fonte": "Referência conceitual: matemática básica (razão, proporção, porcentagem, média, MMC)"
+        },
+        {
+          "id": "rla-l2-q2",
+          "enunciado": "O próximo termo da sequência 2, 6, 18, 54, ... é",
+          "alternativas": [
+            "162",
+            "144",
+            "126",
+            "216",
+            "108"
+          ],
+          "correta": 0,
+          "explicacao": "Cada termo é multiplicado por 3: 54 vezes 3 é 162.",
+          "fonte": "Referência conceitual: matemática básica (razão, proporção, porcentagem, média, MMC)"
+        },
+        {
+          "id": "rla-l2-q3",
+          "enunciado": "Na sequência 1, 1, 2, 3, 5, 8, ..., o termo seguinte é",
+          "alternativas": [
+            "14",
+            "16",
+            "11",
+            "12",
+            "13"
+          ],
+          "correta": 4,
+          "explicacao": "Cada termo é a soma dos dois anteriores: 5 + 8 = 13.",
+          "fonte": "Referência conceitual: matemática básica (razão, proporção, porcentagem, média, MMC)"
+        },
+        {
+          "id": "rla-l2-q4",
+          "enunciado": "Três pessoas, A, B e C, sempre dizem a verdade ou sempre mentem. A diz: \"B mente\". B diz: \"C mente\". C diz: \"A e B mentem\". Quem diz a verdade?",
+          "alternativas": [
+            "Ninguém.",
+            "Apenas B.",
+            "Apenas C.",
+            "A e C.",
+            "Apenas A."
+          ],
+          "correta": 1,
+          "explicacao": "Se A dissesse a verdade, B mentiria, C diria a verdade e então A e B mentiriam, o que contradiz. Testando B como verdadeiro: C mente, A mente, e a fala de C (\"A e B mentem\") é falsa, o que é coerente. Só B diz a verdade.",
+          "fonte": "Referência conceitual: lógica proposicional clássica (tabelas-verdade e regras de inferência)"
+        }
+      ]
+    }
+  ]
+}

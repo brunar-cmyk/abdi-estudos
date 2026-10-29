@@ -1,0 +1,349 @@
+{
+  "id": "u-esp-digital-midia",
+  "titulo": "Comunicação digital, redes sociais, multimídia, audiovisual e design",
+  "bloco": "Específicos",
+  "categoria": "esp",
+  "topicos": [
+    "esp-13",
+    "esp-14",
+    "esp-15",
+    "esp-16",
+    "esp-17"
+  ],
+  "licoes": [
+    {
+      "id": "dig-l1",
+      "titulo": "Comunicação digital e produção de conteúdo",
+      "minutos": 8,
+      "resumo": [
+        "Conteúdo digital deve ser pensado para a persona (representação do público-alvo), com objetivo claro e formato adequado ao canal.",
+        "SEO é o conjunto de técnicas para melhorar o posicionamento de páginas nos buscadores: palavras-chave relevantes, títulos e descrições claros, conteúdo útil e boa estrutura. CTA (call to action) é a chamada que convida o público a agir, como \"inscreva-se\".",
+        "Funil de conteúdo: topo (atrair e informar), meio (engajar e aprofundar) e fundo (converter). Newsletter exige consentimento (opt-in) e opção de descadastro, em linha com a LGPD.",
+        "Boas práticas: páginas responsivas, textos escaneáveis, linguagem simples e acessibilidade, como texto alternativo em imagens, legendas em vídeos e bom contraste."
+      ],
+      "flashcards": [
+        {
+          "frente": "SEO",
+          "verso": "Técnicas para melhorar o posicionamento de páginas nos resultados de busca."
+        },
+        {
+          "frente": "CTA (call to action)",
+          "verso": "Chamada que convida o público a realizar uma ação, como se inscrever ou baixar um material."
+        },
+        {
+          "frente": "Texto alternativo",
+          "verso": "Descrição de uma imagem lida por leitores de tela, que garante acessibilidade."
+        }
+      ],
+      "questoes": [
+        {
+          "id": "dig-l1-q1",
+          "enunciado": "O conjunto de técnicas que visa melhorar o posicionamento de páginas nos resultados dos mecanismos de busca é chamado de",
+          "alternativas": [
+            "CRM.",
+            "KPI.",
+            "ROI.",
+            "CTR.",
+            "SEO."
+          ],
+          "correta": 4,
+          "explicacao": "SEO significa otimização para mecanismos de busca.",
+          "fonte": "Referência conceitual: marketing de conteúdo e comunicação digital (práticas consolidadas de SEO, UX e métricas)"
+        },
+        {
+          "id": "dig-l1-q2",
+          "enunciado": "A chamada em uma página ou peça, como \"Inscreva-se agora\", que convida o público a realizar uma ação, é um",
+          "alternativas": [
+            "briefing.",
+            "call to action (CTA).",
+            "mailing.",
+            "clipping.",
+            "storyboard."
+          ],
+          "correta": 1,
+          "explicacao": "O CTA orienta o próximo passo do usuário.",
+          "fonte": "Referência conceitual: marketing de conteúdo e comunicação digital (práticas consolidadas de SEO, UX e métricas)"
+        },
+        {
+          "id": "dig-l1-q3",
+          "enunciado": "A representação semifictícia do público-alvo, construída a partir de dados e usada para orientar a produção de conteúdo, é a",
+          "alternativas": [
+            "mailing.",
+            "press kit.",
+            "briefing.",
+            "persona.",
+            "landing page."
+          ],
+          "correta": 3,
+          "explicacao": "A persona ajuda a definir temas, linguagem e formatos.",
+          "fonte": "Referência conceitual: marketing de conteúdo e comunicação digital (práticas consolidadas de SEO, UX e métricas)"
+        },
+        {
+          "id": "dig-l1-q4",
+          "enunciado": "O recurso que descreve uma imagem em texto, para ser lido por leitores de tela, é o",
+          "alternativas": [
+            "metadado de gráfica.",
+            "banner.",
+            "texto alternativo.",
+            "rodapé.",
+            "hiperlink."
+          ],
+          "correta": 2,
+          "explicacao": "O texto alternativo torna imagens acessíveis a pessoas com deficiência visual.",
+          "fonte": "Referência conceitual: marketing de conteúdo e comunicação digital (práticas consolidadas de SEO, UX e métricas)"
+        }
+      ]
+    },
+    {
+      "id": "dig-l2",
+      "titulo": "Redes sociais: planejamento, produção, monitoramento e métricas",
+      "minutos": 9,
+      "resumo": [
+        "Planejar redes sociais é definir objetivos, públicos, tom de voz, linha editorial, formatos por plataforma e calendário editorial. A produção e a publicação seguem o calendário, com revisão.",
+        "Monitoramento e escuta social (social listening) acompanham menções, comentários e tendências. A moderação define como responder a elogios, dúvidas, críticas e ataques.",
+        "Alcance é o número de pessoas únicas que viram o conteúdo. Impressões são o total de exibições, incluindo repetidas. Engajamento reúne interações (curtidas, comentários, compartilhamentos, salvamentos).",
+        "Taxa de engajamento = interações divididas pelo alcance (ou pelos seguidores). CTR = cliques divididos por impressões. CPM = custo por mil impressões. Seguidores e curtidas isolados são métricas de vaidade, que não provam resultado.",
+        "Conteúdo orgânico não é pago. Conteúdo pago (impulsionamento ou anúncio) amplia o alcance. Relatórios devem relacionar as métricas aos objetivos do plano."
+      ],
+      "flashcards": [
+        {
+          "frente": "Alcance x impressões",
+          "verso": "Alcance: pessoas únicas atingidas. Impressões: total de exibições, incluindo repetidas."
+        },
+        {
+          "frente": "CTR",
+          "verso": "Taxa de cliques: cliques divididos por impressões."
+        },
+        {
+          "frente": "Calendário editorial",
+          "verso": "Cronograma de temas, formatos, datas e responsáveis pelas publicações."
+        }
+      ],
+      "questoes": [
+        {
+          "id": "dig-l2-q1",
+          "enunciado": "Em relatório de redes sociais, o número de pessoas únicas que visualizaram uma publicação é chamado de",
+          "alternativas": [
+            "alcance.",
+            "frequência de postagem.",
+            "engajamento.",
+            "impressões.",
+            "taxa de cliques."
+          ],
+          "correta": 0,
+          "explicacao": "Alcance conta pessoas únicas. Impressões contam todas as exibições, inclusive as repetidas.",
+          "fonte": "Referência conceitual: marketing de conteúdo e comunicação digital (práticas consolidadas de SEO, UX e métricas)"
+        },
+        {
+          "id": "dig-l2-q2",
+          "enunciado": "Um anúncio teve 2.000 impressões e 50 cliques. A taxa de cliques (CTR) foi de",
+          "alternativas": [
+            "25%.",
+            "0,25%.",
+            "4%.",
+            "40%.",
+            "2,5%."
+          ],
+          "correta": 4,
+          "explicacao": "CTR é 50 dividido por 2.000, o que dá 0,025, ou 2,5%.",
+          "fonte": "Referência conceitual: marketing de conteúdo e comunicação digital (práticas consolidadas de SEO, UX e métricas)"
+        },
+        {
+          "id": "dig-l2-q3",
+          "enunciado": "Uma publicação alcançou 6.000 pessoas e gerou 300 interações (curtidas, comentários e compartilhamentos). A taxa de engajamento sobre o alcance foi de",
+          "alternativas": [
+            "2%.",
+            "5%.",
+            "50%.",
+            "0,5%.",
+            "20%."
+          ],
+          "correta": 1,
+          "explicacao": "300 dividido por 6.000 é 0,05, ou 5%.",
+          "fonte": "Referência conceitual: marketing de conteúdo e comunicação digital (práticas consolidadas de SEO, UX e métricas)"
+        },
+        {
+          "id": "dig-l2-q4",
+          "enunciado": "Um instrumento que organiza datas, temas, formatos, plataformas e responsáveis pelas publicações em um período é o",
+          "alternativas": [
+            "manual de identidade.",
+            "press kit.",
+            "clipping.",
+            "calendário editorial.",
+            "mailing."
+          ],
+          "correta": 3,
+          "explicacao": "O calendário editorial dá previsibilidade e coerência à produção de conteúdo.",
+          "fonte": "Referência conceitual: marketing de conteúdo e comunicação digital (práticas consolidadas de SEO, UX e métricas)"
+        }
+      ]
+    },
+    {
+      "id": "dig-l3",
+      "titulo": "Conteúdo multimídia e comunicação audiovisual",
+      "minutos": 9,
+      "resumo": [
+        "Conteúdo multimídia combina texto, imagem, áudio, vídeo, infográficos e interatividade. A narrativa transmídia expande a mesma história por várias plataformas, e cada uma contribui com uma parte. Reaproveitar um conteúdo em vários formatos reduz custos.",
+        "Gestão de conteúdo usa um sistema de gerenciamento (CMS), banco de imagens com metadados e controle de direitos de uso e de crédito.",
+        "Fotografia: enquadramento, luz e composição. A regra dos terços divide a imagem em nove partes e posiciona o ponto de interesse nas interseções. Planos: geral, médio, primeiro plano e close.",
+        "Vídeo: roteiro (texto), storyboard (desenho das cenas), planos e movimentos de câmera, captação e edição. Áudio: microfone adequado, controle do ruído e direitos da trilha. Legendas e audiodescrição ampliam a acessibilidade."
+      ],
+      "flashcards": [
+        {
+          "frente": "Regra dos terços",
+          "verso": "Divide a imagem em nove partes iguais e posiciona o elemento principal em uma das interseções."
+        },
+        {
+          "frente": "Storyboard",
+          "verso": "Sequência de desenhos ou imagens que planeja as cenas de um vídeo."
+        },
+        {
+          "frente": "Narrativa transmídia",
+          "verso": "Uma história expandida em várias plataformas, cada uma com uma parte do conteúdo."
+        }
+      ],
+      "questoes": [
+        {
+          "id": "dig-l3-q1",
+          "enunciado": "Em fotografia, a regra dos terços recomenda",
+          "alternativas": [
+            "usar apenas planos gerais.",
+            "evitar qualquer espaço vazio.",
+            "posicionar o elemento principal em uma das interseções das linhas que dividem a imagem em nove partes.",
+            "centralizar sempre o elemento principal.",
+            "sempre usar flash."
+          ],
+          "correta": 2,
+          "explicacao": "A regra dos terços cria composições equilibradas e dinâmicas.",
+          "fonte": "Referência conceitual: fundamentos de fotografia, vídeo e áudio"
+        },
+        {
+          "id": "dig-l3-q2",
+          "enunciado": "O planejamento visual de um vídeo, com desenhos ou imagens das cenas em sequência, é o",
+          "alternativas": [
+            "storyboard.",
+            "release.",
+            "mailing.",
+            "clipping.",
+            "benchmarking."
+          ],
+          "correta": 0,
+          "explicacao": "O storyboard antecipa enquadramentos e sequência antes da gravação.",
+          "fonte": "Referência conceitual: fundamentos de fotografia, vídeo e áudio"
+        },
+        {
+          "id": "dig-l3-q3",
+          "enunciado": "O plano que mostra o rosto de uma pessoa em detalhe, com destaque para expressões, é o",
+          "alternativas": [
+            "plano-sequência.",
+            "plano de conjunto.",
+            "plano médio.",
+            "plano geral.",
+            "close (ou primeiríssimo plano)."
+          ],
+          "correta": 4,
+          "explicacao": "O close aproxima a câmera do rosto ou de um detalhe.",
+          "fonte": "Referência conceitual: fundamentos de fotografia, vídeo e áudio"
+        },
+        {
+          "id": "dig-l3-q4",
+          "enunciado": "A narrativa em que uma mesma história é expandida por várias plataformas, com cada uma contribuindo com uma parte do conteúdo, é chamada de",
+          "alternativas": [
+            "mídia paga.",
+            "transmídia.",
+            "monomídia.",
+            "unimídia.",
+            "mídia espontânea."
+          ],
+          "correta": 1,
+          "explicacao": "Na narrativa transmídia, cada plataforma acrescenta elementos à história.",
+          "fonte": "Referência conceitual: fundamentos de fotografia, vídeo e áudio"
+        }
+      ]
+    },
+    {
+      "id": "dig-l4",
+      "titulo": "Comunicação visual: design, identidade visual e produção gráfica",
+      "minutos": 9,
+      "resumo": [
+        "Elementos do design: ponto, linha, forma, cor, tipografia e espaço. Princípios: contraste, alinhamento, proximidade, repetição e hierarquia visual, que guia o olhar do mais importante ao menos importante.",
+        "Cor: RGB (vermelho, verde e azul) é o sistema aditivo das telas. CMYK (ciano, magenta, amarelo e preto) é o sistema subtrativo usado na impressão.",
+        "Imagem vetorial é feita por fórmulas matemáticas e pode ser ampliada sem perda (logotipos). Imagem raster, ou bitmap, é feita de pixels e perde qualidade ao ampliar (fotografias).",
+        "Resolução: cerca de 72 ppi para telas e 300 dpi para impressão. Sangria é a margem extra, além do corte final, que evita bordas brancas. Gráficas costumam receber arquivos em PDF com fontes incorporadas ou convertidas em curvas.",
+        "Legibilidade e contraste entre texto e fundo são requisitos de acessibilidade. Identidade visual: logotipo, símbolo, cores, tipografia e padrões, reunidos em um manual."
+      ],
+      "flashcards": [
+        {
+          "frente": "RGB x CMYK",
+          "verso": "RGB: sistema aditivo das telas. CMYK: sistema subtrativo da impressão."
+        },
+        {
+          "frente": "Vetor x raster",
+          "verso": "Vetor: fórmulas matemáticas, sem perda ao ampliar. Raster: pixels, perde qualidade ao ampliar."
+        },
+        {
+          "frente": "Sangria",
+          "verso": "Margem extra, além da linha de corte, para evitar bordas brancas na impressão."
+        }
+      ],
+      "questoes": [
+        {
+          "id": "dig-l4-q1",
+          "enunciado": "O sistema de cores usado na impressão gráfica é o",
+          "alternativas": [
+            "Pantone digital apenas.",
+            "HSL.",
+            "escala de cinza apenas.",
+            "CMYK.",
+            "RGB."
+          ],
+          "correta": 3,
+          "explicacao": "A impressão trabalha com ciano, magenta, amarelo e preto (CMYK). As telas usam RGB.",
+          "fonte": "Referência conceitual: fundamentos de design gráfico e de produção gráfica"
+        },
+        {
+          "id": "dig-l4-q2",
+          "enunciado": "Um logotipo que precisa ser ampliado em uma fachada sem perder nitidez deve ser mantido em formato",
+          "alternativas": [
+            "raster, com baixa resolução.",
+            "de bitmap de 72 ppi.",
+            "vetorial.",
+            "de miniatura.",
+            "de captura de tela."
+          ],
+          "correta": 2,
+          "explicacao": "Imagens vetoriais são escaláveis sem perda de qualidade.",
+          "fonte": "Referência conceitual: fundamentos de design gráfico e de produção gráfica"
+        },
+        {
+          "id": "dig-l4-q3",
+          "enunciado": "Para um material impresso, a resolução de imagem geralmente recomendada é de",
+          "alternativas": [
+            "300 dpi.",
+            "72 dpi.",
+            "10 dpi.",
+            "1 dpi.",
+            "30 dpi."
+          ],
+          "correta": 0,
+          "explicacao": "Impressão exige maior resolução que a tela, que usa em torno de 72 ppi.",
+          "fonte": "Referência conceitual: fundamentos de design gráfico e de produção gráfica"
+        },
+        {
+          "id": "dig-l4-q4",
+          "enunciado": "A margem extra de uma arte gráfica, além da linha de corte, usada para evitar bordas brancas após o refile, chama-se",
+          "alternativas": [
+            "contraforma.",
+            "mailing.",
+            "hierarquia.",
+            "gramatura.",
+            "sangria."
+          ],
+          "correta": 4,
+          "explicacao": "A sangria compensa pequenas variações no corte do papel.",
+          "fonte": "Referência conceitual: fundamentos de design gráfico e de produção gráfica"
+        }
+      ]
+    }
+  ]
+}

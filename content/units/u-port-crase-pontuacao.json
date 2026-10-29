@@ -1,0 +1,260 @@
+{
+  "id": "u-port-crase-pontuacao",
+  "titulo": "Pontuação, crase e colocação pronominal",
+  "bloco": "Gerais",
+  "categoria": "port",
+  "topicos": [
+    "port-05"
+  ],
+  "licoes": [
+    {
+      "id": "pcp-l1",
+      "titulo": "Pontuação: a vírgula",
+      "minutos": 8,
+      "resumo": [
+        "Usa-se vírgula para separar itens de enumeração, isolar vocativo, aposto, expressões explicativas (isto é, ou seja), adjuntos adverbiais deslocados e orações adjetivas explicativas, e antes de conjunções adversativas (mas, porém).",
+        "Não se separa por vírgula: sujeito e verbo, verbo e complemento, nome e complemento nominal.",
+        "Aposto é explicação do termo anterior e vem entre vírgulas: \"Maria Silva, coordenadora de comunicação, apresentou o plano\".",
+        "Dois-pontos introduzem enumeração, citação ou explicação. Ponto e vírgula separa itens longos de enumeração ou orações que já contêm vírgulas."
+      ],
+      "flashcards": [
+        {
+          "frente": "Vírgula entre sujeito e verbo",
+          "verso": "Não se usa, a menos que haja termo intercalado entre vírgulas."
+        },
+        {
+          "frente": "Aposto",
+          "verso": "Explica um termo e vem isolado por vírgulas."
+        },
+        {
+          "frente": "Vírgula antes de \"mas\"",
+          "verso": "É usada: \"Planejamos a campanha, mas não conseguimos executá-la\"."
+        }
+      ],
+      "questoes": [
+        {
+          "id": "pcp-l1-q1",
+          "enunciado": "Assinale a frase com a pontuação correta.",
+          "alternativas": [
+            "Os resultados divulgados, ontem surpreenderam a diretoria.",
+            "Os resultados, divulgados ontem, surpreenderam a diretoria.",
+            "Os resultados divulgados ontem surpreenderam, a diretoria.",
+            "Os resultados, divulgados ontem surpreenderam, a diretoria.",
+            "Os resultados divulgados ontem, surpreenderam a diretoria."
+          ],
+          "correta": 1,
+          "explicacao": "O trecho \"divulgados ontem\" é intercalado e vem entre vírgulas. As outras alternativas separam sujeito e verbo ou o verbo do complemento.",
+          "fonte": "Referência conceitual: gramática normativa (C. Cunha e L. Cintra, Nova Gramática do Português Contemporâneo)"
+        },
+        {
+          "id": "pcp-l1-q2",
+          "enunciado": "Assinale a frase com a pontuação correta.",
+          "alternativas": [
+            "Ao final da reunião o presidente, agradeceu os participantes.",
+            "Ao final da reunião o presidente agradeceu, os participantes.",
+            "Ao final, da reunião o presidente agradeceu os participantes.",
+            "Ao final da reunião, o presidente agradeceu os participantes.",
+            "Ao final da reunião o presidente agradeceu os, participantes."
+          ],
+          "correta": 3,
+          "explicacao": "Adjunto adverbial deslocado para o início é separado por vírgula. As demais separam termos que não podem ser separados.",
+          "fonte": "Referência conceitual: gramática normativa (C. Cunha e L. Cintra, Nova Gramática do Português Contemporâneo)"
+        },
+        {
+          "id": "pcp-l1-q3",
+          "enunciado": "Assinale a frase em que o aposto está corretamente pontuado.",
+          "alternativas": [
+            "Maria, Silva coordenadora de comunicação, apresentou o plano.",
+            "Maria Silva coordenadora, de comunicação apresentou o plano.",
+            "Maria Silva, coordenadora de comunicação, apresentou o plano.",
+            "Maria Silva coordenadora de comunicação, apresentou o plano.",
+            "Maria Silva, coordenadora de comunicação apresentou o plano."
+          ],
+          "correta": 2,
+          "explicacao": "O aposto \"coordenadora de comunicação\" é isolado por duas vírgulas.",
+          "fonte": "Referência conceitual: gramática normativa (C. Cunha e L. Cintra, Nova Gramática do Português Contemporâneo)"
+        },
+        {
+          "id": "pcp-l1-q4",
+          "enunciado": "Assinale a frase com a pontuação correta.",
+          "alternativas": [
+            "Planejamos a campanha, mas não conseguimos executá-la.",
+            "Planejamos a campanha mas não conseguimos, executá-la.",
+            "Planejamos, a campanha mas não conseguimos executá-la.",
+            "Planejamos a campanha mas não, conseguimos executá-la.",
+            "Planejamos a campanha mas, não conseguimos executá-la."
+          ],
+          "correta": 0,
+          "explicacao": "A conjunção adversativa \"mas\" é precedida de vírgula. As outras posições separam verbo e complemento.",
+          "fonte": "Referência conceitual: gramática normativa (C. Cunha e L. Cintra, Nova Gramática do Português Contemporâneo)"
+        }
+      ]
+    },
+    {
+      "id": "pcp-l2",
+      "titulo": "Emprego da crase",
+      "minutos": 7,
+      "resumo": [
+        "Crase é a fusão da preposição \"a\" com o artigo \"a(s)\" ou com o início de \"aquele\", \"aquela\", \"aquilo\". Só ocorre antes de palavra feminina que aceita artigo e exigida por termo que pede \"a\".",
+        "Obrigatória: \"Dirija-se à sala\", \"às 14h\", \"à tarde\", \"à noite\", \"à medida que\", \"à luz de\".",
+        "Proibida: antes de palavra masculina (\"a pé\"), verbo (\"a partir\"), pronome pessoal (\"a ela\"), pronome de tratamento, expressões repetidas (\"gota a gota\") e cidade sem determinante.",
+        "Truque: troque por um verbo que peça \"de\". Se aparecer \"da\", há crase: \"Volto da Bahia\" (vou à Bahia); \"Volto de Brasília\" (vou a Brasília)."
+      ],
+      "flashcards": [
+        {
+          "frente": "Truque da crase",
+          "verso": "Se o verbo \"voltar\" pedir \"da\" antes do nome, há crase (Volto da Bahia, vou à Bahia). Se pedir \"de\", não há (Volto de Brasília, vou a Brasília)."
+        },
+        {
+          "frente": "Crase antes de horas",
+          "verso": "Há crase antes de horas determinadas: \"às 14h\", \"à meia-noite\"."
+        },
+        {
+          "frente": "Crase antes de verbos",
+          "verso": "Nunca há crase antes de verbo: \"a partir de\", \"a fazer\"."
+        }
+      ],
+      "questoes": [
+        {
+          "id": "pcp-l2-q1",
+          "enunciado": "Complete: \"Os candidatos devem se dirigir ___ sala indicada no edital.\"",
+          "alternativas": [
+            "a",
+            "à à",
+            "há",
+            "a a",
+            "à"
+          ],
+          "correta": 4,
+          "explicacao": "\"Dirigir-se\" pede \"a\" e \"sala\" é feminino com artigo: a + a = à.",
+          "fonte": "Referência conceitual: gramática normativa (C. Cunha e L. Cintra, Nova Gramática do Português Contemporâneo)"
+        },
+        {
+          "id": "pcp-l2-q2",
+          "enunciado": "Complete: \"A reunião começará ___ 14h.\"",
+          "alternativas": [
+            "há",
+            "às",
+            "as",
+            "a",
+            "à"
+          ],
+          "correta": 1,
+          "explicacao": "Horas determinadas pedem a preposição \"a\" e o artigo feminino plural: \"às 14h\".",
+          "fonte": "Referência conceitual: gramática normativa (C. Cunha e L. Cintra, Nova Gramática do Português Contemporâneo)"
+        },
+        {
+          "id": "pcp-l2-q3",
+          "enunciado": "Complete: \"Ele se referiu ___ ela com respeito.\"",
+          "alternativas": [
+            "as",
+            "há",
+            "à",
+            "a",
+            "ao"
+          ],
+          "correta": 3,
+          "explicacao": "Não há crase antes de pronome pessoal.",
+          "fonte": "Referência conceitual: gramática normativa (C. Cunha e L. Cintra, Nova Gramática do Português Contemporâneo)"
+        },
+        {
+          "id": "pcp-l2-q4",
+          "enunciado": "Assinale a alternativa em que o uso do acento grave está correto.",
+          "alternativas": [
+            "Viajamos à Brasília e voltamos a Bahia.",
+            "Entregou o documento à ele.",
+            "Viajamos à Bahia e depois voltamos a Brasília.",
+            "Fomos à pé até o escritório.",
+            "Viajamos a Bahia e voltamos à Brasília."
+          ],
+          "correta": 2,
+          "explicacao": "\"Volto da Bahia\" confirma a crase em \"à Bahia\". \"Volto de Brasília\" indica que não há crase. Não há crase antes de masculino (\"a pé\") nem de pronome pessoal (\"a ele\").",
+          "fonte": "Referência conceitual: gramática normativa (C. Cunha e L. Cintra, Nova Gramática do Português Contemporâneo)"
+        }
+      ]
+    },
+    {
+      "id": "pcp-l3",
+      "titulo": "Colocação dos pronomes átonos",
+      "minutos": 7,
+      "resumo": [
+        "Próclise (pronome antes do verbo): ocorre com palavras atrativas, como negação (não, nunca), advérbios sem pausa (já, sempre, ainda), pronomes relativos e indefinidos, e conjunções subordinativas (que, se, quando).",
+        "Ênclise (pronome depois): ocorre quando o verbo inicia a oração, com imperativo afirmativo (\"Envie-me os dados\") e com infinitivo e gerúndio sem atrativo.",
+        "Mesóclise (pronome no meio): ocorre com o futuro do presente e o futuro do pretérito quando não há atrativo: \"Entregar-lhe-ei o documento amanhã\".",
+        "Na norma-padrão, não se inicia frase com pronome átono."
+      ],
+      "flashcards": [
+        {
+          "frente": "Próclise",
+          "verso": "Pronome antes do verbo, atraído por negação, relativos, indefinidos e conjunções subordinativas."
+        },
+        {
+          "frente": "Ênclise",
+          "verso": "Pronome depois do verbo: verbo no início, imperativo afirmativo."
+        },
+        {
+          "frente": "Mesóclise",
+          "verso": "Pronome no meio do verbo, com futuro do presente ou do pretérito sem atrativo: \"dar-lhe-ei\"."
+        }
+      ],
+      "questoes": [
+        {
+          "id": "pcp-l3-q1",
+          "enunciado": "Complete: \"Nunca ___ esqueceremos esse dia.\"",
+          "alternativas": [
+            "nos",
+            "esqueceremos-nos",
+            "esquecer-nos-emos",
+            "nos-esqueceremos",
+            "esqueceremo-nos"
+          ],
+          "correta": 0,
+          "explicacao": "O advérbio de negação \"nunca\" é palavra atrativa e exige próclise: \"nunca nos esqueceremos\".",
+          "fonte": "Referência conceitual: gramática normativa (C. Cunha e L. Cintra, Nova Gramática do Português Contemporâneo)"
+        },
+        {
+          "id": "pcp-l3-q2",
+          "enunciado": "Assinale a alternativa que reescreve \"Entregarei o documento a você amanhã\" substituindo \"a você\" por pronome átono, de acordo com a norma-padrão.",
+          "alternativas": [
+            "Lhe entregar-ei o documento amanhã.",
+            "Entregar-lhe-ia o documento amanhã.",
+            "Entregarei-lhe o documento amanhã.",
+            "Lhe entregarei o documento amanhã.",
+            "Entregar-lhe-ei o documento amanhã."
+          ],
+          "correta": 4,
+          "explicacao": "Verbo no futuro do presente sem palavra atrativa pede mesóclise. Não se inicia a frase com pronome átono.",
+          "fonte": "Referência conceitual: gramática normativa (C. Cunha e L. Cintra, Nova Gramática do Português Contemporâneo)"
+        },
+        {
+          "id": "pcp-l3-q3",
+          "enunciado": "Assinale a frase em que a colocação do pronome está de acordo com a norma-padrão.",
+          "alternativas": [
+            "Me enviem os dados ainda hoje.",
+            "Envie-me os dados ainda hoje.",
+            "Envie os dados me ainda hoje.",
+            "Me envie os dados ainda hoje.",
+            "Enviem me os dados ainda hoje."
+          ],
+          "correta": 1,
+          "explicacao": "Imperativo afirmativo pede ênclise: \"envie-me\".",
+          "fonte": "Referência conceitual: gramática normativa (C. Cunha e L. Cintra, Nova Gramática do Português Contemporâneo)"
+        },
+        {
+          "id": "pcp-l3-q4",
+          "enunciado": "Assinale a frase em que a colocação do pronome está correta.",
+          "alternativas": [
+            "O servidor que atendeu me foi cordial.",
+            "O servidor me que atendeu foi cordial.",
+            "O servidor atendeu-me que foi cordial.",
+            "O servidor que me atendeu foi cordial.",
+            "O servidor que atendeu-me foi cordial."
+          ],
+          "correta": 3,
+          "explicacao": "O pronome relativo \"que\" é atrativo e exige próclise: \"que me atendeu\".",
+          "fonte": "Referência conceitual: gramática normativa (C. Cunha e L. Cintra, Nova Gramática do Português Contemporâneo)"
+        }
+      ]
+    }
+  ]
+}

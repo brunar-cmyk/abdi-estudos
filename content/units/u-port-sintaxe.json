@@ -1,0 +1,260 @@
+{
+  "id": "u-port-sintaxe",
+  "titulo": "Classes de palavras, período, concordância e regência",
+  "bloco": "Gerais",
+  "categoria": "port",
+  "topicos": [
+    "port-05"
+  ],
+  "licoes": [
+    {
+      "id": "psin-l1",
+      "titulo": "Classes de palavras, coordenação e subordinação",
+      "minutos": 8,
+      "resumo": [
+        "Classes: substantivo, adjetivo, artigo, numeral, pronome, verbo, advérbio, preposição, conjunção e interjeição.",
+        "Coordenação liga orações independentes. Sindéticas: aditiva (e, nem), adversativa (mas, porém, contudo), alternativa (ou), conclusiva (logo, portanto) e explicativa (pois, porque).",
+        "Subordinação liga orações dependentes: substantivas (funcionam como sujeito, objeto, predicativo etc., com \"que\" ou \"se\"), adjetivas (introduzidas por pronome relativo) e adverbiais (causa, concessão, condição, finalidade, tempo).",
+        "Adjetiva restritiva restringe o termo e não tem vírgula. Adjetiva explicativa acrescenta uma informação e vem entre vírgulas."
+      ],
+      "flashcards": [
+        {
+          "frente": "Oração coordenada adversativa",
+          "verso": "Expressa oposição: mas, porém, contudo, todavia, no entanto."
+        },
+        {
+          "frente": "Oração substantiva subjetiva",
+          "verso": "Funciona como sujeito de outra oração: \"É necessário que todos participem\"."
+        },
+        {
+          "frente": "Adjetiva restritiva x explicativa",
+          "verso": "Restritiva: sem vírgulas, limita o termo. Explicativa: entre vírgulas, só acrescenta informação."
+        }
+      ],
+      "questoes": [
+        {
+          "id": "psin-l1-q1",
+          "enunciado": "Em \"Estudei bastante, mas não passei\", a segunda oração é coordenada",
+          "alternativas": [
+            "sindética adversativa.",
+            "assindética.",
+            "sindética conclusiva.",
+            "sindética aditiva.",
+            "sindética explicativa."
+          ],
+          "correta": 0,
+          "explicacao": "\"Mas\" liga orações com ideia de oposição.",
+          "fonte": "Referência conceitual: gramática normativa (C. Cunha e L. Cintra, Nova Gramática do Português Contemporâneo)"
+        },
+        {
+          "id": "psin-l1-q2",
+          "enunciado": "Em \"É necessário que todos participem\", a oração \"que todos participem\" é subordinada substantiva",
+          "alternativas": [
+            "adverbial de finalidade.",
+            "adjetiva restritiva, pois qualifica um substantivo.",
+            "coordenada aditiva.",
+            "objetiva direta, pois completa um verbo transitivo.",
+            "subjetiva, pois funciona como sujeito de \"é necessário\"."
+          ],
+          "correta": 4,
+          "explicacao": "Pode-se reescrever: \"A participação de todos é necessária\". A oração substitui o sujeito.",
+          "fonte": "Referência conceitual: gramática normativa (C. Cunha e L. Cintra, Nova Gramática do Português Contemporâneo)"
+        },
+        {
+          "id": "psin-l1-q3",
+          "enunciado": "Em \"O relatório que você enviou está completo\", o \"que\" é",
+          "alternativas": [
+            "conjunção causal, pois indica a causa.",
+            "pronome relativo, pois retoma \"o relatório\" e introduz oração adjetiva.",
+            "advérbio de intensidade.",
+            "conjunção integrante, pois introduz oração substantiva.",
+            "pronome interrogativo."
+          ],
+          "correta": 1,
+          "explicacao": "O \"que\" pode ser substituído por \"o qual\" e exerce função sintática de objeto direto de \"enviou\".",
+          "fonte": "Referência conceitual: gramática normativa (C. Cunha e L. Cintra, Nova Gramática do Português Contemporâneo)"
+        },
+        {
+          "id": "psin-l1-q4",
+          "enunciado": "Em \"Chegou tarde porque perdeu o ônibus\", a oração \"porque perdeu o ônibus\" é subordinada adverbial",
+          "alternativas": [
+            "final.",
+            "condicional.",
+            "temporal.",
+            "causal.",
+            "concessiva."
+          ],
+          "correta": 3,
+          "explicacao": "A oração expressa a causa do atraso.",
+          "fonte": "Referência conceitual: gramática normativa (C. Cunha e L. Cintra, Nova Gramática do Português Contemporâneo)"
+        }
+      ]
+    },
+    {
+      "id": "psin-l2",
+      "titulo": "Concordância verbal e nominal",
+      "minutos": 8,
+      "resumo": [
+        "O verbo concorda com o sujeito. \"Mais de um\" leva o verbo ao singular. Coletivos no singular levam o verbo ao singular.",
+        "Haver no sentido de existir é impessoal, sempre no singular: \"Há muitos candidatos\", \"Houve problemas\". Fazer indicando tempo também fica no singular: \"Faz dois anos\".",
+        "Na voz passiva sintética, o verbo concorda com o sujeito: \"Vendem-se casas\", \"Alugam-se salas\". Com verbo transitivo indireto, fica no singular: \"Precisa-se de técnicos\".",
+        "Concordância nominal: anexo, incluso e obrigado concordam com o substantivo a que se referem (\"seguem anexos os documentos\"). \"Meio\" advérbio é invariável (\"meio cansada\"). \"É proibida a entrada\" concorda; \"é proibido entrada\" (sem artigo) fica invariável."
+      ],
+      "flashcards": [
+        {
+          "frente": "Verbo haver no sentido de existir",
+          "verso": "Impessoal, sempre no singular: \"Há muitos candidatos\", \"Houve problemas\"."
+        },
+        {
+          "frente": "Voz passiva sintética x transitivo indireto",
+          "verso": "\"Vendem-se casas\" (concorda). \"Precisa-se de técnicos\" (singular, com preposição)."
+        },
+        {
+          "frente": "Anexo, incluso, obrigado",
+          "verso": "Concordam com o substantivo: \"seguem anexos os documentos\", \"obrigada\" dita por mulher."
+        }
+      ],
+      "questoes": [
+        {
+          "id": "psin-l2-q1",
+          "enunciado": "Assinale a frase em que a concordância verbal está de acordo com a norma-padrão.",
+          "alternativas": [
+            "Haviam candidatos suficientes para a vaga.",
+            "Aluga-se salas comerciais no centro.",
+            "Mais de um candidato foi aprovado nesta etapa.",
+            "Precisam-se de analistas de comunicação.",
+            "Fazem dois anos que ele trabalha aqui."
+          ],
+          "correta": 2,
+          "explicacao": "\"Mais de um\" leva o verbo ao singular. \"Fazer\" e \"haver\" impessoais ficam no singular; \"alugam-se salas\" concorda com o sujeito; \"precisa-se de\" fica no singular.",
+          "fonte": "Referência conceitual: gramática normativa (C. Cunha e L. Cintra, Nova Gramática do Português Contemporâneo)"
+        },
+        {
+          "id": "psin-l2-q2",
+          "enunciado": "Assinale a frase correta quanto à concordância nominal e verbal.",
+          "alternativas": [
+            "Seguem anexos os documentos solicitados.",
+            "Segue anexo os documentos solicitados.",
+            "Segue anexos os documentos solicitados.",
+            "Seguem anexo os documentos solicitados.",
+            "Seguem anexas os documentos solicitados."
+          ],
+          "correta": 0,
+          "explicacao": "O verbo concorda com o sujeito posposto (\"os documentos\"), e \"anexos\" concorda com o substantivo.",
+          "fonte": "Referência conceitual: gramática normativa (C. Cunha e L. Cintra, Nova Gramática do Português Contemporâneo)"
+        },
+        {
+          "id": "psin-l2-q3",
+          "enunciado": "Assinale a frase em que há concordância adequada.",
+          "alternativas": [
+            "É proibido a entrada de pessoas não autorizadas.",
+            "São proibido a entrada de pessoas não autorizadas.",
+            "É proibido a entradas de pessoas não autorizadas.",
+            "É proibida entradas de pessoas não autorizadas.",
+            "É proibida a entrada de pessoas não autorizadas."
+          ],
+          "correta": 4,
+          "explicacao": "Havendo artigo (\"a entrada\"), o adjetivo concorda com o substantivo: \"proibida\". O sujeito é singular, logo \"é\".",
+          "fonte": "Referência conceitual: gramática normativa (C. Cunha e L. Cintra, Nova Gramática do Português Contemporâneo)"
+        },
+        {
+          "id": "psin-l2-q4",
+          "enunciado": "Assinale a frase em que o uso de \"meio\" e \"meia\" está correto.",
+          "alternativas": [
+            "Ela chegou meio cansada ao meia-dia e meia.",
+            "Ela chegou meio cansada ao meio-dia e meia.",
+            "Ela chegou meios cansada ao meio-dia e meia.",
+            "Ela chegou meia cansada ao meia-dia e meio.",
+            "Ela chegou meia cansada ao meio-dia e meio."
+          ],
+          "correta": 1,
+          "explicacao": "\"Meio\" como advérbio (= um pouco) é invariável. \"Meio-dia\" é masculino. \"Meia\" refere-se a \"meia hora\".",
+          "fonte": "Referência conceitual: gramática normativa (C. Cunha e L. Cintra, Nova Gramática do Português Contemporâneo)"
+        }
+      ]
+    },
+    {
+      "id": "psin-l3",
+      "titulo": "Regência verbal e nominal",
+      "minutos": 8,
+      "resumo": [
+        "Assistir no sentido de ver exige a preposição \"a\": \"Assistimos ao evento\". Assistir no sentido de ajudar é transitivo direto.",
+        "Preferir: \"Prefiro A a B\", sem \"do que\" nem \"mais\". Obedecer e desobedecer exigem \"a\". Chegar e ir pedem \"a\", e não \"em\": \"chegou ao escritório\".",
+        "Informar: \"informar alguém de/sobre algo\" ou \"informar algo a alguém\". Visar no sentido de ter como objetivo exige \"a\". Aspirar no sentido de desejar exige \"a\".",
+        "Regência nominal: obediência a, respeito a ou por, residente em, apto a ou para, direito a, falta de."
+      ],
+      "flashcards": [
+        {
+          "frente": "Preferir",
+          "verso": "\"Prefiro trabalhar em equipe a trabalhar sozinho\". Evite \"do que\" e \"mais\"."
+        },
+        {
+          "frente": "Assistir (ver)",
+          "verso": "Transitivo indireto: assistir a um filme, a uma palestra."
+        },
+        {
+          "frente": "Chegar e ir",
+          "verso": "Pedem a preposição \"a\": chegou ao escritório, foi ao banco."
+        }
+      ],
+      "questoes": [
+        {
+          "id": "psin-l3-q1",
+          "enunciado": "Complete: \"Todos os servidores assistiram ___ evento de abertura.\"",
+          "alternativas": [
+            "o",
+            "do",
+            "no",
+            "ao",
+            "pelo"
+          ],
+          "correta": 3,
+          "explicacao": "Assistir no sentido de ver exige a preposição \"a\", que se une ao artigo: \"ao evento\".",
+          "fonte": "Referência conceitual: gramática normativa (C. Cunha e L. Cintra, Nova Gramática do Português Contemporâneo)"
+        },
+        {
+          "id": "psin-l3-q2",
+          "enunciado": "Complete: \"Prefiro trabalhar em equipe ___ trabalhar sozinho.\"",
+          "alternativas": [
+            "mais que",
+            "ao invés de",
+            "a",
+            "que",
+            "do que"
+          ],
+          "correta": 2,
+          "explicacao": "O verbo preferir exige o complemento com \"a\": \"prefiro X a Y\".",
+          "fonte": "Referência conceitual: gramática normativa (C. Cunha e L. Cintra, Nova Gramática do Português Contemporâneo)"
+        },
+        {
+          "id": "psin-l3-q3",
+          "enunciado": "Complete: \"A diretoria informou os empregados ___ mudança de horário.\"",
+          "alternativas": [
+            "da",
+            "na",
+            "à",
+            "com a",
+            "pela"
+          ],
+          "correta": 0,
+          "explicacao": "Informar alguém de algo: \"informou os empregados da mudança\".",
+          "fonte": "Referência conceitual: gramática normativa (C. Cunha e L. Cintra, Nova Gramática do Português Contemporâneo)"
+        },
+        {
+          "id": "psin-l3-q4",
+          "enunciado": "Complete: \"Os empregados devem obediência ___ regulamento de ética.\"",
+          "alternativas": [
+            "pelo",
+            "do",
+            "no",
+            "com o",
+            "ao"
+          ],
+          "correta": 4,
+          "explicacao": "O substantivo \"obediência\" rege a preposição \"a\", como o verbo \"obedecer\".",
+          "fonte": "Referência conceitual: gramática normativa (C. Cunha e L. Cintra, Nova Gramática do Português Contemporâneo)"
+        }
+      ]
+    }
+  ]
+}

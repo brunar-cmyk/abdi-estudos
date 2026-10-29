@@ -1,0 +1,370 @@
+{
+  "id": "u-esp-planejamento-marca-interna",
+  "titulo": "Planejamento de comunicação; identidade, imagem, marca e reputação; comunicação interna",
+  "bloco": "Específicos",
+  "categoria": "esp",
+  "topicos": [
+    "esp-04",
+    "esp-06",
+    "esp-12"
+  ],
+  "licoes": [
+    {
+      "id": "pmi-l1",
+      "titulo": "Planejamento estratégico de comunicação",
+      "minutos": 8,
+      "resumo": [
+        "Planejar comunicação é decidir, a partir de um diagnóstico, onde se quer chegar e como. O plano de comunicação deve estar alinhado ao planejamento estratégico da organização: missão, visão, valores e objetivos institucionais.",
+        "Sequência lógica: diagnóstico (pesquisa e análise de cenário), objetivos, públicos, estratégias, ações (táticas), cronograma, orçamento, e avaliação com indicadores.",
+        "Diagnóstico com a matriz SWOT (FOFA): forças e fraquezas são fatores internos; oportunidades e ameaças são fatores externos.",
+        "Bons objetivos são específicos, mensuráveis, alcançáveis, relevantes e com prazo (critério SMART). Exemplo: aumentar em 20% o alcance orgânico do perfil institucional em seis meses.",
+        "Estratégia é o caminho geral para atingir o objetivo; tática é a ação concreta que realiza a estratégia. Níveis do planejamento: estratégico (longo prazo), tático (médio) e operacional (rotina).",
+        "Avaliação e controle fecham o ciclo: indicadores de alcance, engajamento e resultados (efeito sobre o objetivo), com ajustes durante a execução. O briefing reúne as informações que orientam a equipe e os fornecedores."
+      ],
+      "flashcards": [
+        {
+          "frente": "SWOT (FOFA): o que é interno e o que é externo?",
+          "verso": "Forças e fraquezas: internas. Oportunidades e ameaças: externas."
+        },
+        {
+          "frente": "Critério SMART para objetivos",
+          "verso": "Específico, mensurável, alcançável, relevante e com prazo definido."
+        },
+        {
+          "frente": "Estratégia x tática",
+          "verso": "Estratégia: caminho geral para atingir o objetivo. Tática: ação concreta que a executa."
+        },
+        {
+          "frente": "Etapas básicas do plano de comunicação",
+          "verso": "Diagnóstico, objetivos, públicos, estratégias, ações, cronograma, orçamento e avaliação."
+        }
+      ],
+      "questoes": [
+        {
+          "id": "pmi-l1-q1",
+          "enunciado": "Na análise SWOT (ou FOFA) aplicada ao planejamento de comunicação de uma organização, são considerados fatores externos",
+          "alternativas": [
+            "forças e oportunidades.",
+            "somente as ameaças.",
+            "oportunidades e ameaças.",
+            "forças e fraquezas.",
+            "fraquezas e ameaças."
+          ],
+          "correta": 2,
+          "explicacao": "Oportunidades e ameaças vêm do ambiente externo, fora do controle da organização. Forças e fraquezas são internas.",
+          "fonte": "Referência conceitual: M. M. K. Kunsch, Planejamento de Relações Públicas na Comunicação Integrada (4ª ed., 2003); matriz SWOT, método clássico de diagnóstico"
+        },
+        {
+          "id": "pmi-l1-q2",
+          "enunciado": "Em um plano de comunicação, o objetivo \"aumentar em 20% o alcance orgânico do perfil institucional nas redes sociais em seis meses\" é adequado porque é",
+          "alternativas": [
+            "válido apenas para o planejamento operacional.",
+            "genérico e de difícil medição.",
+            "uma tática, e não um objetivo.",
+            "dependente de verba publicitária ilimitada.",
+            "específico, mensurável e com prazo definido."
+          ],
+          "correta": 4,
+          "explicacao": "O objetivo tem meta numérica (20%), indicador (alcance orgânico), prazo (seis meses) e escopo claro, o que atende ao critério SMART.",
+          "fonte": "Referência conceitual: critério SMART de definição de metas (G. Doran, 1981); M. M. K. Kunsch (2003)"
+        },
+        {
+          "id": "pmi-l1-q3",
+          "enunciado": "Assinale a sequência que melhor representa a lógica de elaboração de um plano de comunicação.",
+          "alternativas": [
+            "Diagnóstico, objetivos, públicos, estratégias, ações, cronograma e orçamento, e avaliação.",
+            "Orçamento, cronograma, diagnóstico e avaliação.",
+            "Objetivos, orçamento, diagnóstico, ações e avaliação.",
+            "Avaliação, diagnóstico, ações e objetivos.",
+            "Ações, diagnóstico, avaliação, objetivos e públicos."
+          ],
+          "correta": 0,
+          "explicacao": "O planejamento parte do diagnóstico, define o que se quer (objetivos) e para quem (públicos), escolhe estratégias e ações, organiza tempo e recursos e fecha com a avaliação.",
+          "fonte": "Referência conceitual: M. M. K. Kunsch, Planejamento de Relações Públicas na Comunicação Integrada (4ª ed., 2003)"
+        },
+        {
+          "id": "pmi-l1-q7",
+          "enunciado": "No planejamento de comunicação, a diferença entre estratégia e tática é que a estratégia",
+          "alternativas": [
+            "e a tática são sinônimos.",
+            "é a ação concreta do dia a dia, enquanto a tática define o objetivo.",
+            "só existe em campanhas publicitárias pagas.",
+            "é o caminho geral para atingir o objetivo, enquanto a tática é a ação específica que a executa.",
+            "é o orçamento, enquanto a tática é o cronograma."
+          ],
+          "correta": 3,
+          "explicacao": "A estratégia indica como se pretende chegar ao objetivo; as táticas são as ações específicas, como uma newsletter mensal ou uma série de posts.",
+          "fonte": "Referência conceitual: M. M. K. Kunsch, Planejamento de Relações Públicas na Comunicação Integrada (4ª ed., 2003)"
+        },
+        {
+          "id": "pmi-l1-q4",
+          "enunciado": "Para que o plano de comunicação de uma agência de desenvolvimento seja coerente, ele deve estar alinhado",
+          "alternativas": [
+            "exclusivamente às tendências das redes sociais.",
+            "ao planejamento estratégico da organização, com sua missão, visão, valores e objetivos.",
+            "ao calendário de feriados nacionais.",
+            "à agenda pessoal dos dirigentes.",
+            "apenas ao gosto da área de comunicação."
+          ],
+          "correta": 1,
+          "explicacao": "A comunicação é função estratégica: o plano deve derivar do planejamento institucional e contribuir para seus objetivos.",
+          "fonte": "Referência conceitual: M. M. K. Kunsch (2003); ver também Edital 01/2026, Anexo I, atribuição 1 do perfil API - Comunicação e Marketing"
+        },
+        {
+          "id": "pmi-l1-q5",
+          "enunciado": "Entre os indicadores usados na avaliação de um plano de comunicação, aquele que mede principalmente o quanto a ação mobilizou o público (curtidas, comentários, compartilhamentos e cliques) é o de",
+          "alternativas": [
+            "orçamento executado.",
+            "satisfação do fornecedor.",
+            "engajamento.",
+            "tempo de produção.",
+            "volume de arquivos produzidos."
+          ],
+          "correta": 2,
+          "explicacao": "Engajamento mede a interação do público com o conteúdo. Alcance mede quantas pessoas foram atingidas, e resultados mostram o efeito sobre o objetivo do plano.",
+          "fonte": "Referência conceitual: M. M. K. Kunsch (2003); métricas de redes sociais, tópico 14 do Anexo II do Edital 01/2026"
+        },
+        {
+          "id": "pmi-l1-q6",
+          "enunciado": "O briefing, em comunicação, é o documento que",
+          "alternativas": [
+            "substitui o diagnóstico e dispensa a pesquisa.",
+            "descreve exclusivamente as normas jurídicas aplicáveis.",
+            "avalia o desempenho individual dos empregados.",
+            "registra apenas as despesas realizadas.",
+            "reúne as informações e as orientações necessárias para que a equipe ou os fornecedores executem uma ação ou campanha."
+          ],
+          "correta": 4,
+          "explicacao": "O briefing sintetiza objetivos, públicos, mensagens, prazos e restrições, e serve de ponto de partida para quem vai produzir ou contratar a ação.",
+          "fonte": "Referência conceitual: prática de planejamento em comunicação e publicidade; ver Edital 01/2026, Anexo I, atribuição 12 (termos de referência e especificações técnicas)"
+        }
+      ]
+    },
+    {
+      "id": "pmi-l2",
+      "titulo": "Identidade, imagem, marca e reputação",
+      "minutos": 8,
+      "resumo": [
+        "Identidade é o que a organização é e declara ser: missão, valores, cultura e sua expressão visual. Imagem é a percepção que os públicos têm dela. Reputação é o julgamento coletivo, acumulado ao longo do tempo, a partir da experiência e do comportamento da organização.",
+        "Para que imagem e identidade se aproximem, a organização precisa agir de acordo com o que diz. Distância entre o que a organização diz e o que faz é fonte de crise de reputação.",
+        "Marca é o conjunto de nome, símbolos e significados que distingue uma organização, produto ou serviço e cria associações na mente do público. Valor de marca (brand equity) é o valor agregado por essas associações (Aaker).",
+        "Identidade visual reúne nome, logotipo, símbolo, cores, tipografia e padrões gráficos. O manual de identidade visual estabelece como aplicá-los de forma consistente em todos os canais.",
+        "Reputação demora a construir e é rápida de perder. Por isso o risco de imagem e reputação é tratado como risco institucional.",
+        "A Política de Gestão de Riscos da ABDI observa, segundo o Estatuto (art. 14, § 4º), os riscos estratégicos, operacionais, de imagem e reputação, legais, financeiros e cibernéticos."
+      ],
+      "flashcards": [
+        {
+          "frente": "Identidade x imagem x reputação",
+          "verso": "Identidade: o que a organização é e declara ser. Imagem: como os públicos a percebem. Reputação: julgamento coletivo acumulado ao longo do tempo."
+        },
+        {
+          "frente": "O que é brand equity (valor de marca)?",
+          "verso": "O valor agregado a um produto ou organização pelas associações que a marca desperta no público (Aaker)."
+        },
+        {
+          "frente": "Para que serve o manual de identidade visual?",
+          "verso": "Padronizar o uso de logotipo, cores, tipografia e demais elementos, garantindo consistência em todos os canais."
+        }
+      ],
+      "questoes": [
+        {
+          "id": "pmi-l2-q1",
+          "enunciado": "Em comunicação institucional, a imagem de uma organização corresponde",
+          "alternativas": [
+            "à percepção que os diferentes públicos têm da organização.",
+            "ao logotipo e às cores adotadas.",
+            "ao que a organização declara ser, em sua missão e seus valores.",
+            "ao resultado financeiro anual.",
+            "ao conjunto de normas internas de conduta."
+          ],
+          "correta": 0,
+          "explicacao": "A imagem é construída na mente dos públicos. A identidade é a que a organização afirma e pratica, e o logotipo é um dos elementos da identidade visual.",
+          "fonte": "Referência conceitual: M. M. K. Kunsch, Planejamento de Relações Públicas na Comunicação Integrada (4ª ed., 2003); C. Fombrun, Reputation (1996)"
+        },
+        {
+          "id": "pmi-l2-q2",
+          "enunciado": "A reputação institucional distingue-se da imagem principalmente por ser",
+          "alternativas": [
+            "uma percepção momentânea, formada por uma única campanha.",
+            "um atributo definido unilateralmente pela organização.",
+            "o mesmo que o logotipo da organização.",
+            "um julgamento coletivo e duradouro, construído ao longo do tempo, com base na experiência com a organização.",
+            "uma medida exclusivamente financeira."
+          ],
+          "correta": 3,
+          "explicacao": "A reputação resulta de comportamentos e experiências acumulados, e é mais estável que a imagem, que pode mudar rapidamente com uma ação ou um evento.",
+          "fonte": "Referência conceitual: C. Fombrun, Reputation: Realizing Value from the Corporate Image (1996)"
+        },
+        {
+          "id": "pmi-l2-q3",
+          "enunciado": "O valor de marca (brand equity), segundo a abordagem de David Aaker, refere-se",
+          "alternativas": [
+            "ao número de seguidores nas redes sociais, apenas.",
+            "ao valor agregado a um produto ou serviço pelas associações, lealdade e percepção de qualidade ligadas à marca.",
+            "ao capital social da empresa.",
+            "ao orçamento destinado à publicidade.",
+            "ao custo de produção das peças gráficas."
+          ],
+          "correta": 1,
+          "explicacao": "Para Aaker, o brand equity reúne ativos ligados à marca, como lealdade, reconhecimento, qualidade percebida e associações, que acrescentam valor ao produto ou à organização.",
+          "fonte": "Referência conceitual: D. Aaker, Managing Brand Equity (1991)"
+        },
+        {
+          "id": "pmi-l2-q4",
+          "enunciado": "O manual de identidade visual de uma organização tem como finalidade",
+          "alternativas": [
+            "orientar a escolha dos fornecedores de internet.",
+            "descrever os procedimentos de licitação.",
+            "padronizar o uso do logotipo, das cores, das tipografias e de outros elementos gráficos, assegurando consistência entre os canais.",
+            "definir a política salarial.",
+            "regular as relações com a imprensa."
+          ],
+          "correta": 2,
+          "explicacao": "O manual estabelece regras de aplicação da marca, como áreas de proteção, cores e tipografias, para que a identidade seja reconhecível em qualquer peça.",
+          "fonte": "Referência conceitual: prática de design de identidade visual; ver Edital 01/2026, Anexo I, atribuição 10 (gestão da identidade visual e da marca institucional)"
+        },
+        {
+          "id": "pmi-l2-q5",
+          "enunciado": "Uma organização afirma, em suas campanhas, valorizar a transparência, mas dificulta o acesso do público a informações básicas sobre seus projetos. Em relação à comunicação institucional, o principal risco dessa incoerência é",
+          "alternativas": [
+            "não afetar a percepção dos públicos, pois só o logotipo importa.",
+            "dispensar o relacionamento com a imprensa.",
+            "reduzir automaticamente os custos de comunicação.",
+            "melhorar a reputação, pois o discurso é positivo.",
+            "ampliar a distância entre identidade declarada e imagem percebida, prejudicando a reputação."
+          ],
+          "correta": 4,
+          "explicacao": "Quando o comportamento contradiz o discurso, a imagem se afasta da identidade declarada e a reputação se deteriora. Coerência entre dizer e fazer é a base da credibilidade.",
+          "fonte": "Referência conceitual: M. M. K. Kunsch (2003); C. Fombrun (1996)"
+        },
+        {
+          "id": "pmi-l2-q6",
+          "enunciado": "O Estatuto Social da ABDI prevê que sua Política de Gestão de Riscos observe, entre outros, os riscos",
+          "alternativas": [
+            "estratégicos, operacionais, de imagem e reputação, legais, financeiros e cibernéticos.",
+            "somente os riscos financeiros.",
+            "ambientais e geopolíticos, exclusivamente.",
+            "tributários e trabalhistas, exclusivamente.",
+            "de mercado e de crédito, apenas."
+          ],
+          "correta": 0,
+          "explicacao": "O art. 14, § 4º, I, do Estatuto lista riscos estratégicos, operacionais, de imagem e reputação, legais, financeiros e cibernéticos, o que mostra que a reputação é tratada como risco institucional.",
+          "fonte": "Estatuto Social da ABDI (2024), art. 14, § 4º, I (abdi.com.br)"
+        }
+      ]
+    },
+    {
+      "id": "pmi-l3",
+      "titulo": "Comunicação interna e públicos internos",
+      "minutos": 8,
+      "resumo": [
+        "Comunicação interna é o conjunto de ações de relacionamento e de informação entre a organização e seus empregados. Objetivos: informar, integrar, engajar, fortalecer a cultura e melhorar o clima organizacional.",
+        "Fluxos: descendente (da direção para a base), ascendente (da base para a direção), horizontal (entre pares e áreas) e diagonal ou transversal (entre níveis e áreas diferentes).",
+        "Canais: intranet, e-mail, murais, newsletter, reuniões, mensagens instantâneas, comunicados e encontros presenciais. A comunicação face a face tem alto valor para mensagens sensíveis.",
+        "A comunicação informal (conversas de corredor, boatos) existe em toda organização. Informação clara, no tempo certo, reduz o espaço para rumores.",
+        "Endomarketing (Brum) trata o empregado como público estratégico, buscando alinhar o discurso interno ao externo. O empregado é também porta-voz da organização.",
+        "O Edital 01/2026 (Anexo I, atribuição 6) inclui apoiar ações de comunicação interna para disseminar informações institucionais, fortalecer a cultura organizacional e engajar os empregados."
+      ],
+      "flashcards": [
+        {
+          "frente": "Quatro fluxos da comunicação interna",
+          "verso": "Descendente, ascendente, horizontal e diagonal (ou transversal)."
+        },
+        {
+          "frente": "Objetivos da comunicação interna",
+          "verso": "Informar, integrar, engajar, fortalecer a cultura e melhorar o clima organizacional."
+        },
+        {
+          "frente": "Atribuição 6 do perfil API - Comunicação e Marketing (Edital, Anexo I)",
+          "verso": "Apoiar o planejamento e a execução de ações de comunicação interna: disseminar informações, fortalecer a cultura organizacional e engajar os empregados."
+        }
+      ],
+      "questoes": [
+        {
+          "id": "pmi-l3-q1",
+          "enunciado": "Um comunicado da presidência divulgado na intranet para todos os empregados sobre a nova política de teletrabalho caracteriza um fluxo de comunicação interna",
+          "alternativas": [
+            "informal.",
+            "diagonal.",
+            "ascendente.",
+            "descendente.",
+            "horizontal."
+          ],
+          "correta": 3,
+          "explicacao": "O fluxo descendente parte da direção ou das chefias em direção aos demais empregados, como comunicados, normas e diretrizes.",
+          "fonte": "Referência conceitual: M. M. K. Kunsch, Planejamento de Relações Públicas na Comunicação Integrada (4ª ed., 2003)"
+        },
+        {
+          "id": "pmi-l3-q2",
+          "enunciado": "Uma caixa de sugestões e pesquisas de clima em que empregados enviam opiniões à direção exemplificam o fluxo de comunicação",
+          "alternativas": [
+            "horizontal.",
+            "ascendente.",
+            "mercadológica.",
+            "descendente.",
+            "pública."
+          ],
+          "correta": 1,
+          "explicacao": "No fluxo ascendente, as informações e opiniões partem da base para a direção, o que dá voz aos empregados e alimenta decisões.",
+          "fonte": "Referência conceitual: M. M. K. Kunsch (2003)"
+        },
+        {
+          "id": "pmi-l3-q3",
+          "enunciado": "A troca de informações entre duas áreas de mesmo nível hierárquico em uma organização caracteriza o fluxo de comunicação",
+          "alternativas": [
+            "ascendente.",
+            "descendente.",
+            "horizontal.",
+            "externa.",
+            "institucional."
+          ],
+          "correta": 2,
+          "explicacao": "A comunicação horizontal, ou lateral, ocorre entre pares ou áreas do mesmo nível e favorece a integração e a cooperação.",
+          "fonte": "Referência conceitual: M. M. K. Kunsch (2003)"
+        },
+        {
+          "id": "pmi-l3-q4",
+          "enunciado": "Entre os principais objetivos da comunicação interna está",
+          "alternativas": [
+            "substituir a necessidade de lideranças.",
+            "reduzir o número de reuniões a zero.",
+            "limitar o acesso dos empregados às informações institucionais.",
+            "atender exclusivamente à imprensa.",
+            "informar, integrar e engajar os empregados, fortalecendo a cultura e o clima organizacional."
+          ],
+          "correta": 4,
+          "explicacao": "A comunicação interna dá suporte à gestão e à cultura da organização, mantendo os empregados informados e envolvidos com os objetivos institucionais.",
+          "fonte": "Referência conceitual: M. M. K. Kunsch (2003); Edital 01/2026, Anexo I, atribuição 6"
+        },
+        {
+          "id": "pmi-l3-q5",
+          "enunciado": "O Edital 01/2026, ao descrever as atribuições do perfil API - Comunicação e Marketing, inclui apoiar o planejamento e a execução de ações de comunicação interna, contribuindo para",
+          "alternativas": [
+            "a disseminação de informações institucionais, o fortalecimento da cultura organizacional e o engajamento dos empregados.",
+            "a definição da remuneração dos dirigentes.",
+            "a redução da carga horária dos empregados.",
+            "o controle de frequência dos empregados.",
+            "a fiscalização de contratos de licitação."
+          ],
+          "correta": 0,
+          "explicacao": "A atribuição 6 do perfil menciona disseminação de informações institucionais, fortalecimento da cultura organizacional e engajamento dos empregados.",
+          "fonte": "Edital 01/2026 ABDI/FGV, Anexo I, API - Comunicação e Marketing, atribuição 6 (conhecimento.fgv.br)"
+        },
+        {
+          "id": "pmi-l3-q6",
+          "enunciado": "Em uma mudança organizacional sensível, como a reestruturação de áreas, a melhor prática de comunicação interna é",
+          "alternativas": [
+            "silenciar para evitar ansiedade, deixando a informação circular por conta própria.",
+            "comunicar apenas aos gestores, sem repasse às equipes.",
+            "adiar a comunicação até a conclusão total da mudança.",
+            "divulgar a informação de forma clara e no tempo certo, combinando canais formais e conversa direta das lideranças com as equipes.",
+            "usar somente murais físicos."
+          ],
+          "correta": 3,
+          "explicacao": "A falta de informação abre espaço para boatos. Em temas sensíveis, a comunicação face a face das lideranças, apoiada por canais formais, reduz incertezas.",
+          "fonte": "Referência conceitual: M. M. K. Kunsch (2003); J. Brum, Endomarketing de A a Z"
+        }
+      ]
+    }
+  ]
+}

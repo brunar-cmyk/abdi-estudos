@@ -1,0 +1,465 @@
+{
+  "id": "u-inst-convenios",
+  "titulo": "Regulamento de Convênios da ABDI (versão 2026) e patrocínio",
+  "bloco": "Institucionais",
+  "categoria": "lic",
+  "topicos": [
+    "inst-03"
+  ],
+  "pacoteNumeros": [
+    {
+      "rotulo": "Contrapartida mínima do convenente",
+      "valor": "10% do valor total do convênio",
+      "fonte": "Regulamento de Convênios 2026, art. 6º"
+    },
+    {
+      "rotulo": "Despesas operacionais e administrativas (ICTs e semelhantes; ABDI como executora)",
+      "valor": "até 15% do valor total dos recursos",
+      "fonte": "Regulamento de Convênios 2026, arts. 13, § 2º, e 39, II"
+    },
+    {
+      "rotulo": "Teto do patrocínio no orçamento-programa",
+      "valor": "5% da receita corrente líquida da ABDI",
+      "fonte": "Regulamento de Convênios 2026, art. 33, § 2º"
+    },
+    {
+      "rotulo": "Prazo para regularizar irregularidades",
+      "valor": "20 dias; depois, devolução em 10 dias da notificação",
+      "fonte": "Regulamento de Convênios 2026, arts. 26 e 27"
+    },
+    {
+      "rotulo": "Atualização e juros na devolução",
+      "valor": "INPC mais juros de 1% ao mês",
+      "fonte": "Regulamento de Convênios 2026, arts. 26, § 1º, e 27, § 1º"
+    },
+    {
+      "rotulo": "Penalidade por não devolver",
+      "valor": "multa de 10% do valor total e proibição de novas parcerias por 2 anos",
+      "fonte": "Regulamento de Convênios 2026, arts. 26, § 3º, e 27, § 3º"
+    },
+    {
+      "rotulo": "Guarda de documentos de despesas",
+      "valor": "5 anos, contados da aprovação da prestação de contas",
+      "fonte": "Regulamento de Convênios 2026, art. 24, parágrafo único"
+    },
+    {
+      "rotulo": "Aplicação financeira dos recursos",
+      "valor": "menos de 1 mês: fundo de curto prazo; 1 mês ou mais: longo prazo, poupança ou CDB",
+      "fonte": "Regulamento de Convênios 2026, art. 11, § 1º"
+    },
+    {
+      "rotulo": "Assinatura de convênios e aditivos",
+      "valor": "dois membros da DIREX (Presidente com outro membro)",
+      "fonte": "Regulamento de Convênios 2026, art. 16"
+    }
+  ],
+  "licoes": [
+    {
+      "id": "cv-l1",
+      "titulo": "Convênios: conceitos, tipos e celebração",
+      "minutos": 8,
+      "resumo": [
+        "Convênio é o instrumento para executar objeto de interesse recíproco, em regime de mútua cooperação, com transferência de recursos financeiros ao partícipe que se responsabiliza pela execução (art. 2º, I).",
+        "Três tipos: convênio de cooperação técnica e financeira (projeto, atividade, estudo ou aquisição de bens), convênio de pesquisa, desenvolvimento ou inovação (PDI) e convênio de patrocínio (apoio financeiro subsidiário e secundário a projetos de terceiros que contribuam para divulgar a imagem e a missão da ABDI).",
+        "Partícipes: concedente (aloca os recursos), convenente ou executor (executa o objeto, dá a contrapartida e presta contas), patrocinado, coexecutor e interveniente. Contrapartida pode ser financeira (moeda corrente) ou econômica (serviços, recursos materiais, patrimoniais ou humanos mensuráveis).",
+        "Para celebrar (art. 3º): proposta formal por meio eletrônico, com plano de trabalho e documentos de habilitação jurídica e regularidade fiscal, válidos na data da assinatura. Os valores propostos exigem cotações prévias de preços.",
+        "É permitido celebrar mais de um convênio ao mesmo tempo com o mesmo proponente (art. 4º). É vedado celebrar com proponente inadimplente com obrigações de instrumento anterior com a ABDI (art. 5º)."
+      ],
+      "flashcards": [
+        {
+          "frente": "Convênio (art. 2º, I)",
+          "verso": "Instrumento para execução de objeto de interesse recíproco, em mútua cooperação, com transferência de recursos ao partícipe responsável pela execução."
+        },
+        {
+          "frente": "Contrapartida econômica",
+          "verso": "Contribuição por serviços, recursos materiais, patrimoniais ou humanos mensuráveis economicamente, sem aporte de moeda corrente."
+        },
+        {
+          "frente": "Convênio de patrocínio",
+          "verso": "Apoio financeiro subsidiário e secundário a projetos de terceiros que contribuam para divulgar a imagem e a missão da ABDI."
+        }
+      ],
+      "questoes": [
+        {
+          "id": "cv-l1-q1",
+          "enunciado": "De acordo com o Regulamento de Convênios da ABDI, o convênio é o instrumento jurídico utilizado para a execução de objeto de interesse recíproco, em regime de mútua cooperação, que envolve",
+          "alternativas": [
+            "a prestação de serviços remunerada entre partes com interesses opostos.",
+            "a compra de bens pela ABDI, sem partícipe.",
+            "transferência de recursos financeiros ao partícipe que se responsabilizará por sua consecução.",
+            "a cessão gratuita de empregados da ABDI.",
+            "a doação de bens sem contrapartida."
+          ],
+          "correta": 2,
+          "explicacao": "Essa é a definição do art. 2º, I. O convênio supõe interesse comum e mútua cooperação, diferentemente do contrato.",
+          "fonte": "Regulamento de Convênios da ABDI (versão de 15/07/2026), art. 2º, I (abdi.com.br)"
+        },
+        {
+          "id": "cv-l1-q2",
+          "enunciado": "O convênio de patrocínio, segundo o Regulamento de Convênios da ABDI, é aquele celebrado",
+          "alternativas": [
+            "para apoio financeiro, em caráter subsidiário e secundário, a projetos de responsabilidade de terceiros que contribuam para divulgar a imagem da ABDI e sua missão institucional.",
+            "para custear integralmente um evento de terceiros.",
+            "para a contratação de pessoal permanente da ABDI.",
+            "para pagamento de taxa de administração ao patrocinado.",
+            "para a aquisição de imóveis pela ABDI."
+          ],
+          "correta": 0,
+          "explicacao": "O art. 2º, I, c, define o patrocínio como apoio subsidiário e secundário. O patrocínio integral é vedado (art. 35, § 1º).",
+          "fonte": "Regulamento de Convênios da ABDI (versão de 15/07/2026), art. 2º, I, c (abdi.com.br)"
+        },
+        {
+          "id": "cv-l1-q3",
+          "enunciado": "No Regulamento de Convênios, a contrapartida econômica do convenente ou executor consiste em contribuição",
+          "alternativas": [
+            "em moeda corrente, depositada em conta da ABDI.",
+            "em honorários de consultores.",
+            "em doação de bens pessoais do dirigente.",
+            "em forma de perdão de dívidas tributárias.",
+            "por meio de serviços, recursos materiais, patrimoniais e/ou humanos mensuráveis economicamente, sem aporte de moeda corrente."
+          ],
+          "correta": 4,
+          "explicacao": "A contrapartida financeira é o aporte em moeda corrente. A econômica é a contribuição mensurável sem aporte de moeda corrente (art. 2º, X, b).",
+          "fonte": "Regulamento de Convênios da ABDI (versão de 15/07/2026), art. 2º, X (abdi.com.br)"
+        },
+        {
+          "id": "cv-l1-q4",
+          "enunciado": "Quanto à documentação de habilitação jurídica e de regularidade fiscal exigida do proponente, o Regulamento de Convênios determina que ela deve estar",
+          "alternativas": [
+            "entregue em meio físico, sem prazo de validade.",
+            "válida na data da assinatura do convênio.",
+            "dispensada para todos os proponentes.",
+            "válida apenas na data da proposta.",
+            "válida somente por seis meses após a assinatura."
+          ],
+          "correta": 1,
+          "explicacao": "O art. 3º, § 5º, exige validade dos documentos na data da assinatura. A proposta é feita por meio eletrônico.",
+          "fonte": "Regulamento de Convênios da ABDI (versão de 15/07/2026), art. 3º, § 5º (abdi.com.br)"
+        },
+        {
+          "id": "cv-l1-q5",
+          "enunciado": "De acordo com o Regulamento de Convênios, é permitida a celebração simultânea de",
+          "alternativas": [
+            "apenas um convênio por proponente, em qualquer hipótese.",
+            "convênios sem plano de trabalho.",
+            "convênios sem comprovação de habilitação jurídica.",
+            "mais de um convênio com o mesmo proponente.",
+            "convênios com proponentes inadimplentes com obrigação anterior."
+          ],
+          "correta": 3,
+          "explicacao": "O art. 4º permite múltiplos convênios com o mesmo proponente. O art. 5º veda apenas com inadimplente em instrumento anterior.",
+          "fonte": "Regulamento de Convênios da ABDI (versão de 15/07/2026), arts. 4º e 5º (abdi.com.br)"
+        }
+      ]
+    },
+    {
+      "id": "cv-l2",
+      "titulo": "Contrapartida, execução e vedações",
+      "minutos": 9,
+      "resumo": [
+        "Contrapartida econômica ou financeira do convenente: no mínimo 10% do valor total do convênio (art. 6º). A contrapartida financeira é depositada em conta bancária exclusiva do convênio.",
+        "Os recursos transferidos ficam em conta corrente específica e exclusiva (art. 11). Enquanto não usados: fundo de investimento de curto prazo de renda fixa, se o uso for em menos de um mês; fundo de longo prazo de renda fixa, caderneta de poupança ou CDB, se for igual ou superior a um mês. Os rendimentos não contam como contrapartida.",
+        "As despesas observam impessoalidade, moralidade e economicidade, com cotações prévias de preços (art. 12).",
+        "Vedações (art. 13): despesas fora do plano de trabalho; multas, juros e correção monetária; taxas de administração ao convenente; bens desnecessários; passagens e diárias de dirigentes do convenente (com exceções); presentes, exceto brindes; pessoal permanente; pagamentos a parentes até o terceiro grau de dirigentes; transferência a terceiros sem autorização; despesas fora da vigência (com exceções).",
+        "Convênios com ICTs, instituições de apoio, agências de fomento e entidades privadas sem fins lucrativos de pesquisa podem destinar até 15% dos recursos a despesas operacionais e administrativas (art. 13, § 2º). Entidades privadas sem fins lucrativos podem remunerar equipe dimensionada, atendidos requisitos como valor de mercado e proporcionalidade ao tempo dedicado (art. 14)."
+      ],
+      "flashcards": [
+        {
+          "frente": "Contrapartida mínima do convenente",
+          "verso": "10% do valor total do convênio (art. 6º)."
+        },
+        {
+          "frente": "Aplicação dos recursos enquanto não utilizados",
+          "verso": "Menos de 1 mês: fundo de curto prazo de renda fixa. 1 mês ou mais: fundo de longo prazo, poupança ou CDB (art. 11, § 1º)."
+        },
+        {
+          "frente": "Despesas administrativas em convênios com ICTs e semelhantes",
+          "verso": "Até 15% do valor total dos recursos (art. 13, § 2º)."
+        }
+      ],
+      "questoes": [
+        {
+          "id": "cv-l2-q1",
+          "enunciado": "A contrapartida econômica ou financeira do convenente ou executor corresponderá, segundo o Regulamento de Convênios, a, no mínimo,",
+          "alternativas": [
+            "30% do valor total do convênio.",
+            "15% do valor total do convênio.",
+            "10% do valor total do convênio.",
+            "5% do valor total do convênio.",
+            "20% do valor total do convênio."
+          ],
+          "correta": 2,
+          "explicacao": "O art. 6º fixa o mínimo de 10% do valor total.",
+          "fonte": "Regulamento de Convênios da ABDI (versão de 15/07/2026), art. 6º (abdi.com.br)"
+        },
+        {
+          "id": "cv-l2-q2",
+          "enunciado": "Os recursos financeiros transferidos pela ABDI ao convenente devem ser depositados e geridos em",
+          "alternativas": [
+            "conta corrente específica e exclusiva para o pagamento das despesas previstas no plano de trabalho.",
+            "qualquer conta, a critério do convenente.",
+            "conta de poupança pessoal do dirigente.",
+            "conta corrente de uso geral do convenente.",
+            "caixa da ABDI, sem conta bancária própria."
+          ],
+          "correta": 0,
+          "explicacao": "O art. 11 exige conta específica e exclusiva, aberta na instituição financeira indicada pela ABDI.",
+          "fonte": "Regulamento de Convênios da ABDI (versão de 15/07/2026), art. 11 (abdi.com.br)"
+        },
+        {
+          "id": "cv-l2-q3",
+          "enunciado": "Enquanto não empregados em sua finalidade, os recursos do convênio devem ser aplicados em fundo de investimento de curto prazo de renda fixa quando sua utilização estiver prevista para",
+          "alternativas": [
+            "prazo igual ou superior a um mês.",
+            "prazo superior a doze meses.",
+            "prazo indeterminado.",
+            "qualquer prazo, sem exceção.",
+            "prazo inferior a um mês."
+          ],
+          "correta": 4,
+          "explicacao": "O art. 11, § 1º, a, trata de uso em menos de um mês. Para um mês ou mais, admitem-se fundo de longo prazo, poupança ou CDB.",
+          "fonte": "Regulamento de Convênios da ABDI (versão de 15/07/2026), art. 11, § 1º (abdi.com.br)"
+        },
+        {
+          "id": "cv-l2-q4",
+          "enunciado": "É vedada, pelo Regulamento de Convênios da ABDI, a utilização de recursos do convênio para pagamento de",
+          "alternativas": [
+            "bens necessários à execução do objeto.",
+            "multas, juros ou correção monetária.",
+            "cotações prévias de preços.",
+            "despesas previstas no plano de trabalho aprovado.",
+            "serviços técnicos relacionados ao objeto, com nota fiscal."
+          ],
+          "correta": 1,
+          "explicacao": "O art. 13, II, b, veda multas, juros e correção monetária. As demais despesas, se previstas e necessárias, são regulares.",
+          "fonte": "Regulamento de Convênios da ABDI (versão de 15/07/2026), art. 13, II, b (abdi.com.br)"
+        },
+        {
+          "id": "cv-l2-q5",
+          "enunciado": "Os convênios celebrados com ICTs, instituições de apoio, agências de fomento e entidades privadas sem fins lucrativos de pesquisa podem prever a destinação, para despesas operacionais e administrativas, de até",
+          "alternativas": [
+            "50% do valor total.",
+            "10% do valor total.",
+            "5% do valor total.",
+            "15% do valor total dos recursos financeiros destinados à execução do projeto.",
+            "25% do valor total."
+          ],
+          "correta": 3,
+          "explicacao": "O art. 13, § 2º, fixa o teto de 15%, com memória de cálculo simplificada apresentada junto ao plano de trabalho (§ 3º).",
+          "fonte": "Regulamento de Convênios da ABDI (versão de 15/07/2026), art. 13, §§ 2º e 3º (abdi.com.br)"
+        }
+      ]
+    },
+    {
+      "id": "cv-l3",
+      "titulo": "Formalização, alterações e prestação de contas",
+      "minutos": 9,
+      "resumo": [
+        "Convênios e aditivos são firmados por dois membros da DIREX, após análise técnica, de conformidade e jurídica. A ABDI é representada pelo Presidente em conjunto com outro membro da DIREX (art. 16).",
+        "Alterações por termo aditivo, solicitadas antes do fim da vigência, vedada a alteração do objeto (art. 17). Prorrogação apenas de prazo pode ser aprovada pelo gerente da unidade. Modificações sem novos recursos: dois membros da DIREX. Com novos recursos da ABDI: a DIREX. Termo aditivo é dispensado para prorrogação de vigência, remanejamento de rubricas e ajustes sem mudança nos valores (art. 19).",
+        "Prestação de contas: o convenente que receber recursos presta contas, avaliadas quanto aos aspectos técnicos e financeiros (arts. 21 e 22). Documentos comprobatórios das despesas são arquivados por cinco anos, contados da aprovação da prestação de contas (art. 24, parágrafo único).",
+        "Contrapartida a menor: a ABDI é reembolsada para restabelecer a proporção. Contrapartida a maior: o valor adicional é voluntário (art. 23, §§ 3º e 4º).",
+        "Irregularidade na execução ou na prestação de contas: 20 dias para regularizar. Se não regularizada: rescisão ou rejeição das contas e devolução dos recursos, atualizados pelo INPC e com juros de 1% ao mês, em 10 dias da notificação. Se não devolver: multa de 10% do valor total do convênio e proibição de novas parcerias com a ABDI por dois anos (arts. 26 a 28)."
+      ],
+      "flashcards": [
+        {
+          "frente": "Prazo para regularizar irregularidade (arts. 26 e 27)",
+          "verso": "20 dias. Depois, devolução em 10 dias da notificação, com INPC e juros de 1% ao mês."
+        },
+        {
+          "frente": "Penalidade por não devolver os recursos",
+          "verso": "Multa de 10% do valor total do convênio e proibição de novas parcerias com a ABDI por dois anos."
+        },
+        {
+          "frente": "Guarda dos documentos de despesas",
+          "verso": "Cinco anos, contados da aprovação da prestação de contas (art. 24, parágrafo único)."
+        }
+      ],
+      "questoes": [
+        {
+          "id": "cv-l3-q1",
+          "enunciado": "A ABDI é representada, na assinatura de convênios e respectivos termos aditivos, segundo o Regulamento de Convênios,",
+          "alternativas": [
+            "por qualquer empregado, mediante procuração.",
+            "pelo Presidente do Conselho Deliberativo, isoladamente.",
+            "pelo Presidente da Agência em conjunto com outro membro da DIREX.",
+            "pelo Conselho Fiscal.",
+            "pelo gerente da unidade técnica, isoladamente."
+          ],
+          "correta": 2,
+          "explicacao": "O art. 16, § 1º, estabelece a assinatura do Presidente com outro membro da DIREX.",
+          "fonte": "Regulamento de Convênios da ABDI (versão de 15/07/2026), art. 16, § 1º (abdi.com.br)"
+        },
+        {
+          "id": "cv-l3-q2",
+          "enunciado": "De acordo com o Regulamento de Convênios, o convênio poderá ser modificado, no interesse das partes e de forma justificada, por termo aditivo, cuja solicitação deve ocorrer",
+          "alternativas": [
+            "antes do término de sua vigência, sendo vedada a alteração de seu objeto.",
+            "apenas depois do término da vigência.",
+            "apenas quando houver acréscimo de recursos.",
+            "a qualquer tempo, inclusive depois do término, podendo mudar o objeto.",
+            "somente por decisão do Conselho Fiscal."
+          ],
+          "correta": 0,
+          "explicacao": "O art. 17 exige a solicitação antes do fim da vigência e proíbe alterar o objeto.",
+          "fonte": "Regulamento de Convênios da ABDI (versão de 15/07/2026), art. 17 (abdi.com.br)"
+        },
+        {
+          "id": "cv-l3-q3",
+          "enunciado": "Nos termos do Regulamento de Convênios, constatada irregularidade na execução do convênio, será concedido ao convenente ou executor prazo para regularização das pendências de",
+          "alternativas": [
+            "60 dias.",
+            "5 dias.",
+            "10 dias.",
+            "30 dias.",
+            "20 dias."
+          ],
+          "correta": 4,
+          "explicacao": "O art. 26 fixa 20 dias. O prazo de 10 dias é o da devolução dos recursos, contado da notificação, se não houver regularização.",
+          "fonte": "Regulamento de Convênios da ABDI (versão de 15/07/2026), arts. 26 e 27 (abdi.com.br)"
+        },
+        {
+          "id": "cv-l3-q4",
+          "enunciado": "Não cumprida a devolução dos recursos no prazo de dez dias da notificação, o Regulamento de Convênios prevê a aplicação de multa de",
+          "alternativas": [
+            "5% sobre o valor devolvido e proibição por um ano.",
+            "10% sobre o valor total do convênio e a proibição de formalizar novas parcerias com a ABDI por dois anos.",
+            "20% sobre o valor total e proibição por cinco anos.",
+            "multa fixa de R$ 10.000 e advertência.",
+            "1% sobre o valor total e proibição por seis meses."
+          ],
+          "correta": 1,
+          "explicacao": "O art. 26, § 3º, e o art. 27, § 3º, trazem multa de 10% sobre o valor total e proibição de novas parcerias por dois anos, contados da devolução integral.",
+          "fonte": "Regulamento de Convênios da ABDI (versão de 15/07/2026), arts. 26, § 3º, e 27, § 3º (abdi.com.br)"
+        },
+        {
+          "id": "cv-l3-q5",
+          "enunciado": "Os documentos comprobatórios das despesas do convênio devem ser arquivados pelo convenente ou executor pelo prazo de",
+          "alternativas": [
+            "dois anos, contados do último pagamento.",
+            "dez anos, contados do término da vigência.",
+            "um ano, contado da assinatura do convênio.",
+            "cinco anos, contados da aprovação da prestação de contas pela ABDI.",
+            "seis meses, contados da prestação de contas."
+          ],
+          "correta": 3,
+          "explicacao": "O art. 24, parágrafo único, estabelece cinco anos contados da aprovação da prestação de contas.",
+          "fonte": "Regulamento de Convênios da ABDI (versão de 15/07/2026), art. 24, parágrafo único (abdi.com.br)"
+        }
+      ]
+    },
+    {
+      "id": "cv-l4",
+      "titulo": "Convênios de PDI, de patrocínio e propostos pela ABDI",
+      "minutos": 9,
+      "resumo": [
+        "Convênios de PDI: a prestação de contas é simplificada, por meio do Relatório de Cumprimento do Objeto (RCO). O RCO pode ser aprovado mesmo sem atingir as metas, com justificativa aceita, se o motivo for o risco tecnológico ou a incerteza própria do objeto e se observadas as regras do regulamento e do plano de trabalho (art. 31).",
+        "Patrocínio (arts. 33 a 37): a ABDI associa sua marca e imagem institucional ao evento ou ação. O valor máximo para patrocínios no orçamento-programa não pode exceder 5% da receita corrente líquida da Agência.",
+        "Critérios do art. 34: finalidade alinhada às diretrizes da ABDI e visibilidade institucional com fortalecimento da imagem. Solicitação em formulário próprio.",
+        "É vedado o patrocínio integral de ação ou evento (art. 35, § 1º) e é vedada contrapartida integral em ingressos ou convites (art. 36, § 1º). Dispensa-se conta específica no patrocínio.",
+        "Exemplos de contrapartida em eventos: estande institucional, palestras, vídeos da ABDI na abertura, fala na mesa de abertura, cotas de inscrições e aplicação da logomarca nas peças de divulgação, anúncios, peças visuais e sítio eletrônico. Em publicações: conteúdo editorial relevante, cessão de espaço e download no sítio da ABDI.",
+        "Quando a ABDI é convenente ou executora (art. 39), pode cobrar taxa de administração ou usar até 15% dos recursos para despesas operacionais e administrativas."
+      ],
+      "flashcards": [
+        {
+          "frente": "Teto dos patrocínios no orçamento-programa",
+          "verso": "Não pode exceder 5% da receita corrente líquida da ABDI (art. 33, § 2º)."
+        },
+        {
+          "frente": "Patrocínio integral e contrapartida em ingressos",
+          "verso": "Patrocínio integral é vedado, e contrapartida integral em ingressos ou convites também (arts. 35, § 1º, e 36, § 1º)."
+        },
+        {
+          "frente": "O que é o RCO?",
+          "verso": "Relatório de Cumprimento do Objeto, usado na prestação de contas simplificada de convênios de PDI (art. 31)."
+        }
+      ],
+      "questoes": [
+        {
+          "id": "cv-l4-q1",
+          "enunciado": "O valor máximo estipulado no orçamento-programa da ABDI para convênios de patrocínio não poderá exceder o equivalente a",
+          "alternativas": [
+            "10% da receita corrente líquida.",
+            "15% da receita corrente líquida.",
+            "5% da receita corrente líquida da Agência.",
+            "1% da receita corrente líquida.",
+            "25% da receita corrente líquida."
+          ],
+          "correta": 2,
+          "explicacao": "O art. 33, § 2º, fixa o teto de 5% da receita corrente líquida. Os 15% referem-se a despesas operacionais e administrativas.",
+          "fonte": "Regulamento de Convênios da ABDI (versão de 15/07/2026), art. 33, § 2º (abdi.com.br)"
+        },
+        {
+          "id": "cv-l4-q2",
+          "enunciado": "Entre os critérios para a concessão de patrocínio pela ABDI, o Regulamento de Convênios exige que o evento ou ação",
+          "alternativas": [
+            "propicie visibilidade institucional e fortalecimento da imagem da Agência, com finalidade alinhada às diretrizes da ABDI.",
+            "seja realizado exclusivamente no exterior.",
+            "seja integralmente financiado pela ABDI.",
+            "seja organizado por empregados da ABDI.",
+            "tenha como contrapartida apenas ingressos e convites."
+          ],
+          "correta": 0,
+          "explicacao": "O art. 34 traz os dois critérios. O patrocínio integral e a contrapartida só em ingressos são vedados.",
+          "fonte": "Regulamento de Convênios da ABDI (versão de 15/07/2026), art. 34 (abdi.com.br)"
+        },
+        {
+          "id": "cv-l4-q3",
+          "enunciado": "De acordo com o Regulamento de Convênios, é vedado",
+          "alternativas": [
+            "associar a logomarca da ABDI às peças de divulgação do evento.",
+            "oferecer estande institucional da ABDI como contrapartida.",
+            "pedir patrocínio por formulário próprio.",
+            "ceder espaço para palestra da ABDI no evento.",
+            "celebrar convênio para patrocínio integral de ação ou evento de qualquer natureza."
+          ],
+          "correta": 4,
+          "explicacao": "O art. 35, § 1º, veda o patrocínio integral. As demais opções são exemplos de contrapartidas e procedimentos regulares.",
+          "fonte": "Regulamento de Convênios da ABDI (versão de 15/07/2026), art. 35, § 1º (abdi.com.br)"
+        },
+        {
+          "id": "cv-l4-q4",
+          "enunciado": "São exemplos de contrapartida em eventos patrocinados pela ABDI, segundo o Regulamento de Convênios,",
+          "alternativas": [
+            "ingressos como única contrapartida.",
+            "cessão de espaço para estande institucional da ABDI e aplicação da logomarca da ABDI nas peças de divulgação do evento.",
+            "contratação de parentes dos dirigentes da ABDI.",
+            "pagamento de taxa de administração à ABDI pelo patrocinado.",
+            "doação de imóveis ao patrocinado."
+          ],
+          "correta": 1,
+          "explicacao": "O art. 36, § 2º, lista essas contrapartidas. A contrapartida integral em ingressos é vedada (§ 1º).",
+          "fonte": "Regulamento de Convênios da ABDI (versão de 15/07/2026), art. 36, §§ 1º e 2º (abdi.com.br)"
+        },
+        {
+          "id": "cv-l4-q5",
+          "enunciado": "Nos convênios de PDI, a prestação de contas é simplificada e ocorre por meio do",
+          "alternativas": [
+            "Relatório Anual de Receitas.",
+            "Termo de Referência.",
+            "Balanço Patrimonial consolidado.",
+            "Relatório de Cumprimento do Objeto (RCO).",
+            "Plano de Cargos e Salários."
+          ],
+          "correta": 3,
+          "explicacao": "O art. 31 institui o RCO. A aprovação do RCO enseja a aprovação automática das contas, ressalvadas as hipóteses do art. 32.",
+          "fonte": "Regulamento de Convênios da ABDI (versão de 15/07/2026), arts. 31 e 32 (abdi.com.br)"
+        },
+        {
+          "id": "cv-l4-q6",
+          "enunciado": "Nos convênios em que atua como convenente ou executora, a ABDI poderá, segundo o Regulamento,",
+          "alternativas": [
+            "dispensar conta bancária exclusiva.",
+            "transferir livremente os recursos a terceiros.",
+            "cobrar taxa de administração ou utilizar até 15% do valor total dos recursos destinados ao objeto para despesas operacionais e administrativas.",
+            "usar até 5% da receita corrente líquida.",
+            "cobrar taxa de administração de 50% sobre os recursos."
+          ],
+          "correta": 2,
+          "explicacao": "O art. 39 prevê as duas alternativas. O art. 38, § 2º, exige conta exclusiva para os recursos do convênio.",
+          "fonte": "Regulamento de Convênios da ABDI (versão de 15/07/2026), arts. 38 e 39 (abdi.com.br)"
+        }
+      ]
+    }
+  ]
+}

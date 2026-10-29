@@ -1,0 +1,264 @@
+{
+  "id": "u-esp-assessoria-imprensa",
+  "titulo": "Assessoria de comunicação e de imprensa, relacionamento com a imprensa e gêneros jornalísticos",
+  "bloco": "Específicos",
+  "categoria": "esp",
+  "topicos": [
+    "esp-07",
+    "esp-08",
+    "esp-09"
+  ],
+  "licoes": [
+    {
+      "id": "aim-l1",
+      "titulo": "Assessoria de comunicação e assessoria de imprensa",
+      "minutos": 8,
+      "resumo": [
+        "Assessoria de comunicação é a estrutura que planeja e executa a comunicação de uma organização. Abrange imprensa, relações públicas, comunicação interna e digital, eventos e identidade visual.",
+        "Assessoria de imprensa cuida do relacionamento com a mídia: atende jornalistas, sugere pautas, escreve releases e notas, organiza entrevistas, monitora e analisa o que sai publicado.",
+        "Instrumentos: release (texto enviado à imprensa), mailing (lista segmentada de contatos de imprensa), press kit (material de apoio: release, fotos, perfis e dados), clipping (coleta e análise das matérias publicadas) e media training (treinamento de porta-vozes).",
+        "O resultado da assessoria é mídia espontânea (conquistada): a matéria sai porque o veículo julgou relevante, e a organização não paga por ela. Mídia paga é a publicidade.",
+        "O assessor não manda na pauta: o jornalista decide se publica. Por isso o trabalho exige informação de interesse público, rapidez e credibilidade."
+      ],
+      "flashcards": [
+        {
+          "frente": "Clipping",
+          "verso": "Coleta, organização e análise das matérias publicadas sobre a organização."
+        },
+        {
+          "frente": "Mailing",
+          "verso": "Lista segmentada de contatos de imprensa para o envio de releases e sugestões de pauta."
+        },
+        {
+          "frente": "Media training",
+          "verso": "Treinamento de porta-vozes para dar entrevistas."
+        }
+      ],
+      "questoes": [
+        {
+          "id": "aim-l1-q1",
+          "enunciado": "Em assessoria de imprensa, o clipping consiste em",
+          "alternativas": [
+            "organizar uma coletiva de imprensa.",
+            "treinar porta-vozes para entrevistas.",
+            "coletar, organizar e analisar as matérias publicadas na mídia sobre a organização.",
+            "elaborar o manual de identidade visual.",
+            "comprar espaço publicitário em veículos de comunicação."
+          ],
+          "correta": 2,
+          "explicacao": "O clipping reúne as aparições na mídia e permite medir presença, tom e temas.",
+          "fonte": "Referência conceitual: R. Chinem, Assessoria de Imprensa: como fazer; J. Duarte (org.), Assessoria de Imprensa e Relacionamento com a Mídia"
+        },
+        {
+          "id": "aim-l1-q2",
+          "enunciado": "Uma lista de contatos de jornalistas e veículos, organizada por editorias e interesses, usada para o envio de releases, é chamada de",
+          "alternativas": [
+            "mailing.",
+            "press kit.",
+            "media training.",
+            "clipping.",
+            "briefing."
+          ],
+          "correta": 0,
+          "explicacao": "Mailing é o cadastro segmentado de contatos de imprensa.",
+          "fonte": "Referência conceitual: R. Chinem, Assessoria de Imprensa: como fazer; J. Duarte (org.), Assessoria de Imprensa e Relacionamento com a Mídia"
+        },
+        {
+          "id": "aim-l1-q3",
+          "enunciado": "A matéria publicada por um veículo, sem pagamento, porque o jornalista a considerou relevante a partir de uma sugestão de pauta da assessoria, é exemplo de",
+          "alternativas": [
+            "publicidade institucional.",
+            "propaganda eleitoral.",
+            "mídia paga.",
+            "patrocínio.",
+            "mídia espontânea (ou conquistada)."
+          ],
+          "correta": 4,
+          "explicacao": "Mídia espontânea é fruto do trabalho de relacionamento, sem compra de espaço.",
+          "fonte": "Referência conceitual: R. Chinem, Assessoria de Imprensa: como fazer; J. Duarte (org.), Assessoria de Imprensa e Relacionamento com a Mídia"
+        },
+        {
+          "id": "aim-l1-q4",
+          "enunciado": "O treinamento voltado a preparar dirigentes e técnicos para falar com jornalistas, com simulações de entrevista, é conhecido como",
+          "alternativas": [
+            "merchandising.",
+            "media training.",
+            "brainstorming.",
+            "social listening.",
+            "benchmarking."
+          ],
+          "correta": 1,
+          "explicacao": "O media training prepara o porta-voz para dar entrevistas com clareza e segurança.",
+          "fonte": "Referência conceitual: R. Chinem, Assessoria de Imprensa: como fazer; J. Duarte (org.), Assessoria de Imprensa e Relacionamento com a Mídia"
+        }
+      ]
+    },
+    {
+      "id": "aim-l2",
+      "titulo": "Relacionamento com a imprensa e fontes de informação",
+      "minutos": 9,
+      "resumo": [
+        "Boas práticas: transparência, agilidade, respeito ao prazo de fechamento (deadline), credibilidade e tratamento igualitário dos veículos, salvo exclusividade previamente acordada. Não se mente a jornalista.",
+        "Fontes de informação: oficiais (instituições e seus representantes), oficiosas (próximas à fonte oficial, mas sem autorização para falar em nome dela) e independentes (sem vínculo direto com o fato). Há também fontes especializadas, testemunhais e documentais.",
+        "Regras de entrevista: on the record (pode publicar e atribuir), off the record (a informação não pode ser publicada nem atribuída), background (pode ser usada, sem identificar a fonte) e embargo (a informação só pode ser publicada a partir de data e hora combinadas).",
+        "Instrumentos de relacionamento: sugestão de pauta, nota oficial, entrevista individual, coletiva de imprensa e visita à redação. É recomendável designar um porta-voz ou poucos porta-vozes."
+      ],
+      "flashcards": [
+        {
+          "frente": "Fonte oficiosa",
+          "verso": "Próxima à fonte oficial, mas sem autorização para falar em nome da organização."
+        },
+        {
+          "frente": "Off the record",
+          "verso": "Informação que o jornalista não pode publicar nem atribuir à fonte."
+        },
+        {
+          "frente": "Embargo",
+          "verso": "Informação liberada com antecedência, para publicação só a partir de data e hora combinadas."
+        }
+      ],
+      "questoes": [
+        {
+          "id": "aim-l2-q1",
+          "enunciado": "Uma pessoa próxima ao presidente de uma instituição, que repassa informações sem autorização para falar em nome da instituição, é classificada como fonte",
+          "alternativas": [
+            "oficial.",
+            "documental.",
+            "testemunhal.",
+            "oficiosa.",
+            "independente."
+          ],
+          "correta": 3,
+          "explicacao": "A fonte oficiosa tem proximidade com a fonte oficial, mas não fala oficialmente por ela.",
+          "fonte": "Referência conceitual: N. Lage, A Reportagem: teoria e técnica de entrevista e pesquisa jornalística"
+        },
+        {
+          "id": "aim-l2-q2",
+          "enunciado": "Quando uma fonte informa algo ao jornalista em caráter \"off the record\", isso significa que a informação",
+          "alternativas": [
+            "deve ser publicada apenas depois de uma semana.",
+            "deve ser publicada, com identificação da fonte.",
+            "não pode ser publicada nem atribuída à fonte.",
+            "pode ser publicada, com a identificação da fonte.",
+            "pode ser publicada, mas sem citar o veículo."
+          ],
+          "correta": 2,
+          "explicacao": "Off the record é combinado de confidencialidade: o jornalista não publica nem atribui.",
+          "fonte": "Referência conceitual: N. Lage, A Reportagem: teoria e técnica de entrevista e pesquisa jornalística"
+        },
+        {
+          "id": "aim-l2-q3",
+          "enunciado": "Uma assessoria envia a jornalistas um comunicado com data e hora a partir das quais a informação poderá ser divulgada. Essa prática é conhecida como",
+          "alternativas": [
+            "embargo.",
+            "mailing.",
+            "clipping.",
+            "background.",
+            "furo."
+          ],
+          "correta": 0,
+          "explicacao": "No embargo, a informação é antecipada, mas só pode ser publicada a partir do momento combinado.",
+          "fonte": "Referência conceitual: R. Chinem, Assessoria de Imprensa: como fazer; J. Duarte (org.), Assessoria de Imprensa e Relacionamento com a Mídia"
+        },
+        {
+          "id": "aim-l2-q4",
+          "enunciado": "Em um bom relacionamento com a imprensa, a assessoria deve",
+          "alternativas": [
+            "privilegiar sempre o veículo mais antigo.",
+            "dar respostas apenas depois de publicada a matéria.",
+            "omitir informações incômodas dos jornalistas.",
+            "exigir aprovação prévia do texto de todas as matérias.",
+            "responder com agilidade, respeitar os prazos de fechamento e dar tratamento igualitário aos veículos."
+          ],
+          "correta": 4,
+          "explicacao": "Transparência, agilidade e credibilidade são a base. Exigir aprovação prévia de matéria fere a independência do jornalista.",
+          "fonte": "Referência conceitual: R. Chinem, Assessoria de Imprensa: como fazer; J. Duarte (org.), Assessoria de Imprensa e Relacionamento com a Mídia"
+        }
+      ]
+    },
+    {
+      "id": "aim-l3",
+      "titulo": "Jornalismo do zero: critérios de noticiabilidade e gêneros",
+      "minutos": 10,
+      "resumo": [
+        "Jornalismo é a atividade de apurar, selecionar, editar e publicar informações de interesse público. O jornalista verifica os fatos, ouve as partes e tem independência editorial.",
+        "Valores-notícia, ou critérios de noticiabilidade, ajudam a decidir o que vira notícia: atualidade, proximidade, relevância e impacto, interesse público, conflito, proeminência dos envolvidos e caráter inusitado.",
+        "Gêneros jornalísticos, na classificação de Marques de Melo: informativo (nota, notícia, reportagem, entrevista), opinativo (editorial, comentário, artigo, resenha, coluna, crônica, caricatura, carta), interpretativo (análise, perfil, enquete, cronologia, dossiê), diversional e utilitário (serviço, indicadores, roteiros).",
+        "Notícia relata um fato recente de forma objetiva e relativamente curta. Reportagem aprofunda o tema, traz contexto, várias vozes e dados. Nota é uma informação breve. Entrevista dá voz a uma fonte, em perguntas e respostas ou em texto corrido.",
+        "Para um comunicador de formação publicitária, a diferença-chave é a finalidade: o jornalismo busca informar de forma independente, e a publicidade busca persuadir em nome de um anunciante."
+      ],
+      "flashcards": [
+        {
+          "frente": "Valores-notícia (critérios de noticiabilidade)",
+          "verso": "Atualidade, proximidade, relevância e impacto, interesse público, conflito, proeminência e caráter inusitado."
+        },
+        {
+          "frente": "Notícia x reportagem",
+          "verso": "Notícia relata o fato de forma objetiva e curta. Reportagem aprofunda, contextualiza e ouve várias vozes."
+        },
+        {
+          "frente": "Gêneros opinativos",
+          "verso": "Editorial, comentário, artigo, resenha, coluna, crônica, caricatura e carta."
+        }
+      ],
+      "questoes": [
+        {
+          "id": "aim-l3-q1",
+          "enunciado": "De acordo com a classificação de gêneros jornalísticos de Marques de Melo, o editorial pertence ao gênero",
+          "alternativas": [
+            "publicitário.",
+            "opinativo.",
+            "diversional.",
+            "utilitário.",
+            "informativo."
+          ],
+          "correta": 1,
+          "explicacao": "O editorial expressa a posição do veículo, o que o situa entre os gêneros opinativos.",
+          "fonte": "Referência conceitual: J. Marques de Melo e S. Assis, Gêneros e Formatos Jornalísticos"
+        },
+        {
+          "id": "aim-l3-q2",
+          "enunciado": "A diferença entre notícia e reportagem é que a reportagem tende a ser",
+          "alternativas": [
+            "escrita sem apuração.",
+            "assinada apenas por assessores.",
+            "sempre opinativa.",
+            "mais aprofundada, com contexto, dados e várias vozes, enquanto a notícia relata o fato recente de forma objetiva e curta.",
+            "mais curta, sem fontes."
+          ],
+          "correta": 3,
+          "explicacao": "Notícia relata o fato. Reportagem amplia a abordagem e aprofunda o tema.",
+          "fonte": "Referência conceitual: N. Lage, A Reportagem: teoria e técnica de entrevista e pesquisa jornalística"
+        },
+        {
+          "id": "aim-l3-q3",
+          "enunciado": "Entre os critérios de noticiabilidade (valores-notícia) usados para decidir se um fato merece ser publicado estão",
+          "alternativas": [
+            "o tamanho da assessoria e a verba de publicidade.",
+            "o desejo do anunciante em aparecer.",
+            "atualidade, proximidade, relevância e impacto, interesse público e proeminência dos envolvidos.",
+            "a simpatia do assessor de imprensa.",
+            "a quantidade de adjetivos no texto."
+          ],
+          "correta": 2,
+          "explicacao": "São critérios editoriais, e não comerciais.",
+          "fonte": "Referência conceitual: N. Lage, A Reportagem: teoria e técnica de entrevista e pesquisa jornalística"
+        },
+        {
+          "id": "aim-l3-q4",
+          "enunciado": "Textos de serviço, como indicadores, cotações e roteiros, que ajudam o leitor em decisões do dia a dia, enquadram-se no gênero",
+          "alternativas": [
+            "utilitário.",
+            "diversional.",
+            "opinativo.",
+            "ficcional.",
+            "publicitário."
+          ],
+          "correta": 0,
+          "explicacao": "O gênero utilitário orienta o público com informações de serviço.",
+          "fonte": "Referência conceitual: J. Marques de Melo e S. Assis, Gêneros e Formatos Jornalísticos"
+        }
+      ]
+    }
+  ]
+}

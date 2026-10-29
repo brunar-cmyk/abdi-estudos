@@ -1,0 +1,176 @@
+{
+  "id": "u-port-reescrita",
+  "titulo": "Reescrita de frases e parágrafos",
+  "bloco": "Gerais",
+  "categoria": "port",
+  "topicos": [
+    "port-06"
+  ],
+  "licoes": [
+    {
+      "id": "pree-l1",
+      "titulo": "Significação das palavras e parônimos",
+      "minutos": 7,
+      "resumo": [
+        "Em reescrita, a palavra deve ser substituída por outra de sentido equivalente no contexto, sem mudar a ideia.",
+        "Pares que mais confundem: ratificar (confirmar) e retificar (corrigir); infringir (violar) e infligir (aplicar pena); tráfego (trânsito) e tráfico (comércio ilegal); discriminar (distinguir) e descriminar (tirar o caráter de crime).",
+        "Mais pares: eminente (notável) e iminente (prestes a ocorrer); cumprimento (saudação) e comprimento (extensão); ascender (subir) e acender (pôr fogo); emergir (vir à tona) e imergir (mergulhar)."
+      ],
+      "flashcards": [
+        {
+          "frente": "Ratificar x retificar",
+          "verso": "Ratificar é confirmar. Retificar é corrigir."
+        },
+        {
+          "frente": "Infringir x infligir",
+          "verso": "Infringir é violar (a lei). Infligir é aplicar (uma pena)."
+        },
+        {
+          "frente": "Eminente x iminente",
+          "verso": "Eminente é ilustre. Iminente é o que está prestes a acontecer."
+        }
+      ],
+      "questoes": [
+        {
+          "id": "pree-l1-q1",
+          "enunciado": "Assinale a alternativa em que a palavra destacada está empregada corretamente.",
+          "alternativas": [
+            "O fiscal ratificou o erro do documento, corrigindo as datas.",
+            "O candidato foi descriminado por sua origem.",
+            "O Conselho infringiu penalidade ao funcionário.",
+            "A decisão do diretor foi ratificada pelo Conselho, que confirmou seus termos.",
+            "Havia grande tráfico de veículos na avenida."
+          ],
+          "correta": 3,
+          "explicacao": "Ratificar é confirmar. Para corrigir, usa-se retificar; para aplicar pena, infligir; para trânsito, tráfego; para distinguir de forma injusta, discriminar.",
+          "fonte": "Referência conceitual: gramática normativa (C. Cunha e L. Cintra, Nova Gramática do Português Contemporâneo)"
+        },
+        {
+          "id": "pree-l1-q2",
+          "enunciado": "Assinale a alternativa em que a palavra está empregada corretamente.",
+          "alternativas": [
+            "O iminente jurista recebeu o prêmio.",
+            "O iminente professor proferiu a palestra de abertura.",
+            "O risco de falha no sistema é iminente, e as equipes já estão em alerta.",
+            "Ele é um iminente especialista em direito.",
+            "A iminente autoridade presidiu a cerimônia."
+          ],
+          "correta": 2,
+          "explicacao": "Iminente significa prestes a acontecer. Para pessoas ilustres, usa-se eminente.",
+          "fonte": "Referência conceitual: gramática normativa (C. Cunha e L. Cintra, Nova Gramática do Português Contemporâneo)"
+        },
+        {
+          "id": "pree-l1-q3",
+          "enunciado": "Assinale a alternativa em que a palavra está empregada corretamente.",
+          "alternativas": [
+            "Os candidatos receberam o cumprimento da diretora ao chegarem.",
+            "Mediu o cumprimento da sala com a trena.",
+            "O cumprimento do terreno é de vinte metros.",
+            "O cumprimento da mesa é de três metros.",
+            "O comprimento da diretora foi cordial e caloroso ao receber os candidatos."
+          ],
+          "correta": 0,
+          "explicacao": "Cumprimento é saudação. Comprimento é a medida de extensão.",
+          "fonte": "Referência conceitual: gramática normativa (C. Cunha e L. Cintra, Nova Gramática do Português Contemporâneo)"
+        },
+        {
+          "id": "pree-l1-q4",
+          "enunciado": "Assinale a alternativa em que a palavra está empregada corretamente.",
+          "alternativas": [
+            "O submarino emergiu nas profundezas.",
+            "O afogado imergiu à superfície.",
+            "Ela acendeu na carreira por mérito.",
+            "Ele ascendeu o fogo da lareira.",
+            "Ela ascendeu na carreira por mérito."
+          ],
+          "correta": 4,
+          "explicacao": "Ascender é subir. Acender é pôr fogo. Emergir é vir à tona, e imergir é mergulhar.",
+          "fonte": "Referência conceitual: gramática normativa (C. Cunha e L. Cintra, Nova Gramática do Português Contemporâneo)"
+        }
+      ]
+    },
+    {
+      "id": "pree-l2",
+      "titulo": "Reorganização de períodos e níveis de formalidade",
+      "minutos": 8,
+      "resumo": [
+        "Reescrever bem é manter o sentido, a correção gramatical (concordância, regência, crase) e o registro adequado.",
+        "Voz passiva: \"A comissão avaliou todos os projetos\" equivale a \"Todos os projetos foram avaliados pela comissão\". Mudar o tempo verbal ou inverter agente e paciente muda o sentido.",
+        "Conectores equivalentes: \"caso\" e \"se\" (condição). \"Embora\" e \"apesar de\" (concessão). Não troque por conector de relação diferente.",
+        "Redação oficial pede formalidade, impessoalidade, clareza, concisão e uso da norma-padrão. Evita gírias, contrações informais (\"pra\") e vocativos coloquiais."
+      ],
+      "flashcards": [
+        {
+          "frente": "Voz ativa e passiva",
+          "verso": "O agente da ativa vira agente da passiva: \"A comissão avaliou os projetos\" e \"Os projetos foram avaliados pela comissão\"."
+        },
+        {
+          "frente": "Caso e se",
+          "verso": "Ambos podem introduzir condição: \"Caso o prazo seja prorrogado\" e \"Se o prazo for prorrogado\"."
+        },
+        {
+          "frente": "Registro formal",
+          "verso": "Norma-padrão, impessoalidade, objetividade, sem gírias nem expressões coloquiais."
+        }
+      ],
+      "questoes": [
+        {
+          "id": "pree-l2-q1",
+          "enunciado": "Assinale a reescrita de \"A comissão avaliou todos os projetos\" que mantém o sentido e a correção gramatical.",
+          "alternativas": [
+            "Todos os projetos foi avaliado pela comissão.",
+            "Todos os projetos foram avaliados pela comissão.",
+            "Todos os projetos avaliaram a comissão.",
+            "Todos os projetos serão avaliados pela comissão.",
+            "A comissão foi avaliada por todos os projetos."
+          ],
+          "correta": 1,
+          "explicacao": "Na voz passiva, o objeto vira sujeito e concorda com o verbo (\"foram avaliados\"). A mudança para \"serão\" altera o tempo, e a inversão de papéis muda o sentido.",
+          "fonte": "Referência conceitual: gramática normativa (C. Cunha e L. Cintra, Nova Gramática do Português Contemporâneo)"
+        },
+        {
+          "id": "pree-l2-q2",
+          "enunciado": "Assinale a reescrita de \"Caso o prazo seja prorrogado, os candidatos serão avisados\" que preserva o sentido.",
+          "alternativas": [
+            "Embora o prazo seja prorrogado, os candidatos serão avisados.",
+            "Porque o prazo for prorrogado, os candidatos serão avisados.",
+            "Apesar de o prazo ser prorrogado, os candidatos serão avisados.",
+            "Se o prazo for prorrogado, os candidatos serão avisados.",
+            "Quando o prazo foi prorrogado, os candidatos serão avisados."
+          ],
+          "correta": 3,
+          "explicacao": "\"Caso\" e \"se\" expressam condição. As outras opções introduzem concessão, causa ou tempo, mudando o sentido.",
+          "fonte": "Referência conceitual: gramática normativa (C. Cunha e L. Cintra, Nova Gramática do Português Contemporâneo)"
+        },
+        {
+          "id": "pree-l2-q3",
+          "enunciado": "Para um comunicado oficial, a reescrita mais adequada de \"Cara galera, o evento foi adiado pra semana que vem\" é",
+          "alternativas": [
+            "Avisamos que o rolê foi adiado.",
+            "Galera, o evento ficou pra depois, tá?",
+            "Comunicamos que o evento foi adiado para a semana seguinte.",
+            "Atenção, pessoal: o evento foi pra semana que vem.",
+            "Pessoal, o evento foi adiado pra semana que vem, beleza?"
+          ],
+          "correta": 2,
+          "explicacao": "O comunicado oficial pede registro formal e impessoal, sem gírias ou contrações informais.",
+          "fonte": "Referência conceitual: Manual de Redação da Presidência da República (3ª ed., 2018)"
+        },
+        {
+          "id": "pree-l2-q4",
+          "enunciado": "São características da redação oficial todas as seguintes, EXCETO",
+          "alternativas": [
+            "uso de gírias e expressão pessoal para aproximar-se do leitor.",
+            "formalidade e padronização.",
+            "uso da norma-padrão da língua portuguesa.",
+            "impessoalidade.",
+            "clareza e concisão."
+          ],
+          "correta": 0,
+          "explicacao": "A redação oficial é impessoal, clara, concisa, formal e padronizada. Gírias e personalismo vão contra esses princípios.",
+          "fonte": "Referência conceitual: Manual de Redação da Presidência da República (3ª ed., 2018)"
+        }
+      ]
+    }
+  ]
+}

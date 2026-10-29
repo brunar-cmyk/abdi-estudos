@@ -1,0 +1,366 @@
+{
+  "id": "u-esp-teorias",
+  "titulo": "Teorias da comunicação; processos, elementos, modelos e funções",
+  "bloco": "Específicos",
+  "categoria": "esp",
+  "topicos": ["esp-01", "esp-02"],
+  "licoes": [
+    {
+      "id": "teo-l1",
+      "titulo": "Principais teorias da comunicação",
+      "minutos": 8,
+      "resumo": [
+        "Teoria hipodérmica (agulha hipodérmica): a mídia \"injeta\" mensagens e o público reage de forma direta, semelhante e imediata. Marca os estudos sobre propaganda das primeiras décadas do século XX.",
+        "Teoria funcionalista: Lasswell (1948) pergunta quem diz o quê, em que canal, para quem e com que efeito, e atribui à comunicação as funções de vigilância do ambiente, correlação das partes da sociedade e transmissão da herança social.",
+        "Fluxo em duas etapas (Lazarsfeld): a mensagem dos meios chega primeiro aos líderes de opinião, que a repassam e influenciam os demais. Desmonta a ideia de efeito direto e uniforme.",
+        "Escola de Frankfurt (Adorno e Horkheimer): o conceito de indústria cultural critica a produção em série de bens culturais, padronizados para o consumo de massa.",
+        "Agenda-setting (McCombs e Shaw, 1972): os meios, ao selecionar e destacar temas, influenciam quais temas o público considera importantes (sobre o que pensar), e não necessariamente o que ele conclui sobre eles.",
+        "Espiral do silêncio (Noelle-Neumann): por medo do isolamento, as pessoas tendem a calar opiniões que julgam minoritárias. Já McLuhan sustenta que \"o meio é a mensagem\": a tecnologia do meio molda a percepção, além do conteúdo."
+      ],
+      "flashcards": [
+        {"frente": "Teoria hipodérmica: ideia central", "verso": "A mensagem atinge diretamente o indivíduo isolado, que reage de modo semelhante e imediato ao estímulo."},
+        {"frente": "Fluxo em duas etapas (two-step flow)", "verso": "A mensagem passa primeiro pelos líderes de opinião e só depois chega ao grande público (Lazarsfeld)."},
+        {"frente": "Agenda-setting", "verso": "A mídia pauta os temas que o público considera relevantes (McCombs e Shaw, 1972)."},
+        {"frente": "Espiral do silêncio", "verso": "Medo do isolamento leva a calar opiniões vistas como minoritárias (Noelle-Neumann)."}
+      ],
+      "questoes": [
+        {
+          "id": "teo-l1-q1",
+          "enunciado": "A teoria hipodérmica, ou teoria da agulha hipodérmica, parte do pressuposto de que as mensagens dos meios de comunicação de massa",
+          "alternativas": [
+            "passam antes por líderes de opinião, que as reinterpretam para o público.",
+            "são filtradas pelas crenças prévias de cada receptor, produzindo efeitos limitados.",
+            "atingem diretamente indivíduos isolados, que reagem de modo semelhante e imediato ao estímulo.",
+            "só têm efeito quando o receptor já concorda com o conteúdo transmitido.",
+            "dependem do contexto cultural do grupo e são negociadas coletivamente."
+          ],
+          "correta": 2,
+          "explicacao": "A teoria hipodérmica concebe o público como massa de indivíduos isolados e passivos, que recebem o estímulo e respondem de forma direta e uniforme. As demais alternativas descrevem teorias posteriores, que questionaram esse efeito direto.",
+          "fonte": "Referência conceitual: M. Wolf, Teorias da Comunicação (capítulo sobre a teoria hipodérmica)"
+        },
+        {
+          "id": "teo-l1-q2",
+          "enunciado": "Uma pesquisa eleitoral mostrou que muitos eleitores formaram opinião a partir de conversas com pessoas de seu convívio que acompanhavam atentamente o noticiário, e não diretamente pela mídia. Esse achado é associado à teoria",
+          "alternativas": [
+            "hipodérmica.",
+            "da indústria cultural.",
+            "da espiral do silêncio.",
+            "do agendamento (agenda-setting).",
+            "do fluxo de comunicação em duas etapas."
+          ],
+          "correta": 4,
+          "explicacao": "O fluxo em duas etapas (Lazarsfeld e colaboradores, estudo eleitoral de 1940) mostra que a influência da mídia é mediada por líderes de opinião, que repassam e interpretam as informações.",
+          "fonte": "Referência conceitual: P. Lazarsfeld, B. Berelson e H. Gaudet, The People's Choice (1944)"
+        },
+        {
+          "id": "teo-l1-q3",
+          "enunciado": "A hipótese do agendamento (agenda-setting), formulada por McCombs e Shaw, sustenta que",
+          "alternativas": [
+            "os meios, ao selecionar e destacar certos temas, influenciam a lista de assuntos que o público considera importantes.",
+            "o público escolhe livremente os temas, e a mídia apenas reproduz essa escolha.",
+            "a mensagem é sempre aceita integralmente pelo receptor.",
+            "a opinião pública se forma exclusivamente nas conversas pessoais.",
+            "os meios de comunicação só influenciam quem já pertence ao grupo majoritário."
+          ],
+          "correta": 0,
+          "explicacao": "O agendamento afirma que a hierarquia de temas da mídia tende a se refletir na hierarquia de temas que o público considera relevantes. O efeito está em indicar sobre o que pensar, e não em ditar o que concluir.",
+          "fonte": "Referência conceitual: M. McCombs e D. Shaw, The Agenda-Setting Function of Mass Media (1972)"
+        },
+        {
+          "id": "teo-l1-q4",
+          "enunciado": "O conceito de indústria cultural, desenvolvido por Adorno e Horkheimer, critica principalmente",
+          "alternativas": [
+            "a ausência de tecnologia nos meios de comunicação do século XX.",
+            "o excesso de liberdade criativa dos artistas de vanguarda.",
+            "o fato de os líderes de opinião filtrarem as informações.",
+            "a produção padronizada de bens culturais em série para o consumo de massa, com perda de espírito crítico.",
+            "a dificuldade de acesso do público a informações políticas."
+          ],
+          "correta": 3,
+          "explicacao": "Para os autores da Escola de Frankfurt, a cultura passa a ser produzida como mercadoria, em série e padronizada, o que favorece a conformidade e reduz a capacidade crítica.",
+          "fonte": "Referência conceitual: T. Adorno e M. Horkheimer, Dialética do Esclarecimento (1947)"
+        },
+        {
+          "id": "teo-l1-q5",
+          "enunciado": "Segundo a teoria da espiral do silêncio, de Noelle-Neumann, as pessoas tendem a",
+          "alternativas": [
+            "falar mais alto quando percebem que sua opinião é minoritária.",
+            "calar suas opiniões quando acreditam que são minoritárias, por receio do isolamento social.",
+            "buscar sempre confirmação das próprias ideias em líderes de opinião.",
+            "ignorar completamente os meios de comunicação de massa.",
+            "aceitar passivamente qualquer mensagem veiculada pela mídia."
+          ],
+          "correta": 1,
+          "explicacao": "A espiral do silêncio descreve um processo em que o receio do isolamento faz minorias aparentes se calarem, o que reforça a impressão de que a opinião dominante é ainda mais forte.",
+          "fonte": "Referência conceitual: E. Noelle-Neumann, The Spiral of Silence (1974)"
+        },
+        {
+          "id": "teo-l1-q6",
+          "enunciado": "A célebre frase de Marshall McLuhan, \"o meio é a mensagem\", significa que",
+          "alternativas": [
+            "o conteúdo é sempre mais relevante que o suporte em que é veiculado.",
+            "apenas mensagens verbais têm efeitos sobre as pessoas.",
+            "a forma e a tecnologia do meio moldam a percepção e a sociedade, independentemente do conteúdo transmitido.",
+            "toda mensagem precisa de um canal oficial para ser válida.",
+            "o receptor cria o meio a partir da interpretação da mensagem."
+          ],
+          "correta": 2,
+          "explicacao": "McLuhan defende que cada meio, por suas características, altera a escala e o ritmo das relações humanas, e isso importa mais do que o conteúdo específico veiculado.",
+          "fonte": "Referência conceitual: M. McLuhan, Os Meios de Comunicação como Extensões do Homem (Understanding Media, 1964)"
+        },
+        {
+          "id": "teo-l1-q7",
+          "enunciado": "Um estudo constatou que os assuntos mais destacados pelos telejornais durante a semana coincidiram com os assuntos que o público apontou como mais importantes em uma enquete. Esse resultado ilustra, principalmente, a teoria",
+          "alternativas": [
+            "hipodérmica.",
+            "da espiral do silêncio.",
+            "do fluxo em duas etapas.",
+            "do agendamento (agenda-setting).",
+            "da indústria cultural."
+          ],
+          "correta": 3,
+          "explicacao": "A coincidência entre a pauta da mídia e a pauta do público é o que o agendamento procura explicar, sem afirmar que a mídia define o que cada pessoa pensa sobre o assunto.",
+          "fonte": "Referência conceitual: M. McCombs e D. Shaw, The Agenda-Setting Function of Mass Media (1972)"
+        }
+      ]
+    },
+    {
+      "id": "teo-l2",
+      "titulo": "Processo, elementos e modelos da comunicação",
+      "minutos": 8,
+      "resumo": [
+        "Elementos do processo: emissor (fonte), mensagem, código, canal, receptor, contexto (referente), ruído e feedback (retroalimentação).",
+        "Modelo de Shannon e Weaver (1949): linear e de origem matemática. Fonte, transmissor, canal, receptor e destino, com ruído interferindo no sinal. Preocupa-se com a transmissão eficiente, e não com o significado.",
+        "Modelo de Lasswell (1948): quem diz o quê, em que canal, para quem e com que efeito. Serve de roteiro para analisar emissor, conteúdo, meio, audiência e efeitos.",
+        "Modelos circulares (Osgood e Schramm): emissor e receptor alternam papéis, codificam, decodificam e interpretam. Destacam o feedback e o campo de experiência comum entre os participantes.",
+        "Modelo SMCR (Berlo, 1960): source, message, channel, receiver. Valoriza habilidades de comunicação, atitudes, conhecimento e contexto sociocultural de emissor e receptor.",
+        "Ruído é toda interferência que distorce a mensagem: física (barulho), técnica (falha de sinal), semântica (jargão não compartilhado) ou psicológica (preconceitos). Um repertório comum reduz o ruído."
+      ],
+      "flashcards": [
+        {"frente": "Modelo de Shannon e Weaver: elementos", "verso": "Fonte, transmissor, canal, receptor e destino, com ruído. Modelo linear, centrado na transmissão do sinal."},
+        {"frente": "Perguntas do modelo de Lasswell", "verso": "Quem diz o quê, em que canal, para quem, com que efeito."},
+        {"frente": "O que é feedback?", "verso": "Resposta do receptor que permite ao emissor avaliar se a mensagem foi compreendida e ajustar a comunicação."},
+        {"frente": "SMCR (Berlo)", "verso": "Source (fonte), Message (mensagem), Channel (canal), Receiver (receptor)."}
+      ],
+      "questoes": [
+        {
+          "id": "teo-l2-q1",
+          "enunciado": "No modelo matemático de Shannon e Weaver, o elemento que representa qualquer interferência capaz de distorcer o sinal durante a transmissão é o",
+          "alternativas": [
+            "feedback.",
+            "ruído.",
+            "código.",
+            "canal.",
+            "destino."
+          ],
+          "correta": 1,
+          "explicacao": "No modelo, o ruído é a fonte de perturbação que altera o sinal entre transmissor e receptor. O canal é o meio de transmissão, e o feedback não faz parte do modelo original, que é linear.",
+          "fonte": "Referência conceitual: C. Shannon e W. Weaver, The Mathematical Theory of Communication (1949)"
+        },
+        {
+          "id": "teo-l2-q2",
+          "enunciado": "O modelo de Lasswell organiza o estudo do processo de comunicação em torno das perguntas:",
+          "alternativas": [
+            "quem é o receptor, qual o ruído, qual o código, qual o contexto e qual o feedback.",
+            "qual a fonte, qual o transmissor, qual o sinal, qual o ruído e qual o destino.",
+            "o que é dito, por que é dito, quando é dito, onde é dito e a quem interessa.",
+            "quem diz, o que diz, em que canal, a quem e com que efeito.",
+            "qual a habilidade, qual a atitude, qual o conhecimento, qual o sistema social e qual a cultura."
+          ],
+          "correta": 3,
+          "explicacao": "A fórmula de Lasswell são cinco perguntas: quem, diz o quê, em que canal, para quem, com que efeito. A segunda alternativa descreve Shannon e Weaver, e a última, o modelo de Berlo.",
+          "fonte": "Referência conceitual: H. Lasswell, The Structure and Function of Communication in Society (1948)"
+        },
+        {
+          "id": "teo-l2-q3",
+          "enunciado": "No processo de comunicação, o feedback (retroalimentação) corresponde",
+          "alternativas": [
+            "à resposta do receptor que permite ao emissor avaliar se a mensagem foi compreendida.",
+            "à interferência que distorce a mensagem durante a transmissão.",
+            "ao conjunto de signos usado para codificar a mensagem.",
+            "ao meio físico por onde a mensagem circula.",
+            "à situação em que a mensagem é produzida."
+          ],
+          "correta": 0,
+          "explicacao": "Feedback é o retorno do receptor ao emissor. Interferência é ruído, conjunto de signos é código, meio físico é canal e a situação é o contexto.",
+          "fonte": "Referência conceitual: W. Schramm, How Communication Works (1954)"
+        },
+        {
+          "id": "teo-l2-q4",
+          "enunciado": "Os modelos circulares ou interativos de comunicação, como os de Osgood e Schramm, diferem dos modelos lineares porque",
+          "alternativas": [
+            "eliminam o conceito de mensagem.",
+            "consideram o receptor como sujeito passivo, que apenas decodifica.",
+            "tratam o ruído como elemento inexistente.",
+            "são aplicáveis apenas à comunicação de massa.",
+            "enfatizam a troca de papéis entre emissor e receptor, o feedback e o campo de experiência comum."
+          ],
+          "correta": 4,
+          "explicacao": "Nos modelos circulares, os participantes alternam os papéis, interpretam e respondem. O feedback e o repertório compartilhado são centrais, ao contrário do esquema linear de via única.",
+          "fonte": "Referência conceitual: W. Schramm, How Communication Works (1954); C. Osgood (1954)"
+        },
+        {
+          "id": "teo-l2-q5",
+          "enunciado": "A sigla SMCR, que nomeia o modelo de Berlo, refere-se a",
+          "alternativas": [
+            "sinal, meio, código e resposta.",
+            "símbolo, mensagem, contexto e ruído.",
+            "fonte, mensagem, canal e receptor.",
+            "sujeito, meio, conteúdo e retorno.",
+            "sistema, mensagem, comunicação e resultado."
+          ],
+          "correta": 2,
+          "explicacao": "SMCR vem do inglês Source, Message, Channel, Receiver: fonte, mensagem, canal e receptor.",
+          "fonte": "Referência conceitual: D. Berlo, The Process of Communication (1960)"
+        },
+        {
+          "id": "teo-l2-q6",
+          "enunciado": "Uma instituição publica um comunicado repleto de siglas técnicas sem explicação, e parte do público não consegue compreendê-lo. Em termos do processo de comunicação, o problema decorre principalmente de",
+          "alternativas": [
+            "ruído semântico e falta de repertório comum entre emissor e receptor.",
+            "ausência de canal de comunicação.",
+            "falha mecânica no transmissor.",
+            "excesso de feedback do receptor.",
+            "impossibilidade de codificar a mensagem."
+          ],
+          "correta": 0,
+          "explicacao": "O jargão não compartilhado é ruído semântico: emissor e receptor não dominam o mesmo código. A solução é adequar a linguagem ao público e explicar os termos técnicos.",
+          "fonte": "Referência conceitual: W. Schramm, How Communication Works (1954), campo de experiência comum"
+        },
+        {
+          "id": "teo-l2-q7",
+          "enunciado": "Uma crítica comum ao modelo de Shannon e Weaver, quando aplicado à comunicação humana e organizacional, é que ele",
+          "alternativas": [
+            "dá importância excessiva ao feedback.",
+            "exclui a existência de canal.",
+            "ignora a necessidade de um receptor.",
+            "é unidirecional e centrado na transmissão do sinal, sem tratar do significado nem da interação.",
+            "só pode ser usado em comunicação face a face."
+          ],
+          "correta": 3,
+          "explicacao": "O modelo nasceu na engenharia de telecomunicações e trata da eficiência da transmissão. Por isso é linear e não aborda o sentido da mensagem nem a resposta do receptor.",
+          "fonte": "Referência conceitual: C. Shannon e W. Weaver, The Mathematical Theory of Communication (1949)"
+        }
+      ]
+    },
+    {
+      "id": "teo-l3",
+      "titulo": "Funções da linguagem e da comunicação",
+      "minutos": 7,
+      "resumo": [
+        "Jakobson associa cada função da linguagem a um fator da comunicação: emotiva (emissor), conativa (receptor), referencial (contexto), poética (mensagem), fática (canal) e metalinguística (código).",
+        "Função emotiva: centra-se no emissor e expressa sentimentos e atitudes. Exemplo: \"Estou orgulhoso do resultado da campanha!\".",
+        "Função conativa (apelativa): busca agir sobre o receptor, com imperativo e vocativo. Exemplo: \"Inscreva-se hoje e garanta sua vaga\". É típica da publicidade.",
+        "Função referencial (denotativa): informa sobre o contexto de modo objetivo. É predominante em notícias e documentos oficiais.",
+        "Função fática: testa ou mantém o canal aberto. Exemplo: \"Alô, está me ouvindo?\". Função metalinguística: fala sobre o próprio código. Exemplo: \"Lide é a abertura da notícia\". Função poética: valoriza a forma da mensagem, como em slogans com rima.",
+        "Funções sociais da comunicação de massa: Lasswell apontou vigilância do ambiente, correlação das partes da sociedade e transmissão da herança social. Wright acrescentou o entretenimento."
+      ],
+      "flashcards": [
+        {"frente": "Função da linguagem centrada no receptor", "verso": "Conativa (ou apelativa): tenta influenciar o comportamento do receptor, como em ordens e pedidos."},
+        {"frente": "Função da linguagem centrada no canal", "verso": "Fática: verifica ou mantém o contato, como em cumprimentos e \"alô\"."},
+        {"frente": "Função da linguagem centrada no código", "verso": "Metalinguística: explica o próprio código, como definições e dicionários."},
+        {"frente": "Funções sociais da comunicação segundo Lasswell", "verso": "Vigilância do ambiente, correlação das partes da sociedade e transmissão da herança social. Wright incluiu o entretenimento."}
+      ],
+      "questoes": [
+        {
+          "id": "teo-l3-q1",
+          "enunciado": "No anúncio \"Compre agora e garanta o desconto!\", predomina a função da linguagem",
+          "alternativas": [
+            "emotiva.",
+            "fática.",
+            "metalinguística.",
+            "poética.",
+            "conativa."
+          ],
+          "correta": 4,
+          "explicacao": "O imperativo e o apelo direto ao comportamento do receptor caracterizam a função conativa, centrada no receptor, muito comum na publicidade.",
+          "fonte": "Referência conceitual: R. Jakobson, Linguística e Comunicação (Linguistics and Poetics, 1960)"
+        },
+        {
+          "id": "teo-l3-q2",
+          "enunciado": "Na frase \"Alô? Você está me ouvindo bem?\", dita no início de uma videoconferência, a função da linguagem predominante é",
+          "alternativas": [
+            "referencial.",
+            "fática.",
+            "emotiva.",
+            "metalinguística.",
+            "poética."
+          ],
+          "correta": 1,
+          "explicacao": "A função fática se volta ao canal: verifica se o contato está estabelecido e funcionando, sem transmitir informação nova.",
+          "fonte": "Referência conceitual: R. Jakobson, Linguística e Comunicação (1960)"
+        },
+        {
+          "id": "teo-l3-q3",
+          "enunciado": "No trecho \"O decreto foi publicado em 24 de janeiro de 2005 e instituiu a ABDI\", predomina a função da linguagem",
+          "alternativas": [
+            "emotiva.",
+            "conativa.",
+            "poética.",
+            "referencial.",
+            "fática."
+          ],
+          "correta": 3,
+          "explicacao": "A função referencial informa objetivamente sobre fatos do contexto, e é a predominante em notícias, relatórios e textos jurídicos.",
+          "fonte": "Referência conceitual: R. Jakobson, Linguística e Comunicação (1960)"
+        },
+        {
+          "id": "teo-l3-q4",
+          "enunciado": "Em um manual de redação, lê-se: \"Lide é o primeiro parágrafo da notícia, que resume as informações essenciais\". A função da linguagem predominante nesse trecho é a",
+          "alternativas": [
+            "metalinguística.",
+            "emotiva.",
+            "fática.",
+            "conativa.",
+            "poética."
+          ],
+          "correta": 0,
+          "explicacao": "A linguagem fala sobre o próprio código (o gênero jornalístico e seu vocabulário). Definições e explicações de termos caracterizam a função metalinguística.",
+          "fonte": "Referência conceitual: R. Jakobson, Linguística e Comunicação (1960)"
+        },
+        {
+          "id": "teo-l3-q5",
+          "enunciado": "Um slogan que se destaca pela sonoridade, pelo ritmo e pela escolha cuidadosa das palavras, chamando atenção para a própria forma da mensagem, apresenta predominância da função",
+          "alternativas": [
+            "referencial.",
+            "conativa.",
+            "poética.",
+            "emotiva.",
+            "metalinguística."
+          ],
+          "correta": 2,
+          "explicacao": "A função poética centra-se na mensagem em si, na sua construção, com atenção a som, ritmo e escolha de palavras.",
+          "fonte": "Referência conceitual: R. Jakobson, Linguística e Comunicação (1960)"
+        },
+        {
+          "id": "teo-l3-q6",
+          "enunciado": "A frase \"Estou muito orgulhoso do resultado da nossa campanha!\" revela predominância da função da linguagem",
+          "alternativas": [
+            "fática.",
+            "referencial.",
+            "conativa.",
+            "emotiva.",
+            "metalinguística."
+          ],
+          "correta": 3,
+          "explicacao": "A função emotiva (ou expressiva) centra-se no emissor e traduz sentimentos, atitudes e opiniões em primeira pessoa.",
+          "fonte": "Referência conceitual: R. Jakobson, Linguística e Comunicação (1960)"
+        },
+        {
+          "id": "teo-l3-q7",
+          "enunciado": "Entre as funções sociais da comunicação de massa propostas por Lasswell estão",
+          "alternativas": [
+            "persuasão, entretenimento e propaganda eleitoral.",
+            "vigilância do ambiente, correlação das partes da sociedade e transmissão da herança social.",
+            "informação, conativa e poética.",
+            "codificação, decodificação e feedback.",
+            "emissão, canal e recepção."
+          ],
+          "correta": 1,
+          "explicacao": "Lasswell aponta vigilância do ambiente, correlação das partes da sociedade na resposta ao ambiente e transmissão da herança social entre gerações. O entretenimento foi acrescentado depois por Wright.",
+          "fonte": "Referência conceitual: H. Lasswell (1948); C. Wright, Mass Communication (1960)"
+        }
+      ]
+    }
+  ]
+}

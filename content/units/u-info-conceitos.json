@@ -1,0 +1,262 @@
+{
+  "id": "u-info-conceitos",
+  "titulo": "Conceitos de informática, Windows 10 e 11, atalhos e acessibilidade",
+  "bloco": "Gerais",
+  "categoria": "info",
+  "topicos": [
+    "info-01",
+    "info-02",
+    "info-10"
+  ],
+  "licoes": [
+    {
+      "id": "icon-l1",
+      "titulo": "Hardware, software e armazenamento",
+      "minutos": 7,
+      "resumo": [
+        "Hardware é a parte física (processador, memórias, discos, periféricos). Software é a parte lógica: sistema operacional, aplicativos e utilitários.",
+        "Memória RAM é volátil: perde os dados quando o computador é desligado. ROM e dispositivos de armazenamento (HD, SSD) guardam dados de forma permanente. O SSD não tem partes móveis.",
+        "Unidades: 1 byte tem 8 bits. Os múltiplos (KB, MB, GB, TB) crescem de 1.024 em 1.024 nas provas de concurso.",
+        "Periféricos de entrada: teclado, mouse, scanner. De saída: monitor, impressora. De entrada e saída: tela sensível ao toque, impressora multifuncional. Extensões: .docx e .odt (texto), .xlsx e .ods (planilha), .pptx e .odp (apresentação), .pdf, .jpg, .png, .mp3, .zip."
+      ],
+      "flashcards": [
+        {
+          "frente": "Qual memória é volátil?",
+          "verso": "A memória RAM: perde o conteúdo quando o equipamento é desligado."
+        },
+        {
+          "frente": "Quantos bits tem um byte?",
+          "verso": "8 bits."
+        },
+        {
+          "frente": "Extensões de documentos do LibreOffice",
+          "verso": ".odt (Writer), .ods (Calc) e .odp (Impress)."
+        }
+      ],
+      "questoes": [
+        {
+          "id": "icon-l1-q1",
+          "enunciado": "Sobre a memória RAM de um computador, é correto afirmar que ela é",
+          "alternativas": [
+            "um dispositivo de entrada de dados.",
+            "somente de leitura, e não pode ser alterada.",
+            "volátil, pois perde seu conteúdo quando o computador é desligado.",
+            "exclusiva de computadores antigos.",
+            "permanente, pois armazena arquivos mesmo desligada."
+          ],
+          "correta": 2,
+          "explicacao": "A RAM guarda temporariamente os programas e dados em uso. Para guardar de forma permanente, usam-se HD, SSD e outras mídias.",
+          "fonte": "Referência conceitual: fundamentos de informática (conteúdo estável, sem dependência de versão)"
+        },
+        {
+          "id": "icon-l1-q2",
+          "enunciado": "Um byte é formado por",
+          "alternativas": [
+            "8 bits.",
+            "16 bits.",
+            "4 bits.",
+            "10 bits.",
+            "1.024 bits."
+          ],
+          "correta": 0,
+          "explicacao": "Por definição, 1 byte equivale a 8 bits.",
+          "fonte": "Referência conceitual: fundamentos de informática (conteúdo estável, sem dependência de versão)"
+        },
+        {
+          "id": "icon-l1-q3",
+          "enunciado": "Um scanner é classificado como periférico de",
+          "alternativas": [
+            "processamento.",
+            "alimentação.",
+            "saída.",
+            "armazenamento volátil.",
+            "entrada."
+          ],
+          "correta": 4,
+          "explicacao": "O scanner converte documentos em imagens digitais que entram no computador.",
+          "fonte": "Referência conceitual: fundamentos de informática (conteúdo estável, sem dependência de versão)"
+        },
+        {
+          "id": "icon-l1-q4",
+          "enunciado": "Um arquivo com extensão .ods foi criado, por padrão, no aplicativo",
+          "alternativas": [
+            "Writer, do LibreOffice (texto).",
+            "Calc, do LibreOffice (planilha).",
+            "PowerPoint, do Microsoft 365.",
+            "Word, do Microsoft 365.",
+            "Impress, do LibreOffice (apresentação)."
+          ],
+          "correta": 1,
+          "explicacao": "A extensão .ods identifica planilhas no formato OpenDocument, usado pelo Calc.",
+          "fonte": "Referência conceitual: fundamentos de informática (conteúdo estável, sem dependência de versão)"
+        }
+      ]
+    },
+    {
+      "id": "icon-l2",
+      "titulo": "Windows 10 e 11: arquivos, pastas e recursos",
+      "minutos": 8,
+      "resumo": [
+        "O Explorador de Arquivos organiza arquivos e pastas (atalho Win+E). Nomes de arquivos não podem conter os caracteres \\ / : * ? \" < > |.",
+        "Ao excluir um arquivo do disco local, ele vai para a Lixeira e pode ser restaurado. Shift+Delete exclui sem passar pela Lixeira. Arquivos excluídos de pen drive ou de unidade de rede também não vão para a Lixeira.",
+        "Gerenciador de Tarefas: Ctrl+Shift+Esc. Configurações: Win+I. Bloquear a sessão: Win+L. O Windows 11 mantém essas funções e traz o menu Iniciar centralizado e layouts de janelas.",
+        "A barra de tarefas mostra programas abertos e fixados. A área de trabalho exibe atalhos. Pesquisa e compartilhamento (inclusive via OneDrive) estão integrados ao sistema."
+      ],
+      "flashcards": [
+        {
+          "frente": "Excluir sem passar pela Lixeira",
+          "verso": "Shift+Delete."
+        },
+        {
+          "frente": "Abrir o Gerenciador de Tarefas",
+          "verso": "Ctrl+Shift+Esc."
+        },
+        {
+          "frente": "Caracteres proibidos em nomes de arquivos do Windows",
+          "verso": "\\ / : * ? \" < > |"
+        }
+      ],
+      "questoes": [
+        {
+          "id": "icon-l2-q1",
+          "enunciado": "Para excluir um arquivo do disco local do Windows sem enviá-lo à Lixeira, o usuário deve selecioná-lo e pressionar",
+          "alternativas": [
+            "Win+Delete.",
+            "Ctrl+Delete.",
+            "Ctrl+Z.",
+            "Shift+Delete.",
+            "Alt+Delete."
+          ],
+          "correta": 3,
+          "explicacao": "A combinação Shift+Delete exclui permanentemente, com confirmação.",
+          "fonte": "Referência conceitual: fundamentos de informática (conteúdo estável, sem dependência de versão)"
+        },
+        {
+          "id": "icon-l2-q2",
+          "enunciado": "Qual dos nomes abaixo é inválido para um arquivo no Windows?",
+          "alternativas": [
+            "relatorio final 2026.docx",
+            "relatorio_final.docx",
+            "relatorio?final.docx",
+            "relatorio-final.docx",
+            "relatorio.final.docx"
+          ],
+          "correta": 2,
+          "explicacao": "O ponto de interrogação é um dos caracteres proibidos em nomes de arquivos.",
+          "fonte": "Referência conceitual: fundamentos de informática (conteúdo estável, sem dependência de versão)"
+        },
+        {
+          "id": "icon-l2-q3",
+          "enunciado": "O atalho que abre diretamente o Gerenciador de Tarefas do Windows é",
+          "alternativas": [
+            "Ctrl+Shift+Esc.",
+            "Win+T.",
+            "Ctrl+Shift+N.",
+            "Alt+Tab.",
+            "Ctrl+Alt+F4."
+          ],
+          "correta": 0,
+          "explicacao": "Ctrl+Shift+Esc abre o Gerenciador de Tarefas, útil para encerrar programas que não respondem.",
+          "fonte": "Referência conceitual: fundamentos de informática (conteúdo estável, sem dependência de versão)"
+        },
+        {
+          "id": "icon-l2-q4",
+          "enunciado": "Sobre arquivos excluídos de um pen drive no Windows, é correto afirmar que",
+          "alternativas": [
+            "são copiados para a área de trabalho.",
+            "só podem ser excluídos pelo administrador.",
+            "sempre vão para a Lixeira do computador.",
+            "são enviados à nuvem automaticamente.",
+            "não passam pela Lixeira e são removidos diretamente."
+          ],
+          "correta": 4,
+          "explicacao": "Mídias removíveis e unidades de rede não usam a Lixeira do disco local.",
+          "fonte": "Referência conceitual: fundamentos de informática (conteúdo estável, sem dependência de versão)"
+        }
+      ]
+    },
+    {
+      "id": "icon-l3",
+      "titulo": "Atalhos, acessibilidade e produtividade",
+      "minutos": 7,
+      "resumo": [
+        "Atalhos gerais: Ctrl+C copiar, Ctrl+X recortar, Ctrl+V colar, Ctrl+Z desfazer, Ctrl+Y refazer, Ctrl+A selecionar tudo, Ctrl+F localizar, Alt+Tab alternar janelas, F2 renomear, F5 atualizar, Alt+F4 fechar.",
+        "Win+D mostra a área de trabalho, Win+L bloqueia, Win+Shift+S abre a captura de tela por recorte, Print Screen captura a tela inteira.",
+        "Acessibilidade: Lupa (Win e sinal de mais), Narrador (Win+Ctrl+Enter), alto contraste, teclado virtual e teclas de aderência (ativadas ao pressionar Shift cinco vezes).",
+        "Digitalização converte papel em arquivo digital. O OCR (reconhecimento óptico de caracteres) transforma a imagem de um texto em texto editável."
+      ],
+      "flashcards": [
+        {
+          "frente": "Bloquear a tela do Windows",
+          "verso": "Win+L."
+        },
+        {
+          "frente": "Renomear o arquivo selecionado",
+          "verso": "F2."
+        },
+        {
+          "frente": "OCR",
+          "verso": "Reconhecimento óptico de caracteres: converte imagens de texto em texto editável."
+        }
+      ],
+      "questoes": [
+        {
+          "id": "icon-l3-q1",
+          "enunciado": "O atalho Win+L no Windows serve para",
+          "alternativas": [
+            "abrir a Lupa.",
+            "bloquear a sessão do usuário.",
+            "abrir a Lixeira.",
+            "mostrar a área de trabalho.",
+            "fechar todos os programas."
+          ],
+          "correta": 1,
+          "explicacao": "Win+L bloqueia a sessão, exigindo autenticação para voltar. A área de trabalho é exibida com Win+D.",
+          "fonte": "Referência conceitual: fundamentos de informática (conteúdo estável, sem dependência de versão)"
+        },
+        {
+          "id": "icon-l3-q2",
+          "enunciado": "Para renomear um arquivo selecionado no Explorador de Arquivos, usa-se a tecla",
+          "alternativas": [
+            "F10.",
+            "F5.",
+            "F12.",
+            "F2.",
+            "F1."
+          ],
+          "correta": 3,
+          "explicacao": "F2 coloca o nome do arquivo em modo de edição. F5 atualiza a janela.",
+          "fonte": "Referência conceitual: fundamentos de informática (conteúdo estável, sem dependência de versão)"
+        },
+        {
+          "id": "icon-l3-q3",
+          "enunciado": "O recurso de acessibilidade do Windows que lê em voz alta o conteúdo da tela é o",
+          "alternativas": [
+            "Teclado virtual.",
+            "Alto contraste.",
+            "Narrador.",
+            "Teclas de aderência.",
+            "Lupa."
+          ],
+          "correta": 2,
+          "explicacao": "O Narrador é o leitor de tela do Windows (Win+Ctrl+Enter). A Lupa amplia partes da tela.",
+          "fonte": "Referência conceitual: fundamentos de informática (conteúdo estável, sem dependência de versão)"
+        },
+        {
+          "id": "icon-l3-q4",
+          "enunciado": "A tecnologia que transforma a imagem digitalizada de um documento impresso em texto que pode ser editado é o",
+          "alternativas": [
+            "OCR.",
+            "firewall.",
+            "DNS.",
+            "backup.",
+            "CAPTCHA."
+          ],
+          "correta": 0,
+          "explicacao": "OCR significa reconhecimento óptico de caracteres.",
+          "fonte": "Referência conceitual: fundamentos de informática (conteúdo estável, sem dependência de versão)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,282 @@
+{
+  "id": "u-info-legislacao",
+  "titulo": "Legislação: LAI, delitos informáticos, Marco Civil e LGPD",
+  "bloco": "Gerais",
+  "categoria": "info",
+  "topicos": [
+    "info-11"
+  ],
+  "licoes": [
+    {
+      "id": "ileg-l1",
+      "titulo": "Lei de Acesso à Informação (Lei 12.527/2011)",
+      "minutos": 9,
+      "resumo": [
+        "Art. 3º: a publicidade é a regra e o sigilo, a exceção. Os órgãos divulgam informações de interesse público independentemente de solicitações (transparência ativa) e fomentam a cultura de transparência e o controle social.",
+        "Art. 2º: aplica-se, no que couber, a entidades privadas sem fins lucrativos que recebam recursos públicos por contrato de gestão, convênios e instrumentos congêneres. A publicidade refere-se à parcela dos recursos públicos recebidos e à sua destinação (parágrafo único).",
+        "Art. 8º: divulgação mínima em local de fácil acesso: competências e estrutura, repasses, despesas, licitações e contratos, dados de programas e respostas a perguntas frequentes.",
+        "Arts. 10 e 11: qualquer interessado pode pedir informação, com identificação e especificação do pedido, e não se podem exigir os motivos. O acesso é imediato se a informação estiver disponível. Caso contrário, o prazo é de até 20 dias, prorrogável por mais 10 dias, com justificativa.",
+        "Art. 24: classificação do sigilo: ultrassecreta (25 anos), secreta (15 anos) e reservada (5 anos). Art. 31: informações pessoais têm acesso restrito por até 100 anos, independentemente de classificação."
+      ],
+      "flashcards": [
+        {
+          "frente": "Regra geral da LAI",
+          "verso": "Publicidade como regra e sigilo como exceção (art. 3º, I)."
+        },
+        {
+          "frente": "Prazo de resposta a pedido de informação",
+          "verso": "Imediato, se disponível. Senão, até 20 dias, prorrogável por mais 10 com justificativa (art. 11, §§ 1º e 2º)."
+        },
+        {
+          "frente": "Prazos máximos de sigilo",
+          "verso": "Ultrassecreta: 25 anos. Secreta: 15 anos. Reservada: 5 anos (art. 24, § 1º)."
+        }
+      ],
+      "questoes": [
+        {
+          "id": "ileg-l1-q1",
+          "enunciado": "Segundo a Lei de Acesso à Informação, o prazo para o órgão responder a um pedido de acesso, quando não é possível conceder o acesso imediato, é de até",
+          "alternativas": [
+            "5 dias úteis, sem possibilidade de prorrogação.",
+            "60 dias, prorrogável por mais 30.",
+            "10 dias, prorrogável por mais 20.",
+            "20 dias, prorrogável por mais 10 dias, mediante justificativa expressa.",
+            "30 dias corridos, improrrogáveis."
+          ],
+          "correta": 3,
+          "explicacao": "O art. 11, § 1º, fixa o prazo de 20 dias e o § 2º permite prorrogação por mais 10 dias, com justificativa expressa.",
+          "fonte": "Lei 12.527/2011 (planalto.gov.br)"
+        },
+        {
+          "id": "ileg-l1-q2",
+          "enunciado": "Os prazos máximos de restrição de acesso à informação classificada como ultrassecreta, secreta e reservada são, respectivamente,",
+          "alternativas": [
+            "25, 20 e 10 anos.",
+            "50, 25 e 10 anos.",
+            "25, 15 e 5 anos.",
+            "30, 20 e 10 anos.",
+            "15, 10 e 5 anos."
+          ],
+          "correta": 2,
+          "explicacao": "O art. 24, § 1º, estabelece 25 anos (ultrassecreta), 15 (secreta) e 5 (reservada).",
+          "fonte": "Lei 12.527/2011 (planalto.gov.br)"
+        },
+        {
+          "id": "ileg-l1-q3",
+          "enunciado": "De acordo com a Lei 12.527/2011, ao apresentar um pedido de acesso a informações de interesse público, o requerente",
+          "alternativas": [
+            "não pode ser obrigado a informar os motivos da solicitação.",
+            "deve pagar taxa de análise em todos os casos.",
+            "deve justificar o interesse por escrito.",
+            "deve comprovar vínculo com o órgão.",
+            "só pode pedir se for pesquisador."
+          ],
+          "correta": 0,
+          "explicacao": "O art. 10, § 3º, veda exigências relativas aos motivos determinantes da solicitação de informações de interesse público.",
+          "fonte": "Lei 12.527/2011 (planalto.gov.br)"
+        },
+        {
+          "id": "ileg-l1-q4",
+          "enunciado": "A Lei de Acesso à Informação se aplica, no que couber, a entidades privadas sem fins lucrativos que recebam recursos públicos por meio, por exemplo, de",
+          "alternativas": [
+            "qualquer doação privada, em qualquer valor.",
+            "empréstimos bancários comuns, apenas.",
+            "contratos de trabalho de seus empregados.",
+            "tributos pagos pela entidade.",
+            "contrato de gestão ou convênios, com publicidade relativa à parcela de recursos recebida e à sua destinação."
+          ],
+          "correta": 4,
+          "explicacao": "O art. 2º inclui entidades privadas sem fins lucrativos que recebam recursos públicos por contrato de gestão, convênios e instrumentos congêneres. O parágrafo único limita a publicidade à parcela dos recursos públicos e à sua destinação.",
+          "fonte": "Lei 12.527/2011 (planalto.gov.br)"
+        }
+      ]
+    },
+    {
+      "id": "ileg-l2",
+      "titulo": "Delitos informáticos (Lei 12.737/2012) e Marco Civil da Internet (Lei 12.965/2014)",
+      "minutos": 9,
+      "resumo": [
+        "Lei 12.737/2012: acrescentou ao Código Penal o art. 154-A (invasão de dispositivo informático). Na redação atual, dada pela Lei 14.155/2021, o crime é invadir dispositivo informático de uso alheio, conectado ou não à rede, com o fim de obter, adulterar ou destruir dados ou informações sem autorização expressa ou tácita do usuário, ou de instalar vulnerabilidades para obter vantagem ilícita. Pena: reclusão de 1 a 4 anos e multa. O texto original de 2012 exigia violação de mecanismo de segurança; isso não consta mais.",
+        "Mesma pena para quem produz, oferece, distribui, vende ou difunde programa para permitir a invasão (§ 1º). A pena aumenta de 1/3 a 2/3 se há prejuízo econômico (§ 2º). É qualificado, com reclusão de 2 a 5 anos e multa, se a invasão obtém conteúdo de comunicações privadas, segredos comerciais ou industriais, informações sigilosas ou permite controle remoto não autorizado (§ 3º). Aumenta-se a pena se há divulgação a terceiros (§ 4º).",
+        "Marco Civil (Lei 12.965/2014), art. 3º: princípios como liberdade de expressão, proteção da privacidade, proteção dos dados pessoais, neutralidade de rede e responsabilização dos agentes.",
+        "Registros: o provedor de conexão guarda os registros de conexão por 1 ano, em sigilo (art. 13). É vedado ao provedor de conexão guardar registros de acesso a aplicações (art. 14). O provedor de aplicações que seja pessoa jurídica com fins econômicos guarda os registros de acesso por 6 meses (art. 15).",
+        "Responsabilidade: o provedor de conexão não responde por conteúdo de terceiros (art. 18). O art. 19 condicionava a responsabilidade do provedor de aplicações ao descumprimento de ordem judicial específica. Em 26/06/2025, o STF decidiu que o art. 19 é parcialmente inconstitucional (RE 1.037.396, Tema 987, e RE 1.057.258, Tema 533). Cenas de nudez ou de atos sexuais privados divulgadas sem autorização geram responsabilidade subsidiária após notificação do participante (art. 21)."
+      ],
+      "flashcards": [
+        {
+          "frente": "Art. 154-A do Código Penal (Lei 12.737, com a Lei 14.155/2021)",
+          "verso": "Invadir dispositivo informático de uso alheio, conectado ou não à rede, com o fim de obter, adulterar ou destruir dados ou instalar vulnerabilidades. Reclusão de 1 a 4 anos e multa."
+        },
+        {
+          "frente": "Guarda de registros no Marco Civil",
+          "verso": "Registros de conexão: 1 ano, pelo provedor de conexão. Registros de acesso a aplicações: 6 meses, por provedor de aplicações pessoa jurídica com fins econômicos."
+        },
+        {
+          "frente": "Art. 19 do Marco Civil e o STF",
+          "verso": "Julgado em 26/06/2025: parcialmente inconstitucional (RE 1.037.396 e RE 1.057.258). A tese completa deve ser conferida na decisão oficial."
+        }
+      ],
+      "questoes": [
+        {
+          "id": "ileg-l2-q1",
+          "enunciado": "O art. 154-A do Código Penal, acrescentado pela Lei 12.737/2012 e com a redação atual dada pela Lei 14.155/2021, tipifica a conduta de",
+          "alternativas": [
+            "usar software sem licença em computador próprio.",
+            "invadir dispositivo informático de uso alheio, conectado ou não à rede, com o fim de obter, adulterar ou destruir dados ou informações sem autorização do usuário.",
+            "divulgar a própria senha a terceiros.",
+            "enviar mensagem eletrônica não solicitada em massa.",
+            "utilizar rede sem fio aberta sem autorização."
+          ],
+          "correta": 1,
+          "explicacao": "A invasão é punida mesmo que o dispositivo não esteja conectado à rede. A redação atual não exige mais a violação indevida de mecanismo de segurança, que constava do texto original de 2012.",
+          "fonte": "Código Penal, art. 154-A, acrescentado pela Lei 12.737/2012 e com redação da Lei 14.155/2021 (planalto.gov.br, del2848compilado)"
+        },
+        {
+          "id": "ileg-l2-q2",
+          "enunciado": "A pena prevista no caput do art. 154-A do Código Penal (invasão de dispositivo informático), na redação da Lei 14.155/2021, é de",
+          "alternativas": [
+            "detenção, de 6 meses a 2 anos, apenas.",
+            "multa, sem pena privativa de liberdade.",
+            "detenção, de 3 meses a 1 ano, e multa.",
+            "reclusão, de 1 a 4 anos, e multa.",
+            "reclusão, de 2 a 5 anos, e multa."
+          ],
+          "correta": 3,
+          "explicacao": "O caput prevê reclusão de 1 a 4 anos e multa. A detenção de 3 meses a 1 ano era a pena do texto original de 2012, e a reclusão de 2 a 5 anos é a do § 3º (forma qualificada).",
+          "fonte": "Código Penal, art. 154-A, acrescentado pela Lei 12.737/2012 e com redação da Lei 14.155/2021 (planalto.gov.br, del2848compilado)"
+        },
+        {
+          "id": "ileg-l2-q3",
+          "enunciado": "De acordo com o Marco Civil da Internet, o provedor de conexão deve manter os registros de conexão, sob sigilo, em ambiente controlado e de segurança, pelo prazo de",
+          "alternativas": [
+            "6 meses.",
+            "5 anos.",
+            "1 ano.",
+            "90 dias.",
+            "2 anos."
+          ],
+          "correta": 2,
+          "explicacao": "O art. 13 fixa 1 ano para os registros de conexão. Os 6 meses do art. 15 se referem aos registros de acesso a aplicações de internet.",
+          "fonte": "Lei 12.965/2014 (planalto.gov.br)"
+        },
+        {
+          "id": "ileg-l2-q4",
+          "enunciado": "Pelo art. 14 do Marco Civil da Internet, na provisão de conexão, onerosa ou gratuita, é vedado ao provedor",
+          "alternativas": [
+            "guardar os registros de acesso a aplicações de internet.",
+            "informar o usuário sobre o regime de proteção dos registros.",
+            "guardar os registros de conexão.",
+            "cumprir ordem judicial.",
+            "cobrar pela conexão."
+          ],
+          "correta": 0,
+          "explicacao": "O provedor de conexão guarda os registros de conexão (art. 13), mas não os de acesso a aplicações (art. 14).",
+          "fonte": "Lei 12.965/2014 (planalto.gov.br)"
+        },
+        {
+          "id": "ileg-l2-q5",
+          "enunciado": "Em junho de 2025, o Supremo Tribunal Federal julgou o art. 19 do Marco Civil da Internet (que condicionava a responsabilidade civil do provedor de aplicações ao descumprimento de ordem judicial específica) e decidiu que esse dispositivo é",
+          "alternativas": [
+            "inaplicável a conteúdos ilícitos de qualquer natureza.",
+            "constitucional, mas aplicável apenas a provedores de conexão.",
+            "totalmente constitucional, sem ressalvas.",
+            "totalmente inconstitucional e revogado desde 2014.",
+            "parcialmente inconstitucional."
+          ],
+          "correta": 4,
+          "explicacao": "O STF, em 26/06/2025, nos RE 1.037.396 (Tema 987) e RE 1.057.258 (Tema 533), declarou a inconstitucionalidade parcial do art. 19. O texto oficial da tese não foi conferido; o conteúdo exato das hipóteses de responsabilização deve ser estudado na decisão.",
+          "fonte": "STF, RE 1.037.396 (Tema 987) e RE 1.057.258 (Tema 533), julgamento de 26/06/2025, conforme resumos de machadomeyer.com.br e bmalaw.com.br; texto oficial da tese não conferido"
+        }
+      ]
+    },
+    {
+      "id": "ileg-l3",
+      "titulo": "Lei Geral de Proteção de Dados (Lei 13.709/2018)",
+      "minutos": 10,
+      "resumo": [
+        "Art. 2º: fundamentos incluem respeito à privacidade, autodeterminação informativa, liberdade de expressão, inviolabilidade da intimidade, honra e imagem, desenvolvimento econômico e tecnológico, livre iniciativa e direitos humanos.",
+        "Art. 5º: dado pessoal é informação relacionada a pessoa natural identificada ou identificável. Dado pessoal sensível trata de origem racial ou étnica, convicção religiosa, opinião política, filiação sindical, saúde, vida sexual, dado genético ou biométrico. Titular é a pessoa a quem os dados se referem. Controlador decide sobre o tratamento. Operador trata os dados em nome do controlador. Encarregado é o canal de comunicação entre controlador, titulares e a ANPD.",
+        "Art. 6º: boa-fé e princípios de finalidade, adequação, necessidade, livre acesso, qualidade dos dados, transparência, segurança, prevenção, não discriminação e responsabilização e prestação de contas.",
+        "Art. 7º: o tratamento só pode ocorrer nas hipóteses legais, como consentimento do titular, cumprimento de obrigação legal, execução de políticas públicas pela administração, estudos por órgão de pesquisa, execução de contrato e exercício regular de direitos em processos.",
+        "Art. 18: direitos do titular, como confirmação do tratamento, acesso, correção, anonimização, bloqueio ou eliminação de dados desnecessários, portabilidade e eliminação dos dados tratados com consentimento. Art. 41: o controlador indica um encarregado e divulga publicamente sua identidade e contato. Art. 52: sanções incluem advertência, multa simples de até 2% do faturamento, limitada a R$ 50 milhões por infração, e multa diária.",
+        "Atenção a mudanças recentes: o texto do art. 5º, VIII, no Planalto, passou a falar em Agência Nacional de Proteção de Dados (ANPD), na redação da Lei 15.352/2026. A redação original usava Autoridade Nacional de Proteção de Dados."
+      ],
+      "flashcards": [
+        {
+          "frente": "Dado pessoal x dado pessoal sensível",
+          "verso": "Pessoal: informação sobre pessoa identificada ou identificável. Sensível: origem racial ou étnica, religião, opinião política, filiação sindical, saúde, vida sexual, dado genético ou biométrico."
+        },
+        {
+          "frente": "Controlador, operador e encarregado",
+          "verso": "Controlador decide sobre o tratamento. Operador trata em nome do controlador. Encarregado é o canal com titulares e ANPD."
+        },
+        {
+          "frente": "Teto da multa simples da LGPD (art. 52, II)",
+          "verso": "Até 2% do faturamento da pessoa jurídica no Brasil, limitada a R$ 50 milhões por infração."
+        },
+        {
+          "frente": "Princípios do art. 6º",
+          "verso": "Finalidade, adequação, necessidade, livre acesso, qualidade dos dados, transparência, segurança, prevenção, não discriminação e responsabilização e prestação de contas."
+        }
+      ],
+      "questoes": [
+        {
+          "id": "ileg-l3-q1",
+          "enunciado": "Segundo a LGPD, o dado pessoal sobre origem racial ou étnica, convicção religiosa, opinião política ou saúde, quando vinculado a uma pessoa natural, é classificado como",
+          "alternativas": [
+            "dado anonimizado.",
+            "dado pessoal sensível.",
+            "banco de dados.",
+            "dado estatístico.",
+            "dado público."
+          ],
+          "correta": 1,
+          "explicacao": "O art. 5º, II, define dado pessoal sensível e lista essas categorias, entre outras.",
+          "fonte": "Lei 13.709/2018 (planalto.gov.br)"
+        },
+        {
+          "id": "ileg-l3-q2",
+          "enunciado": "Na LGPD, a pessoa natural ou jurídica, de direito público ou privado, a quem competem as decisões referentes ao tratamento de dados pessoais é o",
+          "alternativas": [
+            "encarregado.",
+            "usuário final.",
+            "titular.",
+            "controlador.",
+            "operador."
+          ],
+          "correta": 3,
+          "explicacao": "O art. 5º, VI, define o controlador. O operador trata dados em nome do controlador, e o titular é a pessoa a quem os dados se referem.",
+          "fonte": "Lei 13.709/2018 (planalto.gov.br)"
+        },
+        {
+          "id": "ileg-l3-q3",
+          "enunciado": "O princípio da LGPD que exige que o tratamento seja limitado ao mínimo necessário para a realização de suas finalidades é o da",
+          "alternativas": [
+            "finalidade.",
+            "livre acesso.",
+            "necessidade.",
+            "qualidade dos dados.",
+            "transparência."
+          ],
+          "correta": 2,
+          "explicacao": "O art. 6º, III, define a necessidade como a limitação do tratamento ao mínimo necessário, com dados pertinentes, proporcionais e não excessivos.",
+          "fonte": "Lei 13.709/2018 (planalto.gov.br)"
+        },
+        {
+          "id": "ileg-l3-q4",
+          "enunciado": "De acordo com o art. 52 da LGPD, a multa simples aplicável aos agentes de tratamento é de até",
+          "alternativas": [
+            "2% do faturamento da pessoa jurídica no Brasil no último exercício, limitada a R$ 50 milhões por infração.",
+            "5% do patrimônio líquido, limitada a R$ 1 milhão.",
+            "1% do faturamento, limitada a R$ 100 milhões.",
+            "R$ 5 milhões por titular afetado.",
+            "10% do faturamento global, sem limite."
+          ],
+          "correta": 0,
+          "explicacao": "O art. 52, II, prevê multa simples de até 2% do faturamento, excluídos os tributos, limitada a R$ 50.000.000,00 por infração.",
+          "fonte": "Lei 13.709/2018 (planalto.gov.br)"
+        }
+      ]
+    }
+  ]
+}

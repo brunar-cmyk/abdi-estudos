@@ -1,0 +1,440 @@
+{
+  "id": "u-inst-etica-planejamento",
+  "titulo": "Ética e Conduta; Planejamento Estratégico 2024-2029",
+  "bloco": "Institucionais",
+  "categoria": "etica",
+  "topicos": [
+    "inst-04"
+  ],
+  "pacoteNumeros": [
+    {
+      "rotulo": "Regulamento de Ética e Conduta",
+      "valor": "Resolução CD 004/2022, de 16/03/2022; 25 artigos em 10 capítulos",
+      "fonte": "Regulamento de Ética e Conduta da ABDI (abdi.com.br)"
+    },
+    {
+      "rotulo": "Parentesco vedado sob chefia imediata",
+      "valor": "cônjuge, companheiro ou parente em linha reta, colateral ou por afinidade até o terceiro grau",
+      "fonte": "Regulamento de Ética e Conduta, art. 6º"
+    },
+    {
+      "rotulo": "Objetivos estratégicos 2024-2029",
+      "valor": "6 objetivos; o 4 é fortalecer e consolidar a comunicação institucional",
+      "fonte": "Planejamento Estratégico 2024-2029, seção 2.3"
+    },
+    {
+      "rotulo": "Valores da ABDI",
+      "valor": "5: cooperação, compromisso com a competitividade, inovação, valorização humana, ética e transparência",
+      "fonte": "Planejamento Estratégico 2024-2029, seção 2.3"
+    },
+    {
+      "rotulo": "Resolução que aprovou o planejamento ajustado",
+      "valor": "Resolução CD 009, de 27/11/2024 (o edital cita a 008/2023)",
+      "fonte": "Planejamento Estratégico 2024-2029, p. 32"
+    }
+  ],
+  "licoes": [
+    {
+      "id": "etp-l1",
+      "titulo": "Ética e Conduta: objetivo, valores, direitos e deveres",
+      "minutos": 8,
+      "resumo": [
+        "O Regulamento (Resolução CD 004/2022) estabelece os padrões éticos e de comportamento esperados dos profissionais da ABDI, nas relações entre si, com parceiros, clientes, fornecedores, prestadores de serviços, Poder Público e órgãos de fiscalização e controle (art. 1º).",
+        "Aplica-se a conselheiros, dirigentes, empregados, estagiários, menores aprendizes e prestadores de serviços técnicos e operacionais (art. 2º). Em contratos, convênios e acordos de cooperação, a ABDI exige dos contratados, convenentes ou parceiros a observância do Regulamento ou de documento análogo (parágrafo único).",
+        "Art. 3º traz 12 valores e princípios, entre eles cooperação, compromisso com a competitividade, inovação, valorização humana, ética e transparência, legalidade, honestidade, justiça, impessoalidade, lealdade, respeito aos direitos individuais, veracidade, prestação de contas e preservação da boa imagem e do patrimônio da ABDI.",
+        "Direitos (art. 4º): ser respeitado e igualmente tratado, trabalhar em ambiente adequado, ter interlocução livre com colegas e superiores e ter respeitado o sigilo de informações pessoais.",
+        "Deveres (art. 5º), entre outros: conduta que inspire confiança, zelo e honestidade, sigilo sobre negócios e projetos, comunicar ao superior possíveis conflitos de interesses, cumprir ordens superiores, exceto as manifestamente ilegais, imorais e antiéticas, e requerer prévia autorização da Diretoria para publicar ou expor estudos, pesquisas e pareceres feitos por demanda da Agência."
+      ],
+      "flashcards": [
+        {
+          "frente": "A quem se aplica o Regulamento de Ética e Conduta?",
+          "verso": "A conselheiros, dirigentes, empregados, estagiários, menores aprendizes e prestadores de serviços técnicos e operacionais (art. 2º)."
+        },
+        {
+          "frente": "Ordens superiores no Regulamento",
+          "verso": "Devem ser cumpridas, exceto quando manifestamente ilegais, imorais e antiéticas (art. 5º)."
+        },
+        {
+          "frente": "Publicar estudos feitos por demanda da ABDI",
+          "verso": "Exige prévia autorização da respectiva Diretoria, mesmo que o autor seja exclusivamente o empregado (art. 5º)."
+        }
+      ],
+      "questoes": [
+        {
+          "id": "etp-l1-q1",
+          "enunciado": "De acordo com o Regulamento de Ética e Conduta da ABDI, suas disposições se aplicam",
+          "alternativas": [
+            "exclusivamente a fornecedores contratados.",
+            "apenas aos empregados do quadro efetivo.",
+            "a conselheiros, dirigentes, empregados, estagiários, menores aprendizes e prestadores de serviços técnicos e operacionais.",
+            "apenas aos conselheiros do Conselho Deliberativo.",
+            "somente aos membros da Diretoria Executiva."
+          ],
+          "correta": 2,
+          "explicacao": "O art. 2º lista todos esses grupos. O regulamento não se restringe aos empregados efetivos.",
+          "fonte": "Regulamento de Ética e Conduta da ABDI (Resolução CD 004/2022, de 16/03/2022), art. 2º (abdi.com.br)"
+        },
+        {
+          "id": "etp-l1-q2",
+          "enunciado": "Ao celebrar contratos, convênios ou acordos de cooperação, a ABDI, segundo o Regulamento de Ética e Conduta, exigirá de seus contratados, convenentes ou parceiros",
+          "alternativas": [
+            "a observância das normas do Regulamento ou de documento análogo, caso exista.",
+            "apenas a assinatura de termo de sigilo.",
+            "a adesão ao Estatuto da ABDI.",
+            "a doação de parte dos recursos recebidos.",
+            "nenhuma exigência de natureza ética."
+          ],
+          "correta": 0,
+          "explicacao": "O parágrafo único do art. 2º prevê essa exigência de observância ao regulamento ou a documento análogo da outra parte.",
+          "fonte": "Regulamento de Ética e Conduta da ABDI (Resolução CD 004/2022, de 16/03/2022), art. 2º, parágrafo único (abdi.com.br)"
+        },
+        {
+          "id": "etp-l1-q3",
+          "enunciado": "Entre os valores e princípios éticos listados no art. 3º do Regulamento de Ética e Conduta da ABDI estão",
+          "alternativas": [
+            "a hierarquia rígida, o sigilo irrestrito e a competição entre empregados.",
+            "a informalidade, a flexibilidade de regras e a discrição absoluta.",
+            "o corporativismo, a reserva de informações e o personalismo.",
+            "o lucro, a concorrência entre unidades e a autonomia absoluta.",
+            "a cooperação, o compromisso com a competitividade, a inovação e a valorização humana."
+          ],
+          "correta": 4,
+          "explicacao": "O art. 3º enumera, entre outros, cooperação, compromisso com a competitividade, inovação em constante atualização e valorização humana.",
+          "fonte": "Regulamento de Ética e Conduta da ABDI (Resolução CD 004/2022, de 16/03/2022), art. 3º (abdi.com.br)"
+        },
+        {
+          "id": "etp-l1-q4",
+          "enunciado": "Quanto ao cumprimento de ordens superiores, o Regulamento de Ética e Conduta da ABDI estabelece que o profissional deve",
+          "alternativas": [
+            "recusar todas as ordens que não concordar.",
+            "cumpri-las, exceto quando manifestamente ilegais, imorais e antiéticas.",
+            "cumprir as ordens somente após aprovação do Conselho Fiscal.",
+            "cumprir qualquer ordem, sem exceção.",
+            "cumprir apenas as ordens por escrito."
+          ],
+          "correta": 1,
+          "explicacao": "Entre os deveres do art. 5º está cumprir as ordens superiores, exceto as manifestamente ilegais, imorais e antiéticas.",
+          "fonte": "Regulamento de Ética e Conduta da ABDI (Resolução CD 004/2022, de 16/03/2022), art. 5º (abdi.com.br)"
+        },
+        {
+          "id": "etp-l1-q5",
+          "enunciado": "Um empregado da ABDI produziu, por demanda da Agência, um estudo sobre comunicação institucional e deseja publicá-lo em um periódico. De acordo com o Regulamento, ele deve",
+          "alternativas": [
+            "publicar sem identificar a ABDI.",
+            "publicar livremente, por ser o autor.",
+            "pedir autorização apenas ao colega de equipe.",
+            "requerer prévia autorização da respectiva Diretoria, por meio físico ou eletrônico, ainda que seja o autor exclusivo.",
+            "comunicar a Diretoria apenas depois da publicação."
+          ],
+          "correta": 3,
+          "explicacao": "O art. 5º exige prévia autorização da Diretoria para publicação ou exposição de estudos e pareceres realizados por demanda da Agência, mesmo de autoria exclusiva.",
+          "fonte": "Regulamento de Ética e Conduta da ABDI (Resolução CD 004/2022, de 16/03/2022), art. 5º (abdi.com.br)"
+        }
+      ]
+    },
+    {
+      "id": "etp-l2",
+      "titulo": "Vedações e critérios de conduta",
+      "minutos": 9,
+      "resumo": [
+        "Art. 6º veda, entre outras condutas: manifestar-se em nome da ABDI sem autorização ou habilitação, discriminar, praticar assédio moral ou sexual, usar equipamentos da ABDI para fins particulares, repassar a terceiros informações da ABDI, compactuar ou omitir-se diante de irregularidades e retirar bens da ABDI sem autorização.",
+        "Também é vedado manter sob chefia imediata, em cargo ou função de confiança, cônjuge, companheiro ou parente em linha reta, colateral ou por afinidade até o terceiro grau.",
+        "Mídias sociais (art. 7º): agir com responsabilidade, não postar imagens ou comentários que revelem informações confidenciais da ABDI e não emitir juízo negativo de valor sobre prestadores, fornecedores ou colegas.",
+        "Confidencialidade (art. 8º): sigilo sobre informações de projetos, não compartilhar com quem não precise delas, informar ao gerente qualquer vazamento e proteger usuários e senhas, sem compartilhá-los.",
+        "Propriedade intelectual (art. 9º): a utilização e a divulgação externa de documentos e informações sujeitos à propriedade intelectual da ABDI exigem aprovação prévia e formal de um dos membros da Diretoria Executiva. Recursos da ABDI (art. 10) devem ser usados de forma adequada e voltada às atividades profissionais. Doações e patrocínios seguem regulamento próprio (art. 11)."
+      ],
+      "flashcards": [
+        {
+          "frente": "Falar em nome da ABDI",
+          "verso": "É vedado manifestar-se em nome da ABDI quando não autorizado ou habilitado (art. 6º, I)."
+        },
+        {
+          "frente": "Divulgação externa de informação com propriedade intelectual da ABDI",
+          "verso": "Exige aprovação prévia e formal de um membro da Diretoria Executiva (art. 9º)."
+        },
+        {
+          "frente": "Mídias sociais",
+          "verso": "Não postar informações confidenciais nem emitir juízo negativo de valor sobre prestadores, fornecedores ou colegas (art. 7º)."
+        }
+      ],
+      "questoes": [
+        {
+          "id": "etp-l2-q1",
+          "enunciado": "Segundo o Regulamento de Ética e Conduta da ABDI, é vedado ao profissional da Agência",
+          "alternativas": [
+            "usar o e-mail profissional para atividades de trabalho.",
+            "pedir orientação à Ouvidoria.",
+            "manifestar-se em nome da ABDI quando não autorizado ou habilitado para isso.",
+            "participar de eventos da área de comunicação.",
+            "comunicar irregularidades ao superior."
+          ],
+          "correta": 2,
+          "explicacao": "O art. 6º, I, veda a manifestação em nome da ABDI sem autorização ou habilitação. As demais condutas são permitidas ou até esperadas.",
+          "fonte": "Regulamento de Ética e Conduta da ABDI (Resolução CD 004/2022, de 16/03/2022), art. 6º, I (abdi.com.br)"
+        },
+        {
+          "id": "etp-l2-q2",
+          "enunciado": "De acordo com o Regulamento, no uso de mídias sociais os colaboradores devem evitar, especialmente,",
+          "alternativas": [
+            "postar imagens ou comentários que revelem informações confidenciais da ABDI e emitir juízo negativo de valor sobre prestadores, fornecedores ou colegas.",
+            "seguir perfis institucionais da ABDI.",
+            "divulgar eventos públicos da ABDI com autorização.",
+            "curtir publicações dos parceiros.",
+            "compartilhar notícias já publicadas pela imprensa sobre a ABDI."
+          ],
+          "correta": 0,
+          "explicacao": "O art. 7º lista essas duas vedações, que protegem a confidencialidade e a imagem da ABDI e das pessoas.",
+          "fonte": "Regulamento de Ética e Conduta da ABDI (Resolução CD 004/2022, de 16/03/2022), art. 7º (abdi.com.br)"
+        },
+        {
+          "id": "etp-l2-q3",
+          "enunciado": "A utilização e a divulgação externa de documentos e informações sujeitos à propriedade intelectual da ABDI devem ser aprovadas prévia e formalmente por",
+          "alternativas": [
+            "o gerente imediato, isoladamente.",
+            "o Conselho Fiscal.",
+            "a Ouvidoria.",
+            "qualquer empregado que tenha elaborado o documento.",
+            "um dos membros da Diretoria Executiva."
+          ],
+          "correta": 4,
+          "explicacao": "O art. 9º atribui essa aprovação a um dos membros da Diretoria Executiva.",
+          "fonte": "Regulamento de Ética e Conduta da ABDI (Resolução CD 004/2022, de 16/03/2022), art. 9º (abdi.com.br)"
+        },
+        {
+          "id": "etp-l2-q4",
+          "enunciado": "Quanto aos usuários e senhas de acesso a sistemas da ABDI, o Regulamento de Ética e Conduta determina que o empregado deve",
+          "alternativas": [
+            "compartilhá-los com a equipe para agilizar o trabalho.",
+            "protegê-los e não os compartilhar com outros colaboradores de qualquer tipo.",
+            "compartilhá-los apenas com estagiários.",
+            "entregá-los ao gestor, que os guardará.",
+            "anotá-los em local visível para emergências."
+          ],
+          "correta": 1,
+          "explicacao": "O art. 8º, IV, exige proteger usuários e senhas, sem compartilhamento com outros colaboradores.",
+          "fonte": "Regulamento de Ética e Conduta da ABDI (Resolução CD 004/2022, de 16/03/2022), art. 8º, IV (abdi.com.br)"
+        },
+        {
+          "id": "etp-l2-q5",
+          "enunciado": "É vedado, pelo Regulamento de Ética e Conduta da ABDI, manter sob chefia imediata, em cargo ou função de confiança,",
+          "alternativas": [
+            "apenas o cônjuge, sem outros parentes.",
+            "apenas parentes de primeiro grau.",
+            "parentes de qualquer grau, inclusive o quinto.",
+            "cônjuge, companheiro ou parente em linha reta, colateral ou por afinidade até o terceiro grau.",
+            "somente amigos pessoais."
+          ],
+          "correta": 3,
+          "explicacao": "O art. 6º veda a subordinação direta de cônjuge, companheiro ou parentes até o terceiro grau.",
+          "fonte": "Regulamento de Ética e Conduta da ABDI (Resolução CD 004/2022, de 16/03/2022), art. 6º (abdi.com.br)"
+        }
+      ]
+    },
+    {
+      "id": "etp-l3",
+      "titulo": "Conflito de interesses, descumprimento e canais de orientação",
+      "minutos": 9,
+      "resumo": [
+        "Atividades paralelas (art. 12): não podem ocorrer no expediente, não podem ser exercidas com fornecedores ou parceiros contratados ou conveniados pela ABDI e, quando envolvem fóruns, palestras ou atividades docentes, devem ser comunicadas antes ao gestor. Vender produtos ou serviços nas dependências exige autorização formal da Gestão de Pessoas.",
+        "Atividade política, sindical e religiosa (art. 13): é direito individual, mas deve ocorrer fora do expediente e sem uso de recursos da ABDI. Não se pode fazer campanha religiosa ou político-partidária com recursos da ABDI.",
+        "Relacionamento amoroso (art. 14): não é permitida relação de liderança ou subordinação, direta ou indireta, entre quem tem envolvimento amoroso, e recomenda-se que não trabalhem no mesmo projeto. O gestor encaminha o caso à Gestão de Pessoas, que reporta à Diretoria Executiva.",
+        "Brindes, presentes e favores (art. 15): só se aceitam brindes promocionais sem valor comercial. Se não for possível recusar um presente, ele é encaminhado à Gestão de Pessoas, que faz sorteio entre todos os colaboradores. Dinheiro, propina e suborno são proibidos em qualquer situação. Informações privilegiadas não podem ser usadas em benefício próprio ou de terceiros (art. 17).",
+        "Descumprimento (art. 18): medidas disciplinares conforme o Manual de Sindicância. Condenação transitada em julgado por calúnia, injúria ou difamação no ambiente de trabalho é falta grave. Violações apuradas por comissão do Colegiado de Apuração podem levar a esclarecimento e treinamento, ajustes ou sanções disciplinares.",
+        "Orientação (art. 19): chefia imediata (processos e estratégia de trabalho), Gestão de Pessoas (ambiente e relações de trabalho), Comitê de Governança, Integridade e Gestão de Riscos (critérios do Regulamento) e Ouvidoria (violações à legislação e ao Regulamento, pedidos, reclamações, sugestões, elogios, críticas e denúncias)."
+      ],
+      "flashcards": [
+        {
+          "frente": "Presente que não pode ser recusado (art. 15, III)",
+          "verso": "É encaminhado à Gestão de Pessoas, que faz sorteio entre todos os colaboradores."
+        },
+        {
+          "frente": "Quem recebe denúncias e reclamações?",
+          "verso": "A Ouvidoria (art. 19, IV)."
+        },
+        {
+          "frente": "Relacionamento amoroso entre profissionais",
+          "verso": "Não pode haver relação de liderança ou subordinação, direta ou indireta (art. 14, I)."
+        },
+        {
+          "frente": "Calúnia, injúria ou difamação no trabalho",
+          "verso": "Condenação transitada em julgado é falta grave (art. 18, § 1º)."
+        }
+      ],
+      "questoes": [
+        {
+          "id": "etp-l3-q1",
+          "enunciado": "Um empregado da ABDI recebeu pelo correio um presente de valor expressivo enviado por um fornecedor, e não foi possível recusá-lo. Segundo o Regulamento de Ética e Conduta, o presente deve ser",
+          "alternativas": [
+            "dividido entre os integrantes da equipe do destinatário.",
+            "vendido, com o valor revertido ao setor.",
+            "encaminhado à área de Gestão de Pessoas, que fará um sorteio entre todos os colaboradores da Agência.",
+            "guardado pelo empregado, desde que informe o gestor.",
+            "devolvido apenas se o fornecedor pedir."
+          ],
+          "correta": 2,
+          "explicacao": "O art. 15, III, prevê esse encaminhamento quando a recusa não é possível ou gera desconforto.",
+          "fonte": "Regulamento de Ética e Conduta da ABDI (Resolução CD 004/2022, de 16/03/2022), art. 15, III (abdi.com.br)"
+        },
+        {
+          "id": "etp-l3-q2",
+          "enunciado": "Pelo Regulamento de Ética e Conduta da ABDI, em relação a brindes, é correto afirmar que o colaborador poderá receber",
+          "alternativas": [
+            "única e exclusivamente brindes promocionais sem valor comercial, como material de escritório e camisetas.",
+            "dinheiro, desde que declarado.",
+            "qualquer presente de até cem reais.",
+            "convites para viagens pagas por fornecedores.",
+            "presentes de parceiros no fim do ano, sem limite."
+          ],
+          "correta": 0,
+          "explicacao": "O art. 15, I e II, restringe a aceitação a brindes promocionais sem valor comercial.",
+          "fonte": "Regulamento de Ética e Conduta da ABDI (Resolução CD 004/2022, de 16/03/2022), art. 15, I e II (abdi.com.br)"
+        },
+        {
+          "id": "etp-l3-q3",
+          "enunciado": "A orientação sobre questões relacionadas a violações à legislação ou ao Regulamento de Ética e Conduta, bem como denúncias, reclamações e sugestões, deve ser buscada junto à",
+          "alternativas": [
+            "Unidade de Compras.",
+            "Diretoria Jurídica, exclusivamente.",
+            "Conselho Fiscal.",
+            "chefia imediata, apenas.",
+            "Ouvidoria."
+          ],
+          "correta": 4,
+          "explicacao": "O art. 19, IV, indica a Ouvidoria para essas manifestações.",
+          "fonte": "Regulamento de Ética e Conduta da ABDI (Resolução CD 004/2022, de 16/03/2022), art. 19, IV (abdi.com.br)"
+        },
+        {
+          "id": "etp-l3-q4",
+          "enunciado": "De acordo com o Regulamento de Ética e Conduta da ABDI, a atividade política, sindical e religiosa do colaborador",
+          "alternativas": [
+            "pode ser feita durante o expediente, com autorização verbal.",
+            "é um direito individual respeitado, mas deve ocorrer fora do expediente e sem uso de recursos da ABDI.",
+            "é proibida em qualquer circunstância.",
+            "só é permitida a dirigentes.",
+            "pode usar o e-mail institucional para divulgar candidaturas."
+          ],
+          "correta": 1,
+          "explicacao": "O art. 13 respeita o direito, mas veda campanha religiosa ou político-partidária com recursos da ABDI e exige que ocorra fora do expediente.",
+          "fonte": "Regulamento de Ética e Conduta da ABDI (Resolução CD 004/2022, de 16/03/2022), art. 13 (abdi.com.br)"
+        },
+        {
+          "id": "etp-l3-q5",
+          "enunciado": "A condenação de um empregado, por decisão judicial transitada em julgado, por crime de calúnia, injúria ou difamação praticado no ambiente de trabalho constitui, segundo o Regulamento,",
+          "alternativas": [
+            "falta leve, sujeita a advertência verbal.",
+            "fato sem consequência disciplinar.",
+            "motivo de simples orientação pela chefia.",
+            "falta grave, punível nos termos do Manual de Sindicância e Procedimentos Disciplinares da ABDI.",
+            "atenuante para outras punições."
+          ],
+          "correta": 3,
+          "explicacao": "O art. 18, § 1º, qualifica essa condenação como falta grave.",
+          "fonte": "Regulamento de Ética e Conduta da ABDI (Resolução CD 004/2022, de 16/03/2022), art. 18, § 1º (abdi.com.br)"
+        }
+      ]
+    },
+    {
+      "id": "etp-l4",
+      "titulo": "Planejamento Estratégico 2024-2029 e atuação institucional",
+      "minutos": 9,
+      "resumo": [
+        "O Caderno de Planejamento 2024-2029 foi publicado em novembro de 2024. A Resolução do Conselho Deliberativo 009, de 27/11/2024, aprovou o Planejamento Estratégico 2024-2029 ajustado e o envio ao Ministério do Desenvolvimento, Indústria, Comércio e Serviços da proposta de modificação do Contrato de Gestão 2024-2029. O edital cita a Resolução 008/2023, versão anterior.",
+        "Missão: desenvolver ações que contribuam para que o Governo Federal formule e implemente políticas industriais inovadoras, competitivas, tecnológicas e sustentáveis, visando à promoção e ao desenvolvimento socioeconômico do país.",
+        "Visão: ser referência na promoção de soluções inovadoras, sustentáveis e inclusivas do setor produtivo. Valores: cooperação, compromisso com a competitividade, inovação, valorização humana e ética e transparência.",
+        "Seis objetivos estratégicos: (1) ampliar boas práticas ambientais, sociais e de governança no setor produtivo; (2) ampliar a maturidade digital do setor produtivo; (3) contribuir com a formulação, execução, monitoramento e avaliação de políticas públicas; (4) fortalecer e consolidar a comunicação institucional; (5) consolidar a governança e a integridade corporativa, incluindo a agenda ASG; (6) modernizar a política de gestão de pessoas.",
+        "Comunicação institucional (objetivo 4): estratégia interna e externa para transmitir identidade, valores, objetivos e mensagens-chave, com visibilidade, reputação e compreensão da Agência. Indicadores: presença positiva e neutra na imprensa tradicional e digital, e índice que mede a reputação na imprensa e nas redes sociais.",
+        "Atuação institucional: promover o desenvolvimento industrial, a inovação, a transformação digital e a difusão de tecnologia, conforme o art. 1º da Lei 11.080/2004 e o art. 2º do Decreto 5.352/2005."
+      ],
+      "flashcards": [
+        {
+          "frente": "Visão da ABDI (2024-2029)",
+          "verso": "Ser referência na promoção de soluções inovadoras, sustentáveis e inclusivas do setor produtivo."
+        },
+        {
+          "frente": "Quantos objetivos estratégicos e qual trata de comunicação?",
+          "verso": "Seis. O objetivo 4: fortalecer e consolidar a comunicação institucional."
+        },
+        {
+          "frente": "Valores da ABDI no planejamento",
+          "verso": "Cooperação, compromisso com a competitividade, inovação, valorização humana e ética e transparência."
+        },
+        {
+          "frente": "Resolução que aprovou o planejamento ajustado 2024-2029",
+          "verso": "Resolução do Conselho Deliberativo 009, de 27/11/2024. O edital cita a Resolução 008/2023."
+        }
+      ],
+      "questoes": [
+        {
+          "id": "etp-l4-q1",
+          "enunciado": "De acordo com o Planejamento Estratégico 2024-2029 da ABDI, a visão da Agência é",
+          "alternativas": [
+            "regular o comércio exterior brasileiro.",
+            "financiar diretamente empresas industriais.",
+            "ser referência na promoção de soluções inovadoras, sustentáveis e inclusivas do setor produtivo.",
+            "administrar fundos de investimento da União.",
+            "ser a maior consultoria de tecnologia do país."
+          ],
+          "correta": 2,
+          "explicacao": "É o texto da visão no Caderno de Planejamento 2024-2029.",
+          "fonte": "Planejamento Estratégico ABDI 2024-2029 (Caderno de Planejamento, nov/2024; aprovado pela Resolução CD 009/2024), seção 2.3, p. 19 (abdi.com.br)"
+        },
+        {
+          "id": "etp-l4-q2",
+          "enunciado": "O Planejamento Estratégico 2024-2029 da ABDI estabelece seis objetivos estratégicos. Entre eles está",
+          "alternativas": [
+            "fortalecer e consolidar a comunicação institucional.",
+            "reduzir a atuação no setor produtivo.",
+            "concentrar a gestão em uma única diretoria.",
+            "ampliar a arrecadação própria com taxas de inscrição.",
+            "substituir o contrato de gestão por contratos pontuais."
+          ],
+          "correta": 0,
+          "explicacao": "O objetivo 4 do plano trata da comunicação institucional da ABDI.",
+          "fonte": "Planejamento Estratégico ABDI 2024-2029 (Caderno de Planejamento, nov/2024; aprovado pela Resolução CD 009/2024), seção 2.3, p. 19 (abdi.com.br)"
+        },
+        {
+          "id": "etp-l4-q3",
+          "enunciado": "A Resolução do Conselho Deliberativo 009, de 27 de novembro de 2024, aprovou",
+          "alternativas": [
+            "o orçamento-programa de 2025.",
+            "o Regulamento de Licitações e Contratos.",
+            "o Estatuto Social da ABDI.",
+            "o Regulamento de Ética e Conduta.",
+            "o Planejamento Estratégico 2024-2029 ajustado e o envio da proposta de modificação do Contrato de Gestão 2024-2029 ao ministério supervisor."
+          ],
+          "correta": 4,
+          "explicacao": "A resolução aprova o planejamento estratégico ajustado e o envio da proposta de modificação do contrato de gestão. O Regulamento de Ética foi aprovado pela Resolução 004/2022.",
+          "fonte": "Planejamento Estratégico ABDI 2024-2029 (Caderno de Planejamento, nov/2024; aprovado pela Resolução CD 009/2024), Resolução CD 009/2024, arts. 1º e 2º (abdi.com.br)"
+        },
+        {
+          "id": "etp-l4-q4",
+          "enunciado": "Entre os indicadores do objetivo estratégico de comunicação institucional da ABDI no Planejamento 2024-2029 estão",
+          "alternativas": [
+            "o número de empregados contratados.",
+            "a presença positiva e neutra da ABDI na imprensa e um índice que mede a reputação da ABDI na imprensa e nas redes sociais.",
+            "a quantidade de normas internas publicadas.",
+            "o total de arrecadação de convênios.",
+            "o número de contratos de licitação assinados."
+          ],
+          "correta": 1,
+          "explicacao": "Os dois indicadores são citados no detalhamento do objetivo de comunicação institucional.",
+          "fonte": "Planejamento Estratégico ABDI 2024-2029 (Caderno de Planejamento, nov/2024; aprovado pela Resolução CD 009/2024), seção 2.3, objetivo de comunicação institucional (abdi.com.br)"
+        },
+        {
+          "id": "etp-l4-q5",
+          "enunciado": "Entre os valores da ABDI no Planejamento Estratégico 2024-2029 estão",
+          "alternativas": [
+            "velocidade, informalidade, individualismo e concorrência.",
+            "estabilidade, exclusividade, reserva e personalismo.",
+            "tradição, autonomia absoluta, economicidade e burocracia.",
+            "cooperação, compromisso com a competitividade, inovação, valorização humana e ética e transparência.",
+            "hierarquia, sigilo, lucro, competição e disciplina."
+          ],
+          "correta": 3,
+          "explicacao": "Os cinco valores constam do plano e coincidem com parte dos valores do Regulamento de Ética e Conduta (art. 3º).",
+          "fonte": "Planejamento Estratégico ABDI 2024-2029 (Caderno de Planejamento, nov/2024; aprovado pela Resolução CD 009/2024), seção 2.3, p. 19 (abdi.com.br)"
+        }
+      ]
+    }
+  ]
+}

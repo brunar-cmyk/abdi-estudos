@@ -1,0 +1,208 @@
+{
+  "id": "u-inst-sss",
+  "titulo": "Serviços sociais autônomos: natureza e finalidade da ABDI",
+  "bloco": "Institucionais",
+  "categoria": "sss",
+  "topicos": ["inst-01"],
+  "pacoteNumeros": [
+    {"rotulo": "Princípios do contrato de gestão", "valor": "5: legalidade, impessoalidade, moralidade, publicidade e economicidade", "fonte": "Lei 11.080/2004, art. 11, caput"},
+    {"rotulo": "Relatório da ABDI ao Poder Executivo", "valor": "até 31 de janeiro", "fonte": "Lei 11.080/2004, art. 9º, I"},
+    {"rotulo": "Contas da gestão anual ao TCU", "valor": "até 31 de março do ano seguinte ao fim do exercício", "fonte": "Lei 11.080/2004, art. 9º, II"}
+  ],
+  "licoes": [
+    {
+      "id": "sss-l1",
+      "titulo": "Natureza jurídica e finalidade da ABDI",
+      "minutos": 6,
+      "resumo": [
+        "A Lei 11.080/2004 (art. 1º) autoriza o Poder Executivo a instituir um Serviço Social Autônomo. Quem institui a ABDI é o Decreto 5.352/2005 (art. 1º).",
+        "Natureza: pessoa jurídica de direito privado, sem fins lucrativos, de interesse coletivo e de utilidade pública (Lei, art. 1º, § 1º; Decreto, art. 1º).",
+        "Finalidade original: promover a execução de políticas de desenvolvimento industrial, especialmente as que contribuam para a geração de empregos, em consonância com as políticas de comércio exterior e de ciência e tecnologia.",
+        "A Lei 14.440/2022 deu nova redação ao art. 1º da Lei 11.080: passaram a constar também inovação, transformação digital e difusão de tecnologia.",
+        "O art. 2º do Decreto repete a finalidade na versão original e manda dar especial enfoque aos programas da PITCE (Política Industrial, Tecnológica e de Comércio Exterior)."
+      ],
+      "flashcards": [
+        {"frente": "A Lei 11.080/2004 ou o Decreto 5.352/2005: qual deles institui a ABDI?", "verso": "O Decreto institui (art. 1º). A Lei apenas autoriza o Poder Executivo a instituir (art. 1º)."},
+        {"frente": "Qual é a natureza jurídica da ABDI?", "verso": "Serviço Social Autônomo: pessoa jurídica de direito privado, sem fins lucrativos, de interesse coletivo e de utilidade pública (Lei 11.080, art. 1º, § 1º)."},
+        {"frente": "O que a Lei 14.440/2022 acrescentou à finalidade da ABDI?", "verso": "Inovação, transformação digital e difusão de tecnologia, além do desenvolvimento industrial (Lei 11.080, art. 1º, caput)."}
+      ],
+      "questoes": [
+        {
+          "id": "sss-l1-q1",
+          "enunciado": "A Agência Brasileira de Desenvolvimento Industrial (ABDI) foi concebida como Serviço Social Autônomo. De acordo com a Lei 11.080/2004, a ABDI é",
+          "alternativas": [
+            "autarquia federal vinculada ao ministério responsável pelo desenvolvimento industrial, com personalidade jurídica de direito público.",
+            "empresa pública federal organizada sob a forma de sociedade anônima, com finalidade lucrativa.",
+            "pessoa jurídica de direito privado sem fins lucrativos, de interesse coletivo e de utilidade pública.",
+            "fundação pública de direito privado integrante da Administração Pública indireta.",
+            "órgão da Presidência da República sem personalidade jurídica própria."
+          ],
+          "correta": 2,
+          "explicacao": "O art. 1º, § 1º, da Lei 11.080/2004 define a ABDI como pessoa jurídica de direito privado sem fins lucrativos, de interesse coletivo e de utilidade pública. O art. 1º do Decreto 5.352/2005 repete essa definição.",
+          "fonte": "Lei 11.080/2004, art. 1º, § 1º; Decreto 5.352/2005, art. 1º (planalto.gov.br)"
+        },
+        {
+          "id": "sss-l1-q2",
+          "enunciado": "Sobre a relação entre a Lei 11.080/2004 e o Decreto 5.352/2005 na criação da ABDI, é correto afirmar que",
+          "alternativas": [
+            "a Lei autoriza o Poder Executivo a instituir o Serviço Social Autônomo, e o Decreto institui a ABDI.",
+            "a Lei institui a ABDI, e o Decreto apenas regulamenta o funcionamento do Conselho Fiscal.",
+            "o Decreto autoriza a instituição, e a Lei posterior institui a ABDI.",
+            "ambos autorizam o Congresso Nacional a instituir a ABDI por lei complementar.",
+            "a Lei e o Decreto tratam de entidades distintas, sem relação entre si."
+          ],
+          "correta": 0,
+          "explicacao": "O art. 1º da Lei 11.080/2004 diz que fica o Poder Executivo autorizado a instituir o Serviço Social Autônomo. O Decreto 5.352/2005, em seu art. 1º, institui a ABDI, com base na Lei.",
+          "fonte": "Lei 11.080/2004, art. 1º, caput; Decreto 5.352/2005, art. 1º (planalto.gov.br)"
+        },
+        {
+          "id": "sss-l1-q3",
+          "enunciado": "A Lei 14.440/2022 alterou o art. 1º da Lei 11.080/2004. Essa alteração teve como efeito",
+          "alternativas": [
+            "transformar a ABDI em empresa pública federal.",
+            "retirar da ABDI a atribuição de executar políticas de desenvolvimento industrial.",
+            "submeter a ABDI ao regime jurídico da Lei 8.112/1990.",
+            "extinguir o contrato de gestão com o ministério supervisor.",
+            "incluir inovação, transformação digital e difusão de tecnologia entre as finalidades da ABDI."
+          ],
+          "correta": 4,
+          "explicacao": "A nova redação do art. 1º manteve a finalidade de promover políticas de desenvolvimento industrial e acrescentou inovação, transformação digital e difusão de tecnologia.",
+          "fonte": "Lei 11.080/2004, art. 1º, caput, com redação da Lei 14.440/2022 (planalto.gov.br)"
+        },
+        {
+          "id": "sss-l1-q4",
+          "enunciado": "O art. 2º do Decreto 5.352/2005, ao tratar da competência da ABDI, determina que, no desenvolvimento de suas ações, a entidade deverá dar especial enfoque aos programas e projetos estabelecidos pela",
+          "alternativas": [
+            "Política Nacional de Desenvolvimento Regional.",
+            "Política Industrial, Tecnológica e de Comércio Exterior (PITCE).",
+            "Política Nacional de Educação Profissional.",
+            "Política de Defesa Nacional.",
+            "Política Nacional de Resíduos Sólidos."
+          ],
+          "correta": 1,
+          "explicacao": "O parágrafo único do art. 2º do Decreto 5.352/2005 manda dar especial enfoque aos programas e projetos da PITCE.",
+          "fonte": "Decreto 5.352/2005, art. 2º, parágrafo único (planalto.gov.br)"
+        },
+        {
+          "id": "sss-l1-q5",
+          "enunciado": "Com base na Lei 11.080/2004 e no Decreto 5.352/2005, assinale a afirmativa correta sobre a ABDI.",
+          "alternativas": [
+            "Integra a Administração Pública direta e é chefiada por um secretário de Estado.",
+            "Distribui seus resultados entre os membros do Conselho Deliberativo.",
+            "Destina-se exclusivamente à execução de políticas de comércio exterior.",
+            "Foi instituída como Serviço Social Autônomo para promover a execução de políticas de desenvolvimento industrial.",
+            "Tem por finalidade principal a obtenção de lucro para a União."
+          ],
+          "correta": 3,
+          "explicacao": "A finalidade da ABDI é promover a execução de políticas de desenvolvimento industrial (Lei, art. 1º; Decreto, art. 2º). Ela tem natureza privada e não tem fins lucrativos.",
+          "fonte": "Lei 11.080/2004, art. 1º; Decreto 5.352/2005, arts. 1º e 2º (planalto.gov.br)"
+        }
+      ]
+    },
+    {
+      "id": "sss-l2",
+      "titulo": "Autonomia, contrato de gestão e controle",
+      "minutos": 8,
+      "resumo": [
+        "A ABDI firma contrato de gestão com o Ministério do Desenvolvimento, Indústria e Comércio Exterior (Lei, art. 10; Decreto, art. 10). Cabe ao Poder Executivo definir os termos: metas, objetivos, prazos, responsabilidades e critérios de avaliação (Lei, art. 8º, I).",
+        "Na elaboração do contrato devem ser observados cinco princípios: legalidade, impessoalidade, moralidade, publicidade e economicidade (Lei, art. 11).",
+        "Autonomia de pessoal: o contrato assegura à Diretoria Executiva autonomia para contratar e administrar pessoal pela CLT (art. 11, § 1º). A seleção é precedida de edital no Diário Oficial da União (§ 2º).",
+        "O contrato fixa limites e critérios para a despesa com remuneração (§ 3º) e é alterado para incorporar as recomendações da supervisão ou da fiscalização (§ 4º).",
+        "Controle: a ABDI envia relatório ao Executivo até 31 de janeiro e as contas ao TCU até 31 de março do ano seguinte ao fim do exercício (Lei, art. 9º). O TCU fiscaliza a execução do contrato (art. 14).",
+        "Atenção ao prazo do parecer: a Lei fala em 31 de março (art. 8º, parágrafo único) e o Decreto em 15 de março (art. 13, parágrafo único). Em prova, veja qual norma é citada."
+      ],
+      "flashcards": [
+        {"frente": "Com quem a ABDI firma o contrato de gestão?", "verso": "Com o Ministério do Desenvolvimento, Indústria e Comércio Exterior (Lei, art. 10; Decreto, art. 10)."},
+        {"frente": "Quais são os princípios a observar na elaboração do contrato de gestão?", "verso": "Legalidade, impessoalidade, moralidade, publicidade e economicidade (Lei 11.080, art. 11)."},
+        {"frente": "Qual é o regime de pessoal da ABDI e como se faz a admissão?", "verso": "CLT, com seleção precedida de edital publicado no Diário Oficial da União (Lei, art. 11, §§ 1º e 2º)."},
+        {"frente": "Prazos da ABDI: relatório ao Executivo e contas ao TCU", "verso": "Relatório até 31 de janeiro; contas ao TCU até 31 de março do ano seguinte ao término do exercício (Lei, art. 9º)."}
+      ],
+      "questoes": [
+        {
+          "id": "sss-l2-q1",
+          "enunciado": "A Lei 11.080/2004 determina que, na elaboração do contrato de gestão da ABDI, sejam observados os princípios da",
+          "alternativas": [
+            "legalidade, impessoalidade, moralidade, publicidade e eficiência.",
+            "legalidade, imparcialidade, moralidade, transparência e economicidade.",
+            "impessoalidade, moralidade, publicidade, razoabilidade e economicidade.",
+            "legalidade, impessoalidade, moralidade, publicidade e economicidade.",
+            "legalidade, finalidade, motivação, publicidade e eficiência."
+          ],
+          "correta": 3,
+          "explicacao": "O art. 11 da Lei lista legalidade, impessoalidade, moralidade, publicidade e economicidade. Eficiência aparece no art. 20, que trata do regulamento de licitações, e não no art. 11.",
+          "fonte": "Lei 11.080/2004, art. 11, caput (planalto.gov.br)"
+        },
+        {
+          "id": "sss-l2-q2",
+          "enunciado": "No que se refere à gestão de pessoal da ABDI, a Lei 11.080/2004 prevê que o contrato de gestão assegurará à Diretoria Executiva autonomia para contratar e administrar pessoal",
+          "alternativas": [
+            "sob o regime da CLT, com seleção de pessoal efetivo precedida de edital publicado no Diário Oficial da União.",
+            "sob o regime estatutário da Lei 8.112/1990, mediante concurso público de provas e títulos.",
+            "por livre indicação da Diretoria, dispensado qualquer edital.",
+            "sob o regime da CLT, mas sem necessidade de publicidade do processo seletivo.",
+            "exclusivamente por cessão de servidores do ministério supervisor."
+          ],
+          "correta": 0,
+          "explicacao": "O art. 11, § 1º, fixa o regime da CLT. O § 2º exige edital publicado no DOU e a observância da impessoalidade, da moralidade e da publicidade.",
+          "fonte": "Lei 11.080/2004, art. 11, §§ 1º e 2º (planalto.gov.br)"
+        },
+        {
+          "id": "sss-l2-q3",
+          "enunciado": "Entre as obrigações da ABDI previstas na Lei 11.080/2004 está apresentar ao Poder Executivo relatório circunstanciado sobre a execução do contrato de gestão do exercício anterior, com prestação de contas dos recursos públicos aplicados, até",
+          "alternativas": [
+            "15 de março.",
+            "31 de março.",
+            "31 de janeiro.",
+            "30 de abril.",
+            "31 de dezembro."
+          ],
+          "correta": 2,
+          "explicacao": "O art. 9º, I, fixa 31 de janeiro para o relatório ao Poder Executivo. O prazo de 31 de março do inciso II é o das contas ao TCU.",
+          "fonte": "Lei 11.080/2004, art. 9º, I (planalto.gov.br)"
+        },
+        {
+          "id": "sss-l2-q4",
+          "enunciado": "A remessa das contas da gestão anual ao Tribunal de Contas da União, segundo a Lei 11.080/2004, deve ocorrer até",
+          "alternativas": [
+            "31 de janeiro do ano seguinte, com contas aprovadas pela Diretoria Executiva.",
+            "15 de março do mesmo ano, com contas aprovadas pelo Conselho Fiscal.",
+            "30 de junho do ano seguinte, com contas aprovadas pelo ministério supervisor.",
+            "31 de dezembro do mesmo ano, com contas aprovadas pelo Presidente da República.",
+            "31 de março do ano seguinte ao término do exercício, com contas aprovadas pelo Conselho Deliberativo."
+          ],
+          "correta": 4,
+          "explicacao": "O art. 9º, II, manda remeter ao TCU, até 31 de março do ano seguinte ao término do exercício financeiro, as contas da gestão anual aprovadas pelo Conselho Deliberativo.",
+          "fonte": "Lei 11.080/2004, art. 9º, II (planalto.gov.br)"
+        },
+        {
+          "id": "sss-l2-q5",
+          "enunciado": "De acordo com a Lei 11.080/2004, o contrato de gestão da ABDI deve ser alterado quando",
+          "alternativas": [
+            "o Conselho Fiscal solicitar mudança na composição da Diretoria.",
+            "for necessário incorporar recomendações formuladas pela supervisão ou pela fiscalização.",
+            "houver mudança do Presidente da República.",
+            "o Tribunal de Contas da União rejeitar o orçamento anual do ministério.",
+            "a ABDI decidir unilateralmente rever suas metas."
+          ],
+          "correta": 1,
+          "explicacao": "O art. 11, § 4º, estabelece que o contrato de gestão será alterado para incorporar recomendações formuladas pela supervisão ou pela fiscalização.",
+          "fonte": "Lei 11.080/2004, art. 11, § 4º (planalto.gov.br)"
+        },
+        {
+          "id": "sss-l2-q6",
+          "enunciado": "Na supervisão da gestão da ABDI, a Lei 11.080/2004 atribui ao Poder Executivo a competência de",
+          "alternativas": [
+            "nomear os membros do Conselho Fiscal e destituí-los livremente.",
+            "fixar a remuneração dos empregados da ABDI por decreto.",
+            "aprovar o estatuto da ABDI no prazo de sessenta dias.",
+            "definir os termos do contrato de gestão e aprovar anualmente o orçamento-programa da ABDI.",
+            "executar diretamente as metas do contrato de gestão."
+          ],
+          "correta": 3,
+          "explicacao": "O art. 8º, I e II, dá ao Poder Executivo duas tarefas: definir os termos do contrato de gestão e aprovar, anualmente, o orçamento-programa. O estatuto é aprovado pelo Conselho Deliberativo (art. 22).",
+          "fonte": "Lei 11.080/2004, art. 8º, I e II, e art. 22 (planalto.gov.br)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+node_modules
+dist
+.DS_Store
+*.local
+__pycache__
+edital-01-2026-abertura-do-processo-seletivo-abdi-1.pdf

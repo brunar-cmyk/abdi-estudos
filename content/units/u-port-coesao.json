@@ -1,0 +1,177 @@
+{
+  "id": "u-port-coesao",
+  "titulo": "Coesão textual e tempos verbais",
+  "bloco": "Gerais",
+  "categoria": "port",
+  "topicos": [
+    "port-04"
+  ],
+  "licoes": [
+    {
+      "id": "pcoe-l1",
+      "titulo": "Coesão referencial e sequencial",
+      "minutos": 7,
+      "resumo": [
+        "Coesão referencial retoma ou antecipa termos: pronomes (ele, esse, o qual), sinônimos, hiperônimos, elipse e expressões nominais (\"a agência\"). Anáfora retoma algo já dito; catáfora antecipa algo que será dito.",
+        "Coesão sequencial usa conectores para organizar as relações entre ideias.",
+        "Principais relações: adição (e, além disso), oposição (mas, porém, contudo, no entanto), conclusão (logo, portanto, por isso), explicação (pois, porque), causa (já que, visto que), consequência (de modo que), concessão (embora, ainda que), condição (se, caso, desde que), finalidade (para que, a fim de), tempo (quando, assim que), conformidade (conforme, segundo).",
+        "Trocar um conector por outro de relação diferente muda o sentido do texto."
+      ],
+      "flashcards": [
+        {
+          "frente": "Anáfora x catáfora",
+          "verso": "Anáfora retoma um termo já mencionado. Catáfora antecipa um termo que será mencionado."
+        },
+        {
+          "frente": "Conectores de concessão",
+          "verso": "Embora, ainda que, apesar de, mesmo que: indicam uma ideia contrária que não impede o fato principal."
+        },
+        {
+          "frente": "Conectores de conclusão",
+          "verso": "Logo, portanto, por isso, assim, então."
+        }
+      ],
+      "questoes": [
+        {
+          "id": "pcoe-l1-q1",
+          "enunciado": "Em \"Embora o orçamento tenha sido ampliado, as metas não foram atingidas\", a oração iniciada por \"embora\" expressa ideia de",
+          "alternativas": [
+            "causa.",
+            "finalidade.",
+            "conclusão.",
+            "condição.",
+            "concessão."
+          ],
+          "correta": 4,
+          "explicacao": "\"Embora\" introduz um fato que seria um obstáculo, mas não impediu o que se afirma na oração principal. É a ideia de concessão.",
+          "fonte": "Referência conceitual: gramática normativa (C. Cunha e L. Cintra, Nova Gramática do Português Contemporâneo)"
+        },
+        {
+          "id": "pcoe-l1-q2",
+          "enunciado": "Em \"A agência ampliou o atendimento; no entanto, o número de reclamações cresceu\", a expressão \"no entanto\" pode ser substituída, sem alteração de sentido, por",
+          "alternativas": [
+            "logo.",
+            "contudo.",
+            "porque.",
+            "além disso.",
+            "portanto."
+          ],
+          "correta": 1,
+          "explicacao": "\"No entanto\" e \"contudo\" expressam oposição. \"Portanto\" e \"logo\" indicam conclusão, \"porque\" indica causa e \"além disso\" indica adição.",
+          "fonte": "Referência conceitual: gramática normativa (C. Cunha e L. Cintra, Nova Gramática do Português Contemporâneo)"
+        },
+        {
+          "id": "pcoe-l1-q3",
+          "enunciado": "Em \"O diretor apresentou o relatório. Ele destacou os resultados\", o pronome \"ele\" estabelece coesão",
+          "alternativas": [
+            "referencial catafórica, pois antecipa um termo seguinte.",
+            "por substituição lexical, pois usa um sinônimo.",
+            "sequencial por oposição, pois contrasta duas ideias.",
+            "referencial anafórica, pois retoma \"o diretor\".",
+            "por elipse, pois omite o sujeito."
+          ],
+          "correta": 3,
+          "explicacao": "O pronome retoma um termo já mencionado (\"o diretor\"), o que caracteriza anáfora.",
+          "fonte": "Referência conceitual: gramática normativa (C. Cunha e L. Cintra, Nova Gramática do Português Contemporâneo)"
+        },
+        {
+          "id": "pcoe-l1-q4",
+          "enunciado": "Em \"Choveu muito, de modo que o evento foi cancelado\", a locução \"de modo que\" introduz uma oração que expressa",
+          "alternativas": [
+            "condição.",
+            "causa.",
+            "consequência.",
+            "concessão.",
+            "finalidade."
+          ],
+          "correta": 2,
+          "explicacao": "\"De modo que\" liga uma consequência ao fato anterior (a chuva forte teve como resultado o cancelamento).",
+          "fonte": "Referência conceitual: gramática normativa (C. Cunha e L. Cintra, Nova Gramática do Português Contemporâneo)"
+        }
+      ]
+    },
+    {
+      "id": "pcoe-l2",
+      "titulo": "Tempos e modos verbais",
+      "minutos": 7,
+      "resumo": [
+        "Indicativo expressa fatos e certezas. Subjuntivo expressa dúvida, hipótese, desejo e condição. Imperativo expressa ordem, pedido ou conselho.",
+        "Correlações clássicas: \"Se eu tivesse tempo, revisaria o texto\" (pretérito imperfeito do subjuntivo + futuro do pretérito). \"Se a equipe cumprir os prazos, o projeto será concluído\" (futuro do subjuntivo + futuro do presente).",
+        "Futuro do subjuntivo de verbos irregulares: vir: quando eu vier; ver: se eu vir; fazer: se ele fizer; trazer: se ele trouxer; pôr: se ele puser; querer: se quiser; haver: se houver; dizer: se disser.",
+        "Cuidado com a confusão entre \"vir\" (futuro do subjuntivo de ver) e \"vier\" (futuro do subjuntivo de vir)."
+      ],
+      "flashcards": [
+        {
+          "frente": "Se + futuro do subjuntivo",
+          "verso": "Pede verbo no futuro do presente: \"Se você fizer, receberá\"."
+        },
+        {
+          "frente": "Se + pretérito imperfeito do subjuntivo",
+          "verso": "Pede futuro do pretérito: \"Se eu tivesse tempo, faria\"."
+        },
+        {
+          "frente": "Futuro do subjuntivo de \"ver\" e de \"vir\"",
+          "verso": "Ver: quando eu vir. Vir: quando eu vier."
+        }
+      ],
+      "questoes": [
+        {
+          "id": "pcoe-l2-q1",
+          "enunciado": "Complete: \"Se a equipe ___ os prazos, o projeto será concluído a tempo.\"",
+          "alternativas": [
+            "cumprir",
+            "cumpre",
+            "cumpriria",
+            "cumprirá",
+            "cumprisse"
+          ],
+          "correta": 0,
+          "explicacao": "Oração condicional com \"se\" e verbo principal no futuro do presente pede futuro do subjuntivo: cumprir.",
+          "fonte": "Referência conceitual: gramática normativa (C. Cunha e L. Cintra, Nova Gramática do Português Contemporâneo)"
+        },
+        {
+          "id": "pcoe-l2-q2",
+          "enunciado": "Complete: \"Quando você ___ ao escritório, procure o setor de pessoal.\"",
+          "alternativas": [
+            "viesse",
+            "vem",
+            "vir",
+            "venha",
+            "vier"
+          ],
+          "correta": 4,
+          "explicacao": "\"Quando\" com ideia de futuro pede futuro do subjuntivo. O de \"vir\" é \"vier\"; \"vir\" é o futuro do subjuntivo de \"ver\".",
+          "fonte": "Referência conceitual: gramática normativa (C. Cunha e L. Cintra, Nova Gramática do Português Contemporâneo)"
+        },
+        {
+          "id": "pcoe-l2-q3",
+          "enunciado": "Complete: \"Se eu ___ mais tempo, revisaria o texto com calma.\"",
+          "alternativas": [
+            "tinha tido",
+            "tivesse",
+            "tiver",
+            "terei",
+            "tenho"
+          ],
+          "correta": 1,
+          "explicacao": "A hipótese irreal no passado pede pretérito imperfeito do subjuntivo (tivesse) em correlação com o futuro do pretérito (revisaria).",
+          "fonte": "Referência conceitual: gramática normativa (C. Cunha e L. Cintra, Nova Gramática do Português Contemporâneo)"
+        },
+        {
+          "id": "pcoe-l2-q4",
+          "enunciado": "Complete: \"Se você ___ o relatório pronto, avise-me.\"",
+          "alternativas": [
+            "visse",
+            "viu",
+            "veja",
+            "vir",
+            "ver"
+          ],
+          "correta": 3,
+          "explicacao": "Futuro do subjuntivo do verbo \"ver\": quando eu vir, se você vir.",
+          "fonte": "Referência conceitual: gramática normativa (C. Cunha e L. Cintra, Nova Gramática do Português Contemporâneo)"
+        }
+      ]
+    }
+  ]
+}

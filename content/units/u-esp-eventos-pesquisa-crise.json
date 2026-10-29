@@ -1,0 +1,349 @@
+{
+  "id": "u-esp-eventos-pesquisa-crise",
+  "titulo": "Eventos, pesquisa de opinião, gestão de crises e relacionamento com públicos",
+  "bloco": "Específicos",
+  "categoria": "esp",
+  "topicos": [
+    "esp-18",
+    "esp-19",
+    "esp-20",
+    "esp-21"
+  ],
+  "licoes": [
+    {
+      "id": "evt-l1",
+      "titulo": "Planejamento e organização de eventos",
+      "minutos": 9,
+      "resumo": [
+        "Evento é uma ação planejada para reunir pessoas em torno de um objetivo. Tipos: institucionais, corporativos, científicos, culturais, sociais e promocionais.",
+        "Etapas: planejamento (objetivo, público, tema, data, local, orçamento, cronograma, equipe), execução (credenciamento, recepção, cerimonial, comunicação, operação) e pós-evento (avaliação, relatório, agradecimentos e clipping).",
+        "Ferramentas: briefing, checklist, cronograma, planilha de custos, contratos com fornecedores e plano de contingência para imprevistos.",
+        "Cerimonial e protocolo organizam a ordem de precedência das autoridades, a composição da mesa e a condução da cerimônia, em geral pelo mestre de cerimônias.",
+        "Acessibilidade do espaço (rampas, Libras, legendas), sustentabilidade e comunicação do evento (convite, site, redes, imprensa) fazem parte do planejamento. A participação da ABDI em feiras e eventos da atividade-fim é hipótese de inexigibilidade de licitação, e o apoio a eventos de terceiros pode ocorrer por convênio de patrocínio."
+      ],
+      "flashcards": [
+        {
+          "frente": "Etapas de um evento",
+          "verso": "Planejamento, execução e pós-evento (avaliação e relatório)."
+        },
+        {
+          "frente": "Plano de contingência",
+          "verso": "Plano para lidar com imprevistos, como mudança de clima, falha de equipamento ou ausência de palestrante."
+        },
+        {
+          "frente": "Cerimonial",
+          "verso": "Conjunto de normas de precedência e condução da cerimônia, incluindo a composição da mesa."
+        }
+      ],
+      "questoes": [
+        {
+          "id": "evt-l1-q1",
+          "enunciado": "Entre as etapas básicas de organização de um evento, a avaliação de resultados, com relatório e pesquisa de satisfação, ocorre no",
+          "alternativas": [
+            "pré-evento, antes de definir o objetivo.",
+            "pós-evento.",
+            "momento da escolha do local.",
+            "início do credenciamento.",
+            "briefing."
+          ],
+          "correta": 1,
+          "explicacao": "A avaliação fecha o ciclo e gera aprendizados para os próximos eventos.",
+          "fonte": "Referência conceitual: L. C. H. Zanella, Manual de Organização de Eventos; prática de cerimonial e protocolo"
+        },
+        {
+          "id": "evt-l1-q2",
+          "enunciado": "O plano elaborado para lidar com imprevistos, como falha de equipamento ou ausência de palestrante, é o",
+          "alternativas": [
+            "mailing.",
+            "manual de identidade visual.",
+            "clipping.",
+            "plano de contingência.",
+            "media training."
+          ],
+          "correta": 3,
+          "explicacao": "O plano de contingência prevê alternativas para situações imprevistas.",
+          "fonte": "Referência conceitual: L. C. H. Zanella, Manual de Organização de Eventos; prática de cerimonial e protocolo"
+        },
+        {
+          "id": "evt-l1-q3",
+          "enunciado": "Ao definir a ordem de precedência das autoridades e a composição da mesa em uma solenidade, o profissional atua no",
+          "alternativas": [
+            "marketing de performance.",
+            "clipping.",
+            "cerimonial e protocolo.",
+            "social listening.",
+            "design gráfico."
+          ],
+          "correta": 2,
+          "explicacao": "Cerimonial e protocolo regem a ordem de precedência e a condução da cerimônia.",
+          "fonte": "Referência conceitual: L. C. H. Zanella, Manual de Organização de Eventos; prática de cerimonial e protocolo"
+        },
+        {
+          "id": "evt-l1-q4",
+          "enunciado": "Segundo o Regulamento de Licitações e Contratos da ABDI, a participação da ABDI em feiras, exposições, congressos, seminários e eventos relacionados com sua atividade-fim é hipótese de",
+          "alternativas": [
+            "inexigibilidade de licitação.",
+            "contratação vedada.",
+            "leilão.",
+            "pregão obrigatório.",
+            "concorrência obrigatória."
+          ],
+          "correta": 0,
+          "explicacao": "O art. 11, VIII, do Regulamento de Licitações e Contratos prevê essa hipótese.",
+          "fonte": "Regulamento de Licitações e Contratos da ABDI (Resolução CD 005/2021), art. 11, VIII (abdi.com.br)"
+        }
+      ]
+    },
+    {
+      "id": "evt-l2",
+      "titulo": "Pesquisa de opinião e avaliação de resultados de comunicação",
+      "minutos": 9,
+      "resumo": [
+        "Pesquisa quantitativa trabalha com amostras representativas e questionários estruturados, e produz resultados estatísticos generalizáveis, com margem de erro e nível de confiança. Pesquisa qualitativa, como entrevistas em profundidade e grupos focais, busca compreender percepções e motivos, sem generalizar.",
+        "Quanto maior e mais bem selecionada a amostra, menor a margem de erro. Viés de amostragem e perguntas induzidas comprometem os resultados.",
+        "Tipos: pesquisa de opinião, de imagem e reputação, de satisfação, de clima organizacional e de audiência.",
+        "Avaliação de resultados: produtos (outputs), como o número de releases e posts; efeitos (outtakes e outcomes), como mudança de percepção ou comportamento; e impacto no objetivo institucional. Na análise de mídia, a valência classifica as menções como positivas, neutras ou negativas.",
+        "Indicadores devem estar ligados aos objetivos do plano. Métricas de vaidade (curtidas, seguidores) isoladas não bastam."
+      ],
+      "flashcards": [
+        {
+          "frente": "Quantitativa x qualitativa",
+          "verso": "Quantitativa: amostra representativa e resultados estatísticos. Qualitativa: percepções e motivos em profundidade, sem generalizar."
+        },
+        {
+          "frente": "Margem de erro",
+          "verso": "Quanto maior e melhor selecionada a amostra, menor a margem de erro."
+        },
+        {
+          "frente": "Valência",
+          "verso": "Classificação das menções na mídia como positivas, neutras ou negativas."
+        }
+      ],
+      "questoes": [
+        {
+          "id": "evt-l2-q1",
+          "enunciado": "A técnica de pesquisa que reúne um pequeno grupo de pessoas para discutir um tema com um moderador, buscando compreender percepções e motivações, é o",
+          "alternativas": [
+            "pesquisa documental estatística.",
+            "monitoramento de métricas de vaidade.",
+            "survey com amostra probabilística, de natureza quantitativa.",
+            "censo demográfico.",
+            "grupo focal, de natureza qualitativa."
+          ],
+          "correta": 4,
+          "explicacao": "O grupo focal é técnica qualitativa. Ele não busca generalização estatística.",
+          "fonte": "Referência conceitual: J. Duarte e A. Barros (orgs.), Métodos e Técnicas de Pesquisa em Comunicação"
+        },
+        {
+          "id": "evt-l2-q2",
+          "enunciado": "Em uma pesquisa quantitativa, quando se aumenta o tamanho de uma amostra bem selecionada, em geral a margem de erro",
+          "alternativas": [
+            "deixa de existir por completo.",
+            "diminui.",
+            "aumenta.",
+            "permanece sempre igual.",
+            "se torna infinita."
+          ],
+          "correta": 1,
+          "explicacao": "Amostras maiores e bem selecionadas reduzem a margem de erro, embora não a eliminem.",
+          "fonte": "Referência conceitual: J. Duarte e A. Barros (orgs.), Métodos e Técnicas de Pesquisa em Comunicação"
+        },
+        {
+          "id": "evt-l2-q3",
+          "enunciado": "Na análise de mídia, a classificação das matérias como positivas, neutras ou negativas em relação à organização é chamada de",
+          "alternativas": [
+            "alcance.",
+            "mailing.",
+            "frequência.",
+            "valência.",
+            "sangria."
+          ],
+          "correta": 3,
+          "explicacao": "A valência indica o tom das menções.",
+          "fonte": "Referência conceitual: J. Duarte e A. Barros (orgs.), Métodos e Técnicas de Pesquisa em Comunicação"
+        },
+        {
+          "id": "evt-l2-q4",
+          "enunciado": "O número de releases enviados e de posts publicados em um mês é um indicador de",
+          "alternativas": [
+            "mudança de comportamento do público.",
+            "resultado financeiro direto.",
+            "produto (output), e não do efeito da comunicação sobre o público.",
+            "reputação medida em pesquisa.",
+            "impacto institucional."
+          ],
+          "correta": 2,
+          "explicacao": "Outputs medem a produção. Efeitos e impacto exigem pesquisa de percepção ou de comportamento.",
+          "fonte": "Referência conceitual: J. Duarte e A. Barros (orgs.), Métodos e Técnicas de Pesquisa em Comunicação"
+        }
+      ]
+    },
+    {
+      "id": "cri-l1",
+      "titulo": "Gestão de crises e comunicação de risco",
+      "minutos": 10,
+      "resumo": [
+        "Crise é um evento que ameaça a reputação, a operação ou a legitimidade da organização e exige resposta rápida. Fases: pré-crise (prevenção), crise (resposta) e pós-crise (aprendizado e recuperação).",
+        "Pré-crise: mapear riscos, ter plano e manual de gestão de crises, comitê de crise, lista de contatos, porta-vozes treinados e monitoramento de menções. O Estatuto da ABDI inclui os riscos de imagem e reputação na Política de Gestão de Riscos (art. 14, § 4º).",
+        "Durante a crise: reunir o comitê, apurar os fatos, definir mensagens, falar rápido, com verdade e transparência, por meio de porta-voz único ou poucos, informar primeiro o público interno e acompanhar as redes. Evitar negar fatos, especular e o \"sem comentários\".",
+        "Pós-crise: avaliar a atuação, corrigir causas, comunicar mudanças e reconstruir a reputação.",
+        "Comunicação de risco informa o público sobre perigos e como se proteger, com linguagem clara, base técnica, orientações práticas e transparência sobre incertezas."
+      ],
+      "flashcards": [
+        {
+          "frente": "Fases da gestão de crises",
+          "verso": "Pré-crise (prevenção), crise (resposta) e pós-crise (aprendizado e recuperação)."
+        },
+        {
+          "frente": "Porta-voz na crise",
+          "verso": "Preferencialmente um só, ou poucos e treinados, para garantir consistência."
+        },
+        {
+          "frente": "Comunicação de risco",
+          "verso": "Informar o público sobre perigos e formas de proteção, com clareza, base técnica e transparência sobre incertezas."
+        }
+      ],
+      "questoes": [
+        {
+          "id": "cri-l1-q1",
+          "enunciado": "Entre as fases da gestão de crises, aquela em que se mapeiam riscos, elaboram-se planos e treinam-se porta-vozes é a",
+          "alternativas": [
+            "pré-crise.",
+            "mídia paga.",
+            "crise.",
+            "briefing.",
+            "pós-crise."
+          ],
+          "correta": 0,
+          "explicacao": "A prevenção ocorre antes do evento crítico.",
+          "fonte": "Referência conceitual: J. J. Forni, Gestão de Crises e Comunicação"
+        },
+        {
+          "id": "cri-l1-q2",
+          "enunciado": "Durante uma crise, a organização deve, em geral, comunicar de forma",
+          "alternativas": [
+            "lenta, para evitar erros, evitando qualquer posicionamento.",
+            "somente depois de a imprensa publicar.",
+            "ambígua, para proteger a imagem.",
+            "por muitos porta-vozes, cada um com sua versão.",
+            "rápida, transparente e verdadeira, por meio de porta-voz único ou de poucos porta-vozes treinados."
+          ],
+          "correta": 4,
+          "explicacao": "Rapidez, verdade e consistência de mensagens reduzem boatos e danos à reputação.",
+          "fonte": "Referência conceitual: J. J. Forni, Gestão de Crises e Comunicação"
+        },
+        {
+          "id": "cri-l1-q3",
+          "enunciado": "A comunicação de risco tem como objetivo",
+          "alternativas": [
+            "substituir a assessoria de imprensa.",
+            "informar o público sobre perigos e sobre como se proteger, com clareza e transparência sobre incertezas.",
+            "esconder informações para evitar pânico.",
+            "promover os produtos da organização.",
+            "ocultar incertezas técnicas."
+          ],
+          "correta": 1,
+          "explicacao": "A comunicação de risco orienta o público com informação clara e confiável.",
+          "fonte": "Referência conceitual: J. J. Forni, Gestão de Crises e Comunicação"
+        },
+        {
+          "id": "cri-l1-q4",
+          "enunciado": "Segundo o Estatuto Social da ABDI, a Política de Gestão de Riscos da Agência observará, entre outros, os riscos",
+          "alternativas": [
+            "apenas ambientais.",
+            "exclusivamente tributários.",
+            "só os de mercado de capitais.",
+            "de imagem e reputação.",
+            "somente trabalhistas."
+          ],
+          "correta": 3,
+          "explicacao": "O art. 14, § 4º, I, do Estatuto inclui os riscos de imagem e reputação, ao lado de outros.",
+          "fonte": "Estatuto Social da ABDI (2024), art. 14, § 4º, I (abdi.com.br)"
+        }
+      ]
+    },
+    {
+      "id": "pub-l1",
+      "titulo": "Relacionamento com públicos de interesse e comunidades",
+      "minutos": 8,
+      "resumo": [
+        "Stakeholders são os grupos que afetam ou são afetados pela organização: empregados, parceiros, governo, fornecedores, comunidade, imprensa, entre outros. A comunicação os mapeia e define abordagens diferentes para cada um.",
+        "Matriz de poder e interesse: alto poder e alto interesse, gerenciar de perto; alto poder e baixo interesse, manter satisfeito; baixo poder e alto interesse, manter informado; baixo poder e baixo interesse, monitorar.",
+        "Relacionamento com comunidades exige escuta ativa, diálogo, mapeamento de lideranças e canais acessíveis, respeito à cultura local e transparência sobre impactos.",
+        "Relacionamento se constrói ao longo do tempo, com reuniões, eventos, canais de atendimento, pesquisa e prestação de contas. Para a ABDI, públicos estratégicos incluem governo, setor produtivo, parceiros, empregados e a sociedade."
+      ],
+      "flashcards": [
+        {
+          "frente": "Stakeholder",
+          "verso": "Qualquer grupo ou pessoa que afeta ou é afetado pelas atividades da organização."
+        },
+        {
+          "frente": "Alto poder e alto interesse",
+          "verso": "Gerenciar de perto, com relacionamento próximo e frequente."
+        },
+        {
+          "frente": "Baixo poder e alto interesse",
+          "verso": "Manter informado."
+        }
+      ],
+      "questoes": [
+        {
+          "id": "pub-l1-q1",
+          "enunciado": "O termo stakeholder designa",
+          "alternativas": [
+            "exclusivamente a imprensa.",
+            "apenas os clientes.",
+            "qualquer grupo ou pessoa que afeta ou é afetado pelas atividades da organização.",
+            "apenas os acionistas da organização.",
+            "somente os empregados."
+          ],
+          "correta": 2,
+          "explicacao": "O conceito é amplo e inclui públicos internos e externos.",
+          "fonte": "Referência conceitual: teoria dos stakeholders (R. E. Freeman) e matriz poder e interesse (A. Mendelow)"
+        },
+        {
+          "id": "pub-l1-q2",
+          "enunciado": "Na matriz de poder e interesse, os públicos com alto poder e alto interesse devem ser",
+          "alternativas": [
+            "gerenciados de perto.",
+            "apenas monitorados.",
+            "mantidos somente informados.",
+            "contatados uma vez por ano.",
+            "ignorados."
+          ],
+          "correta": 0,
+          "explicacao": "Públicos de alto poder e alto interesse exigem relacionamento próximo e frequente.",
+          "fonte": "Referência conceitual: teoria dos stakeholders (R. E. Freeman) e matriz poder e interesse (A. Mendelow)"
+        },
+        {
+          "id": "pub-l1-q3",
+          "enunciado": "Na matriz de poder e interesse, públicos com baixo poder e alto interesse devem ser",
+          "alternativas": [
+            "tratados como inimigos.",
+            "excluídos dos canais de comunicação.",
+            "gerenciados de perto, com prioridade máxima.",
+            "monitorados apenas por pesquisa anual.",
+            "mantidos informados."
+          ],
+          "correta": 4,
+          "explicacao": "Mantê-los informados preserva o relacionamento e a legitimidade.",
+          "fonte": "Referência conceitual: teoria dos stakeholders (R. E. Freeman) e matriz poder e interesse (A. Mendelow)"
+        },
+        {
+          "id": "pub-l1-q4",
+          "enunciado": "No relacionamento com comunidades, uma prática recomendada é",
+          "alternativas": [
+            "divulgar só informações positivas.",
+            "a escuta ativa, com diálogo, mapeamento de lideranças e canais acessíveis.",
+            "comunicar apenas por documentos técnicos.",
+            "evitar contato direto.",
+            "tratar a comunidade apenas como destinatária de campanhas."
+          ],
+          "correta": 1,
+          "explicacao": "A escuta ativa e a transparência constroem confiança de longo prazo.",
+          "fonte": "Referência conceitual: teoria dos stakeholders (R. E. Freeman) e matriz poder e interesse (A. Mendelow)"
+        }
+      ]
+    }
+  ]
+}

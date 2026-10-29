@@ -1,0 +1,178 @@
+{
+  "id": "u-info-office",
+  "titulo": "Microsoft 365 e LibreOffice: texto, planilhas e apresentações",
+  "bloco": "Gerais",
+  "categoria": "info",
+  "topicos": [
+    "info-03",
+    "info-04"
+  ],
+  "licoes": [
+    {
+      "id": "ioff-l1",
+      "titulo": "Editores de texto: Word e Writer",
+      "minutos": 7,
+      "resumo": [
+        "Estilos de título permitem criar sumário automático e navegar pelo documento. Formatar à mão não gera sumário automático.",
+        "Controle de alterações (aba Revisão) registra as edições e permite aceitar ou rejeitar. Comentários servem para observações sem alterar o texto.",
+        "Mala direta combina um documento-modelo com uma lista de dados (nomes, endereços) para gerar cartas ou etiquetas personalizadas.",
+        "O Word salva por padrão em .docx, e o Writer, em .odt. Ambos exportam para PDF. Cabeçalhos e rodapés repetem informações nas páginas. Quebras de seção permitem formatações diferentes no mesmo documento."
+      ],
+      "flashcards": [
+        {
+          "frente": "Para que servem os estilos de título?",
+          "verso": "Padronizam a formatação e permitem gerar sumário automático."
+        },
+        {
+          "frente": "Controle de alterações",
+          "verso": "Registra as edições para que outras pessoas aceitem ou rejeitem."
+        },
+        {
+          "frente": "Formato padrão do Writer",
+          "verso": ".odt (OpenDocument Text)."
+        }
+      ],
+      "questoes": [
+        {
+          "id": "ioff-l1-q1",
+          "enunciado": "Para gerar um sumário automático em um documento do Word ou do Writer, o usuário deve aplicar aos títulos",
+          "alternativas": [
+            "estilos de título.",
+            "negrito e sublinhado manualmente.",
+            "quebras de página antes de cada título.",
+            "fonte maior que o corpo do texto.",
+            "cores diferentes em cada título."
+          ],
+          "correta": 0,
+          "explicacao": "O sumário automático é montado a partir dos estilos de título aplicados no documento.",
+          "fonte": "Referência conceitual: fundamentos de informática (conteúdo estável, sem dependência de versão)"
+        },
+        {
+          "id": "ioff-l1-q2",
+          "enunciado": "O recurso que registra as modificações feitas por revisores e permite aceitá-las ou rejeitá-las é o",
+          "alternativas": [
+            "mala direta.",
+            "tabela dinâmica.",
+            "quebra de seção.",
+            "verificador ortográfico.",
+            "controle de alterações."
+          ],
+          "correta": 4,
+          "explicacao": "O controle de alterações mostra o que foi inserido, excluído ou formatado, e quem fez.",
+          "fonte": "Referência conceitual: fundamentos de informática (conteúdo estável, sem dependência de versão)"
+        },
+        {
+          "id": "ioff-l1-q3",
+          "enunciado": "Para enviar uma carta com o mesmo conteúdo, mas com nome e endereço diferentes para cada destinatário, usa-se",
+          "alternativas": [
+            "o sumário automático.",
+            "a mala direta.",
+            "o controle de alterações.",
+            "a quebra de página.",
+            "a proteção de documento."
+          ],
+          "correta": 1,
+          "explicacao": "A mala direta mescla um modelo com uma fonte de dados.",
+          "fonte": "Referência conceitual: fundamentos de informática (conteúdo estável, sem dependência de versão)"
+        },
+        {
+          "id": "ioff-l1-q4",
+          "enunciado": "O formato de arquivo padrão do aplicativo Writer, do LibreOffice, é",
+          "alternativas": [
+            ".ods.",
+            ".docx.",
+            ".xlsx.",
+            ".odt.",
+            ".pdf."
+          ],
+          "correta": 3,
+          "explicacao": "O Writer usa o formato OpenDocument Text (.odt). O .docx é o padrão do Word.",
+          "fonte": "Referência conceitual: fundamentos de informática (conteúdo estável, sem dependência de versão)"
+        }
+      ]
+    },
+    {
+      "id": "ioff-l2",
+      "titulo": "Planilhas e apresentações: Excel, Calc, PowerPoint e Impress",
+      "minutos": 8,
+      "resumo": [
+        "Fórmulas começam com o sinal de igual. Em português do Brasil, os argumentos das funções são separados por ponto e vírgula: =SOMA(A1:A3), =MÉDIA(B1:B4), =SE(B2>=7;\"Aprovado\";\"Reprovado\").",
+        "Referência relativa (A1) muda ao copiar a fórmula. Absoluta ($A$1) não muda. Mista (A$1 ou $A1) fixa só a linha ou a coluna.",
+        "Outras funções: MÁXIMO, MÍNIMO, CONT.SE, SOMASE e PROCV (procura vertical). Planilhas usam .xlsx (Excel) e .ods (Calc).",
+        "Apresentações: o slide mestre define o padrão visual. Transições são efeitos entre slides, e animações atuam sobre objetos. F5 inicia a apresentação do primeiro slide, e Shift+F5, do slide atual. Formatos: .pptx e .odp."
+      ],
+      "flashcards": [
+        {
+          "frente": "Referência absoluta",
+          "verso": "$A$1: não muda quando a fórmula é copiada."
+        },
+        {
+          "frente": "Função SE",
+          "verso": "Testa uma condição e retorna um valor se verdadeira e outro se falsa: =SE(teste;se_verdadeiro;se_falso)."
+        },
+        {
+          "frente": "Iniciar apresentação do início",
+          "verso": "F5. Shift+F5 inicia a partir do slide atual."
+        }
+      ],
+      "questoes": [
+        {
+          "id": "ioff-l2-q1",
+          "enunciado": "Se as células A1, A2 e A3 contêm os valores 2, 3 e 5, o resultado da fórmula =SOMA(A1:A3) é",
+          "alternativas": [
+            "30",
+            "5",
+            "10",
+            "8",
+            "15"
+          ],
+          "correta": 2,
+          "explicacao": "A função soma os valores do intervalo: 2 + 3 + 5 = 10.",
+          "fonte": "Referência conceitual: fundamentos de informática (conteúdo estável, sem dependência de versão)"
+        },
+        {
+          "id": "ioff-l2-q2",
+          "enunciado": "Se a célula B2 contém 6,5, o resultado da fórmula =SE(B2>=7;\"Aprovado\";\"Reprovado\") é",
+          "alternativas": [
+            "Reprovado",
+            "7",
+            "#VALOR!",
+            "6,5",
+            "Aprovado"
+          ],
+          "correta": 0,
+          "explicacao": "A condição B2>=7 é falsa, então a função retorna o terceiro argumento.",
+          "fonte": "Referência conceitual: fundamentos de informática (conteúdo estável, sem dependência de versão)"
+        },
+        {
+          "id": "ioff-l2-q3",
+          "enunciado": "Ao copiar uma fórmula que contém a referência $A$1 para outra célula, essa referência",
+          "alternativas": [
+            "muda para a célula vizinha.",
+            "gera um erro de referência.",
+            "muda apenas a coluna.",
+            "muda apenas a linha.",
+            "permanece a mesma, pois é absoluta."
+          ],
+          "correta": 4,
+          "explicacao": "O cifrão fixa coluna e linha, tornando a referência absoluta.",
+          "fonte": "Referência conceitual: fundamentos de informática (conteúdo estável, sem dependência de versão)"
+        },
+        {
+          "id": "ioff-l2-q4",
+          "enunciado": "Em PowerPoint e em Impress, a tecla que inicia a apresentação a partir do primeiro slide é",
+          "alternativas": [
+            "F7.",
+            "F5.",
+            "F11.",
+            "F2.",
+            "F12."
+          ],
+          "correta": 1,
+          "explicacao": "F5 inicia a apresentação do começo. Shift+F5 inicia a partir do slide selecionado.",
+          "fonte": "Referência conceitual: fundamentos de informática (conteúdo estável, sem dependência de versão)"
+        }
+      ]
+    }
+  ]
+}

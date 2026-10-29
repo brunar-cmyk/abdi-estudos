@@ -1,0 +1,257 @@
+{
+  "id": "u-rl-problemas",
+  "titulo": "Problemas aritméticos, geométricos e matriciais",
+  "bloco": "Gerais",
+  "categoria": "rl",
+  "topicos": [
+    "rl-05"
+  ],
+  "licoes": [
+    {
+      "id": "rlpb-l1",
+      "titulo": "Problemas aritméticos",
+      "minutos": 8,
+      "resumo": [
+        "Regra de três: com grandezas inversamente proporcionais (mais pessoas, menos dias), multiplica-se. Com diretamente proporcionais, divide-se em cruz.",
+        "Porcentagem: aumento de 20% multiplica por 1,2 e desconto de 20% multiplica por 0,8. Aumento e desconto de mesmo percentual não se anulam.",
+        "Média aritmética: soma dos valores dividida pela quantidade. MMC dá o primeiro momento em que eventos periódicos coincidem."
+      ],
+      "flashcards": [
+        {
+          "frente": "Aumento e desconto sucessivos",
+          "verso": "Multiplicam-se os fatores: 1,2 vezes 0,8 é 0,96, ou seja, queda de 4%."
+        },
+        {
+          "frente": "Grandezas inversamente proporcionais",
+          "verso": "Quando uma aumenta, a outra diminui na mesma razão: o produto se mantém."
+        },
+        {
+          "frente": "Para que serve o MMC em problemas de eventos periódicos?",
+          "verso": "Para saber quando eventos com períodos diferentes voltam a coincidir."
+        }
+      ],
+      "questoes": [
+        {
+          "id": "rlpb-l1-q1",
+          "enunciado": "Uma tarefa é concluída por 6 analistas em 10 dias. Mantido o ritmo, em quantos dias 15 analistas a concluiriam?",
+          "alternativas": [
+            "25 dias",
+            "4 dias",
+            "6 dias",
+            "2 dias",
+            "15 dias"
+          ],
+          "correta": 1,
+          "explicacao": "As grandezas são inversamente proporcionais: 6 vezes 10 = 60 e 60 dividido por 15 é 4.",
+          "fonte": "Referência conceitual: matemática básica (razão, proporção, porcentagem, média, MMC)"
+        },
+        {
+          "id": "rlpb-l1-q2",
+          "enunciado": "Um produto custava R$ 250,00, sofreu aumento de 20% e, em seguida, desconto de 20% sobre o novo preço. O preço final é",
+          "alternativas": [
+            "R$ 300,00",
+            "R$ 250,00",
+            "R$ 260,00",
+            "R$ 240,00",
+            "R$ 230,00"
+          ],
+          "correta": 3,
+          "explicacao": "250 vezes 1,2 = 300, e 300 vezes 0,8 = 240. Os percentuais incidem sobre bases diferentes.",
+          "fonte": "Referência conceitual: matemática básica (razão, proporção, porcentagem, média, MMC)"
+        },
+        {
+          "id": "rlpb-l1-q3",
+          "enunciado": "As notas de um candidato foram 6, 7, 9 e 10. A média aritmética é",
+          "alternativas": [
+            "8,5",
+            "7,5",
+            "8",
+            "9",
+            "32"
+          ],
+          "correta": 2,
+          "explicacao": "A soma é 32 e 32 dividido por 4 é 8.",
+          "fonte": "Referência conceitual: matemática básica (razão, proporção, porcentagem, média, MMC)"
+        },
+        {
+          "id": "rlpb-l1-q4",
+          "enunciado": "Dois eventos ocorrem a cada 12 e a cada 18 dias. Se coincidiram hoje, voltarão a coincidir daqui a",
+          "alternativas": [
+            "36 dias",
+            "216 dias",
+            "30 dias",
+            "54 dias",
+            "6 dias"
+          ],
+          "correta": 0,
+          "explicacao": "O MMC de 12 e 18 é 36.",
+          "fonte": "Referência conceitual: matemática básica (razão, proporção, porcentagem, média, MMC)"
+        }
+      ]
+    },
+    {
+      "id": "rlpb-l2",
+      "titulo": "Problemas geométricos",
+      "minutos": 8,
+      "resumo": [
+        "Retângulo: área é base vezes altura e perímetro é duas vezes (base mais altura). Círculo: área é pi vezes raio ao quadrado.",
+        "Teorema de Pitágoras: no triângulo retângulo, a hipotenusa ao quadrado é a soma dos quadrados dos catetos.",
+        "Volume do paralelepípedo: comprimento vezes largura vezes altura. Um metro cúbico equivale a 1.000 litros."
+      ],
+      "flashcards": [
+        {
+          "frente": "Teorema de Pitágoras",
+          "verso": "Hipotenusa ao quadrado é igual à soma dos quadrados dos catetos."
+        },
+        {
+          "frente": "Área do círculo",
+          "verso": "Pi vezes o raio ao quadrado."
+        },
+        {
+          "frente": "1 metro cúbico em litros",
+          "verso": "1.000 litros."
+        }
+      ],
+      "questoes": [
+        {
+          "id": "rlpb-l2-q1",
+          "enunciado": "Um triângulo retângulo tem catetos de 6 cm e 8 cm. A hipotenusa mede",
+          "alternativas": [
+            "48 cm",
+            "14 cm",
+            "7 cm",
+            "12 cm",
+            "10 cm"
+          ],
+          "correta": 4,
+          "explicacao": "36 mais 64 é 100, cuja raiz quadrada é 10.",
+          "fonte": "Referência conceitual: geometria plana e espacial básica"
+        },
+        {
+          "id": "rlpb-l2-q2",
+          "enunciado": "Um terreno retangular mede 12 m por 5 m. Sua área e seu perímetro são, respectivamente,",
+          "alternativas": [
+            "60 metros quadrados e 17 metros",
+            "60 metros quadrados e 34 metros",
+            "30 metros quadrados e 34 metros",
+            "34 metros quadrados e 60 metros",
+            "17 metros quadrados e 60 metros"
+          ],
+          "correta": 1,
+          "explicacao": "Área: 12 vezes 5 = 60. Perímetro: 2 vezes (12 + 5) = 34.",
+          "fonte": "Referência conceitual: geometria plana e espacial básica"
+        },
+        {
+          "id": "rlpb-l2-q3",
+          "enunciado": "Um reservatório em forma de paralelepípedo mede 2 m de comprimento, 3 m de largura e 1,5 m de altura. Sua capacidade é de",
+          "alternativas": [
+            "9 litros",
+            "90.000 litros",
+            "7.500 litros",
+            "9.000 litros",
+            "6.500 litros"
+          ],
+          "correta": 3,
+          "explicacao": "O volume é 2 vezes 3 vezes 1,5 = 9 metros cúbicos, e 1 metro cúbico equivale a 1.000 litros.",
+          "fonte": "Referência conceitual: geometria plana e espacial básica"
+        },
+        {
+          "id": "rlpb-l2-q4",
+          "enunciado": "A área de um círculo de raio 3 cm é",
+          "alternativas": [
+            "3 pi centímetros quadrados",
+            "18 pi centímetros quadrados",
+            "9 pi centímetros quadrados",
+            "27 pi centímetros quadrados",
+            "6 pi centímetros quadrados"
+          ],
+          "correta": 2,
+          "explicacao": "A área é pi vezes o raio ao quadrado: pi vezes 9.",
+          "fonte": "Referência conceitual: geometria plana e espacial básica"
+        }
+      ]
+    },
+    {
+      "id": "rlpb-l3",
+      "titulo": "Matrizes",
+      "minutos": 8,
+      "resumo": [
+        "Matriz é uma tabela de números organizada em linhas e colunas. Soma: termo a termo, entre matrizes de mesma ordem.",
+        "Produto: o elemento da linha i e coluna j é a soma dos produtos dos elementos da linha i da primeira pelos da coluna j da segunda.",
+        "Determinante de ordem 2: diagonal principal menos diagonal secundária (a d menos b c). Transposta: troca linhas por colunas."
+      ],
+      "flashcards": [
+        {
+          "frente": "Determinante de ordem 2",
+          "verso": "Produto da diagonal principal menos o produto da diagonal secundária."
+        },
+        {
+          "frente": "Matriz transposta",
+          "verso": "Linhas viram colunas, e colunas viram linhas."
+        },
+        {
+          "frente": "Condição para somar matrizes",
+          "verso": "Ter a mesma ordem (mesmo número de linhas e de colunas)."
+        }
+      ],
+      "questoes": [
+        {
+          "id": "rlpb-l3-q1",
+          "enunciado": "O determinante da matriz de linhas (1, 2) e (3, 4) é",
+          "alternativas": [
+            "-2",
+            "0",
+            "10",
+            "2",
+            "-10"
+          ],
+          "correta": 0,
+          "explicacao": "1 vezes 4 menos 2 vezes 3 é 4 menos 6, ou seja, -2.",
+          "fonte": "Referência conceitual: álgebra de matrizes (operações e determinante de ordem 2)"
+        },
+        {
+          "id": "rlpb-l3-q2",
+          "enunciado": "Sejam A com linhas (1, 2) e (3, 4), e B com linhas (0, 1) e (1, 0). A soma A + B tem linhas",
+          "alternativas": [
+            "(1, 3) e (3, 4)",
+            "(2, 1) e (4, 3)",
+            "(1, 2) e (3, 4)",
+            "(0, 2) e (3, 0)",
+            "(1, 3) e (4, 4)"
+          ],
+          "correta": 4,
+          "explicacao": "Soma-se termo a termo: 1+0, 2+1, 3+1, 4+0.",
+          "fonte": "Referência conceitual: álgebra de matrizes (operações e determinante de ordem 2)"
+        },
+        {
+          "id": "rlpb-l3-q3",
+          "enunciado": "Para as mesmas matrizes A (linhas (1, 2) e (3, 4)) e B (linhas (0, 1) e (1, 0)), o produto A vezes B tem linhas",
+          "alternativas": [
+            "(1, 3) e (4, 4)",
+            "(2, 1) e (4, 3)",
+            "(0, 2) e (3, 0)",
+            "(2, 4) e (1, 3)",
+            "(1, 2) e (3, 4)"
+          ],
+          "correta": 1,
+          "explicacao": "Linha 1: 1x0+2x1 = 2 e 1x1+2x0 = 1. Linha 2: 3x0+4x1 = 4 e 3x1+4x0 = 3.",
+          "fonte": "Referência conceitual: álgebra de matrizes (operações e determinante de ordem 2)"
+        },
+        {
+          "id": "rlpb-l3-q4",
+          "enunciado": "A transposta da matriz de linhas (1, 2, 3) e (4, 5, 6) tem",
+          "alternativas": [
+            "3 linhas: (1, 2), (3, 4) e (5, 6).",
+            "2 linhas: (6, 5, 4) e (3, 2, 1).",
+            "2 linhas: (1, 2, 3) e (4, 5, 6).",
+            "3 linhas: (1, 4), (2, 5) e (3, 6).",
+            "3 linhas: (3, 6), (2, 5) e (1, 4)."
+          ],
+          "correta": 3,
+          "explicacao": "A transposta troca linhas por colunas: a primeira coluna (1, 4) passa a ser a primeira linha.",
+          "fonte": "Referência conceitual: álgebra de matrizes (operações e determinante de ordem 2)"
+        }
+      ]
+    }
+  ]
+}

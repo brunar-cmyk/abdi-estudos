@@ -1,0 +1,479 @@
+{
+  "id": "u-inst-estatuto",
+  "titulo": "Estatuto Social da ABDI (versão de 27/11/2024)",
+  "bloco": "Institucionais",
+  "categoria": "lei",
+  "topicos": ["inst-02"],
+  "pacoteNumeros": [
+    {"rotulo": "Conselheiros: composição dos órgãos", "valor": "Conselho Deliberativo 15; Conselho Fiscal 3; DIREX 3 (1 Presidente e 2 Diretores)", "fonte": "Estatuto, art. 6º"},
+    {"rotulo": "Mandato dos conselheiros (titulares e suplentes)", "valor": "2 anos, renovável uma vez por igual período", "fonte": "Estatuto, art. 8º, § 2º"},
+    {"rotulo": "Quórum do Conselho Deliberativo", "valor": "decide por maioria, com quórum mínimo de 2/3 dos membros", "fonte": "Estatuto, art. 9º, § 1º"},
+    {"rotulo": "Destituição de conselheiro", "valor": "voto de 2/3 dos membros do respectivo Conselho", "fonte": "Estatuto, art. 6º, § 4º, IV"},
+    {"rotulo": "Mandato da DIREX", "valor": "4 anos; recondução por um único período subsequente; demissíveis ad nutum", "fonte": "Estatuto, art. 12 e parágrafo único"},
+    {"rotulo": "Experiência mínima para a DIREX", "valor": "4 anos em gestão de órgãos públicos ou de entidades públicas ou privadas (o Decreto 5.352 diz 2 anos)", "fonte": "Estatuto, art. 13, II"},
+    {"rotulo": "Extrato do regulamento de licitações no DOU", "valor": "em até 60 dias da aprovação", "fonte": "Estatuto, art. 9º, § 6º"},
+    {"rotulo": "Aviso de vacância ao Poder Executivo", "valor": "30 dias úteis", "fonte": "Estatuto, art. 15, § 6º"},
+    {"rotulo": "Relatório ao Poder Executivo", "valor": "até 31 de janeiro, após decisão do Conselho Deliberativo", "fonte": "Estatuto, art. 23"},
+    {"rotulo": "Parecer do Poder Executivo", "valor": "até 15 de março", "fonte": "Estatuto, art. 23, § 2º"},
+    {"rotulo": "Contas ao TCU", "valor": "até 31 de março do ano seguinte ao fim do exercício", "fonte": "Estatuto, art. 24"}
+  ],
+  "licoes": [
+    {
+      "id": "est-l1",
+      "titulo": "Natureza, princípios e finalidade no Estatuto",
+      "minutos": 7,
+      "resumo": [
+        "Art. 1º: a ABDI é pessoa jurídica de direito privado sem fins lucrativos, de interesse coletivo e de utilidade pública, autorizada pela Lei 11.080/2004 e instituída pelo Decreto 5.352/2005, sob a forma de Serviço Social Autônomo.",
+        "Arts. 2º e 3º: sede e foro em Brasília (DF), com atuação em todo o território nacional e no exterior, podendo abrir filiais, subsidiárias, escritórios e representações. O prazo de duração é indeterminado.",
+        "Art. 4º: princípios da legalidade, impessoalidade, moralidade, igualdade, publicidade, transparência, eficiência e correlatos. Atenção: a Lei usa para o contrato de gestão outra lista (com economicidade).",
+        "Art. 4º, §§ 1º e 2º: a ABDI mantém normativo interno de ética e conduta e práticas contra a corrupção (integridade, transparência, prestação de contas e participação da sociedade). Também divulga seu portfólio de projetos no sítio eletrônico e nas redes sociais.",
+        "Art. 5º: finalidade de promover políticas de desenvolvimento industrial, inovação e difusão de tecnologias, especialmente as que gerem empregos, renda, amadurecimento digital e fortalecimento das cadeias produtivas nacionais, em linha com os objetivos de desenvolvimento sustentável.",
+        "Art. 5º, §§ 1º e 3º: pode celebrar contratos, convênios e acordos de cooperação, instituir sociedades de propósito específico (SPE), criar ou aportar recursos em fundos de investimento (regras da CVM), e vender produtos ou prestar serviços ligados às suas finalidades."
+      ],
+      "flashcards": [
+        {"frente": "Princípios do art. 4º do Estatuto da ABDI", "verso": "Legalidade, impessoalidade, moralidade, igualdade, publicidade, transparência e eficiência, e os que lhes são correlatos."},
+        {"frente": "Sede, foro e duração da ABDI", "verso": "Sede e foro em Brasília (DF); atuação no território nacional e no exterior; prazo de duração indeterminado (arts. 2º e 3º)."},
+        {"frente": "O que a ABDI divulga em seu sítio e nas redes sociais, segundo o Estatuto?", "verso": "Seu portfólio de projetos (art. 4º, § 2º)."}
+      ],
+      "questoes": [
+        {
+          "id": "est-l1-q1",
+          "enunciado": "De acordo com o Estatuto Social da ABDI, a entidade tem sede e foro",
+          "alternativas": [
+            "em São Paulo, com atuação restrita ao território nacional.",
+            "em Brasília, com atuação restrita ao Distrito Federal, e prazo de duração de vinte anos.",
+            "em qualquer capital, a critério do Conselho Deliberativo, com duração indeterminada.",
+            "em Brasília (DF), com atuação em todo o território nacional e no exterior, e prazo de duração indeterminado.",
+            "no Rio de Janeiro, com escritórios obrigatórios em todos os estados."
+          ],
+          "correta": 3,
+          "explicacao": "O art. 2º fixa sede e foro em Brasília, com atuação nacional e no exterior, e o art. 3º define prazo de duração indeterminado.",
+          "fonte": "Estatuto Social da ABDI (2024), arts. 2º e 3º (abdi.com.br)"
+        },
+        {
+          "id": "est-l1-q2",
+          "enunciado": "Entre os princípios que regem a ABDI, expressamente citados no art. 4º de seu Estatuto, estão",
+          "alternativas": [
+            "legalidade, razoabilidade, moralidade, publicidade e economicidade.",
+            "legalidade, impessoalidade, moralidade, igualdade, publicidade, transparência e eficiência.",
+            "impessoalidade, finalidade, motivação, interesse público e eficiência.",
+            "legalidade, lucratividade, publicidade, competitividade e eficiência.",
+            "moralidade, proporcionalidade, sigilo, economicidade e transparência."
+          ],
+          "correta": 1,
+          "explicacao": "O art. 4º lista legalidade, impessoalidade, moralidade, igualdade, publicidade, transparência e eficiência. A economicidade consta da lista que a Lei 11.080 (art. 11) aplica ao contrato de gestão, não da do Estatuto.",
+          "fonte": "Estatuto Social da ABDI (2024), art. 4º, caput (abdi.com.br); Lei 11.080/2004, art. 11"
+        },
+        {
+          "id": "est-l1-q3",
+          "enunciado": "O Estatuto Social da ABDI determina que a entidade divulgue o seu portfólio de projetos",
+          "alternativas": [
+            "em seu sítio eletrônico e nas redes sociais.",
+            "apenas no Diário Oficial da União.",
+            "somente aos membros do Conselho Deliberativo.",
+            "em relatório reservado enviado ao Tribunal de Contas da União.",
+            "exclusivamente por meio de jornais impressos."
+          ],
+          "correta": 0,
+          "explicacao": "O art. 4º, § 2º, estabelece a divulgação do portfólio de projetos no sítio eletrônico e nas redes sociais da ABDI.",
+          "fonte": "Estatuto Social da ABDI (2024), art. 4º, § 2º (abdi.com.br)"
+        },
+        {
+          "id": "est-l1-q4",
+          "enunciado": "Segundo o Estatuto, para atingir suas finalidades a ABDI poderá instituir sociedades de propósito específico (SPE). A criação dessas sociedades depende de",
+          "alternativas": [
+            "autorização do Presidente da República, por decreto.",
+            "aprovação do Conselho Fiscal, sem participação de outros órgãos.",
+            "decisão isolada de um dos Diretores.",
+            "autorização da Comissão de Valores Mobiliários.",
+            "aprovação do Conselho Deliberativo, observada a Política de Gestão de Riscos."
+          ],
+          "correta": 4,
+          "explicacao": "O art. 9º, II, d, atribui ao Conselho Deliberativo aprovar a criação de SPEs, e o art. 5º, § 2º, manda observar a Política de Gestão de Riscos aprovada por ele. A CVM é citada para os fundos de investimento, não para as SPEs.",
+          "fonte": "Estatuto Social da ABDI (2024), arts. 5º, §§ 1º e 2º, e 9º, II, d (abdi.com.br)"
+        },
+        {
+          "id": "est-l1-q5",
+          "enunciado": "O Estatuto da ABDI admite que a entidade",
+          "alternativas": [
+            "distribua parte de seu resultado entre os conselheiros.",
+            "atue somente por meio de dotações do Orçamento Geral da União.",
+            "venda produtos ou preste serviços ligados às suas finalidades institucionais.",
+            "se recuse a celebrar convênios com pessoas jurídicas privadas.",
+            "atue exclusivamente no território nacional."
+          ],
+          "correta": 2,
+          "explicacao": "O art. 5º, § 3º, permite à ABDI vender produtos ou prestar serviços ligados às suas finalidades institucionais. A distribuição de lucros é vedada (art. 25), e a atuação inclui o exterior (art. 2º).",
+          "fonte": "Estatuto Social da ABDI (2024), arts. 2º, 5º, § 3º, e 25 (abdi.com.br)"
+        },
+        {
+          "id": "est-l1-q6",
+          "enunciado": "O art. 1º do Estatuto Social da ABDI a descreve como pessoa jurídica de direito privado sem fins lucrativos, de interesse coletivo e de utilidade pública",
+          "alternativas": [
+            "criada por lei complementar e vinculada ao Congresso Nacional.",
+            "autorizada pela Lei 11.080/2004 e instituída pelo Decreto 5.352/2005, sob a forma de Serviço Social Autônomo.",
+            "instituída pela Lei 11.080/2004 e autorizada pelo Decreto 5.352/2005, sob a forma de empresa pública.",
+            "constituída por escritura pública entre entidades privadas, sem relação com a Lei 11.080/2004.",
+            "autorizada por resolução do Conselho Deliberativo e instituída pelo ministério supervisor."
+          ],
+          "correta": 1,
+          "explicacao": "O art. 1º diz que a ABDI foi autorizada pela Lei 11.080/2004 e instituída pelo Decreto 5.352/2005, sob a forma de Serviço Social Autônomo. A segunda alternativa errada inverte Lei e Decreto.",
+          "fonte": "Estatuto Social da ABDI (2024), art. 1º (abdi.com.br)"
+        }
+      ]
+    },
+    {
+      "id": "est-l2",
+      "titulo": "Conselho Deliberativo no Estatuto",
+      "minutos": 9,
+      "resumo": [
+        "Composição (art. 8º): 15 conselheiros, representantes dos órgãos e entidades do art. 5º do Decreto 5.352/2005 (ou de norma que o altere). Cada conselheiro tem um suplente. Mandato de 2 anos, renovável uma vez. A função não é remunerada.",
+        "Presidente e Vice-Presidente são eleitos entre os membros, por escrutínio público (art. 8º, § 4º, e art. 9º, § 3º). É vedada a acumulação de funções nos Conselhos e na DIREX, mesmo por suplentes (art. 8º, § 8º).",
+        "Competências de aprovar (art. 9º, II): Estatuto e reformas, política de atuação institucional, Política de Gestão de Riscos, criação de SPEs, fundos de investimento e Plano Anual de Auditoria Interna (PAINT).",
+        "Competências de deliberar (art. 9º, III): planejamento estratégico, planos de ação anuais e relatórios, orçamento-programa, demonstrações contábeis (após parecer do Conselho Fiscal), plano de pessoal e de cargos e salários, alienação de imóveis e proposta do regulamento de licitações e contratos. Também fixa, anualmente, a remuneração da DIREX, tendo por referência a da Apex-Brasil e a do SEBRAE Nacional (art. 9º, IV).",
+        "Deliberação: por maioria, com quórum mínimo de dois terços, formalizada em resolução assinada pelo Presidente. O Presidente tem voto de desempate, além do voto ordinário (art. 9º, §§ 1º, 2º e 5º). O extrato do regulamento de licitações vai ao DOU em até 60 dias da aprovação (§ 6º).",
+        "Presidente do Conselho (art. 15): convoca e preside reuniões, dá posse ao Presidente e Diretores da ABDI e aos conselheiros, decide ad referendum em caso de urgência, fiscaliza o contrato de gestão e informa a vacância da Presidência ou das Diretorias ao Poder Executivo em 30 dias úteis."
+      ],
+      "flashcards": [
+        {"frente": "Mandato dos conselheiros deliberativos (Estatuto, art. 8º, § 2º)", "verso": "2 anos, renovável uma vez por igual período, para titulares e suplentes."},
+        {"frente": "Como o Conselho Deliberativo decide (art. 9º, §§ 1º, 2º e 5º)?", "verso": "Por maioria, com quórum mínimo de dois terços; decisões em resolução assinada pelo Presidente, que tem voto de desempate além do ordinário."},
+        {"frente": "Quem fixa a remuneração da DIREX e com que referência?", "verso": "O Conselho Deliberativo, anualmente, tendo por referência a remuneração das Diretorias Executivas da Apex-Brasil e do SEBRAE Nacional (art. 9º, IV)."}
+      ],
+      "questoes": [
+        {
+          "id": "est-l2-q1",
+          "enunciado": "Quanto aos conselheiros deliberativos da ABDI, o Estatuto estabelece que o mandato dos titulares e suplentes é de",
+          "alternativas": [
+            "um ano, renovável por tempo indeterminado.",
+            "quatro anos, sem possibilidade de recondução.",
+            "dois anos, renovável uma vez por igual período.",
+            "três anos, renovável duas vezes.",
+            "dois anos, vedada a recondução."
+          ],
+          "correta": 2,
+          "explicacao": "O art. 8º, § 2º, fixa mandato de dois anos, renovável uma vez por igual período, o que coincide com a Lei 11.080 (art. 3º).",
+          "fonte": "Estatuto Social da ABDI (2024), art. 8º, § 2º (abdi.com.br)"
+        },
+        {
+          "id": "est-l2-q2",
+          "enunciado": "Compete ao Conselho Deliberativo da ABDI, nos termos do Estatuto, aprovar",
+          "alternativas": [
+            "o Estatuto Social da ABDI e suas posteriores reformas.",
+            "o regulamento de convênios e suas alterações.",
+            "o relatório de impacto à proteção de dados pessoais.",
+            "as normas operacionais internas.",
+            "a admissão individual de empregados."
+          ],
+          "correta": 0,
+          "explicacao": "Aprovar o Estatuto e suas reformas é competência do Conselho Deliberativo (art. 9º, II, a). Aprovar o regulamento de convênios, as normas operacionais e o relatório de impacto à proteção de dados cabe à DIREX (art. 14, VI), e autorizar admissões também é da DIREX (art. 14, III).",
+          "fonte": "Estatuto Social da ABDI (2024), arts. 9º, II, a, e 14, III e VI (abdi.com.br)"
+        },
+        {
+          "id": "est-l2-q3",
+          "enunciado": "As deliberações do Conselho Deliberativo da ABDI, segundo o Estatuto, são tomadas",
+          "alternativas": [
+            "por unanimidade, sem exigência de quórum.",
+            "por maioria simples dos presentes, sem quórum mínimo.",
+            "por maioria, observado o quórum mínimo de um terço dos membros.",
+            "por decisão do Presidente da ABDI, referendada pelo Conselho Fiscal.",
+            "por maioria, observado o quórum mínimo de dois terços dos membros, e formalizadas por resolução assinada pelo Presidente do colegiado."
+          ],
+          "correta": 4,
+          "explicacao": "O art. 9º, § 1º, exige maioria com quórum mínimo de dois terços, e o § 2º determina a formalização por resolução assinada pelo Presidente do colegiado.",
+          "fonte": "Estatuto Social da ABDI (2024), art. 9º, §§ 1º e 2º (abdi.com.br)"
+        },
+        {
+          "id": "est-l2-q4",
+          "enunciado": "A remuneração dos membros da Diretoria Executiva da ABDI é fixada anualmente pelo Conselho Deliberativo, tendo por referência a remuneração das Diretorias Executivas",
+          "alternativas": [
+            "do BNDES e da Caixa Econômica Federal.",
+            "da Apex-Brasil e do SEBRAE Nacional.",
+            "do IPEA e da Embrapa.",
+            "do SESI e do SENAI.",
+            "do Banco do Brasil e do Banco Central."
+          ],
+          "correta": 1,
+          "explicacao": "O art. 9º, IV, do Estatuto menciona como referência as Diretorias Executivas da Apex-Brasil e do SEBRAE Nacional, observado o art. 13 da Lei 11.080.",
+          "fonte": "Estatuto Social da ABDI (2024), art. 9º, IV (abdi.com.br)"
+        },
+        {
+          "id": "est-l2-q5",
+          "enunciado": "Nas deliberações colegiadas do Conselho Deliberativo da ABDI, o Presidente do colegiado tem, segundo o Estatuto,",
+          "alternativas": [
+            "apenas voto de desempate, sem voto ordinário.",
+            "somente voto ordinário, sem voto de desempate.",
+            "poder de veto absoluto sobre as resoluções.",
+            "o voto de desempate, além do voto ordinário.",
+            "direito a voto apenas nas matérias orçamentárias."
+          ],
+          "correta": 3,
+          "explicacao": "O art. 9º, § 5º, diz que o Presidente terá o voto de desempate, além do voto ordinário. O Decreto 5.352 usa a expressão voto de qualidade.",
+          "fonte": "Estatuto Social da ABDI (2024), art. 9º, § 5º (abdi.com.br); Decreto 5.352/2005, art. 4º, parágrafo único"
+        },
+        {
+          "id": "est-l2-q6",
+          "enunciado": "O extrato do regulamento de licitações e contratos da ABDI, e o de suas alterações, deve ser publicado no Diário Oficial da União, segundo o Estatuto, no prazo de até",
+          "alternativas": [
+            "60 dias, contados da data de sua aprovação.",
+            "15 dias, contados da assinatura do contrato de gestão.",
+            "30 dias úteis, contados da vacância da Presidência.",
+            "90 dias, contados do início do exercício.",
+            "10 dias, contados da homologação de cada licitação."
+          ],
+          "correta": 0,
+          "explicacao": "O art. 9º, § 6º, fixa até 60 dias contados da data de aprovação do regulamento ou de sua alteração. A Lei 11.080 (art. 20, parágrafo único) exige a publicação do extrato no DOU.",
+          "fonte": "Estatuto Social da ABDI (2024), art. 9º, § 6º (abdi.com.br); Lei 11.080/2004, art. 20, parágrafo único"
+        },
+        {
+          "id": "est-l2-q7",
+          "enunciado": "É vedada, nos termos do Estatuto da ABDI, a acumulação de funções",
+          "alternativas": [
+            "apenas entre os Diretores e o Presidente.",
+            "somente nos Conselhos, e não na DIREX.",
+            "nos Conselhos e na DIREX, mesmo por suplentes de conselheiros.",
+            "apenas entre membros do Conselho Fiscal.",
+            "entre os conselheiros e os empregados do quadro efetivo, somente."
+          ],
+          "correta": 2,
+          "explicacao": "O art. 8º, § 8º, veda a acumulação de funções nos Conselhos e na DIREX, mesmo que por suplentes de conselheiros. O Decreto (art. 5º) também veda indicar o mesmo representante para mais de um órgão de direção.",
+          "fonte": "Estatuto Social da ABDI (2024), art. 8º, § 8º (abdi.com.br); Decreto 5.352/2005, art. 5º, caput"
+        }
+      ]
+    },
+    {
+      "id": "est-l3",
+      "titulo": "Conselho Fiscal e Diretoria Executiva no Estatuto",
+      "minutos": 9,
+      "resumo": [
+        "Conselho Fiscal (arts. 10 e 11): órgão de fiscalização e controle interno, com 2 representantes do Poder Executivo e 1 da sociedade civil. Elege seu Presidente, fiscaliza as gestões administrativa, orçamentária, contábil e patrimonial e emite parecer sobre as demonstrações contábeis, a prestação de contas anual e os balancetes.",
+        "DIREX (art. 12): órgão responsável pela gestão técnica e administrativa, com 1 Presidente e 2 Diretores, nomeados pelo Presidente da República para 4 anos, demissíveis ad nutum. Podem ser reconduzidos para um único período subsequente.",
+        "Requisitos (art. 13): formação superior compatível com o cargo, experiência comprovada de no mínimo 4 anos em gestão de órgãos públicos ou de entidades públicas ou privadas, e não se enquadrar nas inelegibilidades da LC 64/1990. Atenção: o Decreto 5.352 exige 2 anos.",
+        "Competências da DIREX (art. 14): elaborar planejamento estratégico, planos de ação, orçamento-programa e demonstrações contábeis; autorizar admissão de pessoal; aprovar o regulamento de convênios e as normas operacionais; interpretar o Estatuto. Os membros da DIREX participam das reuniões dos Conselhos, sem direito a voto (§ 3º).",
+        "Presidente da ABDI (art. 17): representa a ABDI, convoca e preside a DIREX, decide sobre dispensa e movimentação de pessoal e assina, em conjunto com um Diretor, convênios, contratos, ajustes e cheques (inciso VIII).",
+        "Diretores (art. 18): representam a ABDI por delegação, planejam e controlam sua área funcional de supervisão e assinam, com o Presidente, os documentos do art. 17, VIII."
+      ],
+      "flashcards": [
+        {"frente": "Experiência mínima para a DIREX no Estatuto x no Decreto", "verso": "Estatuto, art. 13, II: 4 anos em gestão. Decreto 5.352, art. 9º: 2 anos. Veja qual norma a questão cita."},
+        {"frente": "Mandato e recondução da DIREX (Estatuto, art. 12)", "verso": "4 anos, demissíveis ad nutum, com recondução por um único período subsequente."},
+        {"frente": "Quem assina convênios e contratos da ABDI?", "verso": "O Presidente, em conjunto com um Diretor (art. 17, VIII, e art. 18, VII)."}
+      ],
+      "questoes": [
+        {
+          "id": "est-l3-q1",
+          "enunciado": "O Estatuto Social da ABDI exige, como requisito para ocupar os cargos da DIREX, experiência comprovada de, no mínimo,",
+          "alternativas": [
+            "um ano em cargo de direção em empresa privada.",
+            "dois anos em gestão de órgãos públicos.",
+            "cinco anos exclusivamente no setor industrial.",
+            "quatro anos em gestão de órgãos públicos ou de entidades públicas ou privadas.",
+            "seis meses em qualquer cargo de chefia."
+          ],
+          "correta": 3,
+          "explicacao": "O art. 13, II, do Estatuto fixa quatro anos em gestão de órgãos públicos ou de entidades públicas ou privadas. O Decreto 5.352, art. 9º, fala em dois anos.",
+          "fonte": "Estatuto Social da ABDI (2024), art. 13, II (abdi.com.br); Decreto 5.352/2005, art. 9º, parágrafo único"
+        },
+        {
+          "id": "est-l3-q2",
+          "enunciado": "Sobre os membros da DIREX, o Estatuto Social da ABDI prevê que o Presidente e os Diretores",
+          "alternativas": [
+            "poderão ser reconduzidos para um único período subsequente.",
+            "terão mandato de dois anos, vedada a recondução.",
+            "são escolhidos pelo Conselho Deliberativo.",
+            "só podem ser desligados ao fim do mandato.",
+            "são eleitos pelos empregados da ABDI."
+          ],
+          "correta": 0,
+          "explicacao": "O art. 12 diz que são escolhidos e nomeados pelo Presidente da República, por quatro anos, demissíveis ad nutum. O parágrafo único admite recondução para um único período subsequente.",
+          "fonte": "Estatuto Social da ABDI (2024), art. 12 e parágrafo único (abdi.com.br)"
+        },
+        {
+          "id": "est-l3-q3",
+          "enunciado": "Compete à DIREX, segundo o Estatuto da ABDI, aprovar",
+          "alternativas": [
+            "o Estatuto Social.",
+            "a Política de Gestão de Riscos, em substituição ao Conselho Deliberativo.",
+            "a remuneração dos próprios membros da DIREX.",
+            "a criação de fundos de investimento.",
+            "o regulamento de convênios e suas posteriores alterações."
+          ],
+          "correta": 4,
+          "explicacao": "O art. 14, VI, a, atribui à DIREX aprovar o regulamento de convênios. Já o regulamento de licitações é proposto pela DIREX e deliberado pelo Conselho Deliberativo (art. 9º, III, g, e art. 14, II, f).",
+          "fonte": "Estatuto Social da ABDI (2024), arts. 9º e 14 (abdi.com.br)"
+        },
+        {
+          "id": "est-l3-q4",
+          "enunciado": "Convênios, contratos e ajustes dos quais resulte a constituição de direitos e obrigações para a ABDI são assinados, nos termos do Estatuto, pelo",
+          "alternativas": [
+            "Presidente do Conselho Deliberativo, isoladamente.",
+            "Presidente da ABDI, em conjunto com um Diretor.",
+            "Presidente do Conselho Fiscal, em conjunto com um conselheiro.",
+            "Diretor jurídico, isoladamente.",
+            "Presidente da República."
+          ],
+          "correta": 1,
+          "explicacao": "O art. 17, VIII, prevê a assinatura do Presidente da ABDI em conjunto com um Diretor, e o art. 18, VII, repete a regra para os Diretores.",
+          "fonte": "Estatuto Social da ABDI (2024), arts. 17, VIII, e 18, VII (abdi.com.br)"
+        },
+        {
+          "id": "est-l3-q5",
+          "enunciado": "Entre as competências do Conselho Fiscal da ABDI está",
+          "alternativas": [
+            "aprovar o orçamento-programa.",
+            "elaborar as demonstrações contábeis da entidade.",
+            "emitir parecer sobre as demonstrações contábeis elaboradas pela DIREX e sobre a prestação de contas anual do contrato de gestão.",
+            "nomear os Diretores da ABDI.",
+            "fixar a remuneração do Presidente da ABDI."
+          ],
+          "correta": 2,
+          "explicacao": "O art. 11, III, a, atribui ao Conselho Fiscal emitir parecer sobre as demonstrações contábeis elaboradas pela DIREX e a prestação de contas anual. Elaborar as demonstrações é da DIREX (art. 14, II, d).",
+          "fonte": "Estatuto Social da ABDI (2024), arts. 11, III, a, e 14, II, d (abdi.com.br)"
+        },
+        {
+          "id": "est-l3-q6",
+          "enunciado": "Quanto à participação dos membros da DIREX nas reuniões dos Conselhos Deliberativo e Fiscal, o Estatuto estabelece que eles",
+          "alternativas": [
+            "têm direito a voto em todas as matérias.",
+            "participam das reuniões, sem direito a voto.",
+            "são impedidos de comparecer.",
+            "participam apenas das reuniões do Conselho Fiscal.",
+            "votam apenas em caso de empate."
+          ],
+          "correta": 1,
+          "explicacao": "O art. 14, § 3º, diz que os membros da DIREX participarão das reuniões do Conselho Deliberativo e do Conselho Fiscal, sem direito a voto.",
+          "fonte": "Estatuto Social da ABDI (2024), art. 14, § 3º (abdi.com.br)"
+        },
+        {
+          "id": "est-l3-q7",
+          "enunciado": "No Estatuto da ABDI, a expressão \"demissíveis ad nutum\", aplicada aos membros da DIREX, significa que eles podem ser",
+          "alternativas": [
+            "destituídos somente após processo administrativo com ampla defesa.",
+            "removidos apenas por decisão do Tribunal de Contas da União.",
+            "exonerados livremente, a qualquer tempo, sem necessidade de motivação.",
+            "afastados somente ao término do mandato de quatro anos.",
+            "substituídos apenas com a concordância de todos os conselheiros."
+          ],
+          "correta": 2,
+          "explicacao": "Ad nutum indica desligamento livre, a qualquer tempo e sem motivação. A Lei 11.080 (art. 6º) também permite a exoneração a qualquer tempo, de ofício ou por proposta do Conselho Deliberativo.",
+          "fonte": "Estatuto Social da ABDI (2024), art. 12 (abdi.com.br); Lei 11.080/2004, art. 6º"
+        }
+      ]
+    },
+    {
+      "id": "est-l4",
+      "titulo": "Receitas, pessoal, contrato de gestão e prestação de contas",
+      "minutos": 8,
+      "resumo": [
+        "Receitas (art. 19): adicional da Lei 8.029; dotações do Orçamento Geral da União; convênios, acordos e contratos; doações, legados e subvenções; decisões judiciais; venda ou aluguel de bens; rendimentos de aplicações; taxa de administração cobrada em convênios e contratos; participação nos resultados dos projetos apoiados; e outros recursos por lei ou de pessoas jurídicas públicas e privadas.",
+        "Pessoal (art. 20): contratação pela CLT, sempre precedida de processo seletivo, com edital na imprensa oficial. Exceção: o cargo de assessoramento especial da Presidência dispensa o processo seletivo, nos limites autorizados pelo Conselho Deliberativo.",
+        "Contrato de gestão (arts. 21 e 22): termos estabelecidos entre a União e a ABDI. A ABDI pode firmar contratos de gestão com outros órgãos do Executivo só para projetos de interesse recíproco. A DIREX submete o orçamento-programa ao Executivo após a decisão do Conselho Deliberativo.",
+        "Prestação de contas (arts. 23 e 24): relatório ao Executivo até 31 de janeiro, após decisão do Conselho Deliberativo; parecer do Executivo até 15 de março; contas ao TCU até 31 de março do ano seguinte, aprovadas pelo Conselho Deliberativo e com manifestação do Conselho Fiscal.",
+        "Art. 25: recursos aplicados integralmente nas atividades e na manutenção da ABDI, vedada a distribuição de lucro a qualquer título. Art. 26: na extinção, o patrimônio vai para a União. Art. 27: o Estatuto e suas alterações valem a partir da inscrição da ata no Cartório de Registro Civil das Pessoas Jurídicas de Brasília."
+      ],
+      "flashcards": [
+        {"frente": "Exceção ao processo seletivo para contratar pessoal (art. 20)", "verso": "Cargo de assessoramento especial da Presidência, nos limites autorizados pelo Conselho Deliberativo."},
+        {"frente": "Parecer do Poder Executivo sobre o relatório de gestão", "verso": "Até 15 de março (Estatuto, art. 23, § 2º; Decreto, art. 13). A Lei 11.080, art. 8º, fala em 31 de março."},
+        {"frente": "Quando o Estatuto passa a produzir efeitos?", "verso": "A partir da inscrição da ata que o aprovou no Cartório de Registro Civil das Pessoas Jurídicas de Brasília (art. 27)."}
+      ],
+      "questoes": [
+        {
+          "id": "est-l4-q1",
+          "enunciado": "A taxa de administração cobrada nos convênios e contratos celebrados pela ABDI é, segundo o Estatuto, uma",
+          "alternativas": [
+            "receita que deve ser devolvida ao ministério supervisor.",
+            "contribuição obrigatória dos conselheiros.",
+            "receita da ABDI, que passa a integrar o seu patrimônio.",
+            "despesa a ser compensada pela União.",
+            "vedação expressa no art. 19."
+          ],
+          "correta": 2,
+          "explicacao": "O art. 19, VIII, inclui entre as receitas da ABDI os recursos da taxa de administração cobrada em convênios, contratos e instrumentos congêneres, e o caput diz que elas passam a integrar o patrimônio da entidade.",
+          "fonte": "Estatuto Social da ABDI (2024), art. 19, caput e VIII (abdi.com.br)"
+        },
+        {
+          "id": "est-l4-q2",
+          "enunciado": "A contratação de pessoal efetivo pela ABDI exige processo seletivo, conforme edital publicado na imprensa oficial. O Estatuto dispensa esse processo para",
+          "alternativas": [
+            "cargo de assessoramento especial da Presidência, nos limites autorizados pelo Conselho Deliberativo.",
+            "qualquer cargo de analista.",
+            "todos os cargos com remuneração acima do teto da DIREX.",
+            "estagiários e empregados de unidades regionais, sem exceção.",
+            "qualquer contratação autorizada pelo Presidente do Conselho Fiscal."
+          ],
+          "correta": 0,
+          "explicacao": "O parágrafo único do art. 20 dispensa o processo seletivo para cargo de assessoramento especial da Presidência, nos termos e limites autorizados pelo Conselho Deliberativo e da CLT.",
+          "fonte": "Estatuto Social da ABDI (2024), art. 20 e parágrafo único (abdi.com.br)"
+        },
+        {
+          "id": "est-l4-q3",
+          "enunciado": "Segundo o Estatuto da ABDI, o Poder Executivo analisará o relatório sobre a execução do contrato de gestão e emitirá parecer sobre o seu cumprimento até",
+          "alternativas": [
+            "31 de janeiro.",
+            "31 de março.",
+            "30 de abril.",
+            "1º de junho.",
+            "15 de março."
+          ],
+          "correta": 4,
+          "explicacao": "O art. 23, § 2º, do Estatuto fixa 15 de março, assim como o Decreto 5.352 (art. 13). A Lei 11.080, art. 8º, parágrafo único, fala em 31 de março.",
+          "fonte": "Estatuto Social da ABDI (2024), art. 23, § 2º (abdi.com.br); Decreto 5.352/2005, art. 13; Lei 11.080/2004, art. 8º"
+        },
+        {
+          "id": "est-l4-q4",
+          "enunciado": "O relatório circunstanciado sobre a execução do contrato de gestão no exercício anterior é apresentado pela ABDI ao Poder Executivo, segundo o Estatuto, até",
+          "alternativas": [
+            "31 de dezembro, antes da deliberação do Conselho Deliberativo.",
+            "31 de janeiro, após a decisão do Conselho Deliberativo.",
+            "15 de março, após o parecer do Conselho Fiscal.",
+            "31 de março, junto com a remessa ao TCU.",
+            "30 de junho, após a aprovação do orçamento."
+          ],
+          "correta": 1,
+          "explicacao": "O art. 23 prevê a apresentação até 31 de janeiro e após a decisão do Conselho Deliberativo, com prestação de contas dos recursos aplicados, avaliação geral do contrato de gestão e análises gerenciais.",
+          "fonte": "Estatuto Social da ABDI (2024), art. 23, caput (abdi.com.br)"
+        },
+        {
+          "id": "est-l4-q5",
+          "enunciado": "As contas da gestão anual da ABDI são remetidas ao Tribunal de Contas da União, segundo o Estatuto, até 31 de março do ano seguinte ao término do exercício financeiro, e devem estar",
+          "alternativas": [
+            "aprovadas pelo Poder Executivo e acompanhadas de parecer do Congresso Nacional.",
+            "aprovadas pela DIREX, sem manifestação de outro órgão.",
+            "aprovadas pelo Conselho Fiscal e acompanhadas de manifestação da DIREX.",
+            "aprovadas pelo Conselho Deliberativo e acompanhadas de manifestação do Conselho Fiscal.",
+            "aprovadas pelo ministério supervisor, sem passar pelos Conselhos."
+          ],
+          "correta": 3,
+          "explicacao": "O art. 24 diz que a DIREX remete ao TCU as contas aprovadas pelo Conselho Deliberativo, acompanhadas de manifestação do Conselho Fiscal.",
+          "fonte": "Estatuto Social da ABDI (2024), art. 24 (abdi.com.br)"
+        },
+        {
+          "id": "est-l4-q6",
+          "enunciado": "Sobre a destinação dos recursos da ABDI, o Estatuto dispõe que eles serão aplicados integralmente na execução de suas atividades e na sua manutenção, sendo",
+          "alternativas": [
+            "vedada a distribuição de qualquer lucro, seja a que título for.",
+            "permitida a distribuição de lucros aos conselheiros, mediante resolução.",
+            "obrigatória a devolução de saldos à União ao fim de cada exercício.",
+            "admitida a partilha entre os empregados, em percentual fixo.",
+            "livre a destinação, a critério do Presidente da ABDI."
+          ],
+          "correta": 0,
+          "explicacao": "O art. 25 veda a distribuição de qualquer lucro, a qualquer título, o que é coerente com a natureza de entidade sem fins lucrativos.",
+          "fonte": "Estatuto Social da ABDI (2024), art. 25 (abdi.com.br)"
+        },
+        {
+          "id": "est-l4-q7",
+          "enunciado": "O Estatuto Social da ABDI e suas alterações produzem efeitos a partir da data",
+          "alternativas": [
+            "da publicação no Diário Oficial da União.",
+            "da assinatura do contrato de gestão.",
+            "da inscrição da ata da reunião que os aprovar no Cartório de Registro Civil das Pessoas Jurídicas de Brasília, Distrito Federal.",
+            "da aprovação pelo Tribunal de Contas da União.",
+            "da sanção presidencial."
+          ],
+          "correta": 2,
+          "explicacao": "O art. 27 condiciona os efeitos do Estatuto e de suas alterações à inscrição da ata da reunião que os aprovar no Cartório de Registro Civil das Pessoas Jurídicas de Brasília.",
+          "fonte": "Estatuto Social da ABDI (2024), art. 27 (abdi.com.br)"
+        }
+      ]
+    }
+  ]
+}

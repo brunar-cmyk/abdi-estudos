@@ -1,0 +1,178 @@
+{
+  "id": "u-info-seguranca-ia",
+  "titulo": "Segurança da informação e inteligência artificial",
+  "bloco": "Gerais",
+  "categoria": "info",
+  "topicos": [
+    "info-07",
+    "info-09"
+  ],
+  "licoes": [
+    {
+      "id": "iseg-l1",
+      "titulo": "Segurança da informação",
+      "minutos": 8,
+      "resumo": [
+        "Princípios: confidencialidade (só acessa quem pode), integridade (dados não alterados indevidamente) e disponibilidade (acesso quando necessário). Também se citam autenticidade e não repúdio.",
+        "Malwares: vírus (depende da execução de um hospedeiro), worm (se replica sozinho pela rede), cavalo de troia (disfarçado de programa legítimo), ransomware (criptografa os dados e exige resgate), spyware e keylogger (espionam), backdoor (acesso oculto).",
+        "Phishing é engenharia social: mensagens falsas que imitam instituições para obter dados ou instalar códigos maliciosos.",
+        "Defesas: antivírus, firewall (filtra o tráfego de rede), atualizações, senhas fortes, autenticação multifator e backup. A regra 3-2-1 manda manter 3 cópias, em 2 tipos de mídia, com 1 cópia fora do local."
+      ],
+      "flashcards": [
+        {
+          "frente": "Tríade da segurança",
+          "verso": "Confidencialidade, integridade e disponibilidade."
+        },
+        {
+          "frente": "Ransomware",
+          "verso": "Criptografa os dados da vítima e exige pagamento para liberá-los."
+        },
+        {
+          "frente": "Regra 3-2-1 de backup",
+          "verso": "3 cópias, 2 tipos de mídia, 1 cópia fora do local."
+        }
+      ],
+      "questoes": [
+        {
+          "id": "iseg-l1-q1",
+          "enunciado": "O código malicioso que criptografa os arquivos do usuário e exige pagamento de resgate para liberá-los é chamado de",
+          "alternativas": [
+            "adware.",
+            "ransomware.",
+            "spyware.",
+            "worm.",
+            "bootloader."
+          ],
+          "correta": 1,
+          "explicacao": "O ransomware sequestra os dados por criptografia.",
+          "fonte": "Referência conceitual: segurança da informação (tríade CIA e boas práticas)"
+        },
+        {
+          "id": "iseg-l1-q2",
+          "enunciado": "Garantir que as informações não sejam alteradas de forma indevida corresponde ao princípio da",
+          "alternativas": [
+            "obsolescência.",
+            "redundância.",
+            "confidencialidade.",
+            "integridade.",
+            "disponibilidade."
+          ],
+          "correta": 3,
+          "explicacao": "A integridade assegura a exatidão e a completude dos dados.",
+          "fonte": "Referência conceitual: segurança da informação (tríade CIA e boas práticas)"
+        },
+        {
+          "id": "iseg-l1-q3",
+          "enunciado": "Uma mensagem que imita um banco e pede que o usuário clique em um link para \"atualizar seus dados\" é um exemplo típico de",
+          "alternativas": [
+            "criptografia simétrica.",
+            "compactação.",
+            "phishing.",
+            "backup.",
+            "firewall."
+          ],
+          "correta": 2,
+          "explicacao": "Phishing usa engenharia social e mensagens falsas para roubar dados.",
+          "fonte": "Referência conceitual: segurança da informação (tríade CIA e boas práticas)"
+        },
+        {
+          "id": "iseg-l1-q4",
+          "enunciado": "A estratégia de backup conhecida como 3-2-1 recomenda manter",
+          "alternativas": [
+            "3 cópias dos dados, em 2 tipos de mídia, com 1 cópia fora do local.",
+            "3 cópias no mesmo local, em 2 computadores e 1 nuvem.",
+            "2 cópias na nuvem e 1 no computador de uso diário.",
+            "3 cópias no mesmo disco, em 2 pastas e 1 arquivo.",
+            "1 cópia em 2 locais e 3 mídias iguais."
+          ],
+          "correta": 0,
+          "explicacao": "A regra combina quantidade, diversidade de mídia e uma cópia em local distinto, para resistir a falhas e desastres.",
+          "fonte": "Referência conceitual: segurança da informação (tríade CIA e boas práticas)"
+        }
+      ]
+    },
+    {
+      "id": "iseg-l2",
+      "titulo": "Inteligência artificial no ambiente de trabalho",
+      "minutos": 8,
+      "resumo": [
+        "IA generativa cria conteúdo novo (texto, imagem, áudio, código) a partir de padrões aprendidos em grandes volumes de dados. Os modelos de linguagem são um exemplo.",
+        "Limitações: podem gerar \"alucinações\" (respostas plausíveis, mas falsas), reproduzir vieses dos dados de treinamento e não ter acesso a informações recentes.",
+        "Uso responsável: revisar e verificar o resultado, citar fontes, respeitar direitos autorais e não inserir dados pessoais ou sigilosos em ferramentas não autorizadas, em respeito à LGPD.",
+        "Um bom pedido (prompt) traz contexto, objetivo, público, formato esperado e restrições. Resultados dependem da qualidade das instruções."
+      ],
+      "flashcards": [
+        {
+          "frente": "O que são alucinações da IA?",
+          "verso": "Respostas plausíveis, mas incorretas ou inventadas."
+        },
+        {
+          "frente": "Cuidado com dados em ferramentas de IA",
+          "verso": "Não inserir dados pessoais ou sigilosos em ferramentas sem autorização; aplica-se a LGPD."
+        },
+        {
+          "frente": "Boas práticas de prompt",
+          "verso": "Informar contexto, objetivo, público, formato e restrições."
+        }
+      ],
+      "questoes": [
+        {
+          "id": "iseg-l2-q1",
+          "enunciado": "Chama-se \"alucinação\", no contexto da IA generativa, o fenômeno em que o sistema",
+          "alternativas": [
+            "bloqueia o acesso do usuário.",
+            "apaga os dados de treinamento.",
+            "deixa de funcionar por falta de energia.",
+            "cobra automaticamente pelo uso.",
+            "produz respostas plausíveis, mas incorretas ou inventadas."
+          ],
+          "correta": 4,
+          "explicacao": "A alucinação é uma limitação comum: o modelo gera conteúdo convincente sem base factual.",
+          "fonte": "Referência conceitual: fundamentos de informática (conteúdo estável, sem dependência de versão)"
+        },
+        {
+          "id": "iseg-l2-q2",
+          "enunciado": "Um servidor pretende usar uma ferramenta pública de IA generativa para resumir um documento que contém dados pessoais sensíveis de cidadãos. A conduta mais adequada é",
+          "alternativas": [
+            "inserir, desde que o texto esteja em português.",
+            "não inserir os dados na ferramenta sem autorização institucional e sem respaldo na LGPD.",
+            "inserir apenas o nome dos cidadãos.",
+            "inserir, pois a ferramenta é gratuita.",
+            "inserir e depois apagar o histórico."
+          ],
+          "correta": 1,
+          "explicacao": "O uso de dados pessoais por terceiros exige base legal e controle institucional. A gratuidade ou o idioma não alteram essa exigência.",
+          "fonte": "Lei 13.709/2018 (planalto.gov.br)"
+        },
+        {
+          "id": "iseg-l2-q3",
+          "enunciado": "Entre os pedidos abaixo a uma ferramenta de IA generativa, o que tende a produzir resultado mais útil é",
+          "alternativas": [
+            "\"Texto sobre o regulamento.\"",
+            "\"Faça melhor.\"",
+            "\"Escreva alguma coisa.\"",
+            "\"Elabore um resumo de 5 linhas, em tom formal, para o público interno, sobre as mudanças do regulamento, com base no texto abaixo.\"",
+            "\"Resumo.\""
+          ],
+          "correta": 3,
+          "explicacao": "O pedido informa tamanho, tom, público, finalidade e fonte, o que orienta a resposta.",
+          "fonte": "Referência conceitual: fundamentos de informática (conteúdo estável, sem dependência de versão)"
+        },
+        {
+          "id": "iseg-l2-q4",
+          "enunciado": "A característica que distingue a IA generativa de um sistema que apenas classifica dados é que ela",
+          "alternativas": [
+            "só trabalha com números.",
+            "só funciona sem conexão à internet.",
+            "gera conteúdo novo a partir dos padrões aprendidos.",
+            "dispensa qualquer treinamento.",
+            "nunca comete erros."
+          ],
+          "correta": 2,
+          "explicacao": "Em vez de apenas classificar ou prever, a IA generativa cria textos, imagens e outros conteúdos.",
+          "fonte": "Referência conceitual: fundamentos de informática (conteúdo estável, sem dependência de versão)"
+        }
+      ]
+    }
+  ]
+}

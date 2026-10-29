@@ -1,0 +1,19 @@
+{
+  "fonte": "Edital 01/2026 ABDI/FGV, publicado em 20/10/2026. Horário de Brasília/DF (item 2.5).",
+  "consulta": "2026-10-28",
+  "eventos": [
+    {"id": "publicacao", "data": "2026-10-20", "texto": "Publicação do edital de abertura", "item_edital": "2.8"},
+    {"id": "isencao", "inicio": "2026-10-20T16:00", "fim": "2026-10-22T16:00", "texto": "Pedido de isenção da taxa de inscrição", "item_edital": "5.2"},
+    {"id": "inscricao", "inicio": "2026-10-20T16:00", "fim": "2026-11-10T18:00", "texto": "Inscrições pela internet (taxa de R$ 100,00)", "item_edital": "4.1 e 4.2"},
+    {"id": "boleto", "fim": "2026-11-11", "texto": "Último dia para pagar o boleto (reimpressão até 23h59). Só boleto; Pix não vale.", "item_edital": "4.3 e 4.8"},
+    {"id": "convocacao_titulos", "data": "2026-12-02", "texto": "Publicação do edital de convocação para envio de títulos e currículo", "item_edital": "11.3 e 12.3"},
+    {"id": "teste_plataforma", "data": "2026-12-03", "texto": "Publicação do comunicado com o período do teste obrigatório da plataforma (mesmo equipamento e conexão da prova)", "item_edital": "10.3.1"},
+    {"id": "envio_titulos_curriculo", "inicio": "2026-12-03T16:00", "fim": "2026-12-22T16:00", "texto": "Envio de títulos, comprovantes de experiência e currículo padrão (Anexo IV). Termina depois da prova.", "item_edital": "11.3 e 12.3"},
+    {"id": "link_prova", "data": "2026-12-17", "texto": "Link exclusivo da prova disponível até 3 dias antes (prazo máximo)", "item_edital": "10.2.1"},
+    {"id": "prova", "inicio": "2026-12-20T13:30", "fim": "2026-12-20T17:00", "texto": "Prova Objetiva online, em casa. Link abre 30 min antes; acessar com pelo menos 5 min de antecedência; permanecer pelo menos 2h.", "item_edital": "10.1, 10.2.2 e 10.11"}
+  ],
+  "observacoes": [
+    "A data do link da prova (17/12) é o limite máximo previsto no item 10.2.1; pode ser publicado antes.",
+    "Datas de gabarito, recursos e resultado não constam do edital; dependem do cronograma previsto no site da FGV (PDF não lido). Ver pendencias.md."
+  ]
+}

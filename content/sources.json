@@ -1,0 +1,118 @@
+{
+  "consulta": "2026-10-28",
+  "fontes": [
+    {
+      "id": "edital",
+      "titulo": "Edital 01/2026 - Abertura do Processo Seletivo ABDI (FGV)",
+      "url": "https://conhecimento.fgv.br/sites/default/files/concursos/edital-01-2026-abertura-do-processo-seletivo-abdi-1.pdf",
+      "versao": "publicado em 20/10/2026, 48 páginas; lido a partir de cópia local (Desktop/App.Abdi)",
+      "status": "lido"
+    },
+    {
+      "id": "fgv-pagina",
+      "titulo": "Página oficial do processo seletivo",
+      "url": "https://conhecimento.fgv.br/concursos/psabdi",
+      "versao": "consultada em 28/10/2026: lista só o Edital 01/2026, sem retificação ou comunicado",
+      "status": "lido; PDF do cronograma previsto não aberto"
+    },
+    {
+      "id": "lei-11080",
+      "titulo": "Lei 11.080/2004",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l11080.htm",
+      "versao": "texto consolidado do Planalto, com redação da Lei 14.440/2022 (arts. 1º, 17, 20)",
+      "status": "lido na íntegra"
+    },
+    {
+      "id": "decreto-5352",
+      "titulo": "Decreto 5.352/2005",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/decreto/d5352.htm",
+      "versao": "texto do Planalto; única alteração indicada: Decreto 8.146/2013 no art. 5º, I",
+      "status": "lido na íntegra"
+    },
+    {
+      "id": "cf88-art37",
+      "titulo": "Constituição Federal, art. 37, § 1º",
+      "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+      "versao": "consultada em 28/10/2026; texto do § 1º conferido literalmente",
+      "status": "lido (apenas o art. 37, § 1º)"
+    },
+    {
+      "id": "estatuto",
+      "titulo": "Estatuto Social da ABDI (versão vigente de 27/11/2024, registrada em 20/01/2025)",
+      "url": "https://www.abdi.com.br/wp-content/uploads/2025/01/Estatuto-Social-2024-Registrado.pdf",
+      "versao": "15 páginas, escaneado com OCR legível; achado no portal de transparência em 28/10/2026. O link indicado no pedido (Estatuto-da-ABDI.pdf, 2021) é versão anterior; diferença encontrada: art. 15, VI",
+      "status": "lido na íntegra (2024) e comparado com 2021"
+    },
+    {
+      "id": "licitacoes",
+      "titulo": "Regulamento de Licitações e Contratos (Resolução CD 005/2021)",
+      "url": "https://portal.dth.abdi.com.br/wp-content/uploads/2024/03/Regulamento-de-Licitacoes-e-Contratos-2021_compressed-1.pdf",
+      "versao": "PDF de 28 páginas, escaneado (texto com erros de OCR)",
+      "status": "baixado; números precisam de conferência visual"
+    },
+    {
+      "id": "convenios",
+      "titulo": "Regulamento de Convênios da ABDI: versão 2026 (15/07/2026) é a mais recente",
+      "url": "https://www.abdi.com.br/wp-content/uploads/2026/07/Regulamento_de_convenios_15JUL2026.pdf",
+      "versao": "O portal lista 3 versões: 2021 (valeu até 11/08/2024), 2024 (a partir de 12/08/2024) e 2026 (15/07/2026). O link indicado no pedido era o de 2021",
+      "status": "baixadas as 3 versões; ainda não lidas (semana 6)"
+    },
+    {
+      "id": "etica",
+      "titulo": "Regulamento de Ética e Conduta (Resolução CD 004/2022)",
+      "url": "https://www.abdi.com.br/wp-content/uploads/2024/03/Regulamento-de-Etica-e-Conduta.pdf",
+      "versao": "PDF de 15 páginas",
+      "status": "baixado e extraído; falta ler e conferir artigos"
+    },
+    {
+      "id": "planejamento",
+      "titulo": "Planejamento Estratégico ABDI 2024-2029",
+      "url": "https://www.abdi.com.br/wp-content/uploads/2026/04/Planejamento-Estrategico-ABDI-2024-2029.pdf",
+      "versao": "PDF de 32 páginas; edital cita Res. CD 008/2023, usuária indica versão ajustada da Res. CD 009/2024",
+      "status": "baixado e extraído; falta ler e conferir"
+    },
+    {
+      "id": "lai",
+      "titulo": "Lei 12.527/2011 (LAI)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm",
+      "status": "a consultar"
+    },
+    {
+      "id": "lei-12737",
+      "titulo": "Lei 12.737/2012",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12737.htm",
+      "status": "a consultar"
+    },
+    {
+      "id": "marco-civil",
+      "titulo": "Lei 12.965/2014 (Marco Civil da Internet)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm",
+      "status": "a consultar"
+    },
+    {
+      "id": "lgpd",
+      "titulo": "Lei 13.709/2018 (LGPD)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm",
+      "status": "a consultar"
+    },
+    {
+      "id": "lbi",
+      "titulo": "Lei 13.146/2015 (Lei Brasileira de Inclusão)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm",
+      "status": "a consultar"
+    },
+    {
+      "id": "linguagem-simples",
+      "titulo": "Lei 15.263/2025 (Política Nacional de Linguagem Simples)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/lei/L15263.htm",
+      "status": "a consultar"
+    },
+    {
+      "id": "bibliografia-conceitual",
+      "titulo": "Referências conceituais de Comunicação (Kunsch, Duarte, Zémor, Lasswell, Shannon e Weaver, Berlo, Schramm, Jakobson, McCombs e Shaw, Lazarsfeld, Adorno e Horkheimer, Noelle-Neumann, McLuhan, Wolf)",
+      "url": "",
+      "versao": "citadas por autor, obra e ano; sem número de página",
+      "status": "conceitos clássicos conhecidos; nenhuma obra foi aberta nesta sessão"
+    }
+  ]
+}

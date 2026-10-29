@@ -1,0 +1,262 @@
+{
+  "id": "u-port-interpretacao",
+  "titulo": "Interpretação, gêneros textuais e ortografia",
+  "bloco": "Gerais",
+  "categoria": "port",
+  "topicos": [
+    "port-01",
+    "port-02",
+    "port-03"
+  ],
+  "licoes": [
+    {
+      "id": "pint-l1",
+      "titulo": "Compreensão e inferência",
+      "minutos": 7,
+      "resumo": [
+        "Ideia central é o que o texto defende ou informa como um todo. As ideias secundárias a sustentam. Procure a tese e os argumentos.",
+        "Informação explícita está dita no texto. Pressuposto decorre das palavras usadas: em \"A agência voltou a divulgar o relatório\", pressupõe-se que já o divulgava antes. Subentendido é inferência do leitor.",
+        "Sentido denotativo é o literal; conotativo é figurado, como em \"o prazo foi um muro\". Ironia diz o contrário do que se quer comunicar.",
+        "Armadilhas frequentes: extrapolação (ir além do texto), redução (dizer menos), contradição e generalização com palavras absolutas, como sempre, nunca e todos."
+      ],
+      "flashcards": [
+        {
+          "frente": "Pressuposto x subentendido",
+          "verso": "Pressuposto vem marcado nas palavras do texto (voltou a, deixou de). Subentendido é a conclusão que o leitor tira do contexto."
+        },
+        {
+          "frente": "O que é extrapolação em questão de interpretação?",
+          "verso": "Afirmar algo que vai além do que o texto diz ou permite concluir."
+        },
+        {
+          "frente": "Denotação x conotação",
+          "verso": "Denotação: sentido literal. Conotação: sentido figurado, metafórico."
+        }
+      ],
+      "questoes": [
+        {
+          "id": "pint-l1-q1",
+          "enunciado": "Em \"A agência voltou a divulgar o relatório anual em seu sítio\", há o pressuposto de que",
+          "alternativas": [
+            "apenas jornalistas podem acessar o relatório.",
+            "o relatório nunca foi divulgado.",
+            "a agência já havia divulgado o relatório anual antes.",
+            "a divulgação do relatório foi proibida.",
+            "o sítio da agência foi criado agora."
+          ],
+          "correta": 2,
+          "explicacao": "O verbo \"voltar a\" pressupõe uma ação anterior. As demais alternativas contradizem o texto ou inventam informações.",
+          "fonte": "Referência conceitual: interpretação de texto (leitura de texto original escrito para esta lição)"
+        },
+        {
+          "id": "pint-l1-q2",
+          "enunciado": "Leia: \"Cresce o número de órgãos públicos que publicam dados em formato aberto. A medida facilita o controle social e permite que pesquisadores e empresas reutilizem as informações. Ainda assim, muitos conjuntos de dados continuam sem atualização regular, o que limita seu uso.\" A ideia central do texto é que",
+          "alternativas": [
+            "a abertura de dados avança e traz benefícios, mas a falta de atualização regular limita seu aproveitamento.",
+            "o controle social independe da divulgação de dados.",
+            "apenas as empresas se beneficiam da publicação de dados.",
+            "os dados abertos são inúteis para pesquisadores e empresas.",
+            "os órgãos públicos estão proibidos de manter dados sem atualização."
+          ],
+          "correta": 0,
+          "explicacao": "O texto apresenta o avanço da abertura de dados, seus benefícios e uma limitação (atualização irregular). As outras alternativas distorcem essas informações.",
+          "fonte": "Referência conceitual: interpretação de texto (leitura de texto original escrito para esta lição)"
+        },
+        {
+          "id": "pint-l1-q3",
+          "enunciado": "Com base no texto sobre dados abertos (\"Cresce o número de órgãos públicos que publicam dados em formato aberto [...] muitos conjuntos de dados continuam sem atualização regular\"), é possível inferir que",
+          "alternativas": [
+            "as empresas deixaram de usar dados públicos.",
+            "os pesquisadores rejeitam dados abertos.",
+            "o controle social foi extinto.",
+            "todos os órgãos públicos já publicam dados abertos.",
+            "a falta de atualização pode reduzir a utilidade de dados já publicados."
+          ],
+          "correta": 4,
+          "explicacao": "O próprio texto afirma que a falta de atualização limita o uso. Dizer que todos os órgãos publicam dados abertos é extrapolação: o texto diz apenas que o número cresce.",
+          "fonte": "Referência conceitual: interpretação de texto (leitura de texto original escrito para esta lição)"
+        },
+        {
+          "id": "pint-l1-q4",
+          "enunciado": "Em \"O prazo foi um muro entre a equipe e o lançamento\", a palavra \"muro\" está empregada em sentido",
+          "alternativas": [
+            "denotativo, pois descreve a estrutura do escritório.",
+            "conotativo, pois apresenta o prazo como um obstáculo.",
+            "técnico, pois pertence ao vocabulário da engenharia.",
+            "literal, pois o prazo é um objeto físico.",
+            "denotativo, pois indica uma construção de alvenaria."
+          ],
+          "correta": 1,
+          "explicacao": "A metáfora compara o prazo a um muro, o que caracteriza sentido figurado (conotativo).",
+          "fonte": "Referência conceitual: interpretação de texto (leitura de texto original escrito para esta lição)"
+        }
+      ]
+    },
+    {
+      "id": "pint-l2",
+      "titulo": "Tipos e gêneros textuais",
+      "minutos": 7,
+      "resumo": [
+        "Tipos textuais são as sequências básicas: narrativo, descritivo, expositivo, dissertativo-argumentativo e injuntivo (instrução). Gêneros textuais são as formas concretas dos textos: notícia, ata, ofício, e-mail, editorial.",
+        "O gênero se define pela finalidade, pelo suporte e pela estrutura. Um mesmo gênero pode combinar vários tipos.",
+        "Dissertativo-argumentativo: defende uma tese com argumentos. Expositivo: apresenta informações sem defender tese. Injuntivo: orienta ou ordena ações (\"preencha, anexe, envie\").",
+        "Editorial expressa a posição do veículo, sem assinatura individual. Artigo de opinião é assinado. Ata registra as ocorrências de uma reunião. Ofício é correspondência oficial."
+      ],
+      "flashcards": [
+        {
+          "frente": "Tipo injuntivo",
+          "verso": "Orienta ou instrui o leitor a agir, com verbos no imperativo ou no infinitivo (receitas, manuais, instruções)."
+        },
+        {
+          "frente": "Editorial x artigo de opinião",
+          "verso": "Editorial: posição do próprio veículo, sem assinatura individual. Artigo de opinião: assinado por um autor."
+        },
+        {
+          "frente": "Para que serve uma ata?",
+          "verso": "Registrar por escrito o que ocorreu e foi decidido em uma reunião."
+        }
+      ],
+      "questoes": [
+        {
+          "id": "pint-l2-q1",
+          "enunciado": "O trecho \"Preencha o formulário, anexe os documentos e envie a inscrição até o prazo final\" é predominantemente do tipo",
+          "alternativas": [
+            "expositivo, pois apenas informa conceitos.",
+            "narrativo, pois conta uma sequência de fatos passados.",
+            "descritivo, pois caracteriza um objeto.",
+            "injuntivo, pois orienta o leitor a executar ações.",
+            "dissertativo-argumentativo, pois defende uma tese."
+          ],
+          "correta": 3,
+          "explicacao": "Verbos no imperativo que orientam ações caracterizam o tipo injuntivo (instrucional).",
+          "fonte": "Referência conceitual: gramática normativa (C. Cunha e L. Cintra, Nova Gramática do Português Contemporâneo)"
+        },
+        {
+          "id": "pint-l2-q2",
+          "enunciado": "O gênero jornalístico que expressa a posição do próprio veículo de comunicação sobre um tema, sem assinatura individual, é o",
+          "alternativas": [
+            "carta do leitor.",
+            "noticiário factual.",
+            "editorial.",
+            "reportagem de serviço.",
+            "artigo de opinião assinado por colaborador."
+          ],
+          "correta": 2,
+          "explicacao": "O editorial traduz a opinião do veículo. O artigo de opinião é assinado, e a notícia busca relatar fatos.",
+          "fonte": "Referência conceitual: gramática normativa (C. Cunha e L. Cintra, Nova Gramática do Português Contemporâneo)"
+        },
+        {
+          "id": "pint-l2-q3",
+          "enunciado": "O gênero textual cuja finalidade é registrar por escrito as ocorrências e as deliberações de uma reunião é a",
+          "alternativas": [
+            "ata.",
+            "procuração.",
+            "crônica.",
+            "resenha.",
+            "circular."
+          ],
+          "correta": 0,
+          "explicacao": "A ata documenta o que foi discutido e decidido em reunião.",
+          "fonte": "Referência conceitual: Manual de Redação da Presidência da República (3ª ed., 2018)"
+        },
+        {
+          "id": "pint-l2-q4",
+          "enunciado": "Um texto que apresenta um ponto de vista, o sustenta com argumentos e conclui reafirmando a tese pertence ao tipo",
+          "alternativas": [
+            "descritivo.",
+            "expositivo apenas, sem tese.",
+            "injuntivo.",
+            "narrativo.",
+            "dissertativo-argumentativo."
+          ],
+          "correta": 4,
+          "explicacao": "A presença de tese, argumentos e conclusão é típica do dissertativo-argumentativo.",
+          "fonte": "Referência conceitual: gramática normativa (C. Cunha e L. Cintra, Nova Gramática do Português Contemporâneo)"
+        }
+      ]
+    },
+    {
+      "id": "pint-l3",
+      "titulo": "Ortografia oficial",
+      "minutos": 8,
+      "resumo": [
+        "O Acordo Ortográfico (Decreto 6.583/2008) eliminou o trema (exceto em nomes próprios estrangeiros) e o acento em ditongos abertos \"ei\" e \"oi\" de palavras paroxítonas: ideia, heroico, jiboia. Também saiu o acento de \"oo\" e \"ee\": voo, enjoo, leem, veem.",
+        "Hífen: usa-se antes de \"h\" e quando a vogal final do prefixo é igual à inicial da palavra (anti-higiênico, micro-ondas). Com \"r\" ou \"s\" no início, dobra-se a consoante e une-se: antirrábico, ultrassom, contrassenso. Prefixos ex-, vice-, pós-, pré-, pró- e recém- levam hífen.",
+        "Cuidado com pares: mal (contrário de bem) e mau (contrário de bom); mas (oposição) e mais (quantidade); por que (pergunta ou \"pelo qual\"), porque (explicação), por quê (fim de frase), porquê (substantivo: \"o porquê\").",
+        "Também: a gente (pronome) e agente (pessoa); a fim de (finalidade) e afim (semelhante); onde (lugar em que) e aonde (a que lugar)."
+      ],
+      "flashcards": [
+        {
+          "frente": "Mal x mau",
+          "verso": "Mal é o contrário de bem (\"saiu-se mal\"). Mau é o contrário de bom (\"mau humor\")."
+        },
+        {
+          "frente": "Por que, porque, por quê, porquê",
+          "verso": "Por que: pergunta. Porque: explicação. Por quê: fim de frase. Porquê: substantivo, com artigo (\"o porquê\")."
+        },
+        {
+          "frente": "Hífen com r ou s",
+          "verso": "Prefixo terminado em vogal + palavra com r ou s: dobra a letra e une (antirrábico, ultrassom)."
+        }
+      ],
+      "questoes": [
+        {
+          "id": "pint-l3-q1",
+          "enunciado": "Assinale a alternativa em que todas as palavras estão grafadas de acordo com a ortografia oficial vigente.",
+          "alternativas": [
+            "ideia, heroico, enjoo, microondas",
+            "ideia, heroico, enjoo, micro-ondas",
+            "ideia, heroico, enjôo, micro-ondas",
+            "idéia, heroico, enjoo, micro-ondas",
+            "ideia, heróico, enjoo, micro-ondas"
+          ],
+          "correta": 1,
+          "explicacao": "Com o Acordo, perdem o acento \"ideia\" e \"heroico\" (ditongos abertos em paroxítonas) e \"enjoo\" (terminação oo). Em \"micro-ondas\", o hífen é obrigatório porque o prefixo termina em \"o\" e a palavra começa por \"o\".",
+          "fonte": "Acordo Ortográfico da Língua Portuguesa, promulgado pelo Decreto 6.583/2008 (planalto.gov.br), e Vocabulário Ortográfico (VOLP)"
+        },
+        {
+          "id": "pint-l3-q2",
+          "enunciado": "Complete: \"___ você não enviou o relatório? Gostaria de saber o ___.\"",
+          "alternativas": [
+            "Por que / por que",
+            "Porque / por quê",
+            "Porque / porquê",
+            "Por que / porquê",
+            "Por quê / porque"
+          ],
+          "correta": 3,
+          "explicacao": "Na pergunta direta usa-se \"por que\". \"O porquê\" é substantivo e vem precedido de artigo.",
+          "fonte": "Referência conceitual: gramática normativa (C. Cunha e L. Cintra, Nova Gramática do Português Contemporâneo)"
+        },
+        {
+          "id": "pint-l3-q3",
+          "enunciado": "Complete: \"Ele se saiu ___ na prova porque estava de ___ humor.\"",
+          "alternativas": [
+            "mais / mau",
+            "mau / mau",
+            "mal / mau",
+            "mal / mal",
+            "mau / mal"
+          ],
+          "correta": 2,
+          "explicacao": "\"Mal\" opõe-se a \"bem\" e modifica o verbo (saiu-se mal). \"Mau\" opõe-se a \"bom\" e acompanha o substantivo (mau humor).",
+          "fonte": "Referência conceitual: gramática normativa (C. Cunha e L. Cintra, Nova Gramática do Português Contemporâneo)"
+        },
+        {
+          "id": "pint-l3-q4",
+          "enunciado": "Assinale a palavra grafada corretamente de acordo com o Acordo Ortográfico.",
+          "alternativas": [
+            "antirrábico",
+            "anti-rrábico",
+            "anti-rábico",
+            "antirábico",
+            "antirrabico"
+          ],
+          "correta": 0,
+          "explicacao": "Prefixo terminado em vogal seguido de palavra iniciada por \"r\": dobra-se o \"r\" e une-se (antirrábico). A palavra é proparoxítona (an-ti-rrá-bi-co), por isso leva acento.",
+          "fonte": "Acordo Ortográfico da Língua Portuguesa, promulgado pelo Decreto 6.583/2008 (planalto.gov.br), e Vocabulário Ortográfico (VOLP)"
+        }
+      ]
+    }
+  ]
+}

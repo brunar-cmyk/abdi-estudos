@@ -1,0 +1,483 @@
+{
+  "id": "u-inst-licitacoes-modalidades",
+  "titulo": "Licitações: princípios, modalidades, limites, dispensa e inexigibilidade",
+  "bloco": "Institucionais",
+  "categoria": "lic",
+  "topicos": [
+    "inst-03"
+  ],
+  "pacoteNumeros": [
+    {
+      "rotulo": "Dispensa por valor: compras e demais serviços",
+      "valor": "até R$ 80.000,00",
+      "fonte": "Regulamento de Licitações, art. 7º, II, a"
+    },
+    {
+      "rotulo": "Dispensa por valor: obras e serviços de engenharia",
+      "valor": "até R$ 150.000,00",
+      "fonte": "Regulamento de Licitações, art. 7º, I, a"
+    },
+    {
+      "rotulo": "Convite: obras e engenharia",
+      "valor": "até R$ 2.200.000,00",
+      "fonte": "Regulamento de Licitações, art. 7º, I, b"
+    },
+    {
+      "rotulo": "Convite: compras e demais serviços",
+      "valor": "até R$ 760.000,00",
+      "fonte": "Regulamento de Licitações, art. 7º, II, b"
+    },
+    {
+      "rotulo": "Concorrência",
+      "valor": "acima de R$ 2.200.000,00 (engenharia) e acima de R$ 760.000,00 (compras e serviços)",
+      "fonte": "Regulamento de Licitações, art. 7º"
+    },
+    {
+      "rotulo": "Alienação de bens",
+      "valor": "dispensa até R$ 80.000,00; leilão ou concorrência acima de R$ 80.000,00",
+      "fonte": "Regulamento de Licitações, art. 7º, III"
+    },
+    {
+      "rotulo": "Convite: convidados e antecedência",
+      "valor": "mínimo de 5 interessados; antecedência de pelo menos 3 dias",
+      "fonte": "Regulamento de Licitações, art. 6º, II"
+    },
+    {
+      "rotulo": "Antecedência dos avisos",
+      "valor": "10 dias (concorrência, concurso e leilão); 5 dias (pregão)",
+      "fonte": "Regulamento de Licitações, art. 6º, § 1º"
+    },
+    {
+      "rotulo": "Comissão de contratação",
+      "valor": "pelo menos 3 integrantes, todos empregados da ABDI",
+      "fonte": "Regulamento de Licitações, art. 5º, VI"
+    }
+  ],
+  "licoes": [
+    {
+      "id": "lm-l1",
+      "titulo": "Princípios, definições e agentes da licitação",
+      "minutos": 8,
+      "resumo": [
+        "As contratações de obras, serviços, compras e alienações da ABDI são precedidas de licitação, observadas as hipóteses de dispensa e inexigibilidade (art. 1º).",
+        "Princípios (art. 2º): legalidade, impessoalidade, moralidade, igualdade, publicidade, eficiência e correlatos. Não se admitem critérios que frustrem o caráter competitivo. A ABDI não contrata pessoas declaradas inidôneas, suspensas ou impedidas de contratar com órgãos da administração ou outros entes do Sistema S (§ 2º).",
+        "A licitação é pública, mas o conteúdo das propostas só é acessível depois da abertura. A publicidade do orçamento estimado pode ser diferida (art. 4º).",
+        "Agente de contratação: empregado da ABDI designado para conduzir a licitação até a homologação. Comissão de contratação: colegiado de pelo menos três integrantes, todos empregados da ABDI (art. 5º, V e VI).",
+        "Homologação: ato da autoridade competente que ratifica o resultado, após verificar a regularidade dos atos. Adjudicação: ato que atribui ao interessado o direito de executar o objeto (art. 5º, VII e VIII).",
+        "Registro de preço: procedimento, precedido de concorrência ou pregão, que registra o menor preço, sem que isso gere direito subjetivo do contratado de exigir a aquisição (art. 5º, IX)."
+      ],
+      "flashcards": [
+        {
+          "frente": "Princípios do art. 2º do Regulamento de Licitações",
+          "verso": "Legalidade, impessoalidade, moralidade, igualdade, publicidade, eficiência e os correlatos."
+        },
+        {
+          "frente": "Comissão de contratação",
+          "verso": "Pelo menos três integrantes, todos empregados da ABDI (art. 5º, VI)."
+        },
+        {
+          "frente": "Homologação x adjudicação",
+          "verso": "Homologação ratifica o resultado. Adjudicação atribui ao interessado o direito de executar o objeto."
+        }
+      ],
+      "questoes": [
+        {
+          "id": "lm-l1-q1",
+          "enunciado": "De acordo com o Regulamento de Licitações e Contratos da ABDI, a licitação será processada e julgada em conformidade com os princípios da",
+          "alternativas": [
+            "impessoalidade, sigilo, competitividade e urgência.",
+            "legalidade, razoabilidade, finalidade, motivação e interesse público.",
+            "legalidade, impessoalidade, moralidade, igualdade, publicidade, eficiência e dos que lhe são correlatos.",
+            "economicidade, lucratividade, discricionariedade e celeridade.",
+            "moralidade, hierarquia, oportunidade e conveniência."
+          ],
+          "correta": 2,
+          "explicacao": "O art. 2º lista esses princípios e proíbe critérios que frustrem o caráter competitivo.",
+          "fonte": "Regulamento de Licitações e Contratos da ABDI (Resolução CD 005/2021), art. 2º (abdi.com.br)"
+        },
+        {
+          "id": "lm-l1-q2",
+          "enunciado": "A comissão de contratação, segundo o Regulamento de Licitações e Contratos da ABDI, é o colegiado composto por",
+          "alternativas": [
+            "pelo menos três integrantes, todos empregados da ABDI.",
+            "um único membro, indicado pelo Presidente.",
+            "pelo menos três integrantes, que podem ser de qualquer empresa interessada.",
+            "dois empregados e um conselheiro do Conselho Fiscal.",
+            "no mínimo cinco membros, sendo dois externos à ABDI."
+          ],
+          "correta": 0,
+          "explicacao": "O art. 5º, VI, exige no mínimo três integrantes e que todos sejam empregados da ABDI.",
+          "fonte": "Regulamento de Licitações e Contratos da ABDI (Resolução CD 005/2021), art. 5º, VI (abdi.com.br)"
+        },
+        {
+          "id": "lm-l1-q3",
+          "enunciado": "O ato pelo qual a autoridade competente atribui ao interessado o direito de executar o objeto a ser contratado é a",
+          "alternativas": [
+            "homologação.",
+            "impugnação.",
+            "revogação.",
+            "habilitação.",
+            "adjudicação."
+          ],
+          "correta": 4,
+          "explicacao": "O art. 5º, VIII, define a adjudicação. A homologação (inciso VII) ratifica o resultado da licitação.",
+          "fonte": "Regulamento de Licitações e Contratos da ABDI (Resolução CD 005/2021), art. 5º, VII e VIII (abdi.com.br)"
+        },
+        {
+          "id": "lm-l1-q4",
+          "enunciado": "Segundo o Regulamento de Licitações e Contratos, a ABDI não celebrará contratos com pessoas físicas ou jurídicas",
+          "alternativas": [
+            "que ofereçam desconto superior a 10%.",
+            "declaradas inidôneas ou suspensas ou impedidas de contratar com órgãos da administração ou outros entes do Sistema S.",
+            "que não tenham participado de licitação anterior.",
+            "que sejam microempresas.",
+            "que tenham sede fora do Distrito Federal."
+          ],
+          "correta": 1,
+          "explicacao": "É a regra do art. 2º, § 2º.",
+          "fonte": "Regulamento de Licitações e Contratos da ABDI (Resolução CD 005/2021), art. 2º, § 2º (abdi.com.br)"
+        },
+        {
+          "id": "lm-l1-q5",
+          "enunciado": "A respeito da publicidade da licitação, o Regulamento de Licitações e Contratos da ABDI estabelece que",
+          "alternativas": [
+            "a publicidade só vale para licitações acima de R$ 1 milhão.",
+            "todos os atos, inclusive as propostas, são secretos até a homologação.",
+            "o orçamento estimado deve sempre ser divulgado antes do edital.",
+            "os atos são acessíveis à sociedade, salvo quanto ao conteúdo das propostas até a abertura, e a publicidade do orçamento estimado pode ser diferida.",
+            "apenas a decisão final é pública."
+          ],
+          "correta": 3,
+          "explicacao": "O art. 4º traz a regra de publicidade e a exceção das propostas, e seu parágrafo único admite diferir a divulgação do orçamento.",
+          "fonte": "Regulamento de Licitações e Contratos da ABDI (Resolução CD 005/2021), art. 4º (abdi.com.br)"
+        }
+      ]
+    },
+    {
+      "id": "lm-l2",
+      "titulo": "Modalidades e tipos de licitação",
+      "minutos": 9,
+      "resumo": [
+        "Modalidades (art. 6º): concorrência, convite, concurso, leilão, pregão e diálogo competitivo.",
+        "Concorrência: qualquer interessado que comprove os requisitos mínimos na habilitação. Convite: interessados do ramo, escolhidos e convidados em número mínimo de cinco, com antecedência de pelo menos três dias, com o instrumento publicado no DOU e no sítio eletrônico da ABDI.",
+        "Concurso: escolha de trabalho ou projeto técnico, científico ou artístico, mediante prêmios ou remuneração. Leilão: venda de bens a quem oferecer o maior lance, igual ou superior ao valor da avaliação.",
+        "Pregão: aquisição de bens e serviços, qualquer que seja o valor, em sessão pública, com propostas e lances. É vedado para obras e serviços especiais de engenharia. Diálogo competitivo: contratação em que há diálogos com licitantes pré-selecionados para desenvolver alternativas.",
+        "Os avisos com o resumo dos instrumentos convocatórios são publicados no sítio da ABDI e no DOU com antecedência mínima de 10 dias para concorrência, concurso e leilão, e de 5 dias para o pregão (art. 6º, § 1º).",
+        "Tipos (art. 9º), exceto no concurso: menor preço, melhor técnica, técnica e preço, maior lance ou oferta, maior desconto e maior retorno econômico. Melhor técnica ou técnica e preço são usados preferencialmente em contratações de natureza intelectual."
+      ],
+      "flashcards": [
+        {
+          "frente": "Convite",
+          "verso": "Interessados do ramo escolhidos e convidados em número mínimo de cinco, com antecedência de pelo menos três dias."
+        },
+        {
+          "frente": "Pregão: onde pode e onde não pode",
+          "verso": "Bens e serviços, qualquer valor. Vedado para obras e serviços especiais de engenharia."
+        },
+        {
+          "frente": "Antecedência mínima dos avisos",
+          "verso": "10 dias para concorrência, concurso e leilão. 5 dias para o pregão."
+        }
+      ],
+      "questoes": [
+        {
+          "id": "lm-l2-q1",
+          "enunciado": "De acordo com o Regulamento de Licitações e Contratos da ABDI, a modalidade convite é aquela entre interessados do ramo pertinente ao objeto, escolhidos e convidados em número mínimo de",
+          "alternativas": [
+            "três, com antecedência de cinco dias.",
+            "cinco, com antecedência de dez dias.",
+            "cinco, com antecedência de pelo menos três dias.",
+            "dez, com antecedência de três dias.",
+            "dois, com antecedência de um dia."
+          ],
+          "correta": 2,
+          "explicacao": "O art. 6º, II, fixa cinco convidados no mínimo e antecedência de pelo menos três dias.",
+          "fonte": "Regulamento de Licitações e Contratos da ABDI (Resolução CD 005/2021), art. 6º, II (abdi.com.br)"
+        },
+        {
+          "id": "lm-l2-q2",
+          "enunciado": "A modalidade de licitação para aquisição de bens e serviços, qualquer que seja o valor estimado, realizada em sessão pública, com propostas previamente apresentadas e lances, e vedada para obras e serviços especiais de engenharia, é o",
+          "alternativas": [
+            "pregão.",
+            "concurso.",
+            "convite.",
+            "diálogo competitivo.",
+            "leilão."
+          ],
+          "correta": 0,
+          "explicacao": "O art. 6º, V, define o pregão. O leilão serve à venda de bens, e o concurso à escolha de trabalho técnico, científico ou artístico.",
+          "fonte": "Regulamento de Licitações e Contratos da ABDI (Resolução CD 005/2021), art. 6º, V (abdi.com.br)"
+        },
+        {
+          "id": "lm-l2-q3",
+          "enunciado": "A modalidade de licitação entre quaisquer interessados para a venda de bens, a quem oferecer o maior lance, igual ou superior ao valor da avaliação, é o",
+          "alternativas": [
+            "convite.",
+            "concurso.",
+            "diálogo competitivo.",
+            "pregão.",
+            "leilão."
+          ],
+          "correta": 4,
+          "explicacao": "O art. 6º, IV, define o leilão.",
+          "fonte": "Regulamento de Licitações e Contratos da ABDI (Resolução CD 005/2021), art. 6º, IV (abdi.com.br)"
+        },
+        {
+          "id": "lm-l2-q4",
+          "enunciado": "Segundo o Regulamento, os avisos com os resumos dos instrumentos convocatórios devem ser publicados no sítio eletrônico da ABDI e no Diário Oficial da União com antecedência mínima de",
+          "alternativas": [
+            "10 dias para o pregão e 5 dias para a concorrência.",
+            "10 dias para concorrência, concurso e leilão, e 5 dias para o pregão.",
+            "30 dias para concorrência e 10 dias para o pregão.",
+            "2 dias para todas as modalidades.",
+            "5 dias para todas as modalidades."
+          ],
+          "correta": 1,
+          "explicacao": "O art. 6º, § 1º, fixa 10 dias para os incisos I, III e IV (concorrência, concurso e leilão) e 5 dias para o pregão. O § 2º permite estender os prazos quando a complexidade do objeto exigir.",
+          "fonte": "Regulamento de Licitações e Contratos da ABDI (Resolução CD 005/2021), art. 6º, §§ 1º e 2º (abdi.com.br)"
+        },
+        {
+          "id": "lm-l2-q5",
+          "enunciado": "Entre os tipos de licitação previstos no art. 9º do Regulamento de Licitações e Contratos da ABDI, exceto na modalidade concurso, estão",
+          "alternativas": [
+            "menor prazo, maior prazo e melhor marca.",
+            "menor número de licitantes e maior experiência.",
+            "menor preço apenas.",
+            "menor preço, melhor técnica, técnica e preço, maior lance ou oferta, maior desconto e maior retorno econômico.",
+            "melhor localização e maior porte da empresa."
+          ],
+          "correta": 3,
+          "explicacao": "O art. 9º lista seis tipos de licitação.",
+          "fonte": "Regulamento de Licitações e Contratos da ABDI (Resolução CD 005/2021), art. 9º (abdi.com.br)"
+        }
+      ]
+    },
+    {
+      "id": "lm-l3",
+      "titulo": "Limites de valor e parcelamento",
+      "minutos": 8,
+      "resumo": [
+        "Obras e serviços de engenharia (art. 7º, I): dispensa até R$ 150.000,00; convite até R$ 2.200.000,00; concorrência acima de R$ 2.200.000,00.",
+        "Compras e demais serviços (art. 7º, II): dispensa até R$ 80.000,00; convite até R$ 760.000,00; concorrência acima de R$ 760.000,00.",
+        "Alienações de bens, sempre precedidas de avaliação (art. 7º, III): dispensa até R$ 80.000,00; leilão ou concorrência, dispensável a fase de habilitação, acima de R$ 80.000,00.",
+        "Parcelamento (art. 8º): o parcelamento não enseja dispensa por valor, exceto quando o somatório das parcelas não ultrapassa o limite da dispensa, nem descaracteriza a modalidade pertinente.",
+        "As disposições do Regulamento, inclusive os valores monetários, podem ser modificadas pelo Conselho Deliberativo, mediante proposta fundamentada da Diretoria Executiva (art. 64). A versão de 2021 é a que consta no portal da ABDI."
+      ],
+      "flashcards": [
+        {
+          "frente": "Dispensa por valor: compras e demais serviços",
+          "verso": "Até R$ 80.000,00 (art. 7º, II, a)."
+        },
+        {
+          "frente": "Dispensa por valor: obras e serviços de engenharia",
+          "verso": "Até R$ 150.000,00 (art. 7º, I, a)."
+        },
+        {
+          "frente": "Convite: tetos",
+          "verso": "Obras e engenharia: até R$ 2.200.000,00. Compras e demais serviços: até R$ 760.000,00."
+        },
+        {
+          "frente": "Quem pode alterar os valores do Regulamento?",
+          "verso": "O Conselho Deliberativo, por proposta fundamentada da Diretoria Executiva (art. 64)."
+        }
+      ],
+      "questoes": [
+        {
+          "id": "lm-l3-q1",
+          "enunciado": "Segundo o Regulamento de Licitações e Contratos da ABDI, para compras e demais serviços, a dispensa de licitação por valor aplica-se a contratações de até",
+          "alternativas": [
+            "R$ 2.200.000,00.",
+            "R$ 8.000,00.",
+            "R$ 80.000,00.",
+            "R$ 150.000,00.",
+            "R$ 760.000,00."
+          ],
+          "correta": 2,
+          "explicacao": "O art. 7º, II, a, fixa R$ 80.000,00. Os R$ 150.000,00 são o teto da dispensa para obras e serviços de engenharia.",
+          "fonte": "Regulamento de Licitações e Contratos da ABDI (Resolução CD 005/2021), art. 7º, II, a (abdi.com.br)"
+        },
+        {
+          "id": "lm-l3-q2",
+          "enunciado": "Para obras e serviços de engenharia, o convite é a modalidade aplicável a contratações de até",
+          "alternativas": [
+            "R$ 2.200.000,00.",
+            "R$ 760.000,00.",
+            "R$ 150.000,00.",
+            "R$ 1.000.000,00.",
+            "R$ 22.000.000,00."
+          ],
+          "correta": 0,
+          "explicacao": "O art. 7º, I, b, fixa R$ 2.200.000,00. Acima disso, concorrência.",
+          "fonte": "Regulamento de Licitações e Contratos da ABDI (Resolução CD 005/2021), art. 7º, I, b (abdi.com.br)"
+        },
+        {
+          "id": "lm-l3-q3",
+          "enunciado": "Para compras e demais serviços, a concorrência é exigida para contratações de valor",
+          "alternativas": [
+            "acima de R$ 2.200.000,00.",
+            "abaixo de R$ 80.000,00.",
+            "acima de R$ 80.000,00.",
+            "acima de R$ 150.000,00.",
+            "acima de R$ 760.000,00."
+          ],
+          "correta": 4,
+          "explicacao": "O art. 7º, II, c, define concorrência acima de R$ 760.000,00 para compras e demais serviços.",
+          "fonte": "Regulamento de Licitações e Contratos da ABDI (Resolução CD 005/2021), art. 7º, II, c (abdi.com.br)"
+        },
+        {
+          "id": "lm-l3-q4",
+          "enunciado": "Para a alienação de bens, sempre precedida de avaliação, o Regulamento prevê leilão ou concorrência, dispensável a fase de habilitação, para valores",
+          "alternativas": [
+            "acima de R$ 760.000,00.",
+            "acima de R$ 80.000,00.",
+            "até R$ 80.000,00.",
+            "acima de R$ 150.000,00.",
+            "acima de R$ 2.200.000,00."
+          ],
+          "correta": 1,
+          "explicacao": "O art. 7º, III, b, fixa leilão ou concorrência acima de R$ 80.000,00. Até esse valor, há dispensa.",
+          "fonte": "Regulamento de Licitações e Contratos da ABDI (Resolução CD 005/2021), art. 7º, III (abdi.com.br)"
+        },
+        {
+          "id": "lm-l3-q5",
+          "enunciado": "Sobre o parcelamento de obras, serviços e compras, o Regulamento de Licitações e Contratos da ABDI estabelece que ele",
+          "alternativas": [
+            "é vedado em qualquer hipótese.",
+            "dispensa a modalidade de licitação pertinente.",
+            "só se aplica a alienações de bens.",
+            "não enseja a dispensa de licitação por valor, exceto quando o somatório das parcelas não ultrapassar o limite da dispensa.",
+            "sempre autoriza a dispensa por valor em cada parcela."
+          ],
+          "correta": 3,
+          "explicacao": "O art. 8º impede o fracionamento que fuja da modalidade devida, ressalvado o caso em que o somatório permaneça dentro do limite da dispensa.",
+          "fonte": "Regulamento de Licitações e Contratos da ABDI (Resolução CD 005/2021), art. 8º (abdi.com.br)"
+        },
+        {
+          "id": "lm-l3-q6",
+          "enunciado": "As disposições do Regulamento de Licitações e Contratos da ABDI, inclusive quanto a valores monetários, podem ser modificadas",
+          "alternativas": [
+            "pelo Tribunal de Contas da União.",
+            "pelo Conselho Fiscal.",
+            "pelo Conselho Deliberativo, mediante proposta fundamentada da Diretoria Executiva.",
+            "pelo gerente da unidade de compras, isoladamente.",
+            "por qualquer licitante, mediante impugnação."
+          ],
+          "correta": 2,
+          "explicacao": "É a regra do art. 64.",
+          "fonte": "Regulamento de Licitações e Contratos da ABDI (Resolução CD 005/2021), art. 64 (abdi.com.br)"
+        }
+      ]
+    },
+    {
+      "id": "lm-l4",
+      "titulo": "Dispensa e inexigibilidade de licitação",
+      "minutos": 9,
+      "resumo": [
+        "Dispensa (art. 10) por valor (até R$ 80.000,00 em compras e serviços, R$ 150.000,00 em engenharia, e alienações até R$ 80.000,00). Também em licitação deserta ou fracassada há menos de um ano, calamidade pública, emergência, aquisição ou locação de imóvel (com avaliação), gêneros perecíveis e contratação de entidade sem fins lucrativos de pesquisa ou ensino.",
+        "Outras dispensas: contratação com serviços sociais autônomos ou entes públicos quando o objeto for vinculado às atividades finalísticas do contratado, instrutoria e cursos de aperfeiçoamento de empregados, serviços no exterior, encomendas tecnológicas, licença de software como serviço (SaaS) diretamente do desenvolvedor e soluções inovadoras de startups.",
+        "Inexigibilidade (art. 11): inviabilidade de competição, como fornecedor exclusivo, impulsionamento de conteúdo e criação de postagens patrocinadas da ABDI em redes sociais, assinaturas de jornais, revistas e periódicos, serviços técnicos especializados de natureza predominantemente intelectual com notória especialização, contratação de profissional de qualquer setor artístico e participação da ABDI em feiras, congressos e eventos relacionados à atividade-fim.",
+        "As dispensas, exceto as por valor (art. 10, I e II), e as inexigibilidades são circunstanciadamente justificadas pela área técnica, inclusive quanto ao preço, e ratificadas pela autoridade competente (art. 12)."
+      ],
+      "flashcards": [
+        {
+          "frente": "Impulsionamento de conteúdo em redes sociais",
+          "verso": "É hipótese de inexigibilidade de licitação (art. 11, II)."
+        },
+        {
+          "frente": "Participação da ABDI em feiras e eventos da atividade-fim",
+          "verso": "Inexigibilidade (art. 11, VIII)."
+        },
+        {
+          "frente": "Quem justifica e quem ratifica dispensas e inexigibilidades?",
+          "verso": "A área técnica responsável justifica, inclusive quanto ao preço, e a autoridade competente ratifica (art. 12)."
+        }
+      ],
+      "questoes": [
+        {
+          "id": "lm-l4-q1",
+          "enunciado": "De acordo com o Regulamento de Licitações e Contratos da ABDI, a contratação de impulsionamento de conteúdo e a criação de postagens patrocinadas da ABDI em redes sociais caracterizam hipótese de",
+          "alternativas": [
+            "inexigibilidade de licitação.",
+            "concurso.",
+            "pregão eletrônico obrigatório.",
+            "leilão.",
+            "concorrência obrigatória."
+          ],
+          "correta": 0,
+          "explicacao": "O art. 11, II, inclui esse objeto entre as hipóteses de inexigibilidade, por inviabilidade de competição.",
+          "fonte": "Regulamento de Licitações e Contratos da ABDI (Resolução CD 005/2021), art. 11, II (abdi.com.br)"
+        },
+        {
+          "id": "lm-l4-q2",
+          "enunciado": "A contratação de assinaturas de jornais, revistas e periódicos é, segundo o Regulamento de Licitações e Contratos,",
+          "alternativas": [
+            "sempre objeto de concurso.",
+            "vedada à ABDI.",
+            "sujeita a concorrência, em qualquer valor.",
+            "obrigatoriamente realizada por pregão presencial.",
+            "hipótese de inexigibilidade de licitação."
+          ],
+          "correta": 4,
+          "explicacao": "O art. 11, III, prevê essa contratação como inexigível.",
+          "fonte": "Regulamento de Licitações e Contratos da ABDI (Resolução CD 005/2021), art. 11, III (abdi.com.br)"
+        },
+        {
+          "id": "lm-l4-q3",
+          "enunciado": "A licitação poderá ser dispensada, segundo o Regulamento de Licitações e Contratos da ABDI, nas contratações que mantenham todas as condições do edital de licitação realizada há menos de um ano, quando",
+          "alternativas": [
+            "o licitante for empresa de grande porte.",
+            "a licitação tenha sido deserta, tenha sido fracassada ou as propostas tenham consignado preços manifestamente superiores aos de mercado.",
+            "a ABDI tiver saldo no orçamento.",
+            "o contratado tiver sede em Brasília.",
+            "o valor for superior a R$ 1 milhão."
+          ],
+          "correta": 1,
+          "explicacao": "O art. 10, III, lista a licitação deserta, a fracassada e a de preços manifestamente superiores aos de mercado.",
+          "fonte": "Regulamento de Licitações e Contratos da ABDI (Resolução CD 005/2021), art. 10, III (abdi.com.br)"
+        },
+        {
+          "id": "lm-l4-q4",
+          "enunciado": "A contratação de profissional de qualquer setor artístico é, segundo o Regulamento de Licitações e Contratos da ABDI, hipótese de",
+          "alternativas": [
+            "contratação vedada.",
+            "licitação obrigatória na modalidade leilão.",
+            "licitação obrigatória na modalidade convite.",
+            "inexigibilidade de licitação.",
+            "dispensa por valor, em qualquer caso."
+          ],
+          "correta": 3,
+          "explicacao": "O art. 11, V, prevê a inexigibilidade para a contratação de profissional de qualquer setor artístico.",
+          "fonte": "Regulamento de Licitações e Contratos da ABDI (Resolução CD 005/2021), art. 11, V (abdi.com.br)"
+        },
+        {
+          "id": "lm-l4-q5",
+          "enunciado": "As dispensas e inexigibilidades, com exceção das dispensas por valor previstas no art. 10, I e II, devem ser",
+          "alternativas": [
+            "aprovadas pelo Conselho Fiscal.",
+            "dispensadas de qualquer justificativa.",
+            "circunstanciadamente justificadas pela área técnica, inclusive quanto ao preço, e ratificadas pela autoridade competente.",
+            "publicadas somente após a assinatura do contrato.",
+            "justificadas pelo próprio contratado."
+          ],
+          "correta": 2,
+          "explicacao": "É a regra do art. 12.",
+          "fonte": "Regulamento de Licitações e Contratos da ABDI (Resolução CD 005/2021), art. 12 (abdi.com.br)"
+        },
+        {
+          "id": "lm-l4-q6",
+          "enunciado": "A aquisição de licença para utilização de software como serviço (SaaS) diretamente do desenvolvedor ou provedor é, no Regulamento de Licitações e Contratos da ABDI, hipótese de",
+          "alternativas": [
+            "dispensa de licitação.",
+            "leilão.",
+            "concorrência obrigatória.",
+            "inexigibilidade, por fornecedor exclusivo.",
+            "contratação vedada."
+          ],
+          "correta": 0,
+          "explicacao": "O art. 10, XX, prevê essa aquisição como dispensa de licitação.",
+          "fonte": "Regulamento de Licitações e Contratos da ABDI (Resolução CD 005/2021), art. 10, XX (abdi.com.br)"
+        }
+      ]
+    }
+  ]
+}
